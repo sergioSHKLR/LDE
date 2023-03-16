@@ -1,6 +1,8 @@
-## Parte 2 - Do mundo espírita
-
-### 1. Dos Espíritos
+## [Parte 2. Do mundo espírita](#lde.2)
+`lde.2.01`
+### [01. Dos Espíritos](#lde.2.01)
+---
+`lde.2.01.01`
 
 #### Origem e natureza dos Espíritos
 
@@ -42,6 +44,8 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 
 ---
 
+`lde.2.01.02`
+
 #### Mundo normal primitivo
 
 84. Os Espíritos constituem um mundo à parte, fora daquele que vemos?
@@ -61,6 +65,8 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 >“Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os Espíritos são uma das potências da natureza e os instrumentos de que Deus se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados.” ❦
 
 ---
+
+`lde.2.01.03`
 
 #### Forma e ubiquidade dos Espíritos
 
@@ -102,6 +108,8 @@ Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensam
 
 ---
 
+`lde.2.01.04`
+
 #### Perispírito
 
 93. O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
@@ -124,6 +132,8 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 ---
 
+`lde.2.01.05`
+
 #### Diferentes ordens de Espíritos
 
 96. São iguais os Espíritos, ou há entre eles qualquer hierarquia?
@@ -144,6 +154,8 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 ---
 
+`lde.2.01.06`
+
 #### Escala espírita
 
 100. Observações preliminares.
@@ -158,6 +170,8 @@ Esta divisão nos pareceu perfeitamente racional e com caracteres bem positivado
 Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de confiança ou de estima que mereçam. É, de certo modo, a chave da ciência espírita, porquanto só ele pode explicar as anomalias que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos Espíritos. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre gradual o progresso deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se. ❦
 
 ---
+
+`lde.2.01.07`
 
 #### 3ª ordem – Espíritos imperfeitos
 
@@ -179,7 +193,7 @@ Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa 
 Podem compor cinco classes principais.
 
 102. Décima classe. Espíritos impuros.
-     São inclinados ao mal, de que fazem o objeto de suas preocupações. Como Espíritos, dão conselhos pérfidos, sopram a discórdia e a desconfiança e se mascaram de todas as maneiras para melhor enganar. Ligam-se aos homens de caráter bastante fraco para cederem às suas sugestões, a fim de induzi-los à perdição, satisfeitos com o conseguirem retardar-lhes o adiantamento, fazendo-os sucumbir nas provas por que passam.
+São inclinados ao mal, de que fazem o objeto de suas preocupações. Como Espíritos, dão conselhos pérfidos, sopram a discórdia e a desconfiança e se mascaram de todas as maneiras para melhor enganar. Ligam-se aos homens de caráter bastante fraco para cederem às suas sugestões, a fim de induzi-los à perdição, satisfeitos com o conseguirem retardar-lhes o adiantamento, fazendo-os sucumbir nas provas por que passam.
 
 Nas manifestações, os Espíritos se dão a conhecer pela linguagem. A trivialidade e a grosseria das expressões, neles, como nos homens, é sempre indício de inferioridade moral, mas também intelectual. Suas comunicações exprimem a baixeza de seus pendores e, se tentam iludir, falando com sensatez, não conseguem sustentar por muito tempo o papel e acabam sempre por se traírem.
 
@@ -192,15 +206,17 @@ São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tud
 Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
 
 104. Oitava classe. Espíritos pseudossábios.
-     Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
+Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
 
 105. Sétima classe. Espíritos neutros.
-     Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
+Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
 
 106. Sexta classe. Espíritos batedores e perturbadores.
-     Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente. Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. ❦
+Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente. Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. ❦
 
 ---
+
+`lde.2.01.08`
 
 #### 2ª ordem – Bons Espíritos
 
@@ -218,32 +234,36 @@ A esta ordem pertencem os Espíritos designados, nas crenças vulgares, pelos no
 Podem ser divididos em quatro grupos principais:
 
 108. Quinta classe. Espíritos benévolos.
-     A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
+A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 
 109. Quarta classe. Espíritos sábios.
-     Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
+Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
 
 110. Terceira classe. Espíritos de sabedoria.
-     As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
+As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
 
 111. Segunda classe. Espíritos superiores.
-     Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
+Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
 
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo. ❦
 
 ---
 
+`lde.2.01.09`
+
 #### 1ª ordem – Espíritos puros
 
 112. Caracteres gerais.
-     Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
+Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
 
 113. Primeira classe. Classe única.
-     Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
+Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
 
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens. ❦
 
 ---
+
+`lde.2.01.10`
 
 #### Progressão dos Espíritos
 
@@ -323,6 +343,8 @@ Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são E
 
 ---
 
+`lde.2.01.11`
+
 #### Anjos e demônios
 
 128. Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros Espíritos?
@@ -359,7 +381,12 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 ---
 
-### 2. Da encarnação dos espíritos
+`lde.2.02`
+### [02. Da encarnação dos espíritos](#lde.2.02)
+
+---
+
+`lde.2.02.01`
 
 #### Objetivo da encarnação
 
@@ -378,6 +405,8 @@ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém
 >“Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos.” ❦
 
 ---
+
+`lde.2.02.02`
 
 #### A alma
 
@@ -478,6 +507,8 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 ---
 
+`lde.2.02.03`
+
 #### Materialismo
 
 147. Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a ciência da Natureza, são, com tanta frequência, levados ao materialismo?
@@ -498,7 +529,12 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ---
 
-### 3. Da volta do Espírito à vida espiritual
+`lde.2.03`
+### [03. Da volta do Espírito à vida espiritual](#lde.2.03)
+
+---
+
+`lde.2.03.01`
 
 #### A alma após a morte. Vida eterna.
 
@@ -541,6 +577,8 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 >“Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais.” ❦
 
 ---
+
+`lde.2.03.02`
 
 #### Separação da alma e do corpo
 
@@ -590,6 +628,8 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 ---
 
+`lde.2.03.03`
+
 #### Perturbação espiritual
 
 163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
@@ -621,7 +661,12 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 ---
 
-### 4. Da pluralidade das existências
+`lde.2.04`
+### [04. Da pluralidade das existências](#lde.2.04)
+
+---
+
+`lde.2.04.01`
 
 #### A reencarnação
 
@@ -630,7 +675,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 >“Sofrendo a prova de uma nova existência.”
 
 166. a) Como realiza essa nova existência? Será pela sua transformação
-     como Espírito?
+como Espírito?
 
 >“Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.”
 
@@ -639,8 +684,8 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 >Resposta
 
 166. c) Parece resultar desse princípio que a alma, depois de haver deixado
-     um corpo, toma outro, ou, então, que reencarna em novo corpo.
-     É assim que se deve entender?
+um corpo, toma outro, ou, então, que reencarna em novo corpo.
+É assim que se deve entender?
 
 >“Evidentemente.”
 
@@ -662,6 +707,8 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 ---
 
+`lde.2.04.02`
+
 #### Justiça da reencarnação
 
 171. Em que se funda o dogma da reencarnação?
@@ -673,6 +720,8 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 >O homem, que tem consciência da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência. ❦
 
 ---
+
+`lde.2.04.03`
 
 #### Encarnação nos diferentes mundos
 
@@ -803,6 +852,8 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 
 ---
 
+`lde.2.04.04`
+
 #### Transmigrações progressivas
 
 189. Desde o início de sua formação, goza o Espírito da plenitude de suas faculdades?
@@ -863,6 +914,8 @@ O suco da vide nos oferece um símile material dos diferentes graus da depuraç�
 
 ---
 
+`lde.2.04.05`
+
 #### Sorte das crianças depois da morte
 
 197. Poderá ser tão adiantado quanto o de um adulto o Espírito de uma criança que morreu em tenra idade?
@@ -893,6 +946,8 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 
 ---
 
+`lde.2.04.06`
+
 #### Sexos nos Espíritos
 
 200. Têm sexos os Espíritos?
@@ -910,6 +965,8 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens. ❦
 
 ---
+
+`lde.2.04.07`
 
 #### Parentesco, filiação
 
@@ -936,6 +993,8 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 [^11]: N.E.: Ver Nota Explicativa.
 
 ---
+
+`lde.2.04.08`
 
 #### Parecenças físicas e morais
 
@@ -993,6 +1052,8 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 
 ---
 
+`lde.2.04.09`
+
 #### Ideias inatas
 
 218. Encarnado, conserva o Espírito algum vestígio das percepções que teve e dos conhecimentos que adquiriu nas existências anteriores?
@@ -1026,10 +1087,7 @@ Veja LDE-q216
 >“Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.” ❦
 
 ---
-
->
-
-### 5. Considerações sobre a pluralidade das existências
+### [05. Considerações sobre a pluralidade das existências](#lde.2.05)
 
 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
@@ -1090,7 +1148,12 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito. Eis o que s
 
 ---
 
-### 6. Da vida espírita
+`lde.2.06`
+### [06. Da vida espírita](#lde.2.06)
+
+---
+
+`lde.2.06.01`
 
 #### Espíritos errantes
 
@@ -1150,6 +1213,8 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
+`lde.2.06.02`
+
 #### Mundos transitórios
 
 234. Há, de fato, como já foi dito, mundos que servem de estações ou pontos de repouso aos Espíritos errantes?
@@ -1191,6 +1256,8 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema. ❦
 
 ---
+
+`lde.2.06.03`
 
 #### Percepções, sensações e sofrimentos dos Espíritos
 
@@ -1296,6 +1363,8 @@ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e q
 
 ---
 
+`lde.2.06.04`
+
 #### Ensaio teórico da sensação nos Espíritos
 
 257. O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenômenos espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
@@ -1321,6 +1390,8 @@ Os sofrimentos deste mundo independem, algumas vezes, de nós; muito mais vezes,
 Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste. ❦
 
 ---
+
+`lde.2.06.05`
 
 #### Escolha das provas
 
@@ -1422,6 +1493,8 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 ---
 
+`lde.2.06.07`
+
 #### As relações no além-túmulo
 
 274. Da existência de diferentes ordens de Espíritos, resulta para estes alguma hierarquia de poderes? Há entre eles subordinação e autoridade?
@@ -1487,7 +1560,7 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 >“Vemos a nossa vida pretérita e lemos nela como em um livro. Vendo a dos nossos amigos e dos nossos inimigos, aí vemos a passagem deles da vida corporal à outra.”
 
 286. Deixando seus despojos mortais, a alma vê imediatamente os parentes e amigos que a precederam no mundo dos Espíritos?
-     “Imediatamente, ainda aqui, não é o termo próprio. Como já dissemos, é-lhe necessário algum tempo para que ela se reconheça a si mesma e alije o véu material.”
+“Imediatamente, ainda aqui, não é o termo próprio. Como já dissemos, é-lhe necessário algum tempo para que ela se reconheça a si mesma e alije o véu material.”
 
 287. Como é acolhida a alma no seu regresso ao mundo dos Espíritos?
 
@@ -1506,6 +1579,8 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 >“Depende isso da elevação deles e do caminho que seguem, procurando progredir. Se um está mais adiantado e caminha mais depressa do que outro, não podem os dois conservar-se juntos. Ver-se-ão de tempos a tempos, mas não estarão reunidos para sempre, senão quando puderem caminhar lado a lado, ou quando se houverem igualado na perfeição. Acresce que a privação de ver os parentes e amigos é, às vezes, uma punição.” ❦
 
 ---
+
+`lde.2.06.07`
 
 #### Relações de simpatia e de antipatia entre os Espíritos. Metades eternas
 
@@ -1571,6 +1646,8 @@ A teoria das metades eternas encerra uma simples figura, representativa da uniã
 
 ---
 
+`lde.2.06.08`
+
 #### Espíritos errantes
 
 223. A alma reencarna logo depois de se haver separado do corpo?
@@ -1630,6 +1707,8 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 >“Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.”
 
 ---
+
+`lde.2.06.09`
 
 #### Recordação da existência corpórea
 
@@ -1714,6 +1793,8 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
+`lde.2.06.10`
+
 #### Comemoração dos mortos. Funerais
 
 320. Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
@@ -1774,7 +1855,12 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-### 7. Da volta do Espírito à vida corporal
+`lde.2.07`
+### [07. Da volta do Espírito à vida corporal](#lde.2.07)
+
+---
+
+`lde.2.07.01`
 
 #### Prelúdio da volta
 
@@ -1799,7 +1885,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 >“Indefinidamente, não. Cedo ou tarde, o Espírito sente a necessidade de progredir. Todos têm que se elevar; esse o destino de todos.”
 
 335. Há predestinação na união da alma com tal ou tal corpo, ou só à última hora é feita a escolha do corpo que ela tomará?
-     “O Espírito é sempre, de antemão, designado. Tendo escolhido a prova a que queira submeter-se, pede para encarnar. Ora, Deus, que tudo sabe e vê, já antecipadamente sabia e vira que tal Espírito se uniria a tal corpo.”
+“O Espírito é sempre, de antemão, designado. Tendo escolhido a prova a que queira submeter-se, pede para encarnar. Ora, Deus, que tudo sabe e vê, já antecipadamente sabia e vira que tal Espírito se uniria a tal corpo.”
 
 336. Cabe ao Espírito a escolha do corpo em que encarne, ou somente a do gênero de vida que lhe sirva de prova?
 
@@ -1843,6 +1929,8 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 >“Muito frequentemente são eles que vos vêm visitar, como ides visitar um encarcerado.” ❦
 
 ---
+
+`lde.2.06.02`
 
 #### União do espírito e do corpo
 
@@ -1928,12 +2016,14 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
+`lde.2.06.03`
+
 #### Faculdades morais e intelectuais do homem
 
 361. Qual a origem das qualidades morais, boas ou más, do homem?
-     “São as do Espírito nele encarnado. Quanto mais puro é esse Espírito, tanto mais propenso ao bem é o homem.”
+“São as do Espírito nele encarnado. Quanto mais puro é esse Espírito, tanto mais propenso ao bem é o homem.”
 
-362. a) Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o homem vicioso a de um Espírito mau?
+361. a) Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o homem vicioso a de um Espírito mau?
 
 >“Sim, mas, dize antes que o homem vicioso é a encarnação de um Espírito imperfeito, pois, do contrário, poderias fazer crer na existência de Espíritos sempre maus, a que chamais demônios.”
 
@@ -1960,6 +2050,8 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos fenômenos, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados fenômenos consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do Espírito encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos Espíritos teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de Espíritos, em que estes provam suas personalidades e identidade. ❦
 
 ---
+
+`lde.2.06.04`
 
 #### Influência do corpo
 
@@ -1992,6 +2084,8 @@ Pode-se comparar a ação que a matéria grosseira exerce sobre o Espírito à d
 Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não causa. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o acaso lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades. ❦
 
 ---
+
+`lde.2.06.05`
 
 #### Idiotismo, loucura
 
@@ -2045,6 +2139,8 @@ A superioridade moral nem sempre guarda proporção com a superioridade intelect
 
 ---
 
+`lde.2.06.06`
+
 #### A infância
 
 379. É tão desenvolvido, quanto o de um adulto, o Espírito que anima o corpo de uma criança?
@@ -2079,6 +2175,8 @@ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, 
 
 ---
 
+`lde.2.06.07`
+
 #### Simpatia e antipatia materiais
 
 386. Podem dois seres, que se conheceram e estimaram, encontrar-se noutra existência corporal e reconhecer-se?
@@ -2110,6 +2208,8 @@ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, 
 >“Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um Espírito mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em ódio, em inveja e lhe inspira o desejo de praticar o mal. O bom Espírito sente repulsão pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo.” ❦
 
 ---
+
+`lde.2.06.08`
 
 #### Esquecimento do passado
 
@@ -2171,7 +2271,12 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 ---
 
-### 8. Da emancipação da alma
+`lde.2.08`
+### [08. Da emancipação da alma](#lde.2.08)
+
+---
+
+`lde.2.08.01`
 
 #### O sono e os sonhos
 
@@ -2243,6 +2348,8 @@ Os sonhos são efeito da emancipação da alma, que mais independente se torna p
 
 ---
 
+`lde.2.08.02`
+
 #### Visitas espíritas entre pessoas vivas
 
 413. Do princípio da emancipação da alma parece decorrer que temos duas existências simultâneas: a do corpo, que nos permite a vida de relação ostensiva; e a da alma, que nos proporciona a vida de relação oculta. É assim?
@@ -2273,6 +2380,8 @@ Pelo termo antigos se devem entender os laços de amizade contraída em existên
 
 ---
 
+`lde.2.08.03`
+
 #### Transmissão oculta do pensamento
 
 419. Que é o que dá causa a que uma ideia, a de uma descoberta, por exemplo, surja em muitos pontos ao mesmo tempo?
@@ -2292,6 +2401,8 @@ Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos,
 Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos Espíritos. ❦
 
 ---
+
+`lde.2.08.04`
 
 #### Letargia, catalepsia, mortes aparentes
 
@@ -2314,6 +2425,8 @@ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que 
 A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a inteligência se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética. ❦
 
 ---
+
+`lde.2.08.05`
 
 #### Sonambulismo
 
@@ -2381,6 +2494,8 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 ---
 
+`lde.2.08.06`
+
 #### Êxtase
 
 439. Que diferença há entre o êxtase e o sonambulismo?
@@ -2416,6 +2531,8 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 >“Aquele que os estudar de boa-fé e sem prevenções não poderá ser materialista, nem ateu.” ❦
 
 ---
+
+`lde.2.08.07`
 
 #### Dupla vista
 
@@ -2462,6 +2579,8 @@ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, e
 >“Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente.” ❦
 
 ---
+
+`lde.2.08.08`
 
 #### Resumo teórico do sonambulismo, do êxtase e da dupla vista
 
@@ -2513,7 +2632,10 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ---
 
-### 9. Da intervenção dos Espíritos no mundo corporal
+`lde.2.09`
+### [09. Da intervenção dos Espíritos no mundo corporal](#lde.2.09)
+
+`lde.2.09.01`
 
 #### Faculdade que têm os Espíritos de penetrar os nossos pensamentos
 
@@ -2534,6 +2656,8 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 >“Depende. Os levianos riem das pequenas partidas que vos pregam e zombam das vossas impaciências. Os Espíritos sérios se condoem dos vossos reveses e procuram ajudar-vos.” ❦
 
 ---
+
+`lde.2.09.02`
 
 #### Influência oculta dos Espíritos em nossos pensamentos e atos
 
@@ -2607,6 +2731,8 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 
 ---
 
+`lde.2.09.03`
+
 #### Possessos
 
 473. Pode um Espírito tomar temporariamente o invólucro corporal de uma pessoa viva, isto é, introduzir-se num corpo animado e obrar em lugar do outro que se acha encarnado neste corpo?
@@ -2645,6 +2771,8 @@ O vocábulo possesso, na sua acepção vulgar, supõe a existência de demônios
 
 ---
 
+`lde.2.09.04`
+
 #### Convulsionários
 
 481. Desempenham os Espíritos algum papel nos fenômenos que se dão com os indivíduos chamados convulsionários?
@@ -2670,6 +2798,8 @@ A exaltação fanática e o entusiasmo hão proporcionado, em casos de suplício
 Visto que esses fenômenos dependem de uma causa física e da ação de certos Espíritos, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos Espíritos, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve razão para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos Espíritos é direta e espontânea. ❦
 
 ---
+
+`lde.2.09.05`
 
 #### Afeição que os Espíritos votam a certas pessoas
 
@@ -2704,6 +2834,8 @@ Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as conside
 >“Muito sensíveis, mas esquecem-se dos que os olvidam.” ❦
 
 ---
+
+`lde.2.09.06`
 
 #### Anjos da guarda. Espíritos protetores, familiares ou simpáticos
 
@@ -2884,6 +3016,8 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 
 ---
 
+`lde.2.09.07`
+
 #### Pressentimentos
 
 522. O pressentimento é sempre um aviso do Espírito protetor?
@@ -2901,6 +3035,8 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consciência, que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou e que lhe teriam poupado muitos desgostos, se os houvera escutado. ❦
 
 ---
+
+`lde.2.09.08`
 
 #### Influência dos Espíritos nos acontecimentos da vida
 
@@ -2984,6 +3120,8 @@ A experiência demonstra que alguns Espíritos continuam em outra existência a 
 
 ---
 
+`lde.2.09.09`
+
 #### Ação dos Espíritos nos fenômenos da Natureza
 
 536. São devidos a causas fortuitas, ou, ao contrário, têm todos um fim providencial, os grandes fenômenos da Natureza, os que se consideram como perturbação dos elementos?
@@ -3023,6 +3161,8 @@ A experiência demonstra que alguns Espíritos continuam em outra existência a 
 >“Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à harmonia geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de Deus. Pois bem, do mesmo modo, os Espíritos mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena consciência de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos fenômenos, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de harmonia, que o vosso acanhado espírito ainda não pode apreender em seu conjunto!” ❦
 
 ---
+
+`lde.2.09.10`
 
 #### Os Espíritos durante os combates
 
@@ -3068,6 +3208,8 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 
 ---
 
+`lde.2.09.11`
+
 #### Pactos
 
 549. Algo de verdade haverá nos pactos com os maus Espíritos?
@@ -3081,6 +3223,8 @@ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores na
 >“Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra. Isso a que te referes é uma alegoria, que se pode explicar desta maneira: aquele que chama em seu auxílio os Espíritos, para deles obter riquezas, ou qualquer outro favor, rebela-se contra a Providência; renuncia à missão que recebeu e às provas que lhe cumpre suportar neste mundo. Sofrerá na vida futura as consequências desse ato. Não quer isto dizer que sua alma fique para sempre condenada à desgraça, mas, desde que, em lugar de se desprender da matéria, nela cada vez se enterra mais, não terá, no mundo dos Espíritos, a satisfação de que haja gozado na Terra, até que tenha resgatado a sua falta, por meio de novas provas, talvez maiores e mais penosas. Coloca-se, por amor dos gozos materiais, na dependência dos Espíritos impuros. Estabelece-se assim, tacitamente, entre estes e ele, o Espírito delinquente, um pacto que o leva à sua perda, mas que lhe será sempre fácil romper, se o quiser firmemente, granjeando a assistência dos bons Espíritos.” ❦
 
 ---
+
+`lde.2.09.12`
 
 #### Poder oculto. Talismãs. Feiticeiros
 
@@ -3116,6 +3260,8 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 ---
 
+`lde.2.09.13`
+
 #### Bênçãos e maldições
 
 557. Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem são lançadas?
@@ -3124,7 +3270,8 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 ---
 
-### 10. Das ocupações e missões dos Espíritos
+`lde.2.10`
+### [10. Das ocupações e missões dos Espíritos](#lde.2.10)
 
 558. Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
 
@@ -3288,7 +3435,12 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 
 ---
 
-### 11. Dos três reinos
+`lde.2.11`
+### [11. Dos três reinos](#lde.2.11)
+
+---
+
+`lde.2.11.01`
 
 #### Os minerais e as plantas
 
@@ -3325,6 +3477,8 @@ O organismo humano nos proporciona exemplo de movimentos análogos, sem particip
 >“Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens.” ❦
 
 ---
+
+`lde.2.11.02`
 
 #### Os animais e o homem
 
@@ -3443,6 +3597,8 @@ Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e mo
 
 ---
 
+`lde.2.11.03`
+
 #### Metempsicose
 
 611. O terem os seres vivos uma origem comum no princípio inteligente não é a consagração da doutrina da metempsicose?
@@ -3470,3 +3626,5 @@ As diferentes espécies de animais não procedem **intelectualmente** umas das o
 Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos. ❦
 
 [^15]: N.E.: Ver Nota Explicativa.
+
+---

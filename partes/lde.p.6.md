@@ -1,515 +1,4653 @@
-## [Parte 1. Das causas primárias](#lde.1)
+## [Parte 6. Pós-textual](#lde.6)
+---
+`lde.6.1`
+### [1. Nota explicativa](#lde.6.1) [^27]
 
-### [1. De Deus](#lde.1.01)
+>Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. Revista Espírita de 1868. 1. ed. Rio de Janeiro: FEB, 2005. p. 28, janeiro de 1868.)
 
-#### [Deus e o infinito](#lde.1.01.01)
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
 
-[1](#lde.Q1). O que é Deus?
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
->“Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
+1. O Livro dos Espíritos (1857),
+2. O Livro dos Médiuns (1861),
+3. O Evangelho segundo o Espiritismo (1864),
+4. O Céu e o Inferno (1865),
+5. A Gênese (1868),
 
-[2](#lde.Q2). Que se deve entender por infinito?
+além da obra O Que é o Espiritismo (1859), de uma série de opúsculos e 136 edições da Revista Espírita (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro Obras Póstumas (1890).
 
->“O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
 
-[3](#lde.Q3). Poder-se-ia dizer que Deus é o infinito?
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
 
->“Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de O Livro dos Espíritos — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.” (Revista Espírita, 1862, p. 401). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+>O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (O Livro dos Espíritos, item 207, p. 176.)
 >
->> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ❦
-
-[^4]: A.K.: O texto colocado entre aspas, em seguida às perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
-
-[^5]: N.E.: A definição dada na resposta à questão 1 de **O Livro dos Espíritos** — Cause Première — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como causa primária, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide Reformador de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do Grande dicionário francês-português, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: >“premier, ière \[...\] || Fig. La cause première, a causa primária, Deus”.
-
-#### [Provas da existência de Deus](#lde.1.01.02)
-
-[4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
-
->“Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá.”
+>[...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (Revista Espírita, 1861, p. 432.)
 >
->> Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação.
->> O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
-
-[5](#lde.q5). Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
-
->“A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.”
-
-[6](#lde.q6). O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
-
->“Se assim fosse, por que existiria nos vossos selvagens esse sentimento?”
+>Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (Revista Espírita, 1867, p. 231.)
 >
->> Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
+>Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (A Gênese, cap. I, item 36, p. 42-43. Vide também Revista Espírita, 1867, p. 373.)
 
-[7](#lde.q7). Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
->“Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária.”
+É baseado nesses informes “científicos” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+>Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. Revista Espírita de 1863 – 1. ed. Rio de Janeiro: FEB, 2005. – janeiro de 1863.)
 >
->> Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
+>O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (O Evangelho segundo o Espiritismo, cap. XVII, item 3, p. 348.)
 
-8. Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
+É importante compreender, também, que os textos publicados por Allan Kardec na Revista Espírita tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo XI, item 43, do livro A Gênese, o Codificador explica essa metodologia:
 
->“Outro absurdo! Que homem de bom senso pode considerar o acaso um ser inteligente? E, demais, que é o acaso? Nada.”
->
->> A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz.
->> Um acaso inteligente já não seria acaso.
+>Quando, na Revista Espírita de janeiro de 1862, publicamos um artigo sobre a “interpretação da doutrina dos anjos decaídos”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (A Gênese, cap. XI, item 43, Nota, p. 292.)
 
-[9](#lde.q9). Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
->“Tendes um provérbio que diz: ‘Pela obra se reconhece o autor.’ Pois bem! Vede a obra e procurai o autor. O orgulho é que gera a incredulidade. O homem orgulhoso nada admite acima de si. Por isso é que ele denomina a si mesmo de espírito forte. Pobre ser, que um sopro de Deus pode abater!”
->
->> O poder de uma inteligência se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a causa primária é, conseguintemente, uma inteligência superior à Humanidade.
->> Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem. ❦
+>É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (Revista Espírita, 1862, p. 38.)
 
-#### [Atributos da Divindade](#lde.1.01.03)
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. ❦
 
-[10](#lde.q10). Pode o homem compreender a natureza íntima de Deus?
+**A Editora**
 
->“Não; falta-lhe para isso o sentido.”
-
-[11](#lde.q11). Será dado um dia ao homem compreender o mistério da Divindade?
-
->“Quando não mais tiver o espírito obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e compreenderá.”
->
->> A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
-
-[12](#lde.q12). Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
-
->“De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.”
-
-[13](#lde.q13). Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
-
->“Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber.”
->
->> **Deus é eterno.** Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.
->> **É imutável.** Se estivesse sujeito a mudanças, as leis que regem o Universo nenhuma estabilidade teriam.
->> **É imaterial.** Quer isto dizer que a sua natureza difere de tudo o que chamamos matéria. De outro modo, Ele não seria imutável, porque estaria sujeito às transformações da matéria.
->> **É único.** Se muitos deuses houvesse, não haveria unidade de vistas, nem unidade de poder na ordenação do Universo.
->> **É onipotente.** Ele o é, porque é único. Se não dispusesse do soberano poder, algo haveria mais poderoso ou tão poderoso quanto ele, que então não teria feito todas as coisas. As que não houvesse feito seriam obra de outro Deus.
->> **É soberanamente justo e bom.** A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus. ❦
-
-#### [Panteísmo](#lde.1.01.04)
-
-[14](#lde.q14). Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
-
->“Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.”
-
-[15](#lde.q15). Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
-
->“Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus.”
-
-[16](#lde.q16). Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
-
->“A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo.”
->
->> Esta doutrina faz de Deus um ser material que, embora dotado de suprema inteligência, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, Deus, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da Divindade: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de Deus, sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o Criador com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
->> A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou. ❦
-
-### 2. [Dos elementos gerais do Universo](#lde.1.02)
-
-#### [Conhecimento do princípio das coisas](#lde.1.02.01)
-
-[17](#lde.q17). É dado ao homem conhecer o princípio das coisas?
-
->“Não, Deus não permite que ao homem tudo seja revelado neste mundo.”
-
-[18](#lde.q18). Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
-
->“O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.”
-
-[19](#lde.q19). Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
-
->“A Ciência lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que Deus estabeleceu.”
->
->> Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador. Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
-
-[20](#lde.q20). Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
-
->“Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender.”
->
->> Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro. ❦
-
-#### [Espírito e matéria](#lde.1.02.02)
-
-[21}(#lde.q21). A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
-
->“Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?”
-
-[22](#lde.q22). Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
-
->“Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.”
-
-[22. a)(#lde.q22a) Que definição podeis dar da matéria?
-
->“A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.”
-
-Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
-
-[23](#lde.q23). Que é o espírito?
-
->“O princípio inteligente do Universo.”
-
-[23](#lde.q23). a) Qual a natureza íntima do espírito?
-
->“Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.”
-
-[24](#lde.q24). É o espírito sinônimo de inteligência?
-
->“A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.”
-
-[25](#lde.q25). O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
-
->“São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.”
-
-[25. a](#lde.q25a)) Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
-
->“É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.”
-
-[26](#lde.q26). Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
-
->“Pode-se, é fora de dúvida, pelo pensamento.”
-
-[27](#lde.q27). Há então dois elementos gerais do Universo: a matéria e o espírito?
-
->“Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.”
-
-[27. a](#lde.q27a)) Esse fluido será o que designamos pelo nome de eletricidade?
-
->“Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.”
-
-[28](#lde.q28). Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
-
->“As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos.”
->
->> Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria.
->> A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus. ❦
-
-#### Propriedades da matéria
-
-29. A ponderabilidade é um atributo essencial da matéria?
-
->“Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria etérea e sutil que constitui esse fluido vos é imponderável. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada.”
-
-A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo.
-
-30. A matéria é formada de um só ou de muitos elementos?
-
->“De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.”
-
-31. Donde se originam as diversas propriedades da matéria?
-
->“São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.”
-
-32. De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
-
->“Sem dúvida e que só existem devido à disposição dos órgãos destinados a percebê-las.”
-
-A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
-
-33. A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
-
->“Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo!” [^6]
-
-O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
-
-33. a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
-
->“É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.”
-
-34. As moléculas têm forma determinada?
-
->“Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.”
-
-34. a) Essa forma é constante ou variável?
-
->“Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.” ❦
-
-[^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias.
-
-[^]: Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade.
+[^27]: N.E.: Esta Nota Explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
 ---
 
-#### Espaço universal
+`lde.6.2`
+### [2. Índice Geral](#lde.6.2)
+---
+`lde.6.2.01`
+#### [A](#lde.6.2.01)
 
-35. O Espaço universal é infinito ou limitado?
+##### Aberração
 
->“Infinito. Supõe-no limitado: que haverá para lá de seus limites? Isto te confunde a razão, bem o sei; no entanto, a razão te diz que não pode ser de outro modo. O mesmo se dá com o infinito em todas as coisas. Não é na pequenina esfera em que vos achais que podereis compreendê-lo.”
+faculdades do homem e
 
-Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a razão diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
+##### Aborto
 
-36. O vácuo absoluto existe em alguma parte no Espaço universal?
+consequências do
+gestação e
+provocação do
+vida da mãe em perigo e
 
->“Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos.” ❦
+##### Abuso
+
+direito e
+
+##### Acaso
+
+Deus e
+
+##### Ação
+
+dos mortos como força invisível
+mérito e
+reciprocidade de
+
+##### Aceitação
+
+perda de entes queridos e
+
+##### Acerto
+
+erro e
+
+##### Adão
+
+criação dos mundos e
+notícia histórica sobre
+povoamento da Terra e
+
+##### Adolescência
+
+caráter na
+
+##### Adoração
+
+bom exemplo e
+busca de amparo e
+Cristianismo e
+fraqueza e
+lei de
+lei natural e
+objetivo da
+prática do bem e
+rituais e
+sacrifício animal e
+sacrifício humano e
+sentimento puro e
+
+##### Afeição
+
+espíritos, encarnados e
+física e espiritual
+
+##### Afinidade
+
+atração por
+Espírito e corpo físico em total
+
+##### Aflição
+
+desejos e
+inveja e
+necessidades e
+
+##### Agostinho (Santo)
+
+conselho de
+eternidade das penas
+
+##### Agradecimento
+
+providência divina e
+
+##### Alcorão
+
+##### Além-túmulo
+
+amizade e
+comunicação com o
+continuação da existência no
+relações no
+suicídio e falso entendimento das relações no
+
+##### Alimentação
+
+mortificação e
+mundos elevados e
+
+##### Alimento
+
+saúde e
+
+##### Allan Kardec
+
+assistência espiritual a –
+
+##### Alma
+
+afeição do corpo e da
+animais e
+animais, homem e
+anterioridade da
+atributos da
+conceito espírita de
+conceitos de
+corpo físico e
+corpo físico e sede da
+corpo, perispírito e
+criação da
+desgoverno do extático e abandono pela
+desprendimento da
+destino da
+do mundo da Terra
+dos cretinos e dos idiotas
+dupla vista e exteriorização da
+elasticidade do termo
+emancipação da
+errante
+Espírito errante e
+existência do corpo e
+individualidade da
+invólucros da
+irmãos siameses e
+irradiação da
+lei divina e
+matéria e
+metempsicose e evolução da
+morte e
+organismo humano e
+pensamento e
+percepção visual da
+perturbação espiritual da
+primeira encarnação da
+prova da existência e independência da
+questionamentos sobre a
+reencarnação da
+retorno ao mundo espiritual
+sede da
+selvagens e
+sensações da
+sentimento e
+separação definitiva do corpo
+separação do corpo
+separação parcial do corpo e da
+sofredora
+sonhos e
+teoria da subdivisão da
+teoria da unicidade das existências e dificuldades da * na vida futura
+todo universal e
+torturas da
+união do corpo e da
+vida material e
+vista da
+
+##### Ambição
+
+culpa por guerras e
+privação alheia e
+supérfluo e
+
+##### Ambiente
+
+criminalidade e
+provas e
+
+##### Amizade
+
+além-túmulo e
+ingratidão e
+
+##### Amor
+
+conceito de
+espíritos e sentimento de
+felicidade e
+filial e paterno
+homem de bem e o
+inimigos e
+materno e filial
+necessidade do
+reciprocidade no
+
+##### Ancianidade
+
+Espiritismo e
+
+##### Animais
+
+alma dos
+comunicação entre os
+conhecimento de Deus nos mundos superiores e os
+destruição sobre os
+encarnação e
+evolução dos
+expiação e
+homem e
+individualidade e
+instinto e
+inteligência e
+inteligência rudimentar e
+liberdade de ação dos
+livre-arbítrio e
+mundos superiores e
+princípio sobrevivente ao corpo dos
+respeito aos
+sacrifício de
+trabalho dos
+vida dos
+
+##### Anjo
+
+alegoria representativa de
+demônio e
+perfeição e
+
+##### Anjo da guarda
+
+assistência do
+conceito de
+doutrina de
+identidade civil de
+proteção de
+
+##### Antepassados
+
+culto aos
+
+##### Antiguidade
+
+teor das comunicações mediúnicas na
+
+##### Antipatia
+
+casamento e
+causas e efeitos da
+instintiva
+instintiva e retardamento na chegada à perfeição
+simpatia e
+união e
+
+##### Antropofagia
+
+fome e
+homicídio e crime de lesa-natureza na
+mal e
+selvagem e
+
+##### Apego
+
+bens terrenos e
+produção intelectual e
+
+##### Aperfeiçoamento
+
+esforço e
+necessidade do
+reprovação aos sacrifícios e
+seres vivos e
+
+##### Aposentadoria
+
+idoso e
+
+##### Aptidão
+
+aquisições de
+desigualdade de
+exercício de
+grau de aperfeiçoamento e
+influência do organismo e
+nascimento e desenvolvimento de
+trabalho conforme a
+
+##### Arrependimento
+
+demora para o
+desencarnado e
+encarnado e
+evolução e
+expiação e
+lei do progresso e
+necessidade do
+reabilitação e
+reencarnação e
+tardio
+última hora para o
+
+##### Arte
+
+assistência espiritual e
+
+##### Assassinato
+
+culpa e
+guerra e
+legítima defesa e
+responsabilidade decorrente do
+suicídio e
+
+##### Assembleia
+
+espíritos encarnados em
+
+##### Assistência espiritual
+
+##### Allan Kardec e
+
+artes, artistas e
+de superior a inferior
+família e
+gradações na
+oportunidade para
+pedidos de
+ser humano e
+
+##### Assistência social
+
+previdência e
+
+##### Ateísmo
+
+sentimento de adoração e
+
+##### Atração
+
+minerais e
+
+##### Autenticidade
+
+autoconhecimento e
+fenômeno espírita e
+
+##### Automatismo
+
+conveniência e
+matéria e
+rejeição e
+transição e
+
+##### Autor
+
+pregação e
+
+##### Autoridade
+
+providências para o bem público e
+superioridade e
+
+##### Avaliação,
+
+ações e atitudes do cotidiano em constante
+
+##### Avareza
+
+demonstrações da
+Avoengos ver Antepassados
 
 ---
 
-### 3. Da Criação
+`lde.6.2.02`
+#### [B](#lde.6.2.02)
 
-#### Formação dos mundos
+##### Batista, João
 
-*O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
+Elias e
 
-37. O Universo foi criado, ou existe de toda a eternidade, como Deus?
+##### Bem adoração e prática do
 
->“É fora de dúvida que ele não pode ter-se feito a si mesmo. Se existisse, como Deus, de toda a eternidade, não seria obra de Deus.”
+aptidão e disposição para o
+associação na obra do
+constância na prática do
+desinteresse na prática do
+eternidade do
+mal e
+mal e possibilidade de nascimento do
+mal, erro e
+más tendências e práticas espontâneas do
+mérito e prática do
+missão dos espíritos e o
+mundos mais adiantados e o
+necessidade do
+passagem pelas provas do mal e o
+prática do * e benefício próprio
+prática do mal ou do
+presença do mal e ausência do
+reinado do * na Terra
+sentimento do mal por falta de prática do
+tentações e recursos para a prática do
+trabalho no
 
-Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de Deus.
+##### Bem-estar
 
-38. Como criou Deus o Universo?
-    “Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras de Gênesis (1:3) -- **‘Deus disse: Faça-se a luz e a luz foi feita’.”**
+conceito de
+desejo de
+extensão do
 
-39. Poderemos conhecer o modo de formação dos mundos?
+##### Bênção
 
->“Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.”
+maldição e
 
-40. Serão os cometas, como agora se pensa, um começo de condensação da matéria, mundos em via de formação?
+##### Beneficência
 
->“Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos fenômenos físicos.”
+esmola e
 
-41. Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espaço a matéria que o compõe?
+##### Benevolência
 
->“Sim, Deus renova os mundos, como renova os seres vivos.”
+Espírito protetor e
+sofrimento e
 
-42. Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
+##### Bens
 
->“Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.”
+acumulação incessante de
+defesa de
+desencarnado e partilha de
+disposições sobre
+justiça, amor e caridade na aquisição de
 
----
+##### Bens terrenos
 
-#### Formação dos seres vivos
+distribuição após a morte de
+distribuição em vida dos
+gozo dos
+mal adquiridos
 
-43. Quando começou a Terra a ser povoada?
+##### Bíblia
 
->“No começo tudo era caos; os elementos estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.”
-
-44. Donde vieram para a Terra os seres vivos?
-
->“A Terra lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.”
-
-45. Onde estavam os elementos orgânicos, antes da formação da Terra?
-
->“Achavam-se, por assim dizer, em estado de fluido no Espaço, no meio dos Espíritos, ou em outros planetas, à espera da criação da Terra para começarem existência nova em novo globo.
-
-A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio latente de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de Deus? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações.
-
-46. Ainda há seres que nasçam espontaneamente?
-
->“Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.”
-
-47. A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
-
->“Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.”
-
-48. Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
-
->“Não; todos os vossos cálculos são quiméricos.”
-
-49. Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
-
->“O princípio das coisas está nos segredos de Deus. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.” ❦
-
----
-
-#### Povoamento da Terra. Adão
-
-50. A espécie humana começou por um único homem?
-
->“Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra.”
-
-51. Poderemos saber em que época viveu Adão?
-
->“Mais ou menos na que lhe assinais: cerca de 4.000 anos antes do Cristo.”
-
-O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo. ❦
+criação e
+linguagem figurada e a
 
 ---
 
-#### Diversidade das raças humanas
+`lde.6.2.03`
+#### [C](#lde.6.2.03)
 
-52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
+##### Calamidades
 
->“Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral.”
+espíritos e
 
-53. O homem surgiu em muitos pontos do globo?
+##### Caligrafia
 
->“Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.”
+mudança de
 
-53. a) Estas diferenças constituem espécies distintas?
+##### Calma
 
->“Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?”
+aparente
 
-54. Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
+##### Canibais
 
->“Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.” ❦
+escala espiritual e
+
+##### Caráter
+
+encarnação e
+físico e reencarnação
+formação de
+homem de bem e
+moral e reencarnação
+
+##### Caridade
+
+auxílios mútuos e
+desinteressada
+discriminação racial e
+egoísmo e
+exposição ao ridículo de religião alheia e falta de
+indulgência e
+Jesus e
+prática da
+procedimento com
+próximo e
+solidariedade e
+
+##### Carne
+
+alimentação com a * dos animais
+
+##### Casamento
+
+antipatia e
+celibato e
+consequências da abolição do
+ilusão do amor e
+interesse e
+sociedade e
+vivência do
+
+##### Castigo
+
+duração do
+eterno
+imposição do
+local destinado ao * dos espíritos
+
+##### Cataclismo
+
+geológico e dilúvio de Noé
+recompensa ao provocador de
+
+##### Catalepsia
+
+letargia e
+
+##### Causa primária
+
+formação da matéria e
+revelação de inteligência suprema e
+
+##### Celibato
+
+casamento e
+lei da natureza e
+
+##### Censura
+
+retorno ao mundo dos espíritos e
+
+##### Centros de força
+
+fluido vital e
+
+##### Cepa
+
+emblema do trabalho divino
+
+##### Cérebro
+
+desencarnado e
+desenvolvimento dos órgãos e
+desorganizado e loucura
+
+##### Ceticismo
+
+ideia inata da espiritualidade e
+orgulho e
+
+##### Céu
+
+espíritos no
+graus de purificação e
+localização do
+
+##### Charlatanismo
+
+acusação de
+boa-fé e
+magnetismo e
+sonambulismo magnético e
+
+##### Choro
+
+nascimento e
+
+##### Ciência
+
+caridade material e
+esforço para chegar à perfeição e
+Ciência Espiritismo e
+falibilidade e
+fenômenos sobrenaturais e
+flagelos destruidores e
+mistério e
+moral e
+movimento das mesas girantes e
+obra divina e
+religião e
+sábio e
+
+##### Ciência espírita
+
+consolidação da
+
+##### Ciúme
+
+inveja e
+
+##### Civilização
+
+barbárie e
+conceito de
+condenação e
+estado de natureza e
+gradações de
+pena de morte e
+primeira fase de
+progresso e
+progresso moral e
+reencarnação de espíritos inferiores em adiantada
+sofrimento e
+
+##### Clarividência
+
+alma e
+desprendimento e
+espíritos imperfeitos e
+
+##### Classificação
+
+espíritos e
+mundo espiritual e
+
+##### Clausura
+
+vida em
+
+##### Colônia
+
+de transição
+espiritual
+espiritual e destinação
+espiritual e seres corpóreos
+moradia em * de transição
+permanência de Espírito em
+
+##### Combate
+
+ao egoísmo
+predomínio da natureza corpórea e
+
+##### Combates
+
+espíritos durante
+morte em
+
+##### Começo dos tempos
+
+Terra e
+
+##### Cometa
+
+formação dos mundos e
+
+##### Comportamento
+
+respeito ao próximo e observância de igual
+
+##### Compreensão
+
+dificuldades de
+lei de justiça e
+natureza íntima de Deus e
+
+##### Comunhão
+
+pensamentos e sentimentos em
+
+##### Comunicabilidade
+
+dos espíritos
+consolo pela
+desprendimento e
+entes queridos falecidos e
+facilitação da
+impedimento da
+meios primitivos da
+Moisés e
+mundo corpóreo e
+pensamento e
+resultado da
+tiptologia e
+vida futura e
+
+##### Comunicação
+
+Espírito e
+palavra articulada e
+preceitos divinos e
+
+##### Concepção
+
+nascimento e
+união da alma ao corpo físico e
+
+##### Condenação
+
+eterna
+imposta
+
+##### Conduta
+
+tentações e
+
+##### Confiança
+
+revelações dos extáticos e
+
+##### Conhecimento
+
+aquisição do
+de faltas
+esforço próprio e
+espíritos e
+improfícuo
+inteligência superior, prática do mal e
+princípio das coisas e
+reencarnação e
+responsabilidade e
+sentimento e
+vidas anteriores e
+
+##### Consciência
+
+censura da
+conceito de
+escolha do caminho reto e
+interrogações à
+lei divina e
+tribunal da
+
+##### Conselho
+
+advertências mediante
+
+##### Conservação
+
+instinto de
+meios de
+seres vivos e
+submissão às leis divinas e
+
+##### Consolação
+
+consciência da pessoa e
+esperança e
+
+##### Contradição
+
+ideia fundamental e
+
+##### Convenção
+
+coisa importante e
+
+##### Convivência
+
+reconhecimento de espíritos pela primeira vez encarnados na Terra e
+
+##### Convulsionários
+
+efeitos do magnetismo e
+fenômenos com os
+
+##### Coração
+
+corpo físico e
+morte e
+
+##### Cordão fluídico
+
+sensações do sonâmbulo e
+
+##### Corpo
+
+alma, perispírito e
+separação da alma do
+vida do
+
+##### Corpo físico
+
+abandono provisório do
+ação do fluido vital no
+alimentação e
+coração e
+decomposição do
+despojos mortais e
+direito à vida e
+dor e
+Espírito e
+escolha pelo Espírito de seu futuro
+funcionamento do
+limite das necessidades e
+morte e
+necessidades do
+reencarnação e novo
+sede da alma e
+segunda vista e
+união da alma e do
+
+##### Costume
+
+crime e
+
+##### Cotidiano
+
+intromissão de espíritos vulgares nas ocupações do
+
+##### Cremação
+
+costume de
+
+##### Crença
+
+sentimento intuitivo e
+vontade e
+
+##### Criação
+
+Bíblia e
+concordâncias bíblicas e
+das almas
+divina
+escolha da espécie humana como ser à parte da
+espíritos e
+espíritos e igualdade na
+sistema de passagem do Espírito por graus dos seres inferiores da
+
+##### Criança
+
+desencarnação de
+inocência e
+manifestações da alma e
+nascimento de
+oração pelo nascimento de
+pensamentos da
+perversidade em
+progresso moral e intelectual de
+teoria da encarnação gradativa da
+
+##### Criatura
+
+nivelamento do Criador à
+
+##### Crime
+
+guerra, crueldade e
+pena de morte e
+prática de * de morte
+predestinação ao
+
+##### Criminalidade
+
+meio e
+vício e
+
+##### Criminoso
+
+punição do
+reabilitação do
+
+##### Cristianismo
+
+escravidão e
+Espiritismo e
+Espiritismo, paganismo e
+justiça e sublimidade do
+missão do
+
+##### Cristo
+
+ver Jesus
+
+##### Crítica
+
+imperfeições alheias e
+
+##### Crueldade
+
+civilização e
+conceito de
+conservação pessoal e
+crimes de guerra e
+instinto de destruição e
+povos primitivos e
+procedência do sentimento de
+sociedade e
+
+##### Culpa
+
+assassinato e
+mal e
+
+##### Culpado
+
+insensibilidade ao sofrimento alheio e
+manifestações do egoísmo e
+suicídio e
+tempo para reflexão da falta e
+
+##### Cura
+
+mediunidade de
+possibilidade de * da desordem e da imprevidência
 
 ---
 
-#### Pluralidade dos mundos
+`lde.6.2.04`
+#### [D](#lde.6.2.04)
 
-55. São habitados todos os globos que se movem no Espaço?
+##### Decálogo
 
->“Sim e o homem terreno está longe de ser, como supõe, o primeiro em inteligência, em bondade e em perfeição. Entretanto, há homens que se têm por espíritos muito fortes e que imaginam pertencer a este pequenino globo o privilégio de conter seres racionais. Orgulho e vaidade! Julgam que só para eles criou Deus o Universo.”
+sistema de classificação da lei natural e o
 
-Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
+##### Decapitação
 
-56. É a mesma a constituição física dos diferentes globos?
+cérebro e
+consciência e
 
->“Não; de modo algum se assemelham.”
+##### Decepção
 
-57. Não sendo uma só para todos a constituição física dos mundos, seguir-se-á tenham organizações diferentes os seres que os habitam?
+ingratidão e
 
->“Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.”
+##### Decisão
 
-58. Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma estrela?
+livre-arbítrio e
 
->“Pensais então que não há outras fontes de luz e calor além do Sol e em nenhuma conta tendes a eletricidade que, em certos mundos, desempenha um papel que desconheceis e bem mais importante do que o que lhe cabe desempenhar na Terra? Demais, não dissemos que todos os seres são feitos da mesma matéria que vós outros e com órgãos de conformação idêntica à dos vossos.”
+##### Demônio
 
-As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes. ❦
+anjo e
+comunicação espírita e
+expulsão do
+maus espíritos e
+
+##### Desânimo
+
+vida e
+
+##### Descanso
+
+trabalho e
+
+##### Descobrimentos
+
+obras artísticas e ação dos espíritos nos
+progresso de povos e
+
+##### Desejo
+
+influenciação para o mal e
+
+##### Desencarnação
+
+afinidade do Espírito com a matéria e
+aparente
+criança e
+despojos mortais e
+espíritos e
+fatalidade e
+fome e
+infância e
+loucura e
+medo da
+paixões más e
+perturbação do Espírito e
+prematura
+
+##### Desencarnado
+
+cérebro e
+forma visível de
+intenção de ajuda por
+lembrança de sofrimentos da vida corporal pelo
+ocultação a encarnado e a
+oração no lar para
+percepções de
+valor da recordação amiga para o
+
+##### Desencarnado
+
+ver também Morto
+
+##### Desenvolvimento
+
+das faculdades existentes no homem
+do senso moral
+
+##### Desequilíbrio
+
+emocional
+
+##### Desespero
+
+momento derradeiro e
+
+##### Desigualdades
+
+desaparecimento das
+
+##### Desigualdades
+
+sociais homem e
+
+##### Desmaterialização
+
+Espírito e
+influência da matéria e
+ocupações dos espíritos no estado de erraticidade ou de
+
+##### Despertamento
+
+oração e
+perturbação e
+
+##### Desprendimento
+
+comunicabilidade dos espíritos e
+corpo físico, perispírito e
+desatamento dos laços do perispírito e
+
+##### Desprezo
+
+desobediência a conselhos
+e conhecidas verdades e
+
+##### Destino
+
+homem e
+
+##### Destruição
+
+abusiva
+abuso e direito de
+agentes de
+animais e o homem perante a lei de
+desenvolvimento intelectual e moral e
+Deus e
+dos animais
+escrúpulo e
+estado material dos mundos e
+faceta peculiar da lei de
+instinto de
+lei da natureza
+necessária
+outros mundos e
+preservação e
+regeneração e
+sentimento de repulsa à
+seres vivos e
+
+##### Destruição
+
+ver também Lei de destruição
+
+##### Deturpação
+
+sentimento de justiça e
+
+##### Deus
+
+amor de
+atos humanos e
+atributos de
+auxílio de
+bondade e
+cada pessoa e
+cepa como emblema do trabalho de
+conceito de
+criação de espíritos e
+criação de espíritos e atributos de
+Espírito e
+ideias humanas de
+igualdade de direitos perante
+infinito e
+intervenção de
+julgamento de
+justiça divina e
+lacuna entre o homem e
+leis de
+mensageiros de
+missão dos espíritos e
+natureza íntima de
+onisciência de
+oração sincera e
+penas eternas e
+percepção, pelos espíritos, de
+posição dos homens perante
+presciência de
+provas da existência de
+sentimento da existência de
+trabalho de
+universalidade de sentimento da existência de
+Universo e
+
+##### Dever
+
+defesa da mulher como
+missão e
+
+##### Diabrete
+
+##### Dificuldade
+
+passagem pela prova da riqueza com
+responsabilidade pelo triunfo sobre a
+
+##### Dignidade
+
+combate à fascinação e
+
+##### Dilúvio
+
+data provável do
+
+##### Dinheiro
+
+achado na rua
+
+##### Direito
+
+abuso e
+mais forte e
+
+##### Direitos humanos
+
+do homem e da mulher
+indivíduo, limite e
+justiça e
+lei humana, lei natural e formulação dos
+primeiro de todos os
+
+##### Dirigente
+
+espiritual e coletividades
+
+##### Discórdia
+
+concórdia e
+
+##### Discriminação
+
+mulher e
+
+##### Divergências
+
+Espiritismo e
+
+##### Diversidade
+
+procedimento da lei natural na
+
+##### Divindade
+
+atributos da
+
+##### Divórcio
+
+indissolubilidade do casamento e
+leis divinas e
+
+##### Divulgação
+
+defeitos da sociedade e
+ensino e época de
+
+##### Doação alegria da
+
+após a morte
+generosidade e
+
+##### Doença ver Enfermidade
+
+##### Doença mental
+
+cérebro e
+
+##### Doutrina
+
+dos amigos guardiães
+lógica e
+sinal de pureza em
+
+##### Duelo
+
+conceito de
+suicídio e
+
+##### Duende
+
+##### Dupla vista
+
+aparente hereditariedade na
+características da
+corpo físico e
+desenvolvimento da
+emancipação da alma e
+exteriorização da alma e
+faculdade da
+portadores de
+prática da
+presciência, pressentimento e
+variações no poder da
 
 ---
 
-#### Considerações e concordâncias bíblicas concernentes à Criação
+`lde.6.2.05`
+#### [E](#lde.6.2.05)
 
-59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
+##### Eclesiastes
 
-A objeção que se lhe pode fazer é a de estar em contradição com o texto dos livros sagrados. Mas um exame sério mostrará que essa contradição é mais aparente do que real e que decorre da interpretação dada ao que muitas vezes só tinha sentido alegórico. A questão de ter sido Adão, como primeiro homem, a origem exclusiva da Humanidade, não é a única a cujo respeito as crenças religiosas tiveram que se modificar. O movimento da Terra pareceu, em determinada época, tão em oposição às letras sagradas, que não houve gênero de perseguições a que essa teoria não tivesse servido de pretexto, e, no entanto, a Terra gira, malgrado os anátemas, não podendo ninguém hoje contestá-lo, sem agravo à sua própria razão.
+##### Economia
 
-Diz também a **Bíblia** que o mundo foi criado em seis dias e põe a época da sua criação há quatro mil anos, mais ou menos, antes da Era Cristã. Anteriormente, a Terra não existia; foi tirada do nada: o texto é formal. Eis, porém, que a Ciência positiva, a inexorável Ciência, prova o contrário. A história da formação do globo terráqueo está escrita em caracteres irrecusáveis no mundo fóssil, achando-se provado que os seis dias da criação indicam outros tantos períodos, cada um de, talvez, muitas centenas de milhares de anos. Isto não é um sistema, uma doutrina, uma opinião isolada; é um fato tão certo como o do movimento da Terra e que a Teologia não pode negar-se a admitir, o que demonstra evidentemente o erro em que se está sujeito a cair tomando ao pé da letra expressões de uma linguagem frequentemente figurada. Dever-se-á daí concluir que a **Bíblia** é um erro? Não; a conclusão a tirar-se é que os homens se equivocaram ao interpretá-la.
+equilíbrio entre produção e consumo
 
-Escavando os arquivos da Terra, a Ciência descobriu em que ordem os seres vivos lhe apareceram na superfície, ordem que está de acordo com o que diz em **Gênesis**, havendo apenas a notar-se a diferença de que essa obra, em vez de executada milagrosamente por Deus em algumas horas, se realizou, sempre pela sua vontade, mas conforme a lei das forças da Natureza, em alguns milhões de anos. Ficou sendo Deus, por isso, menor e menos poderoso? Perdeu em sublimidade a sua obra, por não ter o prestígio da instantaneidade? Indubitavelmente, não. Fora mister fazer-se da Divindade bem mesquinha idéia, para se não reconhecer a sua onipotência nas leis eternas que ela estabeleceu para regerem os mundos. A Ciência, longe de apoucar a obra divina, no-la mostra sob aspecto mais grandioso e mais acorde com as noções que temos do poder e da majestade de Deus, pela razão mesma de ela se haver efetuado sem derrogação das Leis da Natureza.
+##### Educação conceito de
 
-De acordo, neste ponto, com Moisés, a Ciência coloca o homem em último lugar na ordem da criação dos seres vivos. Moisés, porém, indica, como o do dilúvio universal, o ano 1654 [^7] da formação do mundo, ao passo que a Geologia nos aponta o grande cataclismo como anterior ao aparecimento do homem, atendendo a que, até hoje, não se encontrou, nas camadas primitivas, traço algum de sua presença, nem da dos animais de igual categoria, do ponto de vista físico. Contudo, nada prova que isso seja impossível. Muitas descobertas já fizeram surgir dúvidas a tal respeito. Pode dar-se que, de um momento para outro, se adquira a certeza material da anterioridade da raça humana e então se reconhecerá que, a esse propósito, como a tantos outros, o texto bíblico encerra uma figura. A questão está em saber se o cataclismo geológico é o mesmo a que assistiu Noé. Ora, o tempo necessário à formação das camadas fósseis não permite confundi-los e, desde que se achem vestígios da existência do homem antes da grande catástrofe, provado ficará, ou que Adão não foi o primeiro homem, ou que a sua criação se perde na noite dos tempos. Contra a evidência não há raciocínios possíveis; forçoso será aceitar-se esse fato, como se aceitaram o do movimento da Terra e os seis períodos da Criação.
+dos filhos
+homens de bem e
+instituições humanas e
+regeneração do homem e
 
-A existência do homem antes do dilúvio geológico ainda é, com efeito, hipotética. Eis aqui, porém, alguma coisa que o é menos. Admitindo-se que o homem tenha aparecido pela primeira vez na Terra 4.000 anos antes do Cristo e que, 1.650 anos mais tarde, toda a raça humana foi destruída, com exceção de uma só família, resulta que o povoamento da Terra data apenas de Noé, ou seja: de 2.350 anos antes da nossa era. Ora, quando os hebreus emigraram para o Egito, por volta de 1700 a.C., encontraram esse país muito povoado e já bastante adiantado em civilização. A História prova que, nessa época, as Índias e outros países também estavam florescentes, sem mesmo se ter em conta a cronologia de certos povos, que remonta a uma época muito mais afastada. Teria sido preciso, nesse caso, que de 2300 a 1700 a.C., isto é, num espaço de 600 anos, não somente a posteridade de um único homem houvesse podido povoar todos os imensos países então conhecidos, suposto que os outros não o fossem, mas também que, nesse curto lapso de tempo, a espécie humana houvesse podido elevar-se da ignorância absoluta do estado primitivo ao mais alto grau de desenvolvimento intelectual, o que é contrário a todas as leis antropológicas.
+##### Efeitos inteligentes
 
-A diversidade das raças corrobora, igualmente, esta opinião. O clima e os costumes produzem, é certo, modificações no caráter físico; sabe-se, porém, até onde pode ir a influência dessas causas. Entretanto, o exame fisiológico demonstra haver, entre certas raças, diferenças constitucionais mais profundas do que as que o clima é capaz de determinar. O cruzamento das raças dá origem aos tipos intermediários. Ele tende a apagar os caracteres extremos, mas não os cria; apenas produz variedades. Ora, para que tenha havido cruzamento de raças, preciso era que houvesse raças distintas. Como, porém, se explicará a existência delas, atribuindo-se-lhes uma origem comum e, sobretudo, tão pouco afastada? Como se há de admitir que, em poucos séculos, alguns descendentes de Noé se tenham transformado ao ponto de produzirem a raça etíope, por exemplo? Tão pouco admissível é semelhante metamorfose, quanto à hipótese de uma origem comum para o lobo e o cordeiro, para o elefante e o pulgão, para o pássaro e o peixe. Ainda uma vez: nada pode prevalecer contra a evidência dos fatos.
+causa de
 
-Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo. ❦
+##### Egoísmo
 
-[^7]: N.E.: Ano do calendário judaico.
+adesão ao
+avareza e
+cálculo do valor de boas ações e
+caridade e
+celibato voluntário e
+chaga social
+cobiça pela posse de bens e
+consequências do
+desamor e
+desunião e
+extirpação do
+inferioridade dos espíritos encarnados e
+insulamento absoluto e
+laços de família e
+libertação e
+mal e
+obstáculos ao desenraizamento do
+prática do bem e
+sentimentos e virtudes incompatíveis com o
+
+##### Elementos orgânicos
+
+formação da Terra e
+presença da espécie humana entre os
+
+##### Eletricidade 
+
+fluido universal e
+
+##### Elias
+
+João Batista e
+
+##### Emancipação
+
+mulher e
+
+##### Emancipação da alma
+
+atuação de encarnado como Espírito e
+condições necessárias à
+fenômeno da
+segunda vista e
+visita espiritual e
+
+##### Encarnação
+
+caráter e
+diferentes mundos e
+esforço e
+
+##### Espírito bom e
+
+##### Espírito mau e
+
+evolução e
+expiação dos erros e
+inútil
+libertação da matéria durante a
+mesmo Espírito em dois corpos e
+necessidade da
+objetivo da
+período de infância e
+perturbação e
+pessoas exóticas do planeta e
+primeira
+purificação dos espíritos e
+sexos e
+teoria de períodos, na criança, para o término da
+Terra e
+
+##### Encarnado 
+
+escolha de provas e
+
+##### Espírito errante e
+
+influenciação espiritual e morte de
+inspiração e
+sensações da vida do
+vivência na erraticidade e condição de
+
+##### Encontro 
+
+busca recíproca no plano físico e
+provocação de * no mundo espiritual
+
+##### Enfermidade
+
+morte e
+
+##### Engano 
+
+missão e
+
+##### Ensino
+
+divulgação de
+dos espíritos e leis divinas
+espíritos superiores e transmissão do
+oportunidade favorável ao
+
+##### Entendimento 
+
+perfeições divinas e * humano
+
+##### Entes queridos 
+
+intercâmbio no além-túmulo com
+lembrança do Espírito e separação dos
+perda dos
+proteção por desencarnado a
+
+##### Epilepsia 
+
+possessão e
+
+##### Época 
+
+julgamento do justo e do injusto conforme a
+
+##### Equilíbrio 
+
+forças da natureza e
+populacional e lei de reprodução
+
+##### Errante 
+
+Espírito
+
+##### Erraticidade 
+
+conhecimento de vidas passadas e
+evolução na
+livre-arbítrio e
+mudança de ideias na
+povoamento do espaço e
+prazo no estado de
+reencarnação e
+
+##### Erro 
+
+acerto e
+bem, mal e
+castigo pelo
+constrangimento e
+demonstração do
+infalibilidade e
+lembrança do
+resgate do
+revelação do
+suicídio pelo
+
+##### Escala 
+
+ascensão nos graus da
+elevação na
+espírita
+espírita e idade do corpo físico
+grau de conhecimento dos espíritos e
+
+##### Escândalo 
+
+desrespeito à liberdade de pensamento e provocação de
+
+##### Esclarecimento 
+
+teoria inexplicável e
+utilidade do período da infância e
+
+##### Escolha 
+
+das provas
+juízo e * das provas
+moradia do Espírito e
+
+##### Escravidão 
+
+conceito de
+cooperação da mulher e
+desaparecimento da
+lei divina e
+liberdade e
+responsabilidade do mal e
+
+##### Escrita 
+
+manifestação inteligente e obtenção de
+substituição de cesta e prancheta pela * a mão
+
+##### Escritor 
+
+chagas da sociedade e
+
+##### Esforço 
+
+encarnação e
+evolução com
+más inclinações e
+
+##### Esmola 
+beneficência e
+consequências do pedido de
+
+##### Espaço 
+universal
+
+##### Espiritismo 
+adepto do
+adversários do
+ancianidade do
+apelo aos adversários do
+aspectos do
+bases do
+ciência e
+ciência, filosofia e
+conhecimento do fenômeno da morte e
+consequências do
+consolação pelo
+crença geral e o
+crença no
+curiosidade, entendimento e aplicação do
+difusão do
+divergências no
+duração do castigo segundo o
+eliminação da solidão pelo
+ensinamentos do
+espiritualismo e
+estudo do
+existência dos espíritos e fé, resignação e
+felicidade e
+fenômeno, moral e prática do
+filosofia e
+imortalidade e
+individualidade da alma e
+influência do * no progresso
+loucura e
+magnetismo e
+manifestações materiais e
+marcha através do tempo e
+materialismo e
+mesas girantes e
+milagres e
+missão do
+necessidade do
+O Livro dos Espíritos e
+oposição ao
+origem da palavra
+povos antigos e o
+princípios básicos do
+ressurreição, reencarnação e
+resumo do
+Santo Agostinho e o
+sonambulismo e
+teoria da pluralidade das existências e o
+unidade do
+universalidade do
+
+##### Espírito 
+ponto de partida do
+
+##### Espírito bom
+características do
+conselhos de
+encarnação de
+homens de bem e
+locomoção de
+missão de
+poder de
+prática do bem e
+preocupação do
+reencarnação de
+sofrimentos e benevolência de
+
+##### Espírito de Verdade (O)
+equipe de
+
+##### Espírito desencarnado 
+sonâmbulo e
+
+##### Espírito encarnado
+missão do
+
+##### Espírito endurecido
+falta de arrependimento do
+insensibilidade às orações do
+revolta e orgulho do
+
+##### Espírito errante 
+aprendizado de
+conceito de
+missão de
+reencarnação e
+
+##### Espírito familiar
+conceito de
+
+##### Espírito 
+imperfeito
+ação com permissão divina
+conceito de
+mal e
+regiões interditadas a
+
+##### Espírito impuro 
+chegada ao plano espiritual de
+ódio e
+
+##### Espírito inferior 
+arrependimento de
+arrependimento tardio de
+desejo à felicidade de
+encarnação em meio civilizado de
+homem vicioso e
+má influência de
+ocupação de
+pactos com
+percepção de Deus por
+persistência no mal de
+prazeres mundanos e
+sofrimentos do
+
+##### Espírito leviano
+credulidade e
+responsabilidade de
+
+##### Espírito mau ausência de arrependimento do
+companhias malfazejas e
+encarnação de
+influência sobre os mortos de um
+influenciação de
+sofrimentos do
+
+##### Espírito protetor 
+aceitação de missão por
+acompanhamento por parte do
+aptidões e tarefa do
+benevolência de
+conselhos de
+dispensa da presença de
+missão do
+protegidos e
+relacionamento com
+ser humano e
+trabalho do
+
+##### Espírito puro
+ações e alegrias do
+afeições individuais de
+anjos, arcanjos, serafins e
+conhecimento do futuro pelo
+despojamento da matéria e
+habitação de
+mundos inferiores e
+perispírito e
+última encarnação e
+
+##### Espírito simpático 
+conceito de
+
+##### Espírito sofredor 
+orações pelo
+passagem do tempo para o
+
+##### Espírito superior 
+reuniões sérias e
+
+##### Espírito(s) 
+ação do
+ação nos fenômenos da natureza e os
+amor dos * a certas pessoas
+aptidões do
+calamidades e
+classificação dos
+comunicação com os
+conceitos de pátria e Universo para os
+corpo físico e
+criação do
+decomposição do corpo físico e
+definição de
+desigualdade de conhecimento e qualidades morais entre os
+desigualdade nas provas e
+deslocamento do
+desmaterialização e
+desorganização do cérebro e o
+Deus e
+dia de finados e presença de
+diferentes ordens de
+encarnação de
+encarnações diferentes de um mesmo
+ensino dos
+entorpecimento do corpo e
+escala dos
+Espiritismo e existência do
+estacionamento e retrogradação do
+evolução do
+evolução dos
+existência dos
+famílias e grupos de
+fases da vida do
+fenômeno da natureza e os
+feto e
+forma e ubiquidade dos
+humanização do
+ignorância de vidas anteriores ao período de humanidade pelo
+imortalidade do
+indivisibilidade do
+infância do
+influências dos
+inteligência e
+intervenção dos
+leis da natureza e
+leis da natureza e atuação dos
+linguagem dos
+locomoção do
+matéria e
+medição do tempo e
+migração de
+missão dos
+mistificação dos
+moradia do
+movimentação de objetos e revelação por
+natimorto e
+natureza do
+ociosos
+órgãos sensitivos e
+origem do
+origem e natureza dos
+percepções do
+percepções, sensações e sofrimentos dos
+perispírito e
+povos primitivos e influência da matéria sobre o
+prática do bem por
+principal atributo do
+progresso humano e
+qualidades do
+recuo diante da escolha e
+reencarnação e
+reencarnações do
+reencarnante e partida para o mundo corporal
+regeneração moral dos
+repouso e
+retrogradação do
+sensação nos
+sensações no homem e no
+sexo nos
+simpatia e
+sofrimentos do
+transmissão de impressões do corpo físico ao
+transporte do
+ubiquidade e
+veneração por objetos pessoais de desencarnado e atração do
+vida do
+vida terrena e
+visão do
+vontade do
+
+##### Espíritos batedores e perturbadores 
+características dos
+
+##### Espíritos benévolos
+caraterísticas dos
+
+##### Espíritos sábios 
+características dos
+
+##### Espíritos encarnados 
+assembleias de
+
+##### Espíritos imperfeitos 
+características dos
+exaltação do fanatismo e
+influência de
+
+##### Espíritos impuros 
+
+características dos
+
+##### Espíritos inferiores 
+
+rejeição à influência de
+
+##### Espíritos levianos 
+
+características dos
+
+##### Espíritos neutros 
+
+características dos
+
+##### Espíritos protetores 
+
+coletividades e grau de adiantamento de
+personificação alegórica de
+
+##### Espíritos pseudossábios 
+
+características dos
+
+##### Espíritos puros 
+
+características dos
+união de
+
+##### Espíritos sábios 
+
+características dos
+
+##### Espíritos simpáticos
+
+atração ou repulsão de
+
+##### Espíritos superiores 
+
+características dos
+encarnação de
+local de reunião dos
+
+##### Espiritualismo 
+
+adepto do
+conceito de alma e
+
+##### Espiritismo e
+##### Esquecimento 
+
+maus instintos e
+passado e
+primeiras existências e
+
+##### Estado de natureza 
+
+conceito de
+felicidade e
+lei do progresso e volta ao
+progresso e
+
+##### Esterilidade 
+
+mundos transitórios e
+
+##### Estudo
+
+##### Espiritismo e seriedade no
+
+procedência da sugestão e
+
+##### Estudo Sistematizado da Doutrina Espírita 
+
+aprendizado pelo
+
+##### Eternidade
+
+conceito de
+contagem do tempo no mundo físico e na
+linguagem figurada e
+vida presente e
+
+##### Eutanásia 
+
+consequências da
+revolta e desobediência ao Criador pela
+socorro inesperado e
+suicídio e
+
+##### Evangelho 
+
+##### Espiritismo e
+
+expulsão dos demônios e
+##### Evocação 
+
+aproximação de espíritos por
+
+##### Evolução 
+
+aprimoramento contínuo e
+categorias de espíritos e
+ciência e
+conceito de tempo e fases da
+duração das penas e
+encarnação em mundos superiores e
+erraticidade e
+escala e gradação na
+
+##### Espírito e
+espíritos vulgares e
+estacionada
+experiências e
+homem e
+idade biológica e
+libertação da influência da matéria e
+mérito do Espírito protetor para sua própria
+moradia do Espírito e grau de
+moral e da inteligência
+paixão e
+planetas distantes do Sol e grau de
+progressão do Espírito e
+reencarnação e
+vidas sucessivas e
+##### Excessos 
+
+consequências de
+
+##### Exemplo 
+
+direcionamento da censura e
+
+##### Exílio 
+
+saída da vida espiritual e chegada ao
+
+##### Existência 
+
+condições de
+corpórea sem sobressaltos
+lembrança da * corpórea
+recomeço da mesma
+
+##### Exorcismo 
+
+epilepsia, loucura e
+ineficácia do
+
+##### Experiência 
+
+missão e
+
+##### Experimentação 
+
+reprodução idêntica de fenômeno na
+
+##### Expiação 
+
+animais e
+arrependimento e
+ausência de
+conceito de
+convivência compulsória e
+encarnado e
+genialidade e
+má compreensão do amor e
+perfeição e
+reencarnação e
+sofrimento material e moral e
+vida espiritual e
+vontade divina e
+
+##### Êxtase 
+
+características do estado de
+conceito de
+mundo desconhecido e
+sonambulismo e
 
 ---
 
-### 4. Do princípio vital
+`lde.6.2.06`
+#### [F](#lde.6.2.06)
 
-#### Seres orgânicos e inorgânicos
+##### Falibilidade
 
-*Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria.
-Tais são os minerais, a água, o ar etc.*
+ciência e
+humana e Espírito superior
 
-60. É a mesma a força que une os elementos da matéria nos corpos orgânicos e nos inorgânicos?
+##### Falsidade
 
->“Sim, a lei de atração é a mesma para todos.”
+conhecimento da verdade e uso da
 
-61. Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
+##### Falta
 
->“A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.”
+cometimento de
+expiação e
+suicídio e
 
-62. Qual a causa da animalização da matéria?
+##### Família
 
->“Sua união com o princípio vital.”
+espíritos e
+espíritos protetores e
+humana
+humana e miscigenação
+mundo espiritual e
+reencarnação e
+reunião dos despojos mortais de
+sociedade e
+suicídio e
 
-63. O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou causa?
+##### Fanatismo
 
->“Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.”
+exaltação do
 
-64. Vimos que o espírito e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
+##### Fascinação
 
->“É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio.”
+luta contra a
 
-64. a) Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
+##### Fatalidade
 
->“Isto é consequência do que dissemos.”
+consequências das próprias faltas e
+desencarnação e
+destino e
+escolha do gênero de vida e
+existência de
+limite da duração da vida corporal e
+livre-arbítrio e
+morte e
 
-65. O princípio vital reside em algum dos corpos que conhecemos?
+##### Fato
 
->“Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o espírito e a matéria.”
+novo e ciência conhecida
 
-66. O princípio vital é um só para todos os seres orgânicos?
+##### Fé
 
->“Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.”
+falta de
+felicidade e
+no futuro
+prática do bem e
 
-67. A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
+##### Feitiçaria
 
->“Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.”
+magnetismo e
+conceito de
 
-67. a) Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
+##### Feiticeiro
 
->“Sim, é isso.”
+talismã e
 
-O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor. ❦
+##### Felicidade
+
+afeição e
+almas elevadas e
+bons espíritos e
+comum aos homens
+egoísmo e
+espíritos errantes e
+espíritos puros e
+estado de natureza e
+infelicidade e
+local onde existe a
+mundos evoluídos e
+mundos habitados e
+necessário e
+necessidades materiais e – 968
+posição social e
+profissão e
+relativa ao estado moral
+responsabilidade pela própria
+sofrimento e
+Terra e
+terrestre e moral
+vida e
+
+##### Fenômeno
+
+causa inteligente do
+das mesas girantes
+
+##### Fenômeno espírita
+
+ação inteligente
+autenticidade do
+ciência e
+demônio e
+Livro dos Espíritos (O) e
+politeísmo e
+sonambulismo, influenciação e
+
+##### Fenômeno mediúnico 
+
+espontâneo
+médium e
+mediunidade e
+revelado
+
+##### Fenomenologia 
+
+conhecimento de novas leis e 
+
+##### Fenômenos 
+
+ação dos espíritos nos * da natureza
+do sonambulismo, do êxtase e consequências
+produção de
+
+##### Feto
+
+Espírito e
+respeito ao
+
+##### Filantropia 
+
+condição material do homem e
+
+##### Filho 
+
+amor materno e de
+reencarnação de protetor e prosseguimento de amparo a
+transmissão de parecença moral de pais ao
+
+##### Filosofia
+
+Espiritismo e
+racional e estabelecimento de fundamentos
+
+##### Finados 
+
+comemoração do dia de
+
+##### Flagelos
+
+agravo de
+conceito de
+desencarnação coletiva e
+destruidores
+frequência dos
+humanidade e
+necessidade regenerativa e
+prevenção de
+
+##### Fluido universal 
+
+eletricidade e
+Espírito, matéria e
+fluido magnético e
+indispensabilidade do
+princípio vital e
+
+##### Fluido vital 
+
+centros de força e
+dosagem variada de
+esgotamento do * e morte
+Espírito encarnado e
+funcionamento dos órgãos e
+teoria da alma subdividida e
+transmissão do
+
+##### Fogo 
+
+imagem do
+linguagem figurada e
+
+##### Fome 
+
+antropofagia e
+desemprego e
+desencarnação e
+inteligência para suprimir a
+orgulho e
+sociedade e
+suicídio e
+
+##### Força 
+
+movimento de objetos por * mecânica cega
+
+##### Fortalecimento 
+
+tentações do mal e
+
+##### Fracasso
+
+consequências do
+pretensão de igualdade de riquezas e
+
+##### Fraqueza 
+
+adoração e sentimento de
+
+##### Fraude 
+
+explicação ignorada de fenômeno e
+rejeição de
+
+##### Fuga
+
+contratempos da vida e
+
+##### Funeral 
+
+comemoração dos mortos e
+pompas e
+
+##### Futuro 
+
+certeza do
+conhecimento do
+esperança no
+predição e
+revelação do
+vida corpórea e certeza do
 
 ---
 
-#### A vida e a morte
+`lde.6.2.07`
+#### [G](#lde.6.2.07)
 
-68. Qual a causa da morte dos seres orgânicos?
+##### Gêmeos 
 
->“Esgotamento dos órgãos.”
+encarnação de
 
-a) Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
+##### Genealogia 
 
->“Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.”
+orgulho pela
+reencarnação e
 
-69. Por que uma lesão do coração mais depressa causa a morte do que as de outros órgãos?
+##### Gênio 
 
->“O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.”
+idiotia e
 
-70. Que é feito da matéria e do princípio vital dos seres orgânicos, quando estes morrem?
+##### Geração espontânea 
 
->“A matéria inerte se decompõe e vai formar novos organismos. O princípio vital volta à massa donde saiu.”
+espécie humana e
+seres vivos e
 
-Morto o ser orgânico, os elementos que o compõem sofrem novas combinações, de que resultam novos seres, os quais haurem na fonte universal o princípio da vida e da atividade, o absorvem e assimilam, para novamente o restituírem a essa fonte, quando deixarem de existir.
-Os órgãos se impregnam, por assim dizer, desse fluido vital e esse fluido dá a todas as partes do organismo uma atividade que as põe em comunicação entre si, nos casos de certas lesões, e normaliza as funções momentaneamente perturbadas. Mas quando os elementos essenciais ao funcionamento dos órgãos estão destruídos ou muito profundamente alterados, o fluido vital se torna impotente para lhes transmitir o movimento da vida, e o ser morre.
-Mais ou menos necessariamente, os órgãos reagem uns sobre os outros, resultando essa ação recíproca da harmonia do conjunto por eles formado. Destruída que seja, por uma causa qualquer, esta harmonia, o funcionamento dos órgãos cessa, como o movimento da máquina cujas peças principais se desarranjem. É o que se verifica, por exemplo, com um relógio gasto pelo uso ou que sofreu um choque por acidente, no qual a força motriz fica impotente para pô-lo de novo a andar.
-Num aparelho elétrico temos imagem mais exata da vida e da morte. Esse aparelho, como todos os corpos da Natureza, contém eletricidade em estado latente. Os fenômenos elétricos, porém, não se produzem senão quando o fluido é posto em atividade por uma causa especial. Poder-se-ia então dizer que o aparelho está vivo. Vindo a cessar a causa da atividade, cessa o fenômeno: o aparelho volta ao estado de inércia. Os corpos orgânicos são, assim, uma espécie de pilhas ou aparelhos elétricos, nos quais a atividade do fluido determina o fenômeno da vida. A cessação dessa atividade causa a morte.
-A quantidade de fluido vital não é absoluta em todos os seres orgânicos. Varia segundo as espécies e não é constante, quer em cada indivíduo, quer nos indivíduos de uma espécie. Alguns há, que se acham, por assim dizer, saturados desse fluido, enquanto outros o possuem em quantidade apenas suficiente. Daí, para alguns, vida mais ativa, mais tenaz e, de certo modo, superabundante.
-A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conservação da vida, se não for renovada pela absorção e assimilação das substâncias que o contêm.
-O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. ❦
+##### Gerações 
+
+substituição de
+
+##### Gestação 
+
+aborto e
+reencarnação e
+
+##### Gnomo
+##### Gozo 
+
+excessos de todo gênero e
+homem espiritualizado e
+limite do necessário e
+
+##### Guerra 
+
+ambição e
+conduta do homem na
+desaparecimento da
+liberdade, progresso e
+luta contra causas justas e
+natureza animal da
+necessidade da
+santa
 
 ---
 
-#### Inteligência e instinto
+`lde.6.2.08`
+#### [H](#lde.6.2.08)
 
-71. A inteligência é atributo do princípio vital?
+##### Harmonia 
 
->“Não, pois que as plantas vivem e não pensam: só têm vida orgânica. A inteligência e a matéria são independentes, porquanto um corpo pode viver sem a inteligência. Mas a inteligência só por meio dos órgãos materiais pode manifestar-se. Necessário é que o espírito se una à matéria animalizada para intelectualizá-la.”
+lei humana e lei divina em
+leis da natureza e
+Universo e
 
-A inteligência é uma faculdade especial, peculiar a algumas classes de seres orgânicos e que lhes dá, com o pensamento, a vontade de atuar, a consciência de que existem e de que constituem uma individualidade cada um, assim como os meios de estabelecerem relações com o mundo exterior e de proverem às suas necessidades.
+##### Herança 
 
-Podem distinguir-se assim:
+desencarnado e
 
-1º - os seres inanimados, constituídos só de matéria, sem vitalidade nem inteligência: são os corpos brutos;
+##### Hereditariedade 
 
-2º - os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de inteligência;
+física
 
-3º - os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
+##### Hierarquia 
 
-72. Qual a fonte da inteligência?
+atribuições na
+escala espiritual e
+espíritos e
 
->“Já o dissemos; a inteligência universal.”
+##### Hipocrisia 
 
-72. a) Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
+atos exteriores de adoração e
+vontade inflexível de enriquecimento e
 
->“Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.”
+##### Homem 
 
-73. O instinto independe da inteligência?
+animais e
+aparecimento do
+aquisições do Espírito no termo da jornada e o
+carnal
+civilizado
+composição do
+comunicação espírita e * eminente
+consequências dos atos do
+destino do
+direitos da mulher e do
+época do aparecimento do
+existência do
+faculdade inerente ao
+funções do corpo físico do
+geração espontânea e
+imprevidência do
+influência da matéria no
+inteligência e
+moral
+motivação de queda do
+natureza do
+necessidade comum a todo
+necessidade da destruição e o
+objetivo do trabalho do
+origem do
+parte essencial do
+perispírito e
+preocupação de Deus com o
+princípio intelectual comum aos animais e superioridade do
+qualidades do
+raciocínio e consolação do
+relacionamento e
+retrogradação e
+sentimento de perpetuação da memória e o
+universalidade de gozos para o
 
->“Precisamente, não, por isso que o instinto é uma espécie de inteligência. É uma inteligência sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.”
+##### Homenagem 
 
-74. Pode estabelecer-se uma linha de separação entre instinto e a inteligência, isto é, precisar onde um acaba e começa a outra?
+comparecimento de espírito a
+desencarnado e
 
->“Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da inteligência.”
+##### Humanidade 
 
-75. É acertado dizer-se que as faculdades instintivas diminuem à medida que crescem as intelectuais?
+conservação no Espírito do estado precedente ao período de
+dupla chaga da
+flagelos e
+marcha do progresso e aperfeiçoamento da – 783
+melhora da
+origem exclusiva da
+paixões e
+progresso da
+promotores do progresso e
+sacrifício pessoal para o bem da
+transformação da
 
->“Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.”
+##### Humanização 
 
-75. a) Por que nem sempre é guia infalível a razão?
+período de
 
->“Seria infalível, se não fosse falseada pela má educação, pelo orgulho e pelo egoísmo. O instinto não raciocina; a razão permite a escolha e dá ao homem o livre-arbítrio.”
+##### Humildade 
 
-O instinto é uma inteligência rudimentar, que difere da inteligência propriamente dita, em que suas manifestações são quase sempre espontâneas, ao passo que as da inteligência resultam de uma combinação e de um ato deliberado.
+desinteresse e
 
-O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. ❦
+----
+
+`lde.6.2.09`
+#### [I](#lde.6.2.09)
+
+##### Ideia 
+
+forma e
+intuição de
+modificação de
+nova e oposição
+terrena, conforme ponto de vista do extático
+
+##### Ideia religiosa 
+
+paganismo e gerações na substituição da
+
+##### Ideias inatas
+
+reencarnação e
+sonâmbulos e
+teoria das
+
+##### Identidade 
+
+adoção de
+Espírito comunicante e usurpação de
+linguagem, caráter e
+revelação de
+
+##### Identificação
+
+Espírito antes da desmaterialização e
+indagação sobre a autoria de fatos extraordinários e
+indícios de
+
+##### Idiota 
+
+estado mental e
+
+##### Idiotia 
+
+faculdades morais e intelectuais na
+gênio e
+
+##### Idiotismo 
+
+manifestações anímicas e
+
+##### Ignorância 
+
+mal e
+tratamento do vício e da
+
+##### Igualdade 
+
+absoluta das riquezas
+criação por Deus e
+natural
+túmulo e
+
+##### Ilusão 
+
+vítimas de
+
+##### Imaginação 
+
+lendas e
+
+##### Imortalidade 
+
+alma e
+consolo pela
+Espírito e
+
+##### Impedimento 
+
+direito à liberdade de consciência e
+igualdade absoluta das riquezas e
+
+##### Imperfeição
+
+reforma íntima e
+sofrimentos e
+
+##### Individualidade 
+
+alma e
+desencarnação e prova da
+Espírito e
+perispírito e
+retorno à vida espiritual e
+
+##### Indivíduo 
+
+conhecimento de si mesmo pelo
+faculdades extraordinárias do
+posição e caráter do
+
+##### Indução 
+
+suicídio e
+
+##### Indulgência 
+
+caridade e
+erro e
+Espiritismo e
+homem de bem e
+
+##### Infância 
+
+desencarnação na
+formação religiosa na
+período da
+período de repouso do Espírito e
+
+##### Infanticídio 
+
+parricídio e
+prática de
+
+##### Infelicidade 
+
+ambição e
+falta do necessário e
+orgulho e
+provocada nos outros
+
+##### Inferior 
+
+superior e
+
+##### Inferioridade 
+
+apego aos bens terrenos e
+influenciação e
+oportunidade para a reabilitação e
+predomínio das más paixões e
+
+##### Inferno 
+
+alegoria do
+crença no
+ideia do
+localização do
+paraíso e
+
+##### Infinito 
+
+conceito de
+Deus e
+
+##### Influência 
+
+do organismo
+pais e
+
+##### Influenciação 
+
+bem-estar das pessoas sob
+espíritos imperfeitos e
+espiritual
+fenômeno espírita e * do meio – introd., X##### V##### I
+inferioridade e
+inspiração e
+inteligência e
+má e força de vontade
+mau Espírito e
+oculta dos Espíritos
+ostensiva e oculta
+pensamentos e formas de
+pensamentos em geral sob
+
+##### Ingratidão 
+
+amizade e
+assistência espiritual e
+conceito de
+consequências da
+decepção pela
+infelicidade dos que causam a
+provação pela
+remorso do ingrato e
+sensibilidade e
+
+##### Inimigo
+
+amor ao
+perdão ao
+
+##### Inimizade 
+
+perdão e
+
+##### Inocência 
+
+infância e
+
+##### Inspiração 
+
+encarnado e
+influenciação e
+
+##### Instinto 
+
+animais e
+atos da inteligência e
+conservação e
+inteligência e
+inteligência limitada e
+mau e esquecimento da lei divina
+povos primitivos e
+prática de crimes por criança e
+raciocínio e
+selvagens e
+
+##### Instrução 
+
+leis morais e falseamento de
+
+##### Inteligência 
+
+aberração da * e materialismo
+conceito de
+desenvolvimento da
+Espírito e
+fonte da
+influência do organismo e
+influenciação e
+instinto e
+livre-arbítrio e
+moral e
+permanência em estado latente da
+princípio vital e
+superioridade do homem e sua
+
+##### Intercessão 
+
+prática do bem e
+
+##### Interesse 
+
+pessoal
+
+##### Intuição 
+
+penas e recompensas futuras por
+tendências instintivas e
+vida futura e
+
+##### Inutilidade 
+
+lembrança do passado e
+voluntária
+
+##### Inveja 
+
+ciúme e
+felicidade dos outros e
+suplícios do ciúme e da
+tormentos da
+
+##### Investigação 
+
+vida espiritual e
+
+##### Irmãos 
+
+criação divina e fraternidade entre
+semelhança de caráter entre
+
+##### Irradiação 
+
+alma e
+Espírito e
+
+##### Isolamento 
+
+sociedade e
+
+---
+
+`lde.6.2.10`
+#### [J](#lde.6.2.10)
+
+##### Jesus 
+
+caridade e
+entendimento da palavra de
+Espiritismo e
+fanatismo e divulgação da doutrina de
+linguagem alegórica de
+perfeição de
+reino de
+
+##### Juízo 
+
+formação de
+
+##### Juízo final 
+
+pluralidade dos mundos e
+
+##### Julgamento 
+
+escolha de provas e capacidade de
+participação no próprio
+superficial e necessidade de observação
+
+##### Júpiter
+
+Terra, Marte e
+
+##### Justiça 
+
+compreensão da
+conceito de
+critério da verdadeira
+direitos naturais e
+distribuição da
+igualdade de direitos e
+lei de
+progresso moral e
+regra da verdadeira
+revelação do caráter pela prática da
+
+##### Justiça divina
+
+doutrina da reencarnação e
+julgamento da
+negligência paterna e
+parricídio e infanticídio perante a
+passado e
+vida futura e
+
+##### Justo 
+
+consolo do
+
+---
+
+`lde.6.2.11`
+#### [L](#lde.6.2.11)
+
+##### Laços de família 
+
+lei da natureza e
+
+##### Lamennais 
+
+eternidade das penas
+
+##### Legislação 
+
+direitos da mulher e equidade na
+humana e lei moral
+humana e necessidades novas
+progresso da
+progresso da humanidade e
+
+##### Legítima defesa 
+
+crime de
+culpa de assassínio e arguição de
+duelo e
+
+##### Lei de atração 
+
+aplicação da
+
+Lei de causa e efeito
+
+aplicação da
+opressão aos fracos e
+
+##### Lei de destruição 
+
+renovação e
+
+##### Lei de destruição
+
+ver também Destruição
+
+##### Lei de progresso 
+
+evolução moral e
+força da
+
+##### Lei divina 
+
+abrangência da
+adoração e
+alcance da
+alma e
+amor ao próximo e
+aplicação universal da
+balanço perante a
+características da
+casamento e
+conhecimento da
+consciência e
+conteúdo da
+cumprimento da
+destruição e
+divisão da
+ensino dos espíritos e
+escravidão e
+homem de bem e prática da
+imutabilidade da
+insulamento absoluto e
+isonomia da
+Jesus e revelação da
+justiça das reencarnações e
+laços de família e
+lei humana e
+leis da natureza e
+limite das necessidades e
+livre-arbítrio e
+localização da
+prática da
+suicídio voluntário e
+suporte da lei humana
+violação da
+
+##### Lei humana 
+
+instabilidade da
+mutabilidade da
+princípio de justiça e
+
+##### Lei natural 
+
+caracteres da
+lei divina e
+
+##### Lembrança 
+
+resgate dos erros e sua
+vida corpórea e
+vidas passadas
+
+##### Letargia 
+
+catalepsia e
+morte e
+
+##### Leviandade 
+
+ser humano e
+
+##### Liberdade 
+
+abuso da
+cerceamento da
+escravidão e
+natural
+pensamento e
+
+##### Liberdade de consciência 
+
+conceito de
+embaraços à
+propagação de doutrinas perniciosas e
+repressão a atos de efeitos danosos e
+transviamento do caminho da verdade e
+
+##### Libertação 
+
+desencarnação e
+egoísmo e
+
+##### Linguagem 
+
+adequação de
+alegorias pelo Cristo e
+anfibologia e
+animais e
+entendimento sobre a palavra alma e
+espíritos
+espíritos superiores e
+humana e particular conformação dos órgãos vocais
+imperfeição da * humana
+palavra “alma” e a humana
+palavra e
+
+##### Livre-arbítrio 
+
+ação dos espíritos protetores e
+animais e
+caminho do bem ou do mal e
+conceito de
+consciência de si mesmo e
+criança e
+crime e
+decisões e
+desencarnado e características do
+embriaguez e
+encarnado e características do
+estado de erraticidade e
+exercício do
+faculdades morais, intelectuais e
+fases da vida e
+fatalidade e
+futuras encarnações e
+gênero de provas e
+hipótese da ausência do
+homem e
+influência do organismo e exercício do
+inteligência e
+lei divina e
+missão e
+ocorrência de fatos e
+percepções e
+posição social e exercício pleno do
+provas, bem, mal e
+razão e
+respeito ao
+responsabilidade pela prática do mal e
+sabedoria divina e
+
+##### Livro dos espíritos (O)
+
+autoria de
+Espiritismo e
+filosofia espiritualista e
+
+##### Locomoção
+
+Espírito e
+
+##### Lógica 
+
+doutrina e
+reencarnação e
+
+##### Loucura 
+
+causas da
+cérebro desorganizado e
+desencarnação e
+Espiritismo e
+manifestações da alma e
+preservativo contra a
+suicídio e
+
+##### Lucidez 
+
+sonambúlica limitações à
+
+##### Luís (São)
+
+duração das penas futuras
+ressurreição e reencarnação
+transformação da humanidade e pecado original
+
+##### Luís (São) e Agostinho (Santo) 
+
+abandono do protegido pelo protetor conforme elucidações de
+
+##### Luta 
+
+chegada ao progresso e
+
+---
+
+`lde.6.2.12`
+#### [M](#lde.6.2.12)
+
+##### Mãe 
+
+aborto de risco de vida da
+amor filial e
+
+##### Magnetismo ação do
+charlatanismo e
+cura pelo
+exercício inconsciente do
+simpatia e
+##### Mal 
+
+antropofagia e
+atração para o
+bem e
+bem, erro e
+causa do
+consequências do
+culpa e
+cumprimento da lei divina e ausência do
+egoísmo e
+eterno
+ignorância e
+impedimento do
+indução ao
+moral
+necessidade do
+pedido de riqueza e arrastamento ao
+prática do
+resistência ao
+transviamento para o
+
+##### Maldição 
+
+bênção e
+
+##### Mandamento 
+
+amor ao próximo e extensão do
+
+##### Manifestação 
+
+espírita e liberdade da
+inteligente por meio de mesas
+
+##### Marte
+
+Terra, Júpiter e
+
+##### Matéria 
+
+atuação recíproca do espírito sobre a
+criação da
+definições de
+desligamento da
+destruição da
+Espírito e
+estados da
+força, movimento e demais propriedades da
+formação da
+individualização da
+modificações e propriedades possíveis à
+moléculas orgânicas, ressurreição e
+ponderabilidade da
+princípio vital e
+propriedades da
+seres vivos e
+tangibilidade da
+
+##### Materialismo
+aberração da inteligência e
+conceito de alma e
+Espiritismo e
+fenômenos do sonambulismo, do êxtase e
+morte do
+negação do
+oposição ao
+orgulho e
+
+##### Maternidade 
+
+risco de aborto e
+
+##### Mau 
+
+características do bom e do
+influência do
+prosperidade do
+
+##### Médium 
+
+comunicabilidade dos espíritos e
+grande número de
+participação de
+teoria espírita e contribuição do
+
+##### Mediunidade 
+
+afloramento sutil da
+gêneros de
+proibição da
+
+##### Medo
+
+desencarnação e
+inferno e
+morte e
+
+##### Memória 
+
+vidas passadas e
+
+##### Mendicância 
+
+educação moral e
+
+##### Merecimento
+
+ver Mérito
+
+##### Mérito 
+
+conquista de
+desigualdade do
+escala espírita e
+prática do bem e
+privação voluntária e
+progresso e
+submissão a provas e
+
+##### Mesas girantes
+
+Espiritismo e
+fenômeno das
+manifestações inteligentes e
+tiptologia e 
+
+##### Metempsicose
+
+reencarnação e
+
+##### Milagre 
+
+ciência e
+desejo por
+
+##### Minerais 
+
+vegetais e
+
+##### Miséria 
+
+opulência e
+prova da
+riqueza e
+
+##### Missão 
+
+candidatos a uma mesma
+capacitação e elevação para desempenho da
+conhecimento prévio da
+cumprimento de
+dever e
+encarnação e
+engano e
+Espírito bom e
+Espírito encarnado e
+Espírito protetor e
+Espírito, influência maléfica e
+experiência adquirida e
+previsão ou não de
+realização de
+reencarnação e
+resistência ao mal e
+tentação e cumprimento de
+
+##### Mistério 
+
+ciência e
+conhecimento e
+criação do Espírito e
+
+##### Mistificação 
+
+incerteza sobre
+
+##### Mitologia 
+
+combates e
+ideia espírita e
+Moisés
+
+##### Molécula
+
+forma da
+matéria e
+
+##### Monogamia 
+
+poligamia e
+
+##### Moradia 
+
+escolha pelo Espírito de
+graus de adiantamento moral e
+
+##### Moral
+
+ciência e
+definição de
+inteligência
+progresso
+
+##### Morte
+
+agonia e
+caridade na
+coração e
+culpabilidade no apressamento da
+entes queridos e
+escolha de novo corpo físico logo após a
+esperança e
+fatalidade da hora da
+fatalidade e
+fé e
+fenômeno da
+imprudência e
+inferno e
+lembrança da vida terrena após a
+letargia e
+momento da
+natural por esgotamento dos órgãos
+pressentimento e
+sentimento da pessoa no momento da
+sentimentos depois da
+sofrimento e alegria após a
+temor da
+temor ou desejo da
+vida e
+violenta e reação do Espírito
+visão do Espírito após a
+
+##### Morte 
+
+ver também Desencarnação
+
+##### Mortificação 
+
+alimentação e
+exemplo de verdadeira
+
+##### Morto 
+
+oração pelo
+respeito ao
+
+##### Mulher 
+
+direitos do homem e da
+discriminação à
+funções do corpo físico da
+
+##### Mundo 
+
+criação em seis dias do
+
+##### Mundo de expiação e provas 
+
+predominância de espíritos maus em
+
+##### Mundo espiritual
+afeições entre espíritos no
+composição do
+comunicação entre mundo corpóreo e|
+culpado e vítima no
+espíritos e
+habitantes da Terra e
+hierarquia e
+inimigos no
+lado mau do
+locomoção no
+malevolência e
+mundo corpóreo e
+preexistência do
+recepção por parentes e amigos do Espírito no
+reconhecimento de espírito protetor no
+regresso da alma ao
+relacionamento no
+revelação dos erros no
+vida no
+
+##### Mundo físico
+
+ver Plano físico
+
+##### Mundos
+
+formação dos
+lei de destruição e
+superior e inferior
+transitórios
+
+##### Mundos evoluídos 
+
+animais em
+conhecimento de Deus pelos animais em
+Espírito extático e
+felicidade em
+lembrança de vidas passadas e
+período para reencarnação em
+reminiscência do passado em
+vida em
+
+##### Mundos habitados 
+
+encarnação nos
+esquecimento do passado em
+pluralidade dos
+vida nos diferentes
+
+##### Mundos transitórios 
+
+destinação dos
+objetivo de moradia em
+seres corpóreos e
+Terra e
+topografia de
+
+##### Música 
+
+sensibilidade dos espíritos para a
+
+----
+
+`lde.6.2.13`
+#### [N](#lde.6.2.13)
+
+##### Nação 
+
+amor à * após a desencarnação
+caráter de uma
+faculdades morais em uma
+única
+
+##### Nada 
+
+entendimento dos Espíritos sobre o
+horror ao
+linguagem humana e o
+vida futura e o
+
+##### Namoro
+
+vivência comum e
+
+##### Nascimento
+
+alma e
+ambiente de
+choro e
+concepção e
+criação da alma e
+criança e
+desenvolvimento de faculdades do Espírito com o
+espontaneidade do
+morte antes do
+morte após o
+oração pelo * de criança
+origem e meio de
+perturbação e
+união do Espírito ao corpo e
+
+##### Natimorto
+
+Espírito e
+nascimento e
+
+##### Natureza 
+
+ação dos espíritos na
+beleza da
+belezas da * e sensações do Espírito
+encadeamento e solidariedade na
+fenômenos da
+reinos da
+ser à parte dos três reinos da
+universalidade da criação e
+vazio e
+
+##### Necessário 
+
+felicidade e
+lei divina e o
+limite do
+mau uso do
+posse do
+privação do
+satisfação com o
+supérfluo e
+superstição e
+
+##### Necessidade 
+
+equívocos no entendimento sobre
+paixões e
+
+##### Negação 
+
+evidência e
+
+##### Nome 
+
+importância espiritual do
+
+---
+
+`lde.6.2.14`
+#### [O](#lde.6.2.14)
+
+##### Obsessão 
+
+cura da
+Espírito imperfeito e
+mundo espiritual e
+oração e
+requisitos para ocorrência de
+tratamento da
+
+##### Obstáculos 
+
+enfrentamento de
+
+##### Ociosidade 
+
+consequências da
+desejo de progresso e
+desgosto pela vida e
+Espírito puro e
+inconveniência da
+trabalho e
+
+##### Ocupação 
+
+demonstração de progresso em
+espíritos errantes e desmaterializados e
+incessante dos espíritos
+trabalho e
+
+##### Ódio
+
+dificuldade para libertação do
+Espírito impuro e
+
+##### Ofensa
+
+homem de bem e
+reparação de
+
+##### Oferenda 
+
+prática do bem e
+sacrifício animal e
+
+##### Opinião 
+
+sábios e
+
+##### Oposição
+
+Espiritismo e
+ideias novas e
+liberdade de consciência e
+
+##### Oração 
+
+conceito de
+direcionamento no rumo de vida e
+eficácia da
+espíritos arrependidos e
+estudo de si mesmo e
+exemplo de ##### Jesus e
+expressão de amor a Deus pela
+fortalecimento pela
+intenção e
+intercessória
+nascimento de criança e
+obsessão e
+perdão das faltas e
+poder da
+suavização de sofrimento e – 665
+
+##### Organismo
+
+alma e
+reencarnação e influência do
+
+##### Orgulho 
+
+demonstrações de
+genealogia e
+materialismo e
+necessidade, trabalho e
+profissões modestas e
+razão e
+retratação e
+suicídio e
+
+##### Orientação
+
+mundos inferiores e
+
+##### Oriente 
+
+estilo alegórico na literatura do
+
+##### Ostentação 
+
+benefício e
+
+---
+
+`lde.6.2.15`
+#### [P](#lde.6.2.15)
+
+##### Pactos 
+
+maus espíritos e
+
+##### Pais 
+
+influência dos
+provação ou expiação para os
+provas e
+
+##### Paixão 
+
+conceitos de
+criação de necessidades e
+desenvolvimento espiritual e
+espíritos e má
+espíritos inferiores e
+exercício da vontade e domínio da
+expressões adequadas aos efeitos da
+governo da
+prazo de sofrimento das provas e
+vontade e
+
+##### Palavra 
+
+faculdade da
+linguagem e
+
+##### Panteísmo
+conceito de alma e – introd., ##### I##### I refutações ao
+##### Paraíso alegoria do
+inferno e
+perdido
+
+##### Parasitose espiritual 
+
+privações de mal assalariado e
+supérfluo e
+
+##### Parentela 
+
+filiação e
+física e espiritual
+
+##### Parricídio 
+
+infanticídio e
+
+##### Passado
+
+conhecimento do
+esquecimento do
+lembrança do
+
+##### Paternidade 
+
+responsabilidade pela
+
+##### Paulo (apóstolo)
+
+castigo eterno e inferno
+
+##### Pecado 
+
+original
+
+##### Pena de morte
+
+crime e
+desaparecimento da
+
+##### Pena de talião 
+
+conceito de
+execução do assassino e
+
+##### Penas eternas 
+
+arrependimento e
+condenação a
+Deus e
+
+##### Penas futuras 
+
+crença nas
+recompensas futuras e
+
+##### Pensamento 
+
+alma e
+atração pelo
+conhecimento pelos espíritos de nosso
+culpa e
+encobrimento da individualidade e do
+espíritos e
+fase da infância e
+identidade de
+influenciação e
+irradiação do
+liberdade e
+oculto
+percepção e
+próprio e influenciação
+responsabilidade pelo
+sugestão e
+transmissão oculta do
+velocidade do Espírito e do
+
+##### Percepção 
+
+espíritos e a 
+livre-arbítrio e
+momento presente e
+pensamento e
+vegetais e
+
+##### Perdão
+
+Deus e
+faltas e
+inimigos e
+
+##### Perfeição 
+
+anjo e
+aproximação da
+aquisição de
+ausência de
+busca da
+caminho do bem e
+chegada à
+conquistas e
+encadeamento natural na escala espiritual e
+Espírito puro e
+evolução espiritual e
+expiação e
+grau de
+igualdade na criação do Espírito e
+Jesus e
+possibilidades do Espírito na caminhada para a
+reencarnação e
+retrogradação e
+sabedoria e
+união e
+
+##### Perfeição moral
+
+aproximação da
+
+##### Perguntas 
+
+respostas e
+
+##### Perispírito
+alma e
+alma, corpo e
+conceito de
+decapitação e
+densidade do
+desprendimento do corpo físico e
+diferentes mundos e
+Espírito e
+Espírito puro e
+faculdades do
+forma do
+formação do
+homem e
+impressões da matéria e densidade do
+individualidade e
+perturbação e
+sensações do
+substância do * em diversos mundos
+troca de
+
+##### Perseverança 
+
+consequências da
+
+##### Personalidade 
+
+egoísmo e sentimento da
+identidade digna de confiança e
+manifestações frequentes de * ilustre
+
+##### Perturbação 
+
+desencarnação e
+despertamento e
+espiritual
+gênero de morte e
+morte coletiva e
+nascimento e
+perispírito e
+prática do bem, consciência pura e
+reencarnação e
+separação da alma e do corpo e
+
+##### Planetas 
+
+formação dos
+
+##### Plano espiritual 
+
+ver mundo espiritual
+
+##### Plano físico
+
+apoio a Espírito na partida para o
+malevolência e
+mundo corporal e
+reencontro no
+
+##### Platão 
+
+eternidade das penas
+
+##### Pluralidade dos mundos habitados 
+
+homem e
+
+##### Pluralidade dos mundos habitados 
+
+ver também Mundos habitados
+
+##### Pobreza 
+
+predominância da
+
+##### Poder 
+
+homem de bem e o exercício do
+honrarias terrenas e
+prova do
+
+##### Poesia 
+
+médium versejador e
+
+##### Poligamia
+
+aperfeiçoamento social e
+monogamia e
+sensualidade e
+
+##### Politeísmo 
+
+crença na
+fenômeno espírita e
+
+##### População 
+
+do globo
+
+##### Posse 
+
+aquisição de bens e
+faculdades do Espírito e
+
+##### Possesso 
+
+uso do vocábulo
+
+##### Povoamento 
+
+Adão, Terra e
+espiritual do espaço
+reencarnação e
+seres vivos e
+sucessão de raças e
+Terra e
+
+##### Povos
+
+atração de espíritos protetores e
+caráter dos
+declínio e extinção dos
+degenerados
+marcha de progresso em diferentes
+períodos de vida dos
+
+##### Prece
+
+ver Oração
+
+##### Preconceito
+
+obediência a
+
+##### Precursor 
+
+Doutrina Espírita e
+
+##### Predestinação
+
+possibilidade de
+
+##### Predição
+
+futuro e
+
+##### Pregação
+
+autor e
+da solidariedade
+
+##### Preguiça 
+
+conformismo e
+
+##### Presciência 
+
+divina
+esquecimento humano das leis divinas e * divina
+
+##### Presença 
+
+anjo guardião e
+cemitério no dia de finados e
+
+##### Presente 
+
+percepção do
+
+##### Pressentimento 
+
+conceito de
+entrada na vida espiritual e
+
+##### Espírito protetor e
+morte e
+sonho e
+volta do Espírito ao corpo e
+##### Prevenção 
+
+flagelos e
+perigos, riscos de vida e avisos como
+promoção de perturbações e medidas de
+recordação do passado e
+
+##### Previdência 
+
+crenças como motivo de perturbações sociais e
+direito à vida e
+
+##### Princípio espiritual
+
+evolução e
+
+##### Princípio inteligente
+
+alma dos animais e
+desenvolvimento do
+elaboração do
+individualização do
+inteligência de animais, do homem e
+matéria e
+preservação do
+seres vivos e
+transformação do
+
+##### Princípio vital 
+
+alma e
+conceito de
+corpo físico e
+Espírito, matéria e
+fluido vital e
+fonte universal do
+matéria e
+modificações do
+morte, vida e
+seres orgânicos e
+vida e
+
+##### Princípios básicos
+
+Espiritismo e
+
+##### Privação
+
+culpa pela
+distribuição dos bens e
+reparação das faltas e
+voluntária
+
+##### Prodigalidade
+
+desinteresse e
+esbanjamento, mau uso da riqueza e
+
+##### Prodígio 
+
+providência divina e
+
+##### Profeta 
+
+verdadeiro
+
+##### Profissão 
+
+felicidade e
+
+##### Progresso 
+
+acordo da lei humana com o
+aptidões e
+arte como veículo de fomento ao
+avanço do
+boa-fé e tentativa de resistência ao
+caminhada para o
+civilização e
+dor e
+dos povos
+espécies de
+Espírito e
+estado de natureza e
+exigências da vida e
+imposição do
+inevitável
+influência do Espiritismo no
+legislação e
+lei de auxílios mútuos e
+lentidão e
+marcha do
+material e espiritual
+meios de
+merecimento e
+moral
+moral e intelectual
+obstáculos ao
+participação geral no
+reencarnação e
+sofrimento e
+substituição de gerações e
+virtude e
+
+##### Proibição 
+
+manifestação espírita e sua
+
+##### Propriedade 
+
+direito de
+legítima
+
+##### Prosperidade 
+
+pessoa má e
+
+##### Provação 
+
+ambiente para
+lado pseudofácil da
+livre-arbítrio e gênero de
+oração e
+resistência e
+tendências do Espírito e
+
+##### Provas 
+
+altruísmo ante a
+conhecimento antecipado do gênero de
+emprego da autoridade e
+entendimento sobre aplicação de
+escolha das
+êxito e gênero de
+experiência no caminho do mal como
+faltas e
+finalidade da
+instinto de conservação e superação das
+livre-arbítrio e
+nascituro e
+possibilidade de fracasso nas
+receio das
+resistência a
+resistência do mal e
+revelação do futuro com experimentação de
+
+##### Provas e expiações 
+
+resistência a
+
+##### Providência divina 
+
+agradecimento à
+desenvolvimento do livre-arbítrio e
+desempenho de ação protetora e amparo da
+lei da
+progresso individual e
+prodígios e
+sofredor e
+solicitude da
+
+##### Próximo 
+
+ações contrárias a si mesmo e ao
+caridade e
+
+##### Psicologia 
+
+Espiritismo e
+Punição após a morte
+criminoso e
+nesta vida
+reencarnação e
+tipos de
+
+##### Purgatório 
+
+alegoria do
+Espiritismo e
+expiação e
+local do
+
+##### Purificação
+
+aperfeiçoamento moral do Espírito e
+
+---
+
+`lde.6.2.16`
+#### [Q](#lde.6.2.16)
+
+Queda homem, livre-arbítrio e
+
+---
+
+`lde.6.2.17`
+#### [R](#lde.6.2.17)
+
+##### Raças cruzamento de
+diversidade de * humanas
+desaparecimento e substituição das
+desigualdade de aptidões e
+marcha do progresso e extinção de
+miscigenação da grande família humana e novas
+relevância no caráter das * primitivas
+renovação de povos na Terra e de
+
+##### Raciocínio evidências e
+lógico e argumentação sobre reencarnação
+##### Racismo espíritos inferiores e
+##### Razão instinto e
+livre-arbítrio e
+privação voluntária da
+reflexão e
+tentação e
+##### Reabilitação arrependimento e
+##### Realidade alegoria e
+##### Realização encargo e
+missão e
+##### Rebeldia resistência ao progresso e consequências da
+##### Receituário orientação em
+##### Reconhecimento manifestação de
+marcas de civilização perfeita e
+pais, filhos, amigos e
+##### Recordação ver Lembrança Reencarnação
+
+##### alma e
+
+aperfeiçoamento das raças pela
+aproveitamento do tempo e
+aquisições do Espírito e
+arrependimento sincero e
+características e
+caráter moral e
+conhecimento das leis morais e
+conhecimento e
+considerações sobre
+corpo físico, escolha de provas e
+criminoso e
+descendência e
+diversidade de experiências e
+egoísmo e
+ensino dos Espíritos sobre a
+erraticidade e
+escolha das provas e
+escolha e
+espaço de tempo para
+
+##### Espírito errante e
+espíritos e
+espíritos inferiores e
+estacionamento, aquisições do Espírito e
+evolução e
+evolução e limite à
+evolução espiritual e
+evolução espiritual pela existências consecutivas e
+experiência e
+experiência feminina e
+expiação de idiotas, cretinos e
+expiação e
+família e
+funcionamento do organismo e
+fundamentos da
+gêmeos e
+genealogia e
+gestação e
+ideias inatas e
+idiotia e
+
+##### Igreja e
+igualdade para todos na lei da
+inconformismo e
+influência do organismo e
+intervalo para
+justiça da
+justiça divina e
+laços de família e
+lei de causa e efeito e
+livre-arbítrio e
+lógica e
+má compreensão do princípio da
+metempsicose e
+missão e
+momento da
+mundo inferior e
+mundo para
+mundos evoluídos e
+necessidade da
+notícia histórica sobre a
+novo corpo físico e
+objeções à lei de
+objetivos da
+opinião humana e
+parentela e
+passagens evangélicas e
+penalização e
+perda de faculdades intelectuais e
+perfeição e
+perturbação e
+posição social e
+povoamento e
+prosseguimento de amparo a descendente após a * do protetor
+prova da
+questões insolúveis e
+rebeldia e
+recusa de corpo para
+resposta de Jesus a Nicodemos e a lei de
+ressurreição e
+sexo e
+sofrimento e
+temor de fracasso nas provas e
+unicidade das existências corpóreas e
+
+##### Universo e
+vidas passadas e
+##### Reencontro afeições e
+##### Reforma legislação e fatores influentes para
+##### Reforma íntima exame da própria individualidade e
+imperfeições e
+influenciação perniciosa e
+
+##### Regeneração destruição e
+nova era para – proleg. ##### Regulamento trabalho e
+##### Reinos três
+##### Relacionamento Deus, homem e
+entre os espíritos
+##### Espírito familiar e
+espíritos durante o sono e
+homem e
+no mundo espiritual
+##### Relações de simpatia e de antipatia entre os espíritos
+##### Religião adoração e
+antagonismos pela
+ciência e
+penas eternas e
+respeito a crenças alheias e
+##### Religiosidade Espiritismo e
+
+##### Remorso culpado e
+
+##### Reparação boas ações na * do mal
+Deus e
+falta e
+ofensas e
+orgulho e
+##### Repouso objetivo do
+trabalho do Espírito e
+velhice e
+##### Reprodução controle e
+equilíbrio populacional e
+métodos anticoncepcionais e
+mundo corporal e
+obstáculos à
+primitivas raças e
+seres vivos e
+##### Resgate reparação das faltas pelo
+##### Resignação
+
+##### Espiritismo e 
+
+##### sofrimento e
+
+##### Respeito direito alheio e
+feto e
+livre-arbítrio e
+opinião sincera e
+##### Responsabilidade conhecimento e
+gradação da
+herança de riqueza de má procedência e
+individual
+paternidade e
+prática do bem e
+proporcionalidade de compreensão e
+sociedade e
+##### Resposta participação de médium e
+
+##### Ressurreição ciência e
+
+##### Espiritismo e
+reencarnação e
+##### Reunião instrutiva
+
+##### no espaço com revelação pelo sonho
+
+parentes e amigos, após a morte, em
+##### Revelação ciência e
+espíritos superiores e
+futuro e
+lei divina e
+lei divina, Jesus e
+posição superior de diferentes mundos e
+verdade e
+
+vidas anteriores e
+
+##### Riqueza boa utilização da
+conceito de
+desigualdade de
+herança e a origem da
+homem de bem e a prova da
+idealismo de devaneios sobre igualdade de
+merecimento e
+miséria e
+ostentação de
+
+prova da
+
+Ritual adoração e
+
+---
+
+`lde.6.2.18`
+#### [S](#lde.6.2.18)
+
+##### Sabedoria perfeição e
+##### Sacrifício animal e adoração
+animal e oferenda
+benefício alheio e
+da própria vida
+humano e adoração
+morte e
+##### Satanás alegoria com atributos da animalidade e
+forma alegórica do mal e
+venda da alma a
+##### Saúde alimento e
+##### Selvagem alma do
+antropofagia e
+diferença entre o civilizado e o
+instinto
+##### Semelhança física e moral
+##### Sensação belezas naturais e
+causa desconhecida e
+espíritos e
+música e
+sonambulismo e
+vegetal e
+##### Sensibilidade convulsionários e
+decepção e
+força física da mulher e
+ingratidão e
+vulnerabilidade e
+##### Sensualidade poligamia e
+##### Sentido alegórico e interpretação da Bíblia
+##### Sentimento adoração e
+alma e
+conhecimento e
+instintivo
+razão e
+##### Separação morte violenta, cessação da vida e * da alma
+parcial da alma e do corpo físico
+responsabilidade pela
+##### Sepultamento comparecimento numeroso a
+escolha de local de
+funeral e
+presença de desencarnado em
+##### Ser humano ver Homem Seres inorgânicos seres vivos e
+##### Seres vivos aparecimento dos
+aperfeiçoamento e
+criação dos
+destruição recíproca dos
+formação dos
+geração espontânea dos
+instinto de conservação e
+lei de destruição e
+lei do progresso e
+morte de
+princípio inteligente e
+reprodução dos
+seres inorgânicos e
+vida material e
+
+Seriedade estudo do Espiritismo com
+
+Sexo espíritos e
+
+nos espíritos
+reencarnação e
+
+##### Sexos encarnação e
+união dos
+##### Silêncio sociedade e
+utilidade do
+##### Símbolo desenho da cepa pelos espíritos e representação de 
+
+##### representação do Espírito por cor, alegoria e
+
+##### Simpatia antipatia e
+aparentemente estranhos e
+companhia dos espíritos e
+convivência e
+espíritos da mesma ordem e
+espíritos e
+gradações na
+individualidade do Espírito e
+lembrança de atos maus e
+magnetismo e
+predicados necessários à existência de
+promoção da
+próximo e
+##### Simplicidade preferência pela
+##### Sinceridade adoração com
+##### Sintonia faixas inferiores e
+tendências humanas e
+##### Sistema antirreencarnacionista
+indagações e busca de respostas pela construção de
+passagem do Espírito pela fieira animal e
+planetário e a Terra
+
+##### Sobrenatural 
+
+##### Espiritismo e o
+
+##### religião e o 
+
+##### Sobrevivência probabilidades de
+
+##### Sociedade casamento e
+convivência e
+crueldade e
+divulgação de escândalos e
+família e
+fome e
+isolamento e
+natureza e
+responsabilidade da
+retiro para trabalho em benefício da
+severidade das leis e
+vida em
+##### Sofrimento aplicação do
+apoio dos bons espíritos no
+arrependimento e
+causador do
+causas do
+civilização e
+consolação e
+duração do
+ensino pelo
+erros atuais e
+erros de outras vidas e
+##### Espiritismo e 
+
+##### Espírito e
+
+##### Espírito mau e seu
+##### Espírito protetor, erros de outrem e
+eterno
+explicação do – concl., 
+
+felicidade e
+físico e moral
+imperfeições e
+impulso do progresso mediante
+influenciação e
+lembrança de * pelo desencarnado
+livre-arbítrio e
+moral e material
+natureza do
+necessidade de extirpação do egoísmo e
+necessidade do
+orgulho, egoísmo e * dos bons espíritos
+perda de entes queridos e
+pessoa de bem e seu
+reencarnação e
+resignação e
+resistência ao
+segundo os bons espíritos
+vida futura e
+voluntário
+
+##### Sol ser humano e direito de lugar ao
+##### Solidariedade caridade e
+conceito de
+egoísmo e
+##### Espiritismo e pregação da
+isenção do trabalho e
+mundos e
+##### Som percepção do
+##### Sonambulismo características do
+espécie de
+##### Espiritismo e
+êxtase e
+faculdades do
+fenômeno espírita e
+
+magnético e sonambulismo natural
+provocado
+sensações e
+sonho e
+
+##### Sonâmbulo alma e
+conceito de
+##### Espírito desencarnado e
+extático e
+ideias inatas e
+percepção visual do
+visão à distância do
+##### Sonho comunicação com visita de encarnados no
+conceito de
+criança, adulto e
+incoerência do
+pressentimento e
+sonambulismo e
+veracidade do
+visitação e
+##### Sono alma durante o
+influência do
+relacionamento com espíritos e
+sonho
+
+Sorte gênero de prova com rótulo de
+
+##### Submissão costumes sociais e consequências de
+leis divinas e
+##### Substância sentidos e
+##### Sugestão pensamento e
+pensamento próprio e
+##### Suicídio antagonismo das leis da natureza e
+assassinato e
+busca de uma vida melhor e
+causa de
+causas da loucura e 
+consequências do
+culpa e
+deixar-se morrer de fome e
+desespero e
+desgosto pela vida e
+dever e
+direito de cometer o
+duelo e
+efeitos comuns nos casos de
+eutanásia e
+falta e
+família e
+fuga pelo
+indireto
+induzir ao
+instinto de conservação e
+intenção e
+interrupção da vida e consequências do
+ligação do Espírito ao cadáver no
+loucura e
+má ação e
+moral
+morte inevitável e
+orgulho e
+perda de entes queridos e
+perturbação espiritual e
+punição pelo
+responsabilidade e
+sacrifício e
+salvar outra vida e
+segundo o ##### Espiritismo
+sofrimento e
+vergonha e
+vício e
+voluntário e loucura
+
+##### Supérfluo ambição e
+necessário e
+##### Superior dependência do Espírito, reencarnado ou na erraticidade, a
+inferior e
+##### Superioridade autoridade e
+##### Superstição alegorias e
+
+utilização do necessário e
+
+---
+
+`lde.6.2.19`
+#### [T](#lde.6.2.19)
+
+##### Talismã feiticeiro e
+##### Temor ver Medo Tempo espíritos e compreensão do
+formação dos mundos e
+percepção integral das leis divinas e
+personificação do
+predito
+Tentação conduta diante da
+cumprimento de missão e
+oração dominical e
+prova da riqueza e
+razão e
+
+##### Teologia fogo moral e
+##### Teoria alma subdividida e
+ideias inatas
+metades eternas e
+panteísta
+##### Terra bens da
+começo dos tempos e
+desaparecimento e aparecimento de novas raças na
+desenvolvimento e
+encarnação na
+grau de purificação do Espírito extático e partida da
+habitantes exóticos na
+história da formação da
+informações sobre diferentes mundos e
+interior da
+movimento da
+mundos transitórios e a
+período de humanização do Espírito e
+população da
+povoamento da
+primeiros ocupantes da
+qualidade da encarnação na
+reencarnação em mundo inferior à
+reencarnação na
+sistema planetário e
+vontade divina e governo da
+
+##### Timidez mal e * dos bons
+##### Tiptologia mesas girantes e
+
+##### sematologia e 
+
+##### Trabalho bases fundamentais para o
+
+coletividade dos espíritos e
+conceito de
+descanso e
+divino
+exigências da lei do
+exploração do
+impossibilidade de conseguir
+início de obra do bem e participação de outrem no
+interesse pelo
+limite do
+natureza das necessidades e
+necessidade do
+ociosidade e
+ocupação e
+organização da sociedade e
+permanente de Deus
+resignação contra as vicissitudes e
+satisfação do necessário e
+##### Transformação destruição e
+morte e
+progressiva
+
+##### Transição colônia de
+espíritos errantes e
+instinto em fase de
+ordem espiritual e
+##### Transmigração progressiva
+
+##### Trasgo
+
+##### Túmulo igualdade e
+lembrança das ações boas ou más e
+
+visitação a
+
+---
+
+`lde.6.2.20`
+#### [U](#lde.6.2.20)
+
+##### Ubiquidade Espírito e
+##### União almas sem afinidade na
+amor ausente na
+antipatia e
+##### Espiritismo e
+
+##### espíritos bons e
+
+indissolubilidade e
+momento da * da alma ao corpo
+perfeição e
+##### Universalidade existência de Deus e * de sentimento instintivo
+##### Universo criação do
+espaço do
+harmonia do
+presença dos espíritos puros no
+
+reencarnação e
+
+---
+
+`lde.6.2.21`
+#### [V](#lde.6.2.21)
+
+##### Vácuo espaço universal e
+##### Valor da intenção
+do conhecimento de si mesmo
+intrínseco das funções da mulher
+prece ao Espírito bom e
+
+##### Vegetal mineral e
+mundos superiores e
+pensamento e
+percepções e
+sensações e
+vida do
+##### Velhice repouso na
+##### Velocidade transporte do Espírito de um lugar para outro e
+##### Verdade revelação da
+##### Vergonha suicídio e
+##### Vicente de Paulo (São) esmola e
+##### Vício banimento de
+contato do
+criminalidade e
+desinteresse pessoal e
+suicídio e
+virtude e
+
+
+
+Vida comprometimento da
+conhecimento antecipado de gênero de
+conselhos sobre a
+contemplativa
+corporal e fases
+desgosto pela
+eterna
+infinito e
+influenciação dos espíritos na
+instinto de conservação e
+intrauterina
+livre-arbítrio e fases da
+material e moral
+morte e
+mundo espiritual e continuação da
+sacrifício da
+uso dos bens terrenos e
+
+##### Vida corpórea acompanhamento na
+função da
+homem de bem e
+vida espiritual e apego à
+##### Vida espiritual fases da
+influenciação durante a
+lembrança do corpo físico e
+ocupações e
+paralelismo da vida humana com a
+recapitulação da vida corpórea e
+reencarnação e
+retorno à
+vida corpórea e
+vida social e
+
+##### Vida futura ausência de
+boa e má ação e
+compreensão da
+dificuldade em descrever a
+existência de Deus e
+hipocrisia e
+intuição da
+preocupação com a
+recursos para a
+respeito aos mortos e
+sentimento instintivo da
+vida presente e
+vítimas e
+##### Vida social necessidade da
+##### Vida terrena Espírito e objetivo da
+recordação de várias presenças na Terra e
+##### Vidas passadas adversários de
+conhecimento de
+consequências da lembrança de
+memória e
+recordação de
+sabedoria divina e esquecimento de
+
+##### Vingança Espírito e
+##### Virtude sublimidade da
+vícios e
+Visão de Deus pelos espíritos
+
+##### Espírito e
+faculdade da
+limitação da
+##### Visita comunicação, em sonho, entre encarnados e ocorrência de
+espíritos encarnados e marcação de
+espiritual entre encarnados
+imposição de
+sonho e
+##### Vista da alma
+##### Vocação desvio da
+orgulho e
+ponto de vista de conhecimento e
+profissional e felicidade
+progresso em experiência corporal e
+seguir a
+
+##### Vontade crença em Deus e
+##### Espírito reencarnante e
+paixão e
+poder da
+##### Voto de silêncio relações sociais e
+
+sociedade e
+
+---
+
+`lde.6.2.22`
+#### [Z](#lde.6.2.22)
+
+##### Zelo
+
+excesso de
+
+❦
+
+FIM
