@@ -1,3 +1,6 @@
+`lde`
+# [O LIVRO DOS ESPÍRITOS](#lde)
+`lde.0`
 ## [Parte 0. Pré-textual](#lde.0)
 `lde.0.1`
 ### [Folha de rosto](#lde.0.1)
