@@ -49,12 +49,12 @@ Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos 
 
 Clique [aqui](./lde-single-file.md) para abrir o livro em arquivo único. Aqui estão os links para as partes individuais:
 
-0. [link](./partes/lde.p0.md)
-1. [link](./partes/lde.p1.md)
-2. [link](./partes/lde.p1.md)
-3. [link](./partes/lde.p3.md)
-4. [link](./partes/lde.p4.md)
-5. [link](./partes/lde.p5.md)
-6. [link](./partes/lde.p6.md)
+0. [link](./partes/lde.0.md)
+1. [link](./partes/lde.1.md)
+2. [link](./partes/lde.2.md)
+3. [link](./partes/lde.3.md)
+4. [link](./partes/lde.4.md)
+5. [link](./partes/lde.5.md)
+6. [link](./partes/lde.6.md)
 
 <img src="https://user-images.githubusercontent.com/107352082/225607677-43f4b829-6245-481d-82f1-276dbc95f30e.jpg" alt="capa de O Livro dos Espíritos" style="max-height: 30vh">
