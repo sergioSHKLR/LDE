@@ -486,6 +486,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ## [Parte 1. Das causas primárias](#lde.1)
 
+---
 
 `lde.1.1`
 
