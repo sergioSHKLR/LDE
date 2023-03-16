@@ -6829,11 +6829,11 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 O Espiritismo se apresenta sob três aspectos diferentes: o das manifestações, o dos princípios e da filosofia que delas decorrem e o da aplicação desses princípios. Daí, três classes, ou, antes, três graus de adeptos: 1o  os que creem nas manifestações e se limitam a comprová-las; para esses, o Espiritismo é uma ciência experimental; 2o  os que lhe percebem as consequências morais; 3o  os que praticam ou se esforçam por praticar essa moral. Qualquer que seja o ponto de vista, científico ou moral, sob que considerem esses estranhos fenômenos, todos compreendem constituírem eles uma ordem, inteiramente nova, de ideias, que surge e da qual não pode deixar de resultar uma profunda modificação no estado da Humanidade e compreendem igualmente que essa modificação não pode deixar de operar-se no sentido do bem.
 Quanto aos adversários, também podemos classificá-los em três categorias.
 
-1ª ) A dos que negam sistematicamente tudo o que é novo, ou deles não venha, e que falam sem conhecimento de causa. A esta classe pertencem todos os que não admitem senão o que possa ter o testemunho dos sentidos. Nada viram, nada querem ver e ainda menos aprofundar. Ficariam mesmo aborrecidos se vissem as coisas muito claramente, porque forçoso lhes seria convir em que não têm razão. Para eles, o Espiritismo é uma quimera, uma loucura, uma utopia, não existe: está dito tudo. São os incrédulos de caso pensado. Ao lado desses, podem colocar-se os que não se dignam de dar aos fatos a mínima atenção, sequer por desencargo de consciência, a fim de poderem dizer: Quis ver e nada vi. Não compreendem que seja preciso mais de meia hora para alguém se inteirar de uma ciência. 
+1ª. A dos que negam sistematicamente tudo o que é novo, ou deles não venha, e que falam sem conhecimento de causa. A esta classe pertencem todos os que não admitem senão o que possa ter o testemunho dos sentidos. Nada viram, nada querem ver e ainda menos aprofundar. Ficariam mesmo aborrecidos se vissem as coisas muito claramente, porque forçoso lhes seria convir em que não têm razão. Para eles, o Espiritismo é uma quimera, uma loucura, uma utopia, não existe: está dito tudo. São os incrédulos de caso pensado. Ao lado desses, podem colocar-se os que não se dignam de dar aos fatos a mínima atenção, sequer por desencargo de consciência, a fim de poderem dizer: Quis ver e nada vi. Não compreendem que seja preciso mais de meia hora para alguém se inteirar de uma ciência. 
 
-2ª ) A dos que, sabendo muito bem o que pensar da realidade dos atos, os combatem, todavia, por motivos de interesse pessoal. Para estes, o Espiritismo existe, mas lhe receiam as consequências. Atacam-no como a um inimigo. 
+2ª. A dos que, sabendo muito bem o que pensar da realidade dos atos, os combatem, todavia, por motivos de interesse pessoal. Para estes, o Espiritismo existe, mas lhe receiam as consequências. Atacam-no como a um inimigo. 
 
-3ª ) A dos que acham na moral espírita uma censura por demais severa aos seus atos ou às suas tendências. Tomado ao sério, o Espiritismo os embaraçaria; não o rejeitam, nem o aprovam: preferem fechar os olhos. Os primeiros são movidos pelo orgulho e pela presunção; os segundos, pela ambição; os terceiros, pelo egoísmo. Concebe-se que, nenhuma solidez tendo, essas causas de oposição venham a desaparecer com o tempo, pois em vão procuraríamos uma quarta classe de antagonistas, a dos que em patentes provas contrárias se apoiassem demonstrando estudo laborioso e porfiado da questão. Todos apenas opõem a negação, nenhum aduz demonstração séria e irrefutável.
+3ª. A dos que acham na moral espírita uma censura por demais severa aos seus atos ou às suas tendências. Tomado ao sério, o Espiritismo os embaraçaria; não o rejeitam, nem o aprovam: preferem fechar os olhos. Os primeiros são movidos pelo orgulho e pela presunção; os segundos, pela ambição; os terceiros, pelo egoísmo. Concebe-se que, nenhuma solidez tendo, essas causas de oposição venham a desaparecer com o tempo, pois em vão procuraríamos uma quarta classe de antagonistas, a dos que em patentes provas contrárias se apoiassem demonstrando estudo laborioso e porfiado da questão. Todos apenas opõem a negação, nenhum aduz demonstração séria e irrefutável.
 Fora presumir demais da natureza humana supor que ela possa transformar-se de súbito, por efeito das ideias espíritas. A ação que estas exercem não é certamente idêntica, nem do mesmo grau, em todos os que as professam, mas o resultado dessa ação, qualquer que seja, ainda que extremamente fraco, representa sempre uma melhora. Será, quando menos, o de dar a prova da existência de um mundo extracorpóreo, o que implica a negação das doutrinas materialistas. Isto deriva da só observação dos fatos, porém, para os que compreendem o Espiritismo filosófico e nele veem outra coisa, que não somente fenômenos mais ou menos curiosos, diversos são os seus efeitos.
 Fora presumir demais da natureza humana supor que ela possa transformar-se de súbito, por efeito das ideias espíritas. A ação que estas exercem não é certamente idêntica, nem do mesmo grau, em todos os que as professam, mas o resultado dessa ação, qualquer que seja, ainda que extremamente fraco, representa sempre uma melhora. Será, quando menos, o de dar a prova da existência de um mundo extracorpóreo, o que implica a negação das doutrinas materialistas. Isto deriva da só observação dos fatos, porém, para os que compreendem o Espiritismo filosófico e nele veem outra coisa, que não somente fenômenos mais ou menos curiosos, diversos são os seus efeitos.
 O primeiro e mais geral consiste em desenvolver o sentimento religioso até naquele que, sem ser materialista, olha com absoluta indiferença para as questões espirituais. Daí lhe advém o desprezo pela morte. Não dizemos o desejo de morrer; longe disso, porquanto o espírita defenderá sua vida como qualquer outro, mas uma indiferença que o leva a aceitar, sem queixa, nem pesar, uma morte inevitável, como coisa mais de alegrar do que de temer, pela certeza que tem do estado que se lhe segue.
@@ -6871,9 +6871,13 @@ Santo Agostinho
 
 ---
 
-
+`lde.6`
 
 ## [Parte 6. Pós-textual](#lde.6)
+
+---
+
+`lde.6.1`
 
 ### 1. Nota explicativa [^27]
 
@@ -6940,7 +6944,13 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 ---
 
+`lde.6.2`
+
 ### 2. Índice Geral
+
+---
+
+`lde.6.2.01`
 
 #### A
 
@@ -7313,6 +7323,8 @@ Avoengos ver Antepassados
 
 ---
 
+`lde.6.2.02`
+
 #### B
 
 ##### Batista, João
@@ -7383,6 +7395,8 @@ criação e
 linguagem figurada e a
 
 ---
+
+`lde.6.2.03`
 
 #### C
 
@@ -7836,6 +7850,8 @@ possibilidade de * da desordem e da imprevidência
 
 ---
 
+`lde.6.2.04`
+
 #### D
 
 ##### Decálogo
@@ -8132,6 +8148,8 @@ presciência, pressentimento e
 variações no poder da
 
 ---
+
+`lde.6.2.05`
 
 #### E
 
@@ -8811,6 +8829,8 @@ sonambulismo e
 
 ---
 
+`lde.6.2.06`
+
 #### F
 
 ##### Falibilidade
@@ -9044,6 +9064,10 @@ predição e
 revelação do
 vida corpórea e certeza do
 
+---
+
+`lde.6.2.07`
+
 #### G
 
 ##### Gêmeos 
@@ -9090,6 +9114,10 @@ luta contra causas justas e
 natureza animal da
 necessidade da
 santa
+
+---
+
+`lde.6.2.08`
 
 #### H
 
@@ -9184,6 +9212,8 @@ período de
 desinteresse e
 
 ----
+
+`lde.6.2.09`
 
 #### I
 
@@ -9465,9 +9495,9 @@ sociedade e
 
 ---
 
+`lde.6.2.10`
 
-
-####J
+#### J
 
 ##### Jesus 
 
@@ -9525,6 +9555,8 @@ consolo do
 
 ---
 
+`lde.6.2.11`
+
 #### L
 
 ##### Laços de família 
@@ -9553,7 +9585,7 @@ duelo e
 
 aplicação da
 
-#####Lei de causa e efeito
+Lei de causa e efeito
 
 aplicação da
 opressão aos fracos e
@@ -9586,7 +9618,7 @@ conhecimento da
 consciência e
 conteúdo da
 cumprimento da
-destruição e – 728
+destruição e
 divisão da
 ensino dos espíritos e
 escravidão e
@@ -9747,6 +9779,8 @@ abandono do protegido pelo protetor conforme elucidações de
 chegada ao progresso e
 
 ---
+
+`lde.6.2.12`
 
 #### M
 
@@ -10084,6 +10118,8 @@ sensibilidade dos espíritos para a
 
 ----
 
+`lde.6.2.13`
+
 #### N
 
 ##### Nação 
@@ -10164,6 +10200,8 @@ evidência e
 importância espiritual do
 
 ---
+
+`lde.6.2.14`
 
 #### O
 
@@ -10268,6 +10306,8 @@ estilo alegórico na literatura do
 benefício e
 
 ---
+
+`lde.6.2.15`
 
 #### P
 
@@ -10791,11 +10831,15 @@ aperfeiçoamento moral do Espírito e
 
 ---
 
+`lde.6.2.16`
+
 #### Q
 
 Queda homem, livre-arbítrio e
 
 ---
+
+`lde.6.2.17`
 
 #### R
 
@@ -10804,9 +10848,9 @@ diversidade de * humanas
 desaparecimento e substituição das
 desigualdade de aptidões e
 marcha do progresso e extinção de
-miscigenação da grande família humana e novas – 690
+miscigenação da grande família humana e novas
 relevância no caráter das * primitivas
-renovação de povos na ##### Terra e de
+renovação de povos na Terra e de
 
 ##### Raciocínio evidências e
 lógico e argumentação sobre reencarnação
@@ -10825,14 +10869,17 @@ missão e
 ##### Reconhecimento manifestação de
 marcas de civilização perfeita e
 pais, filhos, amigos e
-##### Recordação ver ##### Lembrança ##### Reencarnação – 166-170 alma e
+##### Recordação ver Lembrança Reencarnação
+
+##### alma e
+
 aperfeiçoamento das raças pela
 aproveitamento do tempo e
 aquisições do Espírito e
 arrependimento sincero e
 características e
 caráter moral e
-conhecimento das leis morais e – 619
+conhecimento das leis morais e
 conhecimento e
 considerações sobre
 corpo físico, escolha de provas e
@@ -10845,6 +10892,7 @@ erraticidade e
 escolha das provas e
 escolha e
 espaço de tempo para
+
 ##### Espírito errante e
 espíritos e
 espíritos inferiores e
@@ -10852,7 +10900,7 @@ estacionamento, aquisições do Espírito e
 evolução e
 evolução e limite à
 evolução espiritual e
-evolução espiritual pela – 271, 612, 789, 985, 991 existências consecutivas e
+evolução espiritual pela existências consecutivas e
 experiência e
 experiência feminina e
 expiação de idiotas, cretinos e
@@ -10865,6 +10913,7 @@ genealogia e
 gestação e
 ideias inatas e
 idiotia e
+
 ##### Igreja e
 igualdade para todos na lei da
 inconformismo e
@@ -10874,7 +10923,7 @@ justiça da
 justiça divina e
 laços de família e
 lei de causa e efeito e
-livre-arbítrio e – 847
+livre-arbítrio e
 lógica e
 má compreensão do princípio da
 metempsicose e
@@ -10902,19 +10951,21 @@ prova da
 questões insolúveis e
 rebeldia e
 recusa de corpo para
-resposta de ##### Jesus a ##### Nicodemos e a lei de
+resposta de Jesus a Nicodemos e a lei de
 ressurreição e
 sexo e
 sofrimento e
 temor de fracasso nas provas e
 unicidade das existências corpóreas e
+
 ##### Universo e
 vidas passadas e
 ##### Reencontro afeições e
 ##### Reforma legislação e fatores influentes para
 ##### Reforma íntima exame da própria individualidade e
-imperfeições e – 14
+imperfeições e
 influenciação perniciosa e
+
 ##### Regeneração destruição e
 nova era para – proleg. ##### Regulamento trabalho e
 ##### Reinos três
@@ -10930,7 +10981,10 @@ antagonismos pela
 ciência e
 penas eternas e
 respeito a crenças alheias e
-##### Religiosidade ##### Espiritismo e – concl., ##### V##### I##### I ##### Remorso culpado e
+##### Religiosidade Espiritismo e
+
+##### Remorso culpado e
+
 ##### Reparação boas ações na * do mal
 Deus e
 falta e
@@ -10939,7 +10993,7 @@ orgulho e
 ##### Repouso objetivo do
 trabalho do Espírito e
 velhice e
-##### Reprodução controle e – 693
+##### Reprodução controle e
 equilíbrio populacional e
 métodos anticoncepcionais e
 mundo corporal e
@@ -10947,7 +11001,12 @@ obstáculos à
 primitivas raças e
 seres vivos e
 ##### Resgate reparação das faltas pelo
-##### Resignação ##### Espiritismo e – concl., ##### V##### I##### I sofrimento e
+##### Resignação
+
+##### Espiritismo e 
+
+##### sofrimento e
+
 ##### Respeito direito alheio e
 feto e
 livre-arbítrio e
@@ -10960,18 +11019,27 @@ paternidade e
 prática do bem e
 proporcionalidade de compreensão e
 sociedade e
-##### Resposta participação de médium e – introd., ##### V ##### Ressurreição ciência e
+##### Resposta participação de médium e
+
+##### Ressurreição ciência e
+
 ##### Espiritismo e
 reencarnação e
-##### Reunião instrutiva – introd., ##### V##### I##### I##### I no espaço com revelação pelo sonho
+##### Reunião instrutiva
+
+##### no espaço com revelação pelo sonho
+
 parentes e amigos, após a morte, em
 ##### Revelação ciência e
 espíritos superiores e
 futuro e
 lei divina e
-lei divina, ##### Jesus e – 626
+lei divina, Jesus e
 posição superior de diferentes mundos e
-verdade e – 628, concl., ##### V##### I##### I##### I vidas anteriores e
+verdade e
+
+vidas anteriores e
+
 ##### Riqueza boa utilização da
 conceito de
 desigualdade de
@@ -10982,7 +11050,13 @@ merecimento e
 miséria e
 ostentação de
 
-prova da – 533, 815, 925 ##### Ritual adoração e
+prova da
+
+Ritual adoração e
+
+---
+
+`lde.6.2.18`
 
 #### S
 
@@ -11001,7 +11075,7 @@ venda da alma a
 antropofagia e
 diferença entre o civilizado e o
 instinto
-##### Semelhança física e moral – 207-217
+##### Semelhança física e moral
 ##### Sensação belezas naturais e
 causa desconhecida e
 espíritos e
@@ -11027,12 +11101,12 @@ responsabilidade pela
 escolha de local de
 funeral e
 presença de desencarnado em
-##### Ser humano ver ##### Homem ##### Seres inorgânicos seres vivos e
+##### Ser humano ver Homem Seres inorgânicos seres vivos e
 ##### Seres vivos aparecimento dos
 aperfeiçoamento e
 criação dos
 destruição recíproca dos
-formação dos – 43-49
+formação dos
 geração espontânea dos
 instinto de conservação e
 lei de destruição e
@@ -11041,13 +11115,23 @@ morte de
 princípio inteligente e
 reprodução dos
 seres inorgânicos e
-vida material e – introd., ##### I##### I ##### Seriedade estudo do ##### Espiritismo com – introd., ##### V##### I##### I##### I ##### Sexo espíritos e – 200-202 nos espíritos
+vida material e
+
+Seriedade estudo do Espiritismo com
+
+Sexo espíritos e
+
+nos espíritos
 reencarnação e
+
 ##### Sexos encarnação e
 união dos
 ##### Silêncio sociedade e
 utilidade do
-##### Símbolo desenho da cepa pelos espíritos e representação de – proleg. representação do Espírito por cor, alegoria e
+##### Símbolo desenho da cepa pelos espíritos e representação de 
+
+##### representação do Espírito por cor, alegoria e
+
 ##### Simpatia antipatia e
 aparentemente estranhos e
 companhia dos espíritos e
@@ -11061,15 +11145,23 @@ magnetismo e
 predicados necessários à existência de
 promoção da
 próximo e
-##### Simplicidade preferência pela – 673
+##### Simplicidade preferência pela
 ##### Sinceridade adoração com
 ##### Sintonia faixas inferiores e
 tendências humanas e
 ##### Sistema antirreencarnacionista
 indagações e busca de respostas pela construção de
 passagem do Espírito pela fieira animal e
-planetário e a ##### Terra
-##### Sobrenatural ##### Espiritismo e o – concl., ##### I##### I religião e o – concl., ##### I##### I ##### Sobrevivência probabilidades de
+planetário e a Terra
+
+##### Sobrenatural 
+
+##### Espiritismo e o
+
+##### religião e o 
+
+##### Sobrevivência probabilidades de
+
 ##### Sociedade casamento e
 convivência e
 crueldade e
@@ -11093,12 +11185,16 @@ duração do
 ensino pelo
 erros atuais e
 erros de outras vidas e
-##### Espiritismo e – concl., ##### V
+##### Espiritismo e 
+
 ##### Espírito e
+
 ##### Espírito mau e seu
 ##### Espírito protetor, erros de outrem e
 eterno
-explicação do – concl., ##### V felicidade e
+explicação do – concl., 
+
+felicidade e
 físico e moral
 imperfeições e
 impulso do progresso mediante
@@ -11118,6 +11214,7 @@ resistência ao
 segundo os bons espíritos
 vida futura e
 voluntário
+
 ##### Sol ser humano e direito de lugar ao
 ##### Solidariedade caridade e
 conceito de
@@ -11130,11 +11227,14 @@ mundos e
 espécie de
 ##### Espiritismo e
 êxtase e
-faculdades do – 438
-fenômeno espírita e – introd., X##### V##### I magnético e sonambulismo natural
+faculdades do
+fenômeno espírita e
+
+magnético e sonambulismo natural
 provocado
 sensações e
 sonho e
+
 ##### Sonâmbulo alma e
 conceito de
 ##### Espírito desencarnado e
@@ -11153,7 +11253,10 @@ visitação e
 ##### Sono alma durante o
 influência do
 relacionamento com espíritos e
-sonho – 400-412 ##### Sorte gênero de prova com rótulo de
+sonho
+
+Sorte gênero de prova com rótulo de
+
 ##### Submissão costumes sociais e consequências de
 leis divinas e
 ##### Substância sentidos e
@@ -11162,8 +11265,9 @@ pensamento próprio e
 ##### Suicídio antagonismo das leis da natureza e
 assassinato e
 busca de uma vida melhor e
-causa de – 350
-causas da loucura e – introd., X##### V consequências do
+causa de
+causas da loucura e 
+consequências do
 culpa e
 deixar-se morrer de fome e
 desespero e
@@ -11198,27 +11302,34 @@ sofrimento e
 vergonha e
 vício e
 voluntário e loucura
+
 ##### Supérfluo ambição e
 necessário e
 ##### Superior dependência do Espírito, reencarnado ou na erraticidade, a
-inferior e – 277
+inferior e
 ##### Superioridade autoridade e
 ##### Superstição alegorias e
 
 utilização do necessário e
 
+---
+
+`lde.6.2.19`
+
 #### T
 
 ##### Talismã feiticeiro e
-##### Temor ver ##### Medo ##### Tempo espíritos e compreensão do
+##### Temor ver Medo Tempo espíritos e compreensão do
 formação dos mundos e
 percepção integral das leis divinas e
 personificação do
-predito – 1019, concl., ##### V##### I##### I##### I ##### Tentação conduta diante da
+predito
+Tentação conduta diante da
 cumprimento de missão e
 oração dominical e
 prova da riqueza e
 razão e
+
 ##### Teologia fogo moral e
 ##### Teoria alma subdividida e
 ideias inatas
@@ -11232,7 +11343,7 @@ encarnação na
 grau de purificação do Espírito extático e partida da
 habitantes exóticos na
 história da formação da
-informações sobre diferentes mundos e – 182
+informações sobre diferentes mundos e
 interior da
 movimento da
 mundos transitórios e a
@@ -11245,8 +11356,14 @@ reencarnação em mundo inferior à
 reencarnação na
 sistema planetário e
 vontade divina e governo da
+
 ##### Timidez mal e * dos bons
-##### Tiptologia mesas girantes e – introd., ##### I##### V sematologia e – introd., ##### I##### V ##### Trabalho bases fundamentais para o
+##### Tiptologia mesas girantes e
+
+##### sematologia e 
+
+##### Trabalho bases fundamentais para o
+
 coletividade dos espíritos e
 conceito de
 descanso e
@@ -11267,16 +11384,24 @@ resignação contra as vicissitudes e
 satisfação do necessário e
 ##### Transformação destruição e
 morte e
-progressiva – 997
+progressiva
+
 ##### Transição colônia de
 espíritos errantes e
 instinto em fase de
 ordem espiritual e
-##### Transmigração progressiva – 189-196 ##### Trasgo
+##### Transmigração progressiva
+
+##### Trasgo
+
 ##### Túmulo igualdade e
 lembrança das ações boas ou más e
 
 visitação a
+
+---
+
+`lde.6.2.20`
 
 #### U
 
@@ -11284,7 +11409,10 @@ visitação a
 ##### União almas sem afinidade na
 amor ausente na
 antipatia e
-##### Espiritismo e – concl., ##### IX espíritos bons e
+##### Espiritismo e
+
+##### espíritos bons e
+
 indissolubilidade e
 momento da * da alma ao corpo
 perfeição e
@@ -11296,13 +11424,18 @@ presença dos espíritos puros no
 
 reencarnação e
 
+---
+
+`lde.6.2.21`
+
 #### V
 
 ##### Vácuo espaço universal e
 ##### Valor da intenção
 do conhecimento de si mesmo
 intrínseco das funções da mulher
-prece ao Espírito bom e – 666
+prece ao Espírito bom e
+
 ##### Vegetal mineral e
 mundos superiores e
 pensamento e
@@ -11313,13 +11446,17 @@ vida do
 ##### Velocidade transporte do Espírito de um lugar para outro e
 ##### Verdade revelação da
 ##### Vergonha suicídio e
-##### Vicente de ##### Paulo (##### São) esmola e
+##### Vicente de Paulo (São) esmola e
 ##### Vício banimento de
 contato do
 criminalidade e
 desinteresse pessoal e
 suicídio e
-virtude e – 893-906 ##### Vida comprometimento da
+virtude e
+
+
+
+Vida comprometimento da
 conhecimento antecipado de gênero de
 conselhos sobre a
 contemplativa
@@ -11333,9 +11470,10 @@ intrauterina
 livre-arbítrio e fases da
 material e moral
 morte e
-mundo espiritual e continuação da – 159
+mundo espiritual e continuação da
 sacrifício da
 uso dos bens terrenos e
+
 ##### Vida corpórea acompanhamento na
 função da
 homem de bem e
@@ -11347,8 +11485,10 @@ ocupações e
 paralelismo da vida humana com a
 recapitulação da vida corpórea e
 reencarnação e
-retorno à – 149-165 vida corpórea e
+retorno à
+vida corpórea e
 vida social e
+
 ##### Vida futura ausência de
 boa e má ação e
 compreensão da
@@ -11364,16 +11504,19 @@ vida presente e
 vítimas e
 ##### Vida social necessidade da
 ##### Vida terrena Espírito e objetivo da
-recordação de várias presenças na ##### Terra e
+recordação de várias presenças na Terra e
 ##### Vidas passadas adversários de
 conhecimento de
-consequências da lembrança de – 394
+consequências da lembrança de
 memória e
 recordação de
 sabedoria divina e esquecimento de
+
 ##### Vingança Espírito e
 ##### Virtude sublimidade da
-vícios e – 893-906 ##### Visão de Deus pelos espíritos
+vícios e
+Visão de Deus pelos espíritos
+
 ##### Espírito e
 faculdade da
 limitação da
@@ -11385,9 +11528,11 @@ sonho e
 ##### Vista da alma
 ##### Vocação desvio da
 orgulho e
-ponto de vista de conhecimento e – introd., ##### V##### I##### I profissional e felicidade
+ponto de vista de conhecimento e
+profissional e felicidade
 progresso em experiência corporal e
 seguir a
+
 ##### Vontade crença em Deus e
 ##### Espírito reencarnante e
 paixão e
@@ -11395,6 +11540,10 @@ poder da
 ##### Voto de silêncio relações sociais e
 
 sociedade e
+
+---
+
+`lde.6.2.22`
 
 #### Z
 
