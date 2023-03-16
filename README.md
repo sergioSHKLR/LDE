@@ -47,6 +47,14 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-Clique [aqui](./lde-single-file.md) para abrir o livro em arquivo único. Clique aqui para abrir o indíce de seis partes
+Clique [aqui](./lde-single-file.md) para abrir o livro em arquivo único. Aqui estão os links para as partes individuais:
+
+0. [link](./partes/lde.p0.md)
+1. [link](./partes/lde.p1.md)
+2. [link](./partes/lde.p1.md)
+3. [link](./partes/lde.p3.md)
+4. [link](./partes/lde.p4.md)
+5. [link](./partes/lde.p5.md)
+6. [link](./partes/lde.p6.md)
 
 <img src="https://user-images.githubusercontent.com/107352082/225607677-43f4b829-6245-481d-82f1-276dbc95f30e.jpg" alt="capa de O Livro dos Espíritos" style="max-height: 30vh">
