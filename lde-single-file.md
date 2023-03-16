@@ -1,4 +1,13 @@
+---
+YAML front matter
+---
+
+[TOC]
+
+
+
 `lde`
+
 # [O LIVRO DOS ESPÍRITOS](#lde)
 `lde.0`
 ## [Parte 0. Pré-textual](#lde.0)
