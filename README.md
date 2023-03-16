@@ -57,13 +57,13 @@ Clique abaixo para abrir o livro em arquivo único.
 
  Aqui estão os links para as partes individuais:
 
-0. [parte 0](./partes/lde.0.md)
-1. [parte 1](./partes/lde.1.md)
-2. [parte 2](./partes/lde.2.md)
-3. [parte 3](./partes/lde.3.md)
-4. [parte 4](./partes/lde.4.md)
-5. [parte 5](./partes/lde.5.md)
-6. [parte 6](./partes/lde.6.md)
+- [parte 0](./partes/lde.0.md)
+- [parte 1](./partes/lde.1.md)
+- [parte 2](./partes/lde.2.md)
+- [parte 3](./partes/lde.3.md)
+- [parte 4](./partes/lde.4.md)
+- [parte 5](./partes/lde.5.md)
+- [parte 6](./partes/lde.6.md)
 
 <img src="https://user-images.githubusercontent.com/107352082/225607677-43f4b829-6245-481d-82f1-276dbc95f30e.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 50%">
 
