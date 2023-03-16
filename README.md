@@ -47,6 +47,10 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
+Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um 'fork' para incluir inline links (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
+
+# Amai-vos e instruí-vos.
+
 Clique abaixo para abrir o livro em arquivo único.
 
 - [LDE](./lde-single-file.md)
@@ -62,8 +66,4 @@ Clique abaixo para abrir o livro em arquivo único.
 6. [parte 6](./partes/lde.6.md)
 
 <img src="https://user-images.githubusercontent.com/107352082/225607677-43f4b829-6245-481d-82f1-276dbc95f30e.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 50%">
-
-Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um 'fork' para incluir inline links (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
-
-# Amai-vos e instruí-vos.
 
