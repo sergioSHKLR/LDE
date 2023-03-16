@@ -3,11 +3,9 @@
 `lde`
 # [O LIVRO DOS ESPÍRITOS](#lde)
 
----
 `lde.0`
 ## [Parte 0. Pré-textual](#lde.0)
 
----
 `lde.0.1`
 
 ### [Folha de rosto](#lde.0.1)
@@ -488,13 +486,11 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ## [Parte 1. Das causas primárias](#lde.1)
 
----
 
 `lde.1.1`
 
 ### [1. De Deus](#lde.1.01)
 
----
 
 `lde.1.1.01`
 
