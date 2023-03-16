@@ -62,3 +62,8 @@ Clique abaixo para abrir o livro em arquivo único.
 6. [parte 6](./partes/lde.6.md)
 
 <img src="https://user-images.githubusercontent.com/107352082/225607677-43f4b829-6245-481d-82f1-276dbc95f30e.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 50%">
+
+Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um 'fork' para incluir inline links (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
+
+# Amai-vos e instruí-vos.
+
