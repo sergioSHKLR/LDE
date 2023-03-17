@@ -1,6 +1,6 @@
 # Uma das cinco partes de Doutrina.org
 
-<a name="#lde.q1"></a>O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
+<a name="lde.q1"></a>O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
 - um único arquivo.
 - separado em 6 partes.
 
