@@ -67,4 +67,4 @@ Clique abaixo para abrir o livro em arquivo único.
 
 <img src="./lde-capa.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 50%">
 
-[link](lde.q1)
+[link](#lde.q1)
