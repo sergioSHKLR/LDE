@@ -6147,6 +6147,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 846. Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influência existe, não será exercida com prejuízo do livre-arbítrio?
 > “É inegável que sobre o Espírito exerce influência a matéria, que pode embaraçar-lhe as manifestações. Daí vem que, nos mundos em que os corpos são menos materiais do que na Terra, as faculdades se desdobram mais livremente. Porém, o instrumento não dá a faculdade. Além disso, cumpre se distingam as faculdades morais das intelectuais. Tendo um homem o instinto do assassínio, seu próprio Espírito é, indubitavelmente, quem possui esse instinto e quem lho dá; não são seus órgãos que lho dão. Semelhante ao bruto, e ainda pior do que este, se torna aquele que nulifica o seu pensamento, para só se ocupar com a matéria, pois que não cuida mais de se premunir contra o mal. Nisto é que incorre em falta, porquanto assim procede por vontade sua.” (Vede 367 e seguintes – “Influência do organismo”.)
 
+<a name="lde.q847"></a>
 847. A aberração das faculdades tira ao homem o livre-arbítrio?
 > “Já não é senhor do seu pensamento aquele cuja inteligência se ache turbada por uma causa qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o Espírito que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse Espírito, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O Espírito, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria.” (371 e seguintes.)
 
@@ -6801,8 +6802,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 #### [A](#lde.6.2.01)
 
 ##### Aberração
-
-faculdades do homem e
+[faculdades do homem e](#lde.q847)
 
 ##### Aborto
 
