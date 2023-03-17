@@ -1,4 +1,4 @@
-<a name="#1">1</a>
+<a name="1">1</a>
 
 # Uma das cinco partes de Doutrina.org
 
@@ -69,4 +69,4 @@ Clique abaixo para abrir o livro em arquivo único.
 
 <img src="./lde-capa.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 50%">
 
-[link](1)
+[link](#1)
