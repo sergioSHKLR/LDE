@@ -14,25 +14,26 @@
 
 Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade -- segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns -- recebidos e coordenados por **Allan Kardec**. 
 
+
+Título do original francês
+*Le livre des esprits*
+(Paris, 18 de abril de 1857)
+
 Tradução de Guillon Ribeiro
 
 Copyright (c) 1944 by
 Federação Espírita Brasileira (FEB)
 ISBN 978-85-7328-728-8
 
-Título do original francês
-*Le livre des esprits*
-(Paris, 18 de abril de 1857)
-
 ---
 
 `lde.0.2`
 ### [Avisos legais](#lde.0.2)
-Nossos projetos almejam intensificar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
+Os projetos de **doutrina.org** almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia no entendimento e retenção do tópico estudado.
+
+Entretanto, cremos que alguns ressalvos devam ser feitos.
 
 Em primeiro lugar, não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
-
-A seguinte obra foi utilizada neste projeto. Ela tem o **copyright** datado de 1944 pela FEB e passou ao domínio público em 2014.
 
 *O Livro dos Espíritos*
 [ISBN 978-85-7328-728-8](https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Espíritos-Guillon-1.pdf)
