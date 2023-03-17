@@ -3005,15 +3005,15 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 >“Que seria ela, se assim não acontecesse? Não seria um ser humano.”
 
-357. Que consequências tem para o Espírito o aborto?
+<a name="lde.q357">357</a>. Que consequências tem para o Espírito o aborto?
 
 >“É uma existência nulificada e que ele terá de recomeçar.”
 
-358. Constitui crime a provocação do aborto, em qualquer período da gestação?
+<a name="lde.q358">358</a>. Constitui crime a provocação do aborto, em qualquer período da gestação?
 
 >“Há crime sempre que transgredis a Lei de Deus. Uma mãe, ou quem quer que seja, cometerá crime sempre que tirar a vida a uma criança antes do seu nascimento, pois isso impede uma alma de passar pelas provas a que serviria de instrumento o corpo que se estava formando.”
 
-359. Dado o caso que o nascimento da criança pusesse em perigo a vida da mãe dela, haverá crime em sacrificar-se a primeira para salvar a segunda?
+<a name="lde.q359">359</a>. Dado o caso que o nascimento da criança pusesse em perigo a vida da mãe dela, haverá crime em sacrificar-se a primeira para salvar a segunda?
 
 >“Preferível é se sacrifique o ser que ainda não existe a sacrificar-se o que já existe.”
 
@@ -6805,11 +6805,10 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 [faculdades do homem e](#lde.q847)
 
 ##### Aborto
-
-consequências do
-gestação e
-provocação do
-vida da mãe em perigo e
+[consequências do](#lde.q357)
+[gestação e](#lde.q358)
+[provocação do](#lde.q358) 
+[vida da mãe em perigo e](#lde.q359)
 
 ##### Abuso
 
