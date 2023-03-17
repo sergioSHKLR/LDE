@@ -6805,13 +6805,10 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 faculdades do homem e - [lde.q847](#lde.q847)
 
 ##### Aborto
-consequências do - [lde.q357](#lde.q357)
-
-gestação e - [lde.q358](#lde.q358)
-
-provocação do - [lde.q358](#lde.q358)
-
-vida da mãe em perigo e - [lde.q359](#lde.q359)
+ - consequências do - [lde.q357](#lde.q357)
+ - gestação e - [lde.q358](#lde.q358)
+ - provocação do - [lde.q358](#lde.q358)
+ - vida da mãe em perigo e - [lde.q359](#lde.q359)
 
 ##### Abuso
 
