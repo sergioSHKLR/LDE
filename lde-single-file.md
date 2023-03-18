@@ -470,7 +470,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ##### ❔ [4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
 
 👻 “Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá.”
->👴🏻 Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação.
+>👴🏻 Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação.<br />
 > O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 
 ##### ❔ [5](#lde.q5). Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
