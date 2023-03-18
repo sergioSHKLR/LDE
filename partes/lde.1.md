@@ -1,4 +1,3 @@
-`lde.1`
 ## [🗂️ Parte 1. Das causas primárias](#lde.1)
 ### [📑 1. De Deus](#lde.1.1)
 #### [📃 Deus e o infinito](#lde.1.1.01)
