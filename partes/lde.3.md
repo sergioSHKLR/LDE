@@ -1,5 +1,4 @@
 ## [Parte 3. Das Leis morais](#lde.3)
-`lde.3.01`
 ### [01. Da lei divina ou natural](#lde.3.01)
 ---
 `lde.3.01.01`
@@ -1907,5 +1906,3 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 
 [^23]: N.E.: Ver Nota Explicativa, p. 477.
 [^24]:  N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.)
-
----
