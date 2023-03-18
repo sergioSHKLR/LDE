@@ -1,11 +1,5 @@
-[TOC]
-
-`lde`
-
 # [O LIVRO DOS ESPÍRITOS](#lde)
-`lde.0`
 ## [Parte 0. Pré-textual](#lde.0)
-
 ### [Folha de rosto](#lde.0.1)
 
 *Filosofia Espiritualista*
@@ -13,7 +7,6 @@
 **O LIVRO DOS ESPÍRITOS**
 
 Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade -- segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns -- recebidos e coordenados por **Allan Kardec**. 
-
 
 Título do original francês
 *Le livre des esprits*
@@ -26,7 +19,6 @@ Federação Espírita Brasileira (FEB)
 ISBN 978-85-7328-728-8
 
 ---
-
 
 ### [Avisos legais](#lde.0.2)
 Os projetos de **doutrina.org** almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia no entendimento e retenção do tópico estudado.
@@ -68,7 +60,6 @@ Nota: A licença acima se aplica somente à diagramação, uso de painéis, core
 
 ---
 
-
 ### [Introdução](#lde.0.3)
 ---
 
@@ -79,7 +70,6 @@ Para se designarem coisas novas são precisos termos novos. Assim o exige a clar
 Como especialidade, **O Livro dos Espíritos** contém a Doutrina Espírita; como generalidade, prende-se à doutrina **espiritualista**, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
 
 ---
-
 
 #### [Introdução 02](#lde.0.3.02)
 
@@ -109,7 +99,6 @@ Passemos agora ao objeto principal desta instrução preliminar.
 
 ---
 
-
 #### [Introdução 03](#lde.0.3.03)
 
 Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contraditores. Vamos tentar responder a algumas das objeções destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a pretensão de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de boa-fé, aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo leviano e precipitadamente formado.
@@ -138,7 +127,6 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 ---
 
-
 #### [Introdução 04](#lde.0.3.04)
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior
@@ -161,7 +149,6 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 ---
 
-
 #### [Introdução 05](#lde.0.3.05)
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
@@ -177,7 +164,6 @@ Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossa
 Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem.
 
 ---
-
 
 #### [Introdução 06](#lde.0.3.06)
 
@@ -260,7 +246,6 @@ Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos E
 
 ---
 
-
 #### [Introdução 07](#lde.0.3.07)
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
@@ -281,7 +266,6 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 ---
 
-
 #### [Introdução 08](#lde.0.3.08)
 
 Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita, que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam a priori, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
@@ -291,7 +275,6 @@ O que caracteriza um estudo sério é a continuidade que se lhe dá. Será de ad
 Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões ociosas os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à turba dos Espíritos mentirosos e frívolos, sempre à espreita de ocasiões propícias para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de doidivanas, que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas sisudas, haveis de comportar-vos com toda a sisudez, na mais ampla acepção do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os Espíritos superiores vos abandonarão, como faz um professor com os discípulos negligentes.
 
 ---
-
 
 #### [Introdução 09](#lde.0.3.09)
 
@@ -304,7 +287,6 @@ Que respondem a essa evidência os antagonistas? — Sois vítimas do charlatani
 Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a Doutrina Espírita, que já conta milhões de adeptos, só os recruta entre os ignorantes? Os fenômenos em que ela se baseia são tão extraordinários que concebemos a existência da dúvida. O que, porém, não podemos admitir é a pretensão de alguns incrédulos, a de terem o monopólio do bom senso e que, sem guardarem as conveniências e respeitarem o valor moral de seus adversários, tachem, com desplante, de ineptos os que lhes não seguem o parecer. Aos olhos de qualquer pessoa judiciosa, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma presunção, no mínimo, a seu favor, visto ter logrado prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com futilidades.
 
 ---
-
 
 #### [Introdução 10](#lde.0.3.10)
 
@@ -322,7 +304,6 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ---
 
-
 #### [Introdução 11](#lde.0.3.11)
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
@@ -330,7 +311,6 @@ Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conheci
 Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho: ==Os grandes serão rebaixados e os pequenos serão elevados. (Mateus X Y)==, devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados.
 
 ---
-
 
 #### [Introdução 12](#lde.0.3.12)
 
@@ -352,7 +332,6 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ---
 
-
 #### [Introdução 13](#lde.0.3.13)
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
@@ -367,13 +346,11 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 ---
 
-
 #### [Introdução 14](#lde.0.3.14)
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**.
 
 ---
-
 
 #### [Introdução 15](#lde.0.3.15)
 
@@ -388,7 +365,6 @@ Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as de
 Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis pormenores? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las ajuizadas. Sim, é, do mesmo modo que o papão e o lobisomem. Quando, porém, elas deixam de ter medo, estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras epilepsias causadas pelo abalo de cérebros delicados. Bem frágil seria a religião se, por não infundir terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o Espiritismo lhe faculta, desde que ela os saiba utilizar. Ele mostra a realidade das coisas e só com isso neutraliza os funestos efeitos de um temor exagerado.
 
 ---
-
 
 #### [Introdução 16](#lde.0.3.16)
 
@@ -415,7 +391,6 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 ---
 
-
 #### [Introdução 17](#lde.0.3.17)
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
@@ -429,7 +404,6 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 [^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
 
 ---
-
 
 ### [Prolegômenos](#lde.0.4)
 
@@ -470,11 +444,13 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 [^3]: A.K.: A cepa que se vê nesta página é o **fac-símile** da que os Espíritos desenharam.
 
 ---
+
 `lde.1`
 ## [Parte 1. Das causas primárias](#lde.1)
 
 ### [1. De Deus](#lde.1.1)
 ---
+
 
 #### [Deus e o infinito](#lde.1.1.01)
 
@@ -584,6 +560,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ### [2. Dos elementos gerais do Universo](#lde.1.2)
 ---
+
 
 #### [Conhecimento do princípio das coisas](#lde.1.2.01)
 
@@ -728,6 +705,7 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 
 ### [3. Da Criação](#lde.1.3)
 ---
+
 
 #### [Formação dos mundos](#lde.1.3.01)
 
@@ -882,6 +860,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ### [4. Do princípio vital](#lde.1.4)
 ---
+
 #### [Seres orgânicos e inorgânicos](#lde.1.4.1)
 
 *Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria.
@@ -930,6 +909,7 @@ Tais são os minerais, a água, o ar etc.*
 O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor. ❦
 
 ---
+
 #### [A vida e a morte](#lde.1.4.2)
 
 68. Qual a causa da morte dos seres orgânicos?
@@ -957,6 +937,7 @@ A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conse
 O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. ❦
 
 ---
+
 #### [Inteligência e instinto](#lde.1.4.3)
 
 71. A inteligência é atributo do princípio vital?
@@ -1003,7 +984,6 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 ---
 ## [Parte 2. Do mundo espírita](#lde.2)
-
 ### [01. Dos Espíritos](#lde.2.01)
 ---
 
@@ -1048,8 +1028,6 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 
 ---
 
-
-
 #### Mundo normal primitivo
 
 84. Os Espíritos constituem um mundo à parte, fora daquele que vemos?
@@ -1069,8 +1047,6 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 >“Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os Espíritos são uma das potências da natureza e os instrumentos de que Deus se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados.” ❦
 
 ---
-
-
 
 #### Forma e ubiquidade dos Espíritos
 
@@ -1112,8 +1088,6 @@ Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensam
 
 ---
 
-
-
 #### Perispírito
 
 93. O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
@@ -1136,8 +1110,6 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 ---
 
-
-
 #### Diferentes ordens de Espíritos
 
 96. São iguais os Espíritos, ou há entre eles qualquer hierarquia?
@@ -1158,8 +1130,6 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 ---
 
-
-
 #### Escala espírita
 
 100. Observações preliminares.
@@ -1174,8 +1144,6 @@ Esta divisão nos pareceu perfeitamente racional e com caracteres bem positivado
 Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de confiança ou de estima que mereçam. É, de certo modo, a chave da ciência espírita, porquanto só ele pode explicar as anomalias que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos Espíritos. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre gradual o progresso deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se. ❦
 
 ---
-
-
 
 #### 3ª ordem – Espíritos imperfeitos
 
@@ -1220,8 +1188,6 @@ Estes Espíritos, propriamente falando, não formam uma classe distinta pelas su
 
 ---
 
-
-
 #### 2ª ordem – Bons Espíritos
 
 107. Caracteres gerais.
@@ -1253,8 +1219,6 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 ---
 
-
-
 #### 1ª ordem – Espíritos puros
 
 112. Caracteres gerais.
@@ -1266,8 +1230,6 @@ Os Espíritos que a compõem percorreram todos os graus da escala e se despojara
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens. ❦
 
 ---
-
-
 
 #### Progressão dos Espíritos
 
@@ -1347,8 +1309,6 @@ Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são E
 
 ---
 
-
-
 #### Anjos e demônios
 
 128. Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros Espíritos?
@@ -1385,12 +1345,9 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 ---
 
-
 ### [02. Da encarnação dos espíritos](#lde.2.02)
 
 ---
-
-
 
 #### Objetivo da encarnação
 
@@ -1409,8 +1366,6 @@ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém
 >“Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos.” ❦
 
 ---
-
-
 
 #### A alma
 
@@ -1511,8 +1466,6 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 ---
 
-
-
 #### Materialismo
 
 147. Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a ciência da Natureza, são, com tanta frequência, levados ao materialismo?
@@ -1533,12 +1486,9 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ---
 
-
 ### [03. Da volta do Espírito à vida espiritual](#lde.2.03)
 
 ---
-
-
 
 #### A alma após a morte. Vida eterna.
 
@@ -1581,8 +1531,6 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 >“Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais.” ❦
 
 ---
-
-
 
 #### Separação da alma e do corpo
 
@@ -1632,8 +1580,6 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 ---
 
-
-
 #### Perturbação espiritual
 
 163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
@@ -1665,12 +1611,9 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 ---
 
-
 ### [04. Da pluralidade das existências](#lde.2.04)
 
 ---
-
-
 
 #### A reencarnação
 
@@ -1711,8 +1654,6 @@ um corpo, toma outro, ou, então, que reencarna em novo corpo.
 
 ---
 
-
-
 #### Justiça da reencarnação
 
 171. Em que se funda o dogma da reencarnação?
@@ -1724,8 +1665,6 @@ um corpo, toma outro, ou, então, que reencarna em novo corpo.
 >O homem, que tem consciência da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência. ❦
 
 ---
-
-
 
 #### Encarnação nos diferentes mundos
 
@@ -1856,8 +1795,6 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 
 ---
 
-
-
 #### Transmigrações progressivas
 
 189. Desde o início de sua formação, goza o Espírito da plenitude de suas faculdades?
@@ -1918,8 +1855,6 @@ O suco da vide nos oferece um símile material dos diferentes graus da depuraç�
 
 ---
 
-
-
 #### Sorte das crianças depois da morte
 
 197. Poderá ser tão adiantado quanto o de um adulto o Espírito de uma criança que morreu em tenra idade?
@@ -1950,8 +1885,6 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 
 ---
 
-
-
 #### Sexos nos Espíritos
 
 200. Têm sexos os Espíritos?
@@ -1969,8 +1902,6 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens. ❦
 
 ---
-
-
 
 #### Parentesco, filiação
 
@@ -1997,8 +1928,6 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 [^11]: N.E.: Ver Nota Explicativa.
 
 ---
-
-
 
 #### Parecenças físicas e morais
 
@@ -2056,8 +1985,6 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 
 ---
 
-
-
 #### Ideias inatas
 
 218. Encarnado, conserva o Espírito algum vestígio das percepções que teve e dos conhecimentos que adquiriu nas existências anteriores?
@@ -2091,6 +2018,7 @@ Veja LDE-q216
 >“Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.” ❦
 
 ---
+
 ### [05. Considerações sobre a pluralidade das existências](#lde.2.05)
 
 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
@@ -2152,12 +2080,9 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito. Eis o que s
 
 ---
 
-
 ### [06. Da vida espírita](#lde.2.06)
 
 ---
-
-
 
 #### Espíritos errantes
 
@@ -2217,8 +2142,6 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-
-
 #### Mundos transitórios
 
 234. Há, de fato, como já foi dito, mundos que servem de estações ou pontos de repouso aos Espíritos errantes?
@@ -2260,8 +2183,6 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema. ❦
 
 ---
-
-
 
 #### Percepções, sensações e sofrimentos dos Espíritos
 
@@ -2367,8 +2288,6 @@ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e q
 
 ---
 
-
-
 #### Ensaio teórico da sensação nos Espíritos
 
 257. O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenômenos espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
@@ -2394,8 +2313,6 @@ Os sofrimentos deste mundo independem, algumas vezes, de nós; muito mais vezes,
 Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste. ❦
 
 ---
-
-
 
 #### Escolha das provas
 
@@ -2497,8 +2414,6 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 ---
 
-
-
 #### As relações no além-túmulo
 
 274. Da existência de diferentes ordens de Espíritos, resulta para estes alguma hierarquia de poderes? Há entre eles subordinação e autoridade?
@@ -2584,8 +2499,6 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 
 ---
 
-
-
 #### Relações de simpatia e de antipatia entre os Espíritos. Metades eternas
 
 291. Além da simpatia geral, oriunda da semelhança que entre eles exista, votam-se os Espíritos recíprocas afeições particulares?
@@ -2650,8 +2563,6 @@ A teoria das metades eternas encerra uma simples figura, representativa da uniã
 
 ---
 
-
-
 #### Espíritos errantes
 
 223. A alma reencarna logo depois de se haver separado do corpo?
@@ -2711,8 +2622,6 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 >“Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.”
 
 ---
-
-
 
 #### Recordação da existência corpórea
 
@@ -2797,8 +2706,6 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-
-
 #### Comemoração dos mortos. Funerais
 
 320. Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
@@ -2859,12 +2766,9 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-
 ### [07. Da volta do Espírito à vida corporal](#lde.2.07)
 
 ---
-
-
 
 #### Prelúdio da volta
 
@@ -2933,8 +2837,6 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 >“Muito frequentemente são eles que vos vêm visitar, como ides visitar um encarcerado.” ❦
 
 ---
-
-
 
 #### União do espírito e do corpo
 
@@ -3020,8 +2922,6 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-
-
 #### Faculdades morais e intelectuais do homem
 
 361. Qual a origem das qualidades morais, boas ou más, do homem?
@@ -3055,8 +2955,6 @@ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de
 
 ---
 
-
-
 #### Influência do corpo
 
 367. Unindo-se ao corpo, o Espírito se identifica com a matéria?
@@ -3088,8 +2986,6 @@ Pode-se comparar a ação que a matéria grosseira exerce sobre o Espírito à d
 Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não causa. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o acaso lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades. ❦
 
 ---
-
-
 
 #### Idiotismo, loucura
 
@@ -3143,8 +3039,6 @@ A superioridade moral nem sempre guarda proporção com a superioridade intelect
 
 ---
 
-
-
 #### A infância
 
 379. É tão desenvolvido, quanto o de um adulto, o Espírito que anima o corpo de uma criança?
@@ -3179,8 +3073,6 @@ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, 
 
 ---
 
-
-
 #### Simpatia e antipatia materiais
 
 386. Podem dois seres, que se conheceram e estimaram, encontrar-se noutra existência corporal e reconhecer-se?
@@ -3212,8 +3104,6 @@ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, 
 >“Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um Espírito mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em ódio, em inveja e lhe inspira o desejo de praticar o mal. O bom Espírito sente repulsão pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo.” ❦
 
 ---
-
-
 
 #### Esquecimento do passado
 
@@ -3275,12 +3165,9 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 ---
 
-
 ### [08. Da emancipação da alma](#lde.2.08)
 
 ---
-
-
 
 #### O sono e os sonhos
 
@@ -3352,8 +3239,6 @@ Os sonhos são efeito da emancipação da alma, que mais independente se torna p
 
 ---
 
-
-
 #### Visitas espíritas entre pessoas vivas
 
 413. Do princípio da emancipação da alma parece decorrer que temos duas existências simultâneas: a do corpo, que nos permite a vida de relação ostensiva; e a da alma, que nos proporciona a vida de relação oculta. É assim?
@@ -3384,8 +3269,6 @@ Pelo termo antigos se devem entender os laços de amizade contraída em existên
 
 ---
 
-
-
 #### Transmissão oculta do pensamento
 
 419. Que é o que dá causa a que uma ideia, a de uma descoberta, por exemplo, surja em muitos pontos ao mesmo tempo?
@@ -3405,8 +3288,6 @@ Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos,
 Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos Espíritos. ❦
 
 ---
-
-
 
 #### Letargia, catalepsia, mortes aparentes
 
@@ -3429,8 +3310,6 @@ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que 
 A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a inteligência se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética. ❦
 
 ---
-
-
 
 #### Sonambulismo
 
@@ -3498,8 +3377,6 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 ---
 
-
-
 #### Êxtase
 
 439. Que diferença há entre o êxtase e o sonambulismo?
@@ -3535,8 +3412,6 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 >“Aquele que os estudar de boa-fé e sem prevenções não poderá ser materialista, nem ateu.” ❦
 
 ---
-
-
 
 #### Dupla vista
 
@@ -3583,8 +3458,6 @@ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, e
 >“Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente.” ❦
 
 ---
-
-
 
 #### Resumo teórico do sonambulismo, do êxtase e da dupla vista
 
@@ -3636,9 +3509,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ---
 
-
 ### [09. Da intervenção dos Espíritos no mundo corporal](#lde.2.09)
-
 
 
 #### Faculdade que têm os Espíritos de penetrar os nossos pensamentos
@@ -3660,8 +3531,6 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 >“Depende. Os levianos riem das pequenas partidas que vos pregam e zombam das vossas impaciências. Os Espíritos sérios se condoem dos vossos reveses e procuram ajudar-vos.” ❦
 
 ---
-
-
 
 #### Influência oculta dos Espíritos em nossos pensamentos e atos
 
@@ -3735,8 +3604,6 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 
 ---
 
-
-
 #### Possessos
 
 473. Pode um Espírito tomar temporariamente o invólucro corporal de uma pessoa viva, isto é, introduzir-se num corpo animado e obrar em lugar do outro que se acha encarnado neste corpo?
@@ -3775,8 +3642,6 @@ O vocábulo possesso, na sua acepção vulgar, supõe a existência de demônios
 
 ---
 
-
-
 #### Convulsionários
 
 481. Desempenham os Espíritos algum papel nos fenômenos que se dão com os indivíduos chamados convulsionários?
@@ -3802,8 +3667,6 @@ A exaltação fanática e o entusiasmo hão proporcionado, em casos de suplício
 Visto que esses fenômenos dependem de uma causa física e da ação de certos Espíritos, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos Espíritos, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve razão para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos Espíritos é direta e espontânea. ❦
 
 ---
-
-
 
 #### Afeição que os Espíritos votam a certas pessoas
 
@@ -3838,8 +3701,6 @@ Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as conside
 >“Muito sensíveis, mas esquecem-se dos que os olvidam.” ❦
 
 ---
-
-
 
 #### Anjos da guarda. Espíritos protetores, familiares ou simpáticos
 
@@ -4020,8 +3881,6 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 
 ---
 
-
-
 #### Pressentimentos
 
 522. O pressentimento é sempre um aviso do Espírito protetor?
@@ -4039,8 +3898,6 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consciência, que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou e que lhe teriam poupado muitos desgostos, se os houvera escutado. ❦
 
 ---
-
-
 
 #### Influência dos Espíritos nos acontecimentos da vida
 
@@ -4124,8 +3981,6 @@ A experiência demonstra que alguns Espíritos continuam em outra existência a 
 
 ---
 
-
-
 #### Ação dos Espíritos nos fenômenos da Natureza
 
 536. São devidos a causas fortuitas, ou, ao contrário, têm todos um fim providencial, os grandes fenômenos da Natureza, os que se consideram como perturbação dos elementos?
@@ -4165,8 +4020,6 @@ A experiência demonstra que alguns Espíritos continuam em outra existência a 
 >“Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à harmonia geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de Deus. Pois bem, do mesmo modo, os Espíritos mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena consciência de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos fenômenos, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de harmonia, que o vosso acanhado espírito ainda não pode apreender em seu conjunto!” ❦
 
 ---
-
-
 
 #### Os Espíritos durante os combates
 
@@ -4212,8 +4065,6 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 
 ---
 
-
-
 #### Pactos
 
 549. Algo de verdade haverá nos pactos com os maus Espíritos?
@@ -4227,8 +4078,6 @@ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores na
 >“Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra. Isso a que te referes é uma alegoria, que se pode explicar desta maneira: aquele que chama em seu auxílio os Espíritos, para deles obter riquezas, ou qualquer outro favor, rebela-se contra a Providência; renuncia à missão que recebeu e às provas que lhe cumpre suportar neste mundo. Sofrerá na vida futura as consequências desse ato. Não quer isto dizer que sua alma fique para sempre condenada à desgraça, mas, desde que, em lugar de se desprender da matéria, nela cada vez se enterra mais, não terá, no mundo dos Espíritos, a satisfação de que haja gozado na Terra, até que tenha resgatado a sua falta, por meio de novas provas, talvez maiores e mais penosas. Coloca-se, por amor dos gozos materiais, na dependência dos Espíritos impuros. Estabelece-se assim, tacitamente, entre estes e ele, o Espírito delinquente, um pacto que o leva à sua perda, mas que lhe será sempre fácil romper, se o quiser firmemente, granjeando a assistência dos bons Espíritos.” ❦
 
 ---
-
-
 
 #### Poder oculto. Talismãs. Feiticeiros
 
@@ -4264,8 +4113,6 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 ---
 
-
-
 #### Bênçãos e maldições
 
 557. Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem são lançadas?
@@ -4273,7 +4120,6 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 >“Deus não escuta a maldição injusta e culpado perante Ele se torna o que a profere. Como temos os dois gênios opostos, o bem e o mal, pode a maldição exercer momentaneamente influência, mesmo sobre a matéria. Tal influência, porém, só se verifica por vontade de Deus como aumento de prova para aquele que é dela objeto. Ademais, o que é comum é serem amaldiçoados os maus e abençoados os bons. Jamais a bênção e a maldição podem desviar da senda da justiça a Providência, que nunca fere o maldito, senão quando mau, e cuja proteção não acoberta senão aquele que a merece.” ❦
 
 ---
-
 
 ### [10. Das ocupações e missões dos Espíritos](#lde.2.10)
 
@@ -4439,12 +4285,9 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 
 ---
 
-
 ### [11. Dos três reinos](#lde.2.11)
 
 ---
-
-
 
 #### Os minerais e as plantas
 
@@ -4481,8 +4324,6 @@ O organismo humano nos proporciona exemplo de movimentos análogos, sem particip
 >“Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens.” ❦
 
 ---
-
-
 
 #### Os animais e o homem
 
@@ -4601,8 +4442,6 @@ Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e mo
 
 ---
 
-
-
 #### Metempsicose
 
 611. O terem os seres vivos uma origem comum no princípio inteligente não é a consagração da doutrina da metempsicose?
@@ -4671,8 +4510,6 @@ As outras dizem respeito especialmente ao homem considerado em si mesmo e nas su
 
 ---
 
-
-
 #### Conhecimento da lei natural
 
 619. A todos os homens facultou Deus os meios de conhecerem sua Lei?
@@ -4729,8 +4566,6 @@ alguma coisa?
 > “Jamais permitiu Deus que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma ciência sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes fenômenos, deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de filosofia, nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se bem pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o Espiritismo dá de uma imensidade de coisas que até agora se vos afiguraram sem razão alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução.” ❦
 
 ---
-
-
 
 #### O bem e o mal
 
@@ -4816,8 +4651,6 @@ Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destrui
 
 ---
 
-
-
 #### Divisão da lei natural
 
 647. A Lei de Deus se acha contida toda no preceito do amor ao próximo,
@@ -4831,13 +4664,9 @@ ensinado por Jesus?
 > “Essa divisão da Lei de Deus em dez partes é a de Moisés e de natureza a abranger todas as circunstâncias da vida, o que é essencial. Podes, pois, adotá-la, sem que, por isso, tenha qualquer coisa de absoluta, como não o tem nenhum dos outros sistemas de classificação, que todos dependem do prisma pelo qual se considere o que quer que seja. A última lei é a mais importante, por ser a que faculta ao homem adiantar-se mais na vida espiritual, visto que resume todas as outras.” ❦
 
 ---
-
-
 ### [02. Da lei de adoração](#lde.3.02)
 
 ---
-
-
 
 #### Objetivo da adoração
 
@@ -4859,8 +4688,6 @@ adoração?
 > “A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes.” ❦
 
 ---
-
-
 
 #### Adoração exterior
 
@@ -4894,8 +4721,6 @@ adoração?
 
 ---
 
-
-
 #### Vida contemplativa
 
 657. Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma vez que nenhum mal fazem e só em Deus pensam?
@@ -4904,8 +4729,6 @@ adoração?
 > que não houver feito.” (**640**) ❦
 
 ---
-
-
 
 #### A prece
 
@@ -4960,8 +4783,6 @@ lábios nada vale.
 
 ---
 
-
-
 #### Politeísmo
 
 667. Por que razão, não obstante ser falsa, a crença politeísta é uma das mais antigas e espalhadas?
@@ -4977,8 +4798,6 @@ A palavra deus tinha, entre os Antigos, acepção muito ampla. Não indicava, co
 Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenômenos miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza. ❦
 
 ---
-
-
 
 #### Sacrifícios
 
@@ -5013,13 +4832,9 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 > “Deus abençoa sempre os que fazem o bem. O melhor meio de honrá-lo consiste em minorar os sofrimentos dos pobres e dos aflitos. Não quero dizer com isto que Ele desaprove as cerimônias que praticais para lhe dirigirdes as vossas preces. Muito dinheiro, porém, aí se gasta que poderia ser empregado mais utilmente do que o é. Deus ama a simplicidade em tudo. O homem que se atém às exterioridades e não ao coração é um Espírito de vistas acanhadas. Dizei, em consciência, se Deus deve atender mais à forma do que ao fundo.” ❦
 
 ---
-
-
 ### [03. Da lei do trabalho](#lde.3.03)
 
 ---
-
-
 
 #### Necessidade do trabalho
 
@@ -5059,8 +4874,6 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ---
 
-
-
 #### Limite do trabalho. Repouso
 
 682. Sendo uma necessidade para todo aquele que trabalha, o repouso não é também uma Lei da Natureza?
@@ -5088,13 +4901,9 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 Considerando-se a aluvião de indivíduos que todos os dias são lançados na torrente da população, sem princípios, sem freio e entregues a seus próprios instintos, serão de espantar as consequências desastrosas que daí decorrem? Quando essa arte for conhecida, compreendida e praticada, o homem terá no mundo hábitos de **ordem e de previdência** para consigo mesmo e para com os seus, **de respeito a tudo o que é respeitável**, hábitos que lhe permitirão atravessar menos penosamente os maus dias inevitáveis. A desordem e a imprevidência são duas chagas que só uma educação bem entendida pode curar. Esse o ponto de partida, o elemento real do bem-estar, o penhor da segurança de todos. ❦
 
 ---
-
-
 ### [04. Da lei de reprodução](#lde.3.04)
 
 ---
-
-
 
 #### População do globo
 
@@ -5107,8 +4916,6 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 > “Não, Deus a isso provê e mantém sempre o equilíbrio. Ele coisa alguma inútil faz. O homem, que apenas vê um canto do quadro da Natureza, não pode julgar da harmonia do conjunto.” ❦
 
 ---
-
-
 
 #### Sucessão e aperfeiçoamento das raças
 
@@ -5139,8 +4946,6 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 
 ---
 
-
-
 #### Obstáculos à reprodução
 
 693. São contrários à Lei da Natureza as leis e os costumes humanos que têm por fim ou por efeito criar obstáculos à reprodução?
@@ -5156,8 +4961,6 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 > “Isso prova a predominância do corpo sobre a alma e quanto o homem é material.” ❦
 
 ---
-
-
 
 #### Casamento e celibato
 
@@ -5187,8 +4990,6 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 
 ---
 
-
-
 #### Poligamia
 
 700. A igualdade numérica, que mais ou menos existe entre os sexos, constitui indício da proporção em que devam unir-se?
@@ -5208,13 +5009,9 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 [^20]: N.E.: Ver Nota Explicativa.
 
 ---
-
-
 ### [05. Da lei de conservação](#lde.3.05)
 
 ---
-
-
 
 #### Instinto de conservação
 
@@ -5227,8 +5024,6 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 > “Porque todos têm que concorrer para cumprimento dos desígnios da Providência. Por isso foi que Deus lhes deu a necessidade de viver. Acresce que a vida é necessária ao aperfeiçoamento dos seres. Eles o sentem instintivamente, sem disso se aperceberem.” ❦
 
 ---
-
-
 
 #### Meios de conservação
 
@@ -5266,8 +5061,6 @@ Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, 
 
 ---
 
-
-
 #### Gozo dos bens terrenos
 
 711. O uso dos bens da Terra é um direito de todos os homens?
@@ -5300,8 +5093,6 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 
 ---
 
-
-
 #### Necessário e supérfluo
 
 715. Como pode o homem conhecer o limite do necessário?
@@ -5319,8 +5110,6 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os Espíritos que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à razão regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da religião só têm a máscara. ❦
 
 ---
-
-
 
 #### Privações voluntárias. Mortificações
 
@@ -5369,13 +5158,9 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 > “Contra os perigos e os sofrimentos é que o instinto de conservação foi dado a todos os seres. Fustigai o vosso espírito e não o vosso corpo, mortificai o vosso orgulho, sufocai o vosso egoísmo, que se assemelha a uma serpente a vos roer o coração, e fareis muito mais pelo vosso adiantamento do que infligindo-vos rigores que já não são deste século.” ❦
 
 ---
-
-
 ### [06. Da lei de destruição](#lde.3.06)
 
 ---
-
-
 
 #### Destruição necessária e destruição abusiva
 
@@ -5421,8 +5206,6 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 ---
 
-
-
 #### Flagelos destruidores
 
 737. Com que fim fere Deus a Humanidade por meio de flagelos destruidores?
@@ -5459,8 +5242,6 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 ---
 
-
-
 ####  Guerras
 
 742. Que é o que impele o homem à guerra?
@@ -5484,8 +5265,6 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 > “Grande culpado é esse e muitas existências lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja morte tenha causado para satisfazer à sua ambição.” ❦
 
 ---
-
-
 
 #### Assassínio
 
@@ -5515,8 +5294,6 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 ---
 
-
-
 #### Crueldade
 
 752. Poder-se-á ligar o sentimento de crueldade ao instinto de destruição?
@@ -5542,8 +5319,6 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 > “A Humanidade progride. Esses homens, em quem o instinto do mal domina e que se acham deslocados entre pessoas de bem, desaparecerão gradualmente, como o mau grão se separa do bom, quando este é joeirado, mas desaparecerão para renascer sob outros invólucros. Como então terão mais experiência, compreenderão melhor o bem e o mal. Tens disso um exemplo nas plantas e nos animais que o homem há conseguido aperfeiçoar, desenvolvendo neles qualidades novas. Pois bem! só ao cabo de muitas gerações o desenvolvimento se torna completo. É a imagem das diversas existências do homem.” ❦
 
 ---
-
-
 
 #### Duelo
 
@@ -5575,8 +5350,6 @@ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu
 
 ---
 
-
-
 #### Pena de morte
 
 760. Desaparecerá algum dia, da legislação humana, a pena de morte?
@@ -5607,13 +5380,9 @@ que se aplica a pena de morte?
 > “É tomar o homem o lugar de Deus na distribuição da justiça. Os que assim procedem mostram quão longe estão de compreender Deus e que muito ainda têm que expiar. A pena de morte é um crime, quando aplicada em nome de Deus; e os que a impõem se sobrecarregam de outros tantos assassínios.” ❦
 
 ---
-
-
 ### [07. Da lei de sociedade](#lde.3.07)
 
 ---
-
-
 
 #### Necessidade da vida social
 
@@ -5632,8 +5401,6 @@ que se aplica a pena de morte?
 Homem nenhum possui faculdades completas. Mediante a união social é que elas umas às outras se completam, para lhe assegurarem o bem-estar e o progresso. Por isso é que, precisando uns dos outros, os homens foram feitos para viver em sociedade e não insulados. ❦
 
 ---
-
-
 
 #### Vida de insulamento. Voto de silêncio
 
@@ -5665,8 +5432,6 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 
 ---
 
-
-
 #### Laços de família
 
 773. Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde que estes não mais precisam de cuidados?
@@ -5683,13 +5448,9 @@ família?
 > “Uma recrudescência do egoísmo.” ❦
 
 ---
-
-
 ### [08. Da lei do progresso](#lde.3.08)
 
 ---
-
-
 
 #### Estado de natureza
 
@@ -5708,8 +5469,6 @@ O estado de natureza é a infância da Humanidade e o ponto de partida do seu de
 > “Não, o homem tem que progredir incessantemente e não pode volver ao estado de infância. Desde que progride, é porque Deus assim o quer. Pensar que possa retrogradar à sua primitiva condição fora negar a lei do progresso.” ❦
 
 ---
-
-
 
 #### Marcha do progresso
 
@@ -5761,8 +5520,6 @@ Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas qu
 
 ---
 
-
-
 #### Povos degenerados
 
 786. Mostra-nos a História que muitos povos, depois de abalos que os revolveram profundamente, recaíram na barbaria. Onde, neste caso, o progresso?
@@ -5801,8 +5558,6 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 ---
 
-
-
 #### Civilização
 
 790. É um progresso a civilização ou, como o entendem alguns filósofos,
@@ -5836,8 +5591,6 @@ De duas nações que tenham chegado ao ápice da escala social, somente pode con
 
 ---
 
-
-
 #### Progresso da legislação humana
 
 794. Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das leis humanas?
@@ -5859,8 +5612,6 @@ A civilização criou necessidades novas para o homem, necessidades relativas à
 > “Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera!” ❦
 
 ---
-
-
 
 #### Influência do Espiritismo no progresso
 
@@ -5887,29 +5638,16 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 > “Desejaríeis milagres, mas Deus os espalha a mancheias diante dos vossos passos e, no entanto, ainda há homens que o negam. Conseguiu, porventura, o próprio Cristo convencer os seus contemporâneos, mediante os prodígios que operou? Não conheceis presentemente alguns que negam os fatos mais patentes, ocorridos às suas vistas? Não há os que dizem que não acreditariam, mesmo que vissem? Não; não é por meio de prodígios que Deus quer encaminhar os homens. Em sua bondade, Ele lhes deixa o mérito de se convencerem pela razão.” ❦
 
 ---
-
-
 ### [09. Da lei de igualdade](#lde.3.09)
 
 ---
 
-
-
 #### Igualdade natural
 803. Perante Deus, são iguais todos os homens?
-> “Sim, todos tendem para o mesmo fim e Deus fez suas leis para
-> todos. Dizeis frequentemente: ‘O Sol luz para todos’ e enunciais
-> assim uma verdade maior e mais geral do que pensais.”
-
-Todos os homens estão submetidos às mesmas Leis da Natureza. Todos
-nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo
-do rico se destrói como o do pobre. Deus a nenhum homem concedeu
-superioridade natural, nem pelo nascimento, nem pela morte: todos, aos
-seus olhos, são iguais
+> “Sim, todos tendem para o mesmo fim e Deus fez suas leis para todos. Dizeis frequentemente: ‘O Sol luz para todos’ e enunciais assim uma verdade maior e mais geral do que pensais.”
+> > Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. Deus a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais
 
 ---
-
-
 
 #### Desigualdade das aptidões
 
@@ -5923,8 +5661,6 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ---
 
-
-
 #### Desigualdades sociais
 
 806. É Lei da Natureza a desigualdade das condições sociais?
@@ -5937,8 +5673,6 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 > “Merecem anátema! Ai deles! Serão, a seu turno, oprimidos: renascerão numa existência em que terão de sofrer tudo o que tiverem feito sofrer aos outros.” (684)
 
 ---
-
-
 
 #### Desigualdade das riquezas
 
@@ -5971,8 +5705,6 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ---
 
-
-
 #### As provas de riqueza e de miséria
 
 814. Por que Deus a uns concedeu as riquezas e o poder, e a outros, a miséria?
@@ -5988,8 +5720,6 @@ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhant
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse: “Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus”. (266)
 
 ---
-
-
 
 #### Igualdade dos direitos do homem e da mulher
 
@@ -6018,8 +5748,6 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 
 ---
 
-
-
 #### Igualdade perante o túmulo
 
 823. Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de monumentos fúnebres?
@@ -6034,13 +5762,9 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelmente todas as distinções humanas. Em vão tenta o rico perpetuar a sua memória, mandando erigir faustosos monumentos. O tempo os destruirá, como lhe consumirá o corpo. Assim o quer a Natureza. Menos perecível do que o seu túmulo será a lembrança de suas ações boas e más. A pompa dos funerais não o limpará das suas torpezas, nem o fará subir um degrau que seja na hierarquia espiritual. (320 e seguintes.) ❦
 
 ---
-
-
 ### [10. Da lei de liberdade](#lde.3.10)
 
 ---
-
-
 
 #### Liberdade natural
 
@@ -6061,8 +5785,6 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-
-
 #### Escravidão
 
 829. Haverá homens que estejam, por natureza, destinados a ser propriedades de outros homens?
@@ -6081,8 +5803,6 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-
-
 ####  Liberdade de pensar
 
 833. Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze ele de absoluta liberdade?
@@ -6092,8 +5812,6 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 > “Perante Deus, é. Somente a Deus sendo possível conhecê-lo, Ele o condena ou absolve, segundo a sua justiça.”
 
 ---
-
-
 
 #### Liberdade de consciência
 
@@ -6125,8 +5843,6 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 ---
 
-
-
 #### Livre-arbítrio
 
 843. Tem o homem o livre-arbítrio de seus atos?
@@ -6154,8 +5870,6 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 > “É fora de dúvida que o mundo tem suas exigências. Deus é justo e tudo leva em conta. Deixa-vos, entretanto, a responsabilidade de nenhum esforço empregardes para vencer os obstáculos.”
 
 ---
-
-
 
 #### Fatalidade
 
@@ -6223,8 +5937,6 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 
 ---
 
-
-
 #### Conhecimento do futuro
 
 868. Pode o futuro ser revelado ao homem?
@@ -6244,8 +5956,6 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 
 ---
 
-
-
 #### Resumo teórico do móvel das ações humanas
 
 872. A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
@@ -6261,13 +5971,9 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 [^22]: N.E.: Ver Nota Explicativa.
 
 ---
-
-
 ### [11. Da lei de justiça, de amor, e de caridade](#lde.3.11)
 
 ---
-
-
 
 #### Justiça e direitos naturais
 
@@ -6302,8 +6008,6 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 
 ---
 
-
-
 #### Direito de propriedade. Roubo
 
 880. Qual o primeiro de todos os direitos naturais do homem?
@@ -6333,8 +6037,6 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 
 ---
 
-
-
 #### Caridade e amor do próximo
 
 886. Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus?
@@ -6360,8 +6062,6 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 
 ---
 
-
-
 #### Amor materno e filial
 
 890. Será uma virtude o amor materno, ou um sentimento instintivo, comum aos homens e aos animais?
@@ -6374,13 +6074,9 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 > “Não, porque isso representa um encargo que lhes é confiado e a missão deles consiste em se esforçarem por encaminhar os filhos para o bem (582 a 583). Ademais, esses desgostos são, amiúde, a consequência do mau feitio que os pais deixaram que seus filhos tomassem desde o berço. Colhem o que semearam.” ❦
 
 ---
-
-
 ### [12. Da perfeição moral](#lde.3.12)
 
 ---
-
-
 
 #### As virtudes e os vícios
 
@@ -6441,8 +6137,6 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 
 ---
 
-
-
 ####  Paixões
 
 907. Será substancialmente mau o princípio originário das paixões, embora esteja na natureza?
@@ -6469,8 +6163,6 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 > Praticar a abnegação.”
 
 ---
-
-
 
 ####  O egoísmo
 
@@ -6500,8 +6192,6 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 
 ---
 
-
-
 ####  Caracteres do homem de bem
 
 918. Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? [^23]
@@ -6517,8 +6207,6 @@ Não é vingativo. A exemplo de Jesus, perdoa as ofensas, para só se lembrar do
 Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados.
 
 ---
-
-
 
 ####  Conhecimento de si mesmo
 
@@ -6542,11 +6230,13 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 [^24]:  N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.)
 
 ---
-## [4. Das esperanças e consolações](#lde.4)
+## [Parte 4. Das esperanças e consolações](#lde.4)
 ---
+
 
 ### 1. Das penas e gozos terrestres
 ---
+
 
 #### Felicidade e infelicidade relativas
 
@@ -6605,6 +6295,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 > > Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra no sentimento cristão, que lhe dá a esperança de melhor futuro, e no Espiritismo, que lhe dá a certeza desse futuro. ❦
 ---
 
+
 #### Perda dos entes queridos
 
 934. A perda dos entes que nos são caros não constitui para nós legítima causa de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
@@ -6621,6 +6312,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 > > Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos parecem, que não compreendemos possamos sofrê-las. Entretanto, se as tivermos suportado corajosamente, se soubermos impor silêncio às nossas murmurações, felicitar-nos-emos, quando fora desta prisão terrena, como o doente que sofre se felicita, quando curado, por se haver submetido a um tratamento doloroso. ❦
 ---
 
+
 #### Decepções. Ingratidão. Afeições destruídas
 
 937. Para o homem de coração, as decepções oriundas da ingratidão e da fragilidade dos laços da amizade não são também uma fonte de amarguras?
@@ -6635,6 +6327,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
  ❦
 ---
 
+
 #### Uniões antipáticas
 
 939. Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, entre os encarnados, frequentemente só de um lado há afeição e que o mais sincero amor se vê acolhido com indiferença e até com repulsão? Como é, além disso, que a mais viva afeição de dois seres pode mudar-se em antipatia e mesmo em ódio?
@@ -6648,6 +6341,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 > “Há e para ela é uma dura expiação, mas a responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores. Se a luz da verdade já lhe houver penetrado a alma, em sua fé no futuro haurirá consolação. Todavia, à medida que os preconceitos se enfraquecerem, as causas dessas desgraças íntimas também desaparecerão.” ❦
 ---
 
+
 #### Temor da morte
 
 941. Para muitas pessoas, o temor da morte é uma causa de perplexidade. Donde lhes vêm esse temor, tendo elas diante de si o futuro?
@@ -6659,6 +6353,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 942. Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz na Terra; que neles vejam o que chamam lugares comuns, sediciosas verdades; e que digam, que, afinal, o segredo para ser-se feliz consiste em saber cada um suportar a sua desgraça?
 > “Há as que isso dizem e em grande número, mas muitas se parecem com certos doentes a quem o médico prescreve a dieta; desejariam curar-se sem remédios e continuando a apanhar indigestões.” ❦
 ---
+
 
 #### Desgosto da vida. Suicídio
 
@@ -6731,6 +6426,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 ### 2. Das penas e gozos futuros
 ---
 
+
 #### O nada. Vida futura
 
 958. Por que tem o homem, instintivamente, horror ao nada?
@@ -6746,6 +6442,7 @@ supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 > > A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada. ❦
 ---
 
+
 #### Intuição das penas e gozos futuros
 
 960. Donde se origina a crença, com que deparamos entre todos os povos, na existência de penas e recompensas porvindouras?
@@ -6760,6 +6457,7 @@ supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 > > A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras. ❦
 ---
 
+
 #### Intervenção de Deus nas penas e recompensas
 
 963. Com cada homem, pessoalmente, Deus se ocupa? Não é Ele muito grande e nós muito pequeninos para que cada indivíduo em particular tenha, a seus olhos, alguma importância?
@@ -6772,6 +6470,7 @@ supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 > > “Um pai deu a seu filho educação e instrução, isto é, os meios de se guiar. Cede-lhe um campo para que o cultive e lhe diz: Aqui estão a regra que deves seguir e todos os instrumentos necessários a tornares fértil este campo e assegurares a tua existência. Dei-te a instrução para compreenderes esta regra. Se a seguires, teu campo produzirá muito e te proporcionará o repouso na velhice. Se a desprezares, nada produzirá e morrerás de fome. Dito isso, deixa-o proceder livremente”.
 > > Não é verdade que esse campo produzirá na razão dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. Deus ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os Espíritos para nos inspirarem, porém não os escutamos. Há mais esta diferença: Deus faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta. ❦
 ---
+
 
 #### Natureza das penas e gozos futuros
 
@@ -6858,6 +6557,7 @@ esplendor lhe aparecem.
 > > A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida. ❦
 ---
 
+
 #### Penas temporais
 
 983. Não experimenta sofrimentos materiais o Espírito que expia suas faltas em nova existência? Será então exato dizer-se que, depois da morte, só há para a alma sofrimentos morais?
@@ -6887,6 +6587,7 @@ material quanto aquela.”
 989. Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos seus caracteres, todos os que as cercam. Que consequências lhes advirão disso?
 > “Inquestionavelmente, essas pessoas não são boas. Expiarão suas faltas, tendo sempre diante da vista aqueles a quem infelicitaram, valendo-lhes isso por uma exprobração. Depois, noutra existência, sofrerão o que fizeram sofrer.” ❦
 ---
+
 
 #### Expiação e arrependimento
 
@@ -6942,6 +6643,7 @@ perante os homens, conserva o seu orgulho?” (720 e 721)
 > “O arrependimento lhe apressa a reabilitação, mas não o absolve. Diante dele não se desdobra o futuro, que jamais se lhe tranca?” ❦
 ---
 
+
 #### Duração das penas futuras
 
 1003. É arbitrária ou sujeita a uma lei qualquer a duração dos sofrimentos do culpado, na vida futura?
@@ -6990,6 +6692,7 @@ perante os homens, conserva o seu orgulho?” (720 e 721)
 > > Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra fogo é usada figuradamente e que se deve entender como significando ogo moral (974). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra eterno se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá. ❦
 ---
 
+
 #### Ressurreição da carne
 
 1010. O dogma da ressurreição da carne será a consagração da reencarnação ensinada pelos Espíritos?
@@ -7015,6 +6718,7 @@ figura simbólica do fenômeno da reencarnação. E, então, nada mais há que
 aberre da razão, que esteja em contradição com os dados da Ciência.
 > > É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita, ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado. ❦
 ---
+
 
 #### Paraíso, inferno e purgatório
 
@@ -7230,8 +6934,10 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 [^27]: N.E.: Esta Nota Explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
 ---
+
 ### 2. Índice Geral
 ---
+
 
 #### A
 ##### Aberração
