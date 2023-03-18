@@ -1,9 +1,11 @@
 [TOCM]
 
 `lde`
-# O LIVRO DOS ESPÍRITOS
+# <a name="lde">O LIVRO DOS ESPÍRITOS</a>
+
 `lde.0`
 ## Parte 0. Pré-textual
+
 `lde.0.1`
 ### Folha de rosto
 
@@ -28,6 +30,7 @@ ISBN 978-85-7328-728-8
 
 `lde.0.2`
 ### Avisos legais
+
 Os projetos de **doutrina.org** almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia no entendimento e retenção do tópico estudado.
 
 Entretanto, cremos que alguns ressalvos devam ser feitos.
@@ -472,8 +475,10 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 `lde.1`
 ## Parte 1. Das causas primárias
+
 `lde.1.1`
 ### 1. De Deus
+
 ---
 `lde.1.1.01`
 #### Deus e o infinito
@@ -10882,3 +10887,5 @@ excesso de – 736
 ❦
 
 FIM
+
+<a href="#lde">ir para o topo</a>
