@@ -447,18 +447,18 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ### [📑 1. De Deus](#lde.1.1)
 #### [📃 Deus e o infinito](#lde.1.1.01)
 
-##### > ❔ [1](#lde.q1). O que é Deus?
+##### ❔ [1](#lde.q1). O que é Deus?
 
 >👻 “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-> ##### ❔ [2](#lde.q2). Que se deve entender por infinito?
+##### ❔ [2](#lde.q2). Que se deve entender por infinito?
 
->👻 “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
+👻 “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
 ##### ❔ [3](#lde.q3). Poder-se-ia dizer que Deus é o infinito?
 
->👻 “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
->>👴🏻 Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ❦
+👻 “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
+>👴🏻 Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ❦
 
 [^4]: A.K.: O texto colocado entre aspas, em seguida às perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
 
