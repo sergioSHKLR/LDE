@@ -1,7 +1,7 @@
 ## [Parte 3. Das Leis morais](#lde.3)
 ### [01. Da lei divina ou natural](#lde.3.01)
 ---
-`lde.3.01.01`
+
 
 #### [Caracteres da lei natural](#lde.3.01.01)
 
@@ -37,7 +37,7 @@ As outras dizem respeito especialmente ao homem considerado em si mesmo e nas su
 
 ---
 
-`lde.3.01.02`
+
 
 #### Conhecimento da lei natural
 
@@ -96,7 +96,7 @@ alguma coisa?
 
 ---
 
-`lde.3.01.03`
+
 
 #### O bem e o mal
 
@@ -182,7 +182,7 @@ Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destrui
 
 ---
 
-`lde.3.01.04`
+
 
 #### Divisão da lei natural
 
@@ -198,12 +198,12 @@ ensinado por Jesus?
 
 ---
 
-`lde.3.02`
+
 ### [02. Da lei de adoração](#lde.3.02)
 
 ---
 
-`lde.3.02.01`
+
 
 #### Objetivo da adoração
 
@@ -226,7 +226,7 @@ adoração?
 
 ---
 
-`lde.3.02.02`
+
 
 #### Adoração exterior
 
@@ -260,7 +260,7 @@ adoração?
 
 ---
 
-`lde.3.02.03`
+
 
 #### Vida contemplativa
 
@@ -271,7 +271,7 @@ adoração?
 
 ---
 
-`lde.3.02.04`
+
 
 #### A prece
 
@@ -326,7 +326,7 @@ lábios nada vale.
 
 ---
 
-`lde.3.02.05`
+
 
 #### Politeísmo
 
@@ -344,7 +344,7 @@ Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs dest
 
 ---
 
-`lde.3.02.06`
+
 
 #### Sacrifícios
 
@@ -380,12 +380,12 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ---
 
-`lde.3.03`
+
 ### [03. Da lei do trabalho](#lde.3.03)
 
 ---
 
-`lde.3.03.01`
+
 
 #### Necessidade do trabalho
 
@@ -425,7 +425,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ---
 
-`lde.3.03.02`
+
 
 #### Limite do trabalho. Repouso
 
@@ -455,12 +455,12 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 
 ---
 
-`lde.3.04`
+
 ### [04. Da lei de reprodução](#lde.3.04)
 
 ---
 
-`lde.3.04.01`
+
 
 #### População do globo
 
@@ -474,7 +474,7 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 
 ---
 
-`lde.3.04.02`
+
 
 #### Sucessão e aperfeiçoamento das raças
 
@@ -505,7 +505,7 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 
 ---
 
-`lde.3.04.03`
+
 
 #### Obstáculos à reprodução
 
@@ -523,7 +523,7 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 
 ---
 
-`lde.3.04.04`
+
 
 #### Casamento e celibato
 
@@ -553,7 +553,7 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 
 ---
 
-`lde.3.04.05`
+
 
 #### Poligamia
 
@@ -575,12 +575,12 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 ---
 
-`lde.3.05`
+
 ### [05. Da lei de conservação](#lde.3.05)
 
 ---
 
-`lde.3.05.01`
+
 
 #### Instinto de conservação
 
@@ -594,7 +594,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 ---
 
-`lde.3.05.02`
+
 
 #### Meios de conservação
 
@@ -632,7 +632,7 @@ Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, 
 
 ---
 
-`lde.3.05.03`
+
 
 #### Gozo dos bens terrenos
 
@@ -666,7 +666,7 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 
 ---
 
-`lde.3.05.04`
+
 
 #### Necessário e supérfluo
 
@@ -686,7 +686,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 ---
 
-`lde.3.05.05`
+
 
 #### Privações voluntárias. Mortificações
 
@@ -736,12 +736,12 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 ---
 
-`lde.3.06`
+
 ### [06. Da lei de destruição](#lde.3.06)
 
 ---
 
-`lde.3.06.01`
+
 
 #### Destruição necessária e destruição abusiva
 
@@ -787,7 +787,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 ---
 
-`lde.3.06.02`
+
 
 #### Flagelos destruidores
 
@@ -825,7 +825,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 ---
 
-`lde.3.06.03`
+
 
 ####  Guerras
 
@@ -851,7 +851,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 ---
 
-`lde.3.06.04`
+
 
 #### Assassínio
 
@@ -881,7 +881,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 ---
 
-`lde.3.06.05`
+
 
 #### Crueldade
 
@@ -909,7 +909,7 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 
 ---
 
-`lde.3.06.06`
+
 
 #### Duelo
 
@@ -941,7 +941,7 @@ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu
 
 ---
 
-`lde.3.06.07`
+
 
 #### Pena de morte
 
@@ -974,12 +974,12 @@ que se aplica a pena de morte?
 
 ---
 
-`lde.3.07`
+
 ### [07. Da lei de sociedade](#lde.3.07)
 
 ---
 
-`lde.3.07.01`
+
 
 #### Necessidade da vida social
 
@@ -999,7 +999,7 @@ Homem nenhum possui faculdades completas. Mediante a união social é que elas u
 
 ---
 
-`lde.3.07.02`
+
 
 #### Vida de insulamento. Voto de silêncio
 
@@ -1031,7 +1031,7 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 
 ---
 
-`lde.3.07.03`
+
 
 #### Laços de família
 
@@ -1050,12 +1050,12 @@ família?
 
 ---
 
-`lde.3.08`
+
 ### [08. Da lei do progresso](#lde.3.08)
 
 ---
 
-`lde.3.08.01`
+
 
 #### Estado de natureza
 
@@ -1075,7 +1075,7 @@ O estado de natureza é a infância da Humanidade e o ponto de partida do seu de
 
 ---
 
-`lde.3.08.02`
+
 
 #### Marcha do progresso
 
@@ -1127,7 +1127,7 @@ Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas qu
 
 ---
 
-`lde.3.08.03`
+
 
 #### Povos degenerados
 
@@ -1167,7 +1167,7 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 ---
 
-`lde.3.08.04`
+
 
 #### Civilização
 
@@ -1202,7 +1202,7 @@ De duas nações que tenham chegado ao ápice da escala social, somente pode con
 
 ---
 
-`lde.3.08.05`
+
 
 #### Progresso da legislação humana
 
@@ -1226,7 +1226,7 @@ A civilização criou necessidades novas para o homem, necessidades relativas à
 
 ---
 
-`lde.3.08.06`
+
 
 #### Influência do Espiritismo no progresso
 
@@ -1254,12 +1254,12 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 ---
 
-`lde.3.09`
+
 ### [09. Da lei de igualdade](#lde.3.09)
 
 ---
 
-`lde.3.09.01`
+
 
 #### Igualdade natural
 803. Perante Deus, são iguais todos os homens?
@@ -1275,7 +1275,7 @@ seus olhos, são iguais
 
 ---
 
-`lde.3.09.02`
+
 
 #### Desigualdade das aptidões
 
@@ -1289,7 +1289,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ---
 
-`lde.3.09.03`
+
 
 #### Desigualdades sociais
 
@@ -1304,7 +1304,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ---
 
-`lde.3.09.04`
+
 
 #### Desigualdade das riquezas
 
@@ -1337,7 +1337,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ---
 
-`lde.3.09.05`
+
 
 #### As provas de riqueza e de miséria
 
@@ -1355,7 +1355,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 
 ---
 
-`lde.3.09.06`
+
 
 #### Igualdade dos direitos do homem e da mulher
 
@@ -1384,7 +1384,7 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 
 ---
 
-`lde.3.09.07`
+
 
 #### Igualdade perante o túmulo
 
@@ -1401,12 +1401,12 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-`lde.3.10`
+
 ### [10. Da lei de liberdade](#lde.3.10)
 
 ---
 
-`lde.3.10.01`
+
 
 #### Liberdade natural
 
@@ -1427,7 +1427,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-`lde.3.10.02`
+
 
 #### Escravidão
 
@@ -1447,7 +1447,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-`lde.3.10.03`
+
 
 ####  Liberdade de pensar
 
@@ -1459,7 +1459,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-`lde.3.10.04`
+
 
 #### Liberdade de consciência
 
@@ -1491,7 +1491,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 ---
 
-`lde.3.10.05`
+
 
 #### Livre-arbítrio
 
@@ -1521,7 +1521,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 ---
 
-`lde.3.10.06`
+
 
 #### Fatalidade
 
@@ -1589,7 +1589,7 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 
 ---
 
-`lde.3.10.07`
+
 
 #### Conhecimento do futuro
 
@@ -1610,7 +1610,7 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 
 ---
 
-`lde.3.10.08`
+
 
 #### Resumo teórico do móvel das ações humanas
 
@@ -1628,12 +1628,12 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-`lde.3.11`
+
 ### [11. Da lei de justiça, de amor, e de caridade](#lde.3.11)
 
 ---
 
-`lde.3.11.01`
+
 
 #### Justiça e direitos naturais
 
@@ -1668,7 +1668,7 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 
 ---
 
-`lde.3.11.02`
+
 
 #### Direito de propriedade. Roubo
 
@@ -1699,7 +1699,7 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 
 ---
 
-`lde.3.11.03`
+
 
 #### Caridade e amor do próximo
 
@@ -1726,7 +1726,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 
 ---
 
-`lde.3.11.04`
+
 
 #### Amor materno e filial
 
@@ -1741,12 +1741,12 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 
 ---
 
-`lde.3.12`
+
 ### [12. Da perfeição moral](#lde.3.12)
 
 ---
 
-`lde.3.12.01`
+
 
 #### As virtudes e os vícios
 
@@ -1807,7 +1807,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 
 ---
 
-`lde.3.12.02`
+
 
 ####  Paixões
 
@@ -1836,7 +1836,7 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 
 ---
 
-`lde.3.12.03`
+
 
 ####  O egoísmo
 
@@ -1866,7 +1866,7 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 
 ---
 
-`lde.3.12.04`
+
 
 ####  Caracteres do homem de bem
 
@@ -1884,7 +1884,7 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 
 ---
 
-`lde.3.12.05`
+
 
 ####  Conhecimento de si mesmo
 

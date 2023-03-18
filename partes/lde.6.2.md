@@ -1,6 +1,6 @@
 ### 2. Índice Geral
 ---
-`lde.6.2.01`
+
 #### A
 ##### Aberração
 faculdades do homem e – lde.q847
@@ -279,7 +279,7 @@ demonstrações da – lde.q901
 ##### Avoengos ver ##### Antepassados
 ---
 
-`lde.6.2.02`
+
 #### B
 ##### Batista, João
 Elias e – lde.q222

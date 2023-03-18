@@ -1,9 +1,9 @@
 `lde.1`
 ## [Parte 1. Das causas primárias](#lde.1)
-`lde.1.1`
+
 ### [1. De Deus](#lde.1.1)
 ---
-`lde.1.1.01`
+
 #### [Deus e o infinito](#lde.1.1.01)
 
 [1](#lde.Q1). O que é Deus?
@@ -25,7 +25,7 @@
 
 ---
 
-`lde.1.1.02`
+
 #### [Provas da existência de Deus](#lde.1.1.02)
 
 [4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
@@ -62,7 +62,7 @@
 
 ---
 
-`lde.1.1.03`
+
 #### [Atributos da Divindade](#lde.1.1.03)
 
 [10](#lde.q10). Pode o homem compreender a natureza íntima de Deus?
@@ -90,7 +90,7 @@
 
 ---
 
-`lde.1.1.04`
+
 #### [Panteísmo](#lde.1.1.04)
 
 [14](#lde.q14). Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
@@ -109,10 +109,10 @@
 
 ---
 
-`lde.1.2`
+
 ### [2. Dos elementos gerais do Universo](#lde.1.2)
 ---
-`lde.1.2.01`
+
 #### [Conhecimento do princípio das coisas](#lde.1.2.01)
 
 [17](#lde.q17). É dado ao homem conhecer o princípio das coisas?
@@ -135,7 +135,7 @@
 
 ---
 
-`lde.1.2.02`
+
 #### [Espírito e matéria](#lde.1.2.02)
 
 [21](#lde.q21). A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
@@ -192,7 +192,7 @@ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário
 
 ---
 
-`lde.1.2.03`
+
 #### [Propriedades da matéria](#lde.1.2.03)
 
 [29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?
@@ -238,7 +238,7 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 
 ---
 
-`lde.1.2.04`
+
 #### [Espaço universal](#lde.1.2.04)
 
 35. O Espaço universal é infinito ou limitado?
@@ -253,10 +253,10 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 
 ---
 
-`lde.1.3`
+
 ### [3. Da Criação](#lde.1.3)
 ---
-`lde.1.3.01`
+
 #### [Formação dos mundos](#lde.1.3.01)
 
 *O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
@@ -288,7 +288,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 
 ---
 
-`lde.1.3.02`
+
 #### [Formação dos seres vivos](#lde.1.3.02)
 
 43. Quando começou a Terra a ser povoada?
@@ -323,7 +323,7 @@ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para forma
 
 ---
 
-`lde.1.3.03`
+
 #### [Povoamento da Terra. Adão](#lde.1.3.03)
 
 50. A espécie humana começou por um único homem?
@@ -338,7 +338,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 
 ---
 
-`lde.1.3.04`
+
 #### [Diversidade das raças humanas](#lde.1.3.04)
 
 52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
@@ -359,7 +359,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 
 ---
 
-`lde.1.3.05`
+
 #### [Pluralidade dos mundos](#lde.1.3.05)
 
 55. São habitados todos os globos que se movem no Espaço?
@@ -384,7 +384,7 @@ As condições de existência dos seres que habitam os diferentes mundos hão de
 
 ---
 
-`lde.1.3.06`
+
 #### [Considerações e concordâncias bíblicas concernentes à Criação](#lde.1.3.06)
 
 59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
@@ -407,7 +407,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ---
 
-`lde.1.4`
+
 ### [4. Do princípio vital](#lde.1.4)
 ---
 #### [Seres orgânicos e inorgânicos](#lde.1.4.1)

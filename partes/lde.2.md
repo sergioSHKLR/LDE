@@ -1,8 +1,8 @@
 ## [Parte 2. Do mundo espírita](#lde.2)
-`lde.2.01`
+
 ### [01. Dos Espíritos](#lde.2.01)
 ---
-`lde.2.01.01`
+
 
 #### Origem e natureza dos Espíritos
 
@@ -44,7 +44,7 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 
 ---
 
-`lde.2.01.02`
+
 
 #### Mundo normal primitivo
 
@@ -66,7 +66,7 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 
 ---
 
-`lde.2.01.03`
+
 
 #### Forma e ubiquidade dos Espíritos
 
@@ -108,7 +108,7 @@ Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensam
 
 ---
 
-`lde.2.01.04`
+
 
 #### Perispírito
 
@@ -132,7 +132,7 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 ---
 
-`lde.2.01.05`
+
 
 #### Diferentes ordens de Espíritos
 
@@ -154,7 +154,7 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 ---
 
-`lde.2.01.06`
+
 
 #### Escala espírita
 
@@ -171,7 +171,7 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 
 ---
 
-`lde.2.01.07`
+
 
 #### 3ª ordem – Espíritos imperfeitos
 
@@ -216,7 +216,7 @@ Estes Espíritos, propriamente falando, não formam uma classe distinta pelas su
 
 ---
 
-`lde.2.01.08`
+
 
 #### 2ª ordem – Bons Espíritos
 
@@ -249,7 +249,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 ---
 
-`lde.2.01.09`
+
 
 #### 1ª ordem – Espíritos puros
 
@@ -263,7 +263,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-`lde.2.01.10`
+
 
 #### Progressão dos Espíritos
 
@@ -343,7 +343,7 @@ Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são E
 
 ---
 
-`lde.2.01.11`
+
 
 #### Anjos e demônios
 
@@ -381,12 +381,12 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 ---
 
-`lde.2.02`
+
 ### [02. Da encarnação dos espíritos](#lde.2.02)
 
 ---
 
-`lde.2.02.01`
+
 
 #### Objetivo da encarnação
 
@@ -406,7 +406,7 @@ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém
 
 ---
 
-`lde.2.02.02`
+
 
 #### A alma
 
@@ -507,7 +507,7 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 ---
 
-`lde.2.02.03`
+
 
 #### Materialismo
 
@@ -529,12 +529,12 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ---
 
-`lde.2.03`
+
 ### [03. Da volta do Espírito à vida espiritual](#lde.2.03)
 
 ---
 
-`lde.2.03.01`
+
 
 #### A alma após a morte. Vida eterna.
 
@@ -578,7 +578,7 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 
 ---
 
-`lde.2.03.02`
+
 
 #### Separação da alma e do corpo
 
@@ -628,7 +628,7 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 ---
 
-`lde.2.03.03`
+
 
 #### Perturbação espiritual
 
@@ -661,12 +661,12 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 ---
 
-`lde.2.04`
+
 ### [04. Da pluralidade das existências](#lde.2.04)
 
 ---
 
-`lde.2.04.01`
+
 
 #### A reencarnação
 
@@ -707,7 +707,7 @@ um corpo, toma outro, ou, então, que reencarna em novo corpo.
 
 ---
 
-`lde.2.04.02`
+
 
 #### Justiça da reencarnação
 
@@ -721,7 +721,7 @@ um corpo, toma outro, ou, então, que reencarna em novo corpo.
 
 ---
 
-`lde.2.04.03`
+
 
 #### Encarnação nos diferentes mundos
 
@@ -852,7 +852,7 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 
 ---
 
-`lde.2.04.04`
+
 
 #### Transmigrações progressivas
 
@@ -914,7 +914,7 @@ O suco da vide nos oferece um símile material dos diferentes graus da depuraç�
 
 ---
 
-`lde.2.04.05`
+
 
 #### Sorte das crianças depois da morte
 
@@ -946,7 +946,7 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 
 ---
 
-`lde.2.04.06`
+
 
 #### Sexos nos Espíritos
 
@@ -966,7 +966,7 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 
 ---
 
-`lde.2.04.07`
+
 
 #### Parentesco, filiação
 
@@ -994,7 +994,7 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 
 ---
 
-`lde.2.04.08`
+
 
 #### Parecenças físicas e morais
 
@@ -1052,7 +1052,7 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 
 ---
 
-`lde.2.04.09`
+
 
 #### Ideias inatas
 
@@ -1148,12 +1148,12 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito. Eis o que s
 
 ---
 
-`lde.2.06`
+
 ### [06. Da vida espírita](#lde.2.06)
 
 ---
 
-`lde.2.06.01`
+
 
 #### Espíritos errantes
 
@@ -1213,7 +1213,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-`lde.2.06.02`
+
 
 #### Mundos transitórios
 
@@ -1257,7 +1257,7 @@ Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum h
 
 ---
 
-`lde.2.06.03`
+
 
 #### Percepções, sensações e sofrimentos dos Espíritos
 
@@ -1363,7 +1363,7 @@ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e q
 
 ---
 
-`lde.2.06.04`
+
 
 #### Ensaio teórico da sensação nos Espíritos
 
@@ -1391,7 +1391,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-`lde.2.06.05`
+
 
 #### Escolha das provas
 
@@ -1493,7 +1493,7 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 ---
 
-`lde.2.06.07`
+
 
 #### As relações no além-túmulo
 
@@ -1580,7 +1580,7 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 
 ---
 
-`lde.2.06.07`
+
 
 #### Relações de simpatia e de antipatia entre os Espíritos. Metades eternas
 
@@ -1646,7 +1646,7 @@ A teoria das metades eternas encerra uma simples figura, representativa da uniã
 
 ---
 
-`lde.2.06.08`
+
 
 #### Espíritos errantes
 
@@ -1708,7 +1708,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-`lde.2.06.09`
+
 
 #### Recordação da existência corpórea
 
@@ -1793,7 +1793,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-`lde.2.06.10`
+
 
 #### Comemoração dos mortos. Funerais
 
@@ -1855,12 +1855,12 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-`lde.2.07`
+
 ### [07. Da volta do Espírito à vida corporal](#lde.2.07)
 
 ---
 
-`lde.2.07.01`
+
 
 #### Prelúdio da volta
 
@@ -1930,7 +1930,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-`lde.2.06.02`
+
 
 #### União do espírito e do corpo
 
@@ -2016,7 +2016,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-`lde.2.06.03`
+
 
 #### Faculdades morais e intelectuais do homem
 
@@ -2051,7 +2051,7 @@ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de
 
 ---
 
-`lde.2.06.04`
+
 
 #### Influência do corpo
 
@@ -2085,7 +2085,7 @@ Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada
 
 ---
 
-`lde.2.06.05`
+
 
 #### Idiotismo, loucura
 
@@ -2139,7 +2139,7 @@ A superioridade moral nem sempre guarda proporção com a superioridade intelect
 
 ---
 
-`lde.2.06.06`
+
 
 #### A infância
 
@@ -2175,7 +2175,7 @@ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, 
 
 ---
 
-`lde.2.06.07`
+
 
 #### Simpatia e antipatia materiais
 
@@ -2209,7 +2209,7 @@ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, 
 
 ---
 
-`lde.2.06.08`
+
 
 #### Esquecimento do passado
 
@@ -2271,12 +2271,12 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 ---
 
-`lde.2.08`
+
 ### [08. Da emancipação da alma](#lde.2.08)
 
 ---
 
-`lde.2.08.01`
+
 
 #### O sono e os sonhos
 
@@ -2348,7 +2348,7 @@ Os sonhos são efeito da emancipação da alma, que mais independente se torna p
 
 ---
 
-`lde.2.08.02`
+
 
 #### Visitas espíritas entre pessoas vivas
 
@@ -2380,7 +2380,7 @@ Pelo termo antigos se devem entender os laços de amizade contraída em existên
 
 ---
 
-`lde.2.08.03`
+
 
 #### Transmissão oculta do pensamento
 
@@ -2402,7 +2402,7 @@ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que 
 
 ---
 
-`lde.2.08.04`
+
 
 #### Letargia, catalepsia, mortes aparentes
 
@@ -2426,7 +2426,7 @@ A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporári
 
 ---
 
-`lde.2.08.05`
+
 
 #### Sonambulismo
 
@@ -2494,7 +2494,7 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 ---
 
-`lde.2.08.06`
+
 
 #### Êxtase
 
@@ -2532,7 +2532,7 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 ---
 
-`lde.2.08.07`
+
 
 #### Dupla vista
 
@@ -2580,7 +2580,7 @@ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, e
 
 ---
 
-`lde.2.08.08`
+
 
 #### Resumo teórico do sonambulismo, do êxtase e da dupla vista
 
@@ -2632,10 +2632,10 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ---
 
-`lde.2.09`
+
 ### [09. Da intervenção dos Espíritos no mundo corporal](#lde.2.09)
 
-`lde.2.09.01`
+
 
 #### Faculdade que têm os Espíritos de penetrar os nossos pensamentos
 
@@ -2657,7 +2657,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ---
 
-`lde.2.09.02`
+
 
 #### Influência oculta dos Espíritos em nossos pensamentos e atos
 
@@ -2731,7 +2731,7 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 
 ---
 
-`lde.2.09.03`
+
 
 #### Possessos
 
@@ -2771,7 +2771,7 @@ O vocábulo possesso, na sua acepção vulgar, supõe a existência de demônios
 
 ---
 
-`lde.2.09.04`
+
 
 #### Convulsionários
 
@@ -2799,7 +2799,7 @@ Visto que esses fenômenos dependem de uma causa física e da ação de certos E
 
 ---
 
-`lde.2.09.05`
+
 
 #### Afeição que os Espíritos votam a certas pessoas
 
@@ -2835,7 +2835,7 @@ Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as conside
 
 ---
 
-`lde.2.09.06`
+
 
 #### Anjos da guarda. Espíritos protetores, familiares ou simpáticos
 
@@ -3016,7 +3016,7 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 
 ---
 
-`lde.2.09.07`
+
 
 #### Pressentimentos
 
@@ -3036,7 +3036,7 @@ Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consci
 
 ---
 
-`lde.2.09.08`
+
 
 #### Influência dos Espíritos nos acontecimentos da vida
 
@@ -3120,7 +3120,7 @@ A experiência demonstra que alguns Espíritos continuam em outra existência a 
 
 ---
 
-`lde.2.09.09`
+
 
 #### Ação dos Espíritos nos fenômenos da Natureza
 
@@ -3162,7 +3162,7 @@ A experiência demonstra que alguns Espíritos continuam em outra existência a 
 
 ---
 
-`lde.2.09.10`
+
 
 #### Os Espíritos durante os combates
 
@@ -3208,7 +3208,7 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 
 ---
 
-`lde.2.09.11`
+
 
 #### Pactos
 
@@ -3224,7 +3224,7 @@ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores na
 
 ---
 
-`lde.2.09.12`
+
 
 #### Poder oculto. Talismãs. Feiticeiros
 
@@ -3260,7 +3260,7 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 ---
 
-`lde.2.09.13`
+
 
 #### Bênçãos e maldições
 
@@ -3270,7 +3270,7 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 ---
 
-`lde.2.10`
+
 ### [10. Das ocupações e missões dos Espíritos](#lde.2.10)
 
 558. Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
@@ -3435,12 +3435,12 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 
 ---
 
-`lde.2.11`
+
 ### [11. Dos três reinos](#lde.2.11)
 
 ---
 
-`lde.2.11.01`
+
 
 #### Os minerais e as plantas
 
@@ -3478,7 +3478,7 @@ O organismo humano nos proporciona exemplo de movimentos análogos, sem particip
 
 ---
 
-`lde.2.11.02`
+
 
 #### Os animais e o homem
 
@@ -3597,7 +3597,7 @@ Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e mo
 
 ---
 
-`lde.2.11.03`
+
 
 #### Metempsicose
 
