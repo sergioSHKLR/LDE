@@ -447,11 +447,11 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ### [📑 1. De Deus](#lde.1.1)
 #### [📃 Deus e o infinito](#lde.1.1.01)
 
-##### ❔ [1](#lde.q1). O que é Deus?
+##### > ❔ [1](#lde.q1). O que é Deus?
 
 >👻 “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-##### ❔ [2](#lde.q2). Que se deve entender por infinito?
+> ##### ❔ [2](#lde.q2). Que se deve entender por infinito?
 
 >👻 “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
