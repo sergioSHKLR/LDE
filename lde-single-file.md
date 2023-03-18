@@ -1,6 +1,6 @@
-# [O LIVRO DOS ESPÍRITOS](#lde)
-## [Parte 0. Pré-textual](#lde.0)
-### [Folha de rosto](#lde.0.1)
+# [📔 O LIVRO DOS ESPÍRITOS](#lde)
+## [🗂️ Parte 0. Pré-textual](#lde.0)
+### [📄 Folha de rosto](#lde.0.1)
 
 *Filosofia Espiritualista*
 
@@ -19,8 +19,7 @@ Federação Espírita Brasileira (FEB)
 ISBN 978-85-7328-728-8
 
 ---
-
-### [Avisos legais](#lde.0.2)
+### [📄 Avisos legais](#lde.0.2)
 Os projetos de **doutrina.org** almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia no entendimento e retenção do tópico estudado.
 
 Entretanto, cremos que alguns ressalvos devam ser feitos.
@@ -59,11 +58,10 @@ Doutrina.org  2023 por Sergio SHKLR é licenciada sob [CC BY-NC-SA 4.0](https://
 Nota: A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo dos livros de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos Dias, ou quaisquer outras fontes externas. De modo a incentivar o máximo aproveitamento, disseminação e até mesmo a longevidade deste projeto, nos comprometemos a transferir toda a tecnologia desenvolvida para outras indivíduos ou entidades, para que o mesmo seja traduzido em outra línguas. Almejamos até a possível adoção por entidade estabelecidas.
 
 ---
-
-### [Introdução](#lde.0.3)
+### [📑 Introdução](#lde.0.3)
 ---
 
-#### [Introdução 01](#lde.0.3.01)
+#### [📄 Introdução 01](#lde.0.3.01)
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **espiritismo**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo **espiritualismo** a acepção que lhe é própria. Diremos, pois, que a Doutrina **Espírita** ou o **Espiritismo** tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
@@ -71,7 +69,7 @@ Como especialidade, **O Livro dos Espíritos** contém a Doutrina Espírita; com
 
 ---
 
-#### [Introdução 02](#lde.0.3.02)
+#### [📄 Introdução 02](#lde.0.3.02)
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra **alma**. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
@@ -99,7 +97,7 @@ Passemos agora ao objeto principal desta instrução preliminar.
 
 ---
 
-#### [Introdução 03](#lde.0.3.03)
+#### [📄 Introdução 03](#lde.0.3.03)
 
 Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contraditores. Vamos tentar responder a algumas das objeções destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a pretensão de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de boa-fé, aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo leviano e precipitadamente formado.
 
@@ -127,7 +125,7 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 ---
 
-#### [Introdução 04](#lde.0.3.04)
+#### [📄 Introdução 04](#lde.0.3.04)
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior
 
@@ -149,7 +147,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 ---
 
-#### [Introdução 05](#lde.0.3.05)
+#### [📄 Introdução 05](#lde.0.3.05)
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -165,7 +163,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 
 ---
 
-#### [Introdução 06](#lde.0.3.06)
+#### [📄 Introdução 06](#lde.0.3.06)
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -246,7 +244,7 @@ Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos E
 
 ---
 
-#### [Introdução 07](#lde.0.3.07)
+#### [📄 Introdução 07](#lde.0.3.07)
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -266,7 +264,7 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 ---
 
-#### [Introdução 08](#lde.0.3.08)
+#### [📄 Introdução 08](#lde.0.3.08)
 
 Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita, que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam a priori, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
@@ -276,7 +274,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 
 ---
 
-#### [Introdução 09](#lde.0.3.09)
+#### [📄 Introdução 09](#lde.0.3.09)
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 
@@ -288,7 +286,7 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 
 ---
 
-#### [Introdução 10](#lde.0.3.10)
+#### [📄 Introdução 10](#lde.0.3.10)
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -304,7 +302,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ---
 
-#### [Introdução 11](#lde.0.3.11)
+#### [📄 Introdução 11](#lde.0.3.11)
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
@@ -312,7 +310,7 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 
 ---
 
-#### [Introdução 12](#lde.0.3.12)
+#### [📄 Introdução 12](#lde.0.3.12)
 
 Um fato demonstrado pela observação e confirmado pelos próprios Espíritos é o de que os Espíritos inferiores muitas vezes usurpam nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, Sócrates, Júlio César, Carlos Magno, Fénelon, Napoleão, Washington entre outros, tenham realmente animado essas personagens? Esta dúvida existe mesmo entre alguns adeptos fervorosos da Doutrina Espírita, os quais admitem a intervenção e a manifestação dos Espíritos, mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, bem difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão autêntico como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -332,7 +330,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ---
 
-#### [Introdução 13](#lde.0.3.13)
+#### [📄 Introdução 13](#lde.0.3.13)
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
 
@@ -346,13 +344,13 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 ---
 
-#### [Introdução 14](#lde.0.3.14)
+#### [📄 Introdução 14](#lde.0.3.14)
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**.
 
 ---
 
-#### [Introdução 15](#lde.0.3.15)
+#### [📄 Introdução 15](#lde.0.3.15)
 
 Há também pessoas que vêem perigo por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a razão alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao Espiritismo. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos loucos e maníacos os estudos da Matemática, da Medicina, da Música, da Filosofia e outros têm produzido? Dever-se-ia, em consequência, banir esses estudos? Que prova isso? Nos trabalhos corporais, estropiam-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da inteligência, estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao Espírito. Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da plenitude das suas faculdades. No seu gênero, ele é, como homem, um mártir do trabalho.
 
@@ -366,7 +364,7 @@ Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo 
 
 ---
 
-#### [Introdução 16](#lde.0.3.16)
+#### [📄 Introdução 16](#lde.0.3.16)
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 
@@ -391,7 +389,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 ---
 
-#### [Introdução 17](#lde.0.3.17)
+#### [📄 Introdução 17](#lde.0.3.17)
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 A ciência espírita compreende duas partes: experimental uma, relativa às manifestações em geral; filosófica, outra, relativa às manifestações inteligentes. Aquele que apenas haja observado a primeira se acha na posição de quem não conhecesse a Física senão por experiências recreativas, sem haver penetrado no âmago da ciência. A verdadeira Doutrina Espírita está no ensino que os Espíritos deram, e os conhecimentos que esse ensino comporta são por demais profundos e extensos para serem adquiridos de qualquer modo, que não por um estudo perseverante, feito no silêncio e no recolhimento. Porque, só dentro desta condição se pode observar um número infinito de fatos e particularidades que passam despercebidos ao observador superficial, e firmar opinião. Não produzisse este livro outro resultado além do de mostrar o lado sério da questão e de provocar estudos neste sentido e rejubilaríamos por haver sido eleito para executar uma obra em que, aliás, nenhum mérito pessoal pretendemos ter, pois que os princípios nela exarados não são de criação nossa. O mérito que apresenta cabe todo aos Espíritos que a ditaram. Esperamos que dará outro resultado, o de guiar os homens que desejem esclarecer-se, mostrando-lhes, nestes estudos, um fim grande e sublime: o do progresso individual e social e o de lhes indicar o caminho que conduz a esse fim.
@@ -404,8 +402,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 [^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
 
 ---
-
-### [Prolegômenos](#lde.0.4)
+### [📄 Prolegômenos](#lde.0.4)
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
@@ -446,7 +443,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 `lde.1`
-## [Parte 1. Das causas primárias](#lde.1)
+## [🗂️ Parte 1. Das causas primárias](#lde.1)
 
 ### [1. De Deus](#lde.1.1)
 ---
@@ -983,7 +980,7 @@ O instinto é uma inteligência rudimentar, que difere da inteligência propriam
 O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. ❦
 
 ---
-## [Parte 2. Do mundo espírita](#lde.2)
+## [🗂️ Parte 2. Do mundo espírita](#lde.2)
 ### [01. Dos Espíritos](#lde.2.01)
 ---
 
@@ -4471,7 +4468,7 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 [^15]: N.E.: Ver Nota Explicativa.
 
 ---
-## [Parte 3. Das Leis morais](#lde.3)
+## [🗂️ Parte 3. Das Leis morais](#lde.3)
 ### [01. Da lei divina ou natural](#lde.3.01)
 ---
 
@@ -6230,7 +6227,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 [^24]:  N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.)
 
 ---
-## [Parte 4. Das esperanças e consolações](#lde.4)
+## [🗂️ Parte 4. Das esperanças e consolações](#lde.4)
 ---
 
 
@@ -6759,7 +6756,7 @@ aberre da razão, que esteja em contradição com os dados da Ciência.
 > São Luís
 
 ---
-## [Parte 5. Conclusão](#lde.5)
+## [🗂️ Parte 5. Conclusão](#lde.5)
 ### [Conclusão 01](#lde.5.1)
 
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do Espiritismo, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da Humanidade uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias.
@@ -6869,7 +6866,7 @@ O argumento supremo deve ser a razão e a moderação garantirá melhor a vitór
 Santo Agostinho
 
 ---
-## [Parte 6. Pós-textual](#lde.6)
+## [🗂️ Parte 6. Pós-textual](#lde.6)
 ### [1. Nota explicativa](#lde.6.1) [^27]
 
 > Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. Revista Espírita de 1868. 1. ed. Rio de Janeiro: FEB, 2005. p. 28, janeiro de 1868.)
