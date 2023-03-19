@@ -1,9 +1,9 @@
-`lde.1`
 ## [🗂️ Parte 1. Das causas primárias](#lde.1)
 ### [📑 1. De Deus](#lde.1.1)
 #### [📃 Deus e o infinito](#lde.1.1.01)
 
 ##### ❔ [1](#lde.q1). O que é Deus?
+<<<<<<< HEAD
 
 ✨ “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
@@ -14,6 +14,15 @@
 ##### ❔ [3](#lde.q3). Poder-se-ia dizer que Deus é o infinito?
 
 ✨ “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
+=======
+👻 “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
+
+##### ❔ [2](#lde.q2). Que se deve entender por infinito?
+👻 “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
+
+##### ❔ [3](#lde.q3). Poder-se-ia dizer que Deus é o infinito?
+👻 “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
+>>>>>>> 7c5a14a248f7ef44e4036e823727dae13ea90229
 >👴🏻 Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ❦
 
 [^4]: A.K.: O texto colocado entre aspas, em seguida às perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
@@ -24,6 +33,7 @@
 #### [📃 Provas da existência de Deus](#lde.1.1.02)
 
 ##### ❔ [4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
+<<<<<<< HEAD
 
 ✨ “Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá.”
 >👴🏻 Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação.<br />
@@ -36,6 +46,16 @@
 ##### ❔ [6](#lde.q6). O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
 
 ✨ “Se assim fosse, por que existiria nos vossos selvagens esse sentimento?”
+=======
+👻 “Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá.”
+>👴🏻 Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação.<br />O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
+
+##### ❔ [5](#lde.q5). Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
+👻 “A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.”
+
+##### ❔ [6](#lde.q6). O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
+👻 “Se assim fosse, por que existiria nos vossos selvagens esse sentimento?”
+>>>>>>> 7c5a14a248f7ef44e4036e823727dae13ea90229
 >👴🏻 Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 
 ##### ❔ [7](#lde.q7). Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
