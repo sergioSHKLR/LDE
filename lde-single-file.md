@@ -7164,6 +7164,7 @@ demonstrações da – lde.q901
 ---
 
 #### 🗂️ B
+
 ##### 🟨 Batista, João
 Elias e – lde.q222
 ##### 🟨 Bem
@@ -7219,6 +7220,7 @@ criação e – lde.q59
 linguagem figurada e a – lde.q59
 
 ---
+
 #### 🗂️ C
 ##### 🟨 Calamidades
 espíritos e – lde.q738a
@@ -10409,7 +10411,10 @@ Túmulo
 igualdade e – lde.q823
 lembrança das ações boas ou más e – lde.q824
 visitação a – lde.q322
-#### U
+
+---
+
+#### 🗂️ U
 ##### 🟨 Ubiquidade
 Espírito e – lde.q92
 ##### 🟨 União
