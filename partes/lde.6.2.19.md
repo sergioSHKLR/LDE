@@ -1,28 +1,26 @@
-#### 🗂️ T
-
-Talismã
+##### Talismã
 feiticeiro e – lde.q554
-Temor ver Medo
-Tempo
+##### Temor ver Medo
+##### Tempo
 espíritos e compreensão do – lde.q240
 formação dos mundos e – lde.q42
 percepção integral das leis divinas e – lde.q617a
 personificação do – lde.q131
 predito – lde.q1019, Conclusão 8
-Tentação
+##### Tentação
 conduta diante da – lde.q472
 cumprimento de missão e – lde.q712
 oração dominical e – lde.q872
 prova da riqueza e – lde.q865
 razão e – lde.q712a
-Teologia
+##### Teologia
 fogo moral e – lde.q1009
-Teoria
+##### Teoria
 alma subdividida e – lde.q140
 ideias inatas – lde.q218a
 metades eternas e – lde.q303a
 panteísta – lde.q14
-Terra
+##### Terra
 bens da – lde.q706
 começo dos tempos e – lde.q236e
 desaparecimento e aparecimento
@@ -48,12 +46,12 @@ reencarnação em mundo inferior à – lde.q174
 reencarnação na – lde.q173a
 sistema planetário e – lde.q188
 vontade divina e governo da – lde.q529a
-Timidez
+##### Timidez
 mal e * dos bons – lde.q932
-Tiptologia
+##### Tiptologia
 mesas girantes e – Introdução 4
 sematologia e – Introdução 4
-Trabalho
+##### Trabalho
 bases fundamentais para o – lde.q718
 coletividade dos espíritos e – lde.q559
 conceito de – lde.q674
@@ -74,42 +72,19 @@ organização da sociedade e – lde.q930
 permanente de Deus – lde.q78
 resignação contra as vicissitudes e – lde.q943
 satisfação do necessário e – lde.q930
-Transformação
+##### Transformação
 destruição e – lde.q728
 morte e – lde.q997
 progressiva – lde.q997 
-Transição
+##### Transição
 colônia de – lde.q234
 espíritos errantes e – lde.q234
 instinto em fase de – lde.q589
 ordem espiritual e – lde.q100
-Transmigração
+##### Transmigração
 progressiva – lde.q189-196
-Trasgo – lde.q103
-Túmulo
+##### Trasgo – lde.q103
+##### Túmulo
 igualdade e – lde.q823
 lembrança das ações boas ou más e – lde.q824
 visitação a – lde.q322
-U
-##### 🟨 Ubiquidade
-Espírito e – lde.q92
-##### 🟨 União
-almas sem afinidade na – lde.q939
-amor ausente na – lde.q939
-antipatia e – lde.q939
-Espiritismo e – Conclusão 9
-espíritos bons e – lde.q980
-indissolubilidade e – lde.q940
-momento da * da alma ao corpo – lde.q344
-perfeição e – lde.q298
-##### 🟨 Universalidade
-existência de Deus e * de
-sentimento instintivo – lde.q6
-##### 🟨 Universo
-criação do – lde.q37
-espaço do – lde.q35
-harmonia do – lde.q607a
-presença dos espíritos puros no – lde.q130
-reencarnação e – lde.q173b
-
----
