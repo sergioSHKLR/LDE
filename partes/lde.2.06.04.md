@@ -1,6 +1,6 @@
-## [Parte 2. Do mundo espírita](#lde.2)
+## Parte 2. Do mundo espírita
 
-### [01. Dos Espíritos](#lde.2.01)
+### 01. Dos Espíritos
 ---
 
 
@@ -382,7 +382,7 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 ---
 
 
-### [02. Da encarnação dos espíritos](#lde.2.02)
+### 02. Da encarnação dos espíritos
 
 ---
 
@@ -530,7 +530,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 ---
 
 
-### [03. Da volta do Espírito à vida espiritual](#lde.2.03)
+### 03. Da volta do Espírito à vida espiritual
 
 ---
 
@@ -662,7 +662,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 ---
 
 
-### [04. Da pluralidade das existências](#lde.2.04)
+### 04. Da pluralidade das existências
 
 ---
 
@@ -1087,7 +1087,7 @@ Veja LDE-q216
 >“Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.” ❦
 
 ---
-### [05. Considerações sobre a pluralidade das existências](#lde.2.05)
+### 05. Considerações sobre a pluralidade das existências
 
 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
@@ -1149,7 +1149,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito. Eis o que s
 ---
 
 
-### [06. Da vida espírita](#lde.2.06)
+### 06. Da vida espírita
 
 ---
 
@@ -1856,7 +1856,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 ---
 
 
-### [07. Da volta do Espírito à vida corporal](#lde.2.07)
+### 07. Da volta do Espírito à vida corporal
 
 ---
 
@@ -2272,7 +2272,7 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 ---
 
 
-### [08. Da emancipação da alma](#lde.2.08)
+### 08. Da emancipação da alma
 
 ---
 
@@ -2633,7 +2633,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 ---
 
 
-### [09. Da intervenção dos Espíritos no mundo corporal](#lde.2.09)
+### 09. Da intervenção dos Espíritos no mundo corporal
 
 
 
@@ -3271,7 +3271,7 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 ---
 
 
-### [10. Das ocupações e missões dos Espíritos](#lde.2.10)
+### 10. Das ocupações e missões dos Espíritos
 
 558. Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
 
@@ -3436,7 +3436,7 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 ---
 
 
-### [11. Dos três reinos](#lde.2.11)
+### 11. Dos três reinos
 
 ---
 

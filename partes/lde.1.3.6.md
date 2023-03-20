@@ -1,4 +1,4 @@
-#### [Considerações e concordâncias bíblicas concernentes à Criação](#lde.1.3.6)
+#### Considerações e concordâncias bíblicas concernentes à Criação
 
 59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 

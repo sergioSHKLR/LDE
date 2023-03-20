@@ -1,4 +1,4 @@
-#### [Propriedades da matéria](#lde.1.2.3)
+#### Propriedades da matéria
 
 [29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?
 

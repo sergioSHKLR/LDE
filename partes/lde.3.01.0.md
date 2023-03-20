@@ -1,5 +1,5 @@
-### [📑 01. Da lei divina ou natural](#lde.3.01)
-#### [📃 Caracteres da lei natural](#lde.3.01.1)
-#### [📃 Conhecimento da lei natural](#lde.3.01.2)
-#### [📃 O bem e o mal](#lde.3.01.3)
-#### [📃 Divisão da lei natural](#lde.3.01.4)
+### 📑 01. Da lei divina ou natural
+#### 📃 Caracteres da lei natural
+#### 📃 Conhecimento da lei natural
+#### 📃 O bem e o mal
+#### 📃 Divisão da lei natural

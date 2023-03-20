@@ -1,4 +1,4 @@
-#### [Progressão dos Espíritos](#lde.2.01.10)
+#### Progressão dos Espíritos
 
 114. Os Espíritos são bons ou maus por natureza, ou são eles mesmos que se melhoram?
 

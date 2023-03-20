@@ -1,3 +1,3 @@
-## [🗂️ Parte 6. Pós-textual](#lde.6)
-### [📃 1. Nota explicativa](#lde.6.1)
-### [🗃️ 2. Índice Geral](#lde.6.2)
+## 🗂️ Parte 6. Pós-textual
+### 📃 1. Nota explicativa
+### 🗃️ 2. Índice Geral

@@ -1,4 +1,4 @@
-#### [Perispírito](#lde.2.01.04)
+#### Perispírito
 
 93. O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
 

@@ -1,4 +1,4 @@
-#### [Seres orgânicos e inorgânicos](#lde.1.4.1)
+#### Seres orgânicos e inorgânicos
 
 *Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria.
 Tais são os minerais, a água, o ar etc.*

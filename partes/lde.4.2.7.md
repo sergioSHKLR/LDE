@@ -1,4 +1,4 @@
-## [4. Das esperanças e consolações](#lde.4)
+## 4. Das esperanças e consolações
 ---
 
 ### 1. Das penas e gozos terrestres

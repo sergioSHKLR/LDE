@@ -1,4 +1,4 @@
-#### [Mundo normal primitivo](#lde.2.01.02)
+#### Mundo normal primitivo
 
 84. Os Espíritos constituem um mundo à parte, fora daquele que vemos?
 

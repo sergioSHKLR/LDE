@@ -1,9 +1,9 @@
-### [📑 07. Da volta do Espírito à vida corporal](#lde.2.07)
-#### [📃 Prelúdio da volta](#lde.2.07.1)
-#### [📃 União do espírito e do corpo](#lde.2.07.2)
-#### [📃 Faculdades morais e intelectuais do homem](#lde.2.07.3)
-#### [📃 Influência do corpo](#lde.2.07.4)
-#### [📃 Idiotismo, loucura](#lde.2.07.5)
-#### [📃 A infância](#lde.2.07.6)
-#### [📃 Simpatia e antipatia materiais](#lde.2.07.7)
-#### [📃 Esquecimento do passado](#lde.2.07.8)
+### 📑 07. Da volta do Espírito à vida corporal
+#### 📃 Prelúdio da volta
+#### 📃 União do espírito e do corpo
+#### 📃 Faculdades morais e intelectuais do homem
+#### 📃 Influência do corpo
+#### 📃 Idiotismo, loucura
+#### 📃 A infância
+#### 📃 Simpatia e antipatia materiais
+#### 📃 Esquecimento do passado

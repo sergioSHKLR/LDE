@@ -1,4 +1,4 @@
-#### [Escala espírita](#lde.2.01.06)
+#### Escala espírita
 
 100. Observações preliminares.
 

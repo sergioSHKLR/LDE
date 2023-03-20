@@ -1,4 +1,4 @@
-#### [Pluralidade dos mundos](#lde.1.3.5)
+#### Pluralidade dos mundos
 
 55. São habitados todos os globos que se movem no Espaço?
 

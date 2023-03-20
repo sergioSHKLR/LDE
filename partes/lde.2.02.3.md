@@ -1,4 +1,4 @@
-#### [Materialismo](#lde.2.02.3)
+#### Materialismo
 
 147. Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a ciência da Natureza, são, com tanta frequência, levados ao materialismo?
 

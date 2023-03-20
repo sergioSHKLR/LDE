@@ -1,12 +1,12 @@
-### [📑 01. Dos Espíritos](#lde.2.01)
-#### [📃 Origem e natureza dos Espíritos](#lde.2.01.01)
-#### [📃 Mundo normal primitivo](#lde.2.01.02)
-#### [📃 Forma e ubiquidade dos Espíritos](#lde.2.01.03)
-#### [📃 Perispírito](#lde.2.01.04)
-#### [📃 Diferentes ordens de Espíritos](#lde.2.01.05)
-#### [📃 Escala espírita](#lde.2.01.06)
-#### [📃 3ª ordem – Espíritos imperfeitos](#lde.2.01.07)
-#### [📃 2ª ordem – Bons Espíritos](#lde.2.01.08)
-#### [📃 1ª ordem – Espíritos puros](#lde.2.01.09)
-#### [📃 Progressão dos Espíritos](#lde.2.01.10)
-#### [📃 Anjos e demônios](#lde.2.01.11)
+### 📑 01. Dos Espíritos
+#### 📃 Origem e natureza dos Espíritos
+#### 📃 Mundo normal primitivo
+#### 📃 Forma e ubiquidade dos Espíritos
+#### 📃 Perispírito
+#### 📃 Diferentes ordens de Espíritos
+#### 📃 Escala espírita
+#### 📃 3ª ordem – Espíritos imperfeitos
+#### 📃 2ª ordem – Bons Espíritos
+#### 📃 1ª ordem – Espíritos puros
+#### 📃 Progressão dos Espíritos
+#### 📃 Anjos e demônios

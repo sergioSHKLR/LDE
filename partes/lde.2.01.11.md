@@ -1,4 +1,4 @@
-#### [Anjos e demônios](#lde.2.01.11)
+#### Anjos e demônios
 
 128. Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros Espíritos?
 

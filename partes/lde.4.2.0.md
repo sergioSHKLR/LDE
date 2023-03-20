@@ -1,10 +1,10 @@
-### [📑 2. Das penas e gozos futuros](#lde.4.2)
-#### [📃 O nada. Vida futura](#lde.4.2.1)
-#### [📃 Intuição das penas e gozos futuros](#lde.4.2.2)
-#### [📃 Intervenção de Deus nas penas e recompensas](#lde.4.2.3)
-#### [📃 Natureza das penas e gozos futuros](#lde.4.2.4)
-#### [📃 Penas temporais](#lde.4.2.5)
-#### [📃 Expiação e arrependimento](#lde.4.2.6)
-#### [📃 Duração das penas futuras](#lde.4.2.7)
-#### [📃 Ressurreição da carne](#lde.4.2.8)
-#### [📃 Paraíso, inferno e purgatório](#lde.4.2.9)
+### 📑 2. Das penas e gozos futuros
+#### 📃 O nada. Vida futura
+#### 📃 Intuição das penas e gozos futuros
+#### 📃 Intervenção de Deus nas penas e recompensas
+#### 📃 Natureza das penas e gozos futuros
+#### 📃 Penas temporais
+#### 📃 Expiação e arrependimento
+#### 📃 Duração das penas futuras
+#### 📃 Ressurreição da carne
+#### 📃 Paraíso, inferno e purgatório

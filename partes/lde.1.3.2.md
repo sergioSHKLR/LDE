@@ -1,4 +1,4 @@
-#### [Formação dos seres vivos](#lde.1.3.2)
+#### Formação dos seres vivos
 
 43. Quando começou a Terra a ser povoada?
 

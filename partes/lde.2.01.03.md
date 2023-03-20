@@ -1,4 +1,4 @@
-#### [Forma e ubiquidade dos Espíritos](#lde.2.01.03)
+#### Forma e ubiquidade dos Espíritos
 
 88. Os Espíritos têm forma determinada, limitada e constante?
 

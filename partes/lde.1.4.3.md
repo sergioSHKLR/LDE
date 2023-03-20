@@ -1,4 +1,4 @@
-#### [Inteligência e instinto](#lde.1.4.3)
+#### Inteligência e instinto
 
 71. A inteligência é atributo do princípio vital?
 

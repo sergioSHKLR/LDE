@@ -1,10 +1,10 @@
-### [📑 04. Da pluralidade das existências](#lde.2.04)
-#### [📃 A reencarnação](#lde.2.04.1)
-#### [📃 Justiça da reencarnação](#lde.2.04.2)
-#### [📃 Encarnação nos diferentes mundos](#lde.2.04.3)
-#### [📃 Transmigrações progressivas](#lde.2.04.4)
-#### [📃 Sorte das crianças depois da morte](#lde.2.04.5)
-#### [📃 Sexos nos Espíritos](#lde.2.04.6)
-#### [📃 Parentesco, filiação](#lde.2.04.7)
-#### [📃 Parecenças físicas e morais](#lde.2.04.8)
-#### [📃 Ideias inatas](lde.2.04.09)
+### 📑 04. Da pluralidade das existências
+#### 📃 A reencarnação
+#### 📃 Justiça da reencarnação
+#### 📃 Encarnação nos diferentes mundos
+#### 📃 Transmigrações progressivas
+#### 📃 Sorte das crianças depois da morte
+#### 📃 Sexos nos Espíritos
+#### 📃 Parentesco, filiação
+#### 📃 Parecenças físicas e morais
+#### 📃 Ideias inatas](lde.2.04.09)

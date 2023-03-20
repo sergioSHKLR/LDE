@@ -1,7 +1,7 @@
-### [📑 08. Da lei do progresso](#lde.3.08)
-#### [📃 Estado de natureza](#lde.3.08.1)
-#### [📃 Marcha do progresso](#lde.3.08.2)
-#### [📃 Povos degenerados](#lde.3.08.3)
-#### [📃 Civilização](#lde.3.08.4)
-#### [📃 Progresso da legislação humana](#lde.3.08.5)
-#### [📃 Influência do Espiritismo no progresso](#lde.3.08.6)
+### 📑 08. Da lei do progresso
+#### 📃 Estado de natureza
+#### 📃 Marcha do progresso
+#### 📃 Povos degenerados
+#### 📃 Civilização
+#### 📃 Progresso da legislação humana
+#### 📃 Influência do Espiritismo no progresso

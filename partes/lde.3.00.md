@@ -1,13 +1,13 @@
-## [🗂️ Parte 3. Das Leis morais](#lde.3)
-### [📑 01. Da lei divina ou natural](#lde.3.01)
-### [📑 02. Da lei de adoração](#lde.3.02)
-### [📑 03. Da lei do trabalho](#lde.3.03)
-### [📑 04. Da lei de reprodução](#lde.3.04)
-### [📑 05. Da lei de conservação](#lde.3.05)
-### [📑 06. Da lei de destruição](#lde.3.06)
-### [📑 07. Da lei de sociedade](#lde.3.07)
-### [📑 08. Da lei do progresso](#lde.3.08)
-### [📑 09. Da lei de igualdade](#lde.3.09)
-### [📑 10. Da lei de liberdade](#lde.3.10)
-### [📑 11. Da lei de justiça, de amor, e de caridade](#lde.3.11)
-### [📑 12. Da perfeição moral](#lde.3.12)
+## 🗂️ Parte 3. Das Leis morais
+### 📑 01. Da lei divina ou natural
+### 📑 02. Da lei de adoração
+### 📑 03. Da lei do trabalho
+### 📑 04. Da lei de reprodução
+### 📑 05. Da lei de conservação
+### 📑 06. Da lei de destruição
+### 📑 07. Da lei de sociedade
+### 📑 08. Da lei do progresso
+### 📑 09. Da lei de igualdade
+### 📑 10. Da lei de liberdade
+### 📑 11. Da lei de justiça, de amor, e de caridade
+### 📑 12. Da perfeição moral

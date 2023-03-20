@@ -1,4 +1,4 @@
-#### [📃 Atributos da Divindade](#lde.1.1.3)
+#### 📃 Atributos da Divindade
 
 [10](#lde.q10). Pode o homem compreender a natureza íntima de Deus?
 

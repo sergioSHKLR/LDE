@@ -1,4 +1,4 @@
-#### [📃 Introdução 09](#lde.0.3.09)
+#### 📃 Introdução 09
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 

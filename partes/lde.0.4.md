@@ -1,4 +1,4 @@
-### [📃 Prolegômenos](#lde.0.4)
+### 📃 Prolegômenos
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 

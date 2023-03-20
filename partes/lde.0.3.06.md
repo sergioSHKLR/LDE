@@ -1,4 +1,4 @@
-#### [📃 Introdução 06](#lde.0.3.06)
+#### 📃 Introdução 06
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 

@@ -1,4 +1,4 @@
-#### [Diversidade das raças humanas](#lde.1.3.4)
+#### Diversidade das raças humanas
 
 52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 

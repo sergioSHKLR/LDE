@@ -1,4 +1,4 @@
-#### [Conhecimento do princípio das coisas](#lde.1.2.1)
+#### Conhecimento do princípio das coisas
 
 [17](#lde.q17). É dado ao homem conhecer o princípio das coisas?
 

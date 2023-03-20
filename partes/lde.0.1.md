@@ -1,4 +1,4 @@
-### [📃 Folha de rosto](#lde.0.1)
+### 📃 Folha de rosto
 
 *Filosofia Espiritualista*
 

@@ -1,4 +1,4 @@
-#### [Espírito e matéria](#lde.1.2.2)
+#### Espírito e matéria
 
 [21](#lde.q21). A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 

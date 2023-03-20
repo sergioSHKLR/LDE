@@ -1,4 +1,4 @@
-#### [📃 Deus e o infinito](#lde.1.1.1)
+#### 📃 Deus e o infinito
 
 [1](#lde.q1). O que é Deus?
 

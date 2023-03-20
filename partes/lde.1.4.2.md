@@ -1,4 +1,4 @@
-#### [A vida e a morte](#lde.1.4.2)
+#### A vida e a morte
 
 68. Qual a causa da morte dos seres orgânicos?
 

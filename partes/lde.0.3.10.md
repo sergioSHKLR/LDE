@@ -1,4 +1,4 @@
-#### [📃 Introdução 10](#lde.0.3.10)
+#### 📃 Introdução 10
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 

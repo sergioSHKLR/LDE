@@ -1,4 +1,4 @@
-#### [Diferentes ordens de Espíritos](#lde.2.01.05)
+#### Diferentes ordens de Espíritos
 
 96. São iguais os Espíritos, ou há entre eles qualquer hierarquia?
 

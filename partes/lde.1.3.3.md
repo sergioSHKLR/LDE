@@ -1,4 +1,4 @@
-#### [Povoamento da Terra. Adão](#lde.1.3.3)
+#### Povoamento da Terra. Adão
 
 50. A espécie humana começou por um único homem?
 

@@ -1,6 +1,6 @@
-### [📑 12. Da perfeição moral](#lde.3.12)
-#### [📃 As virtudes e os vícios](#lde.3.12.1)
-#### [📃 Paixões](#lde.3.12.2)
-#### [📃 O egoísmo](#lde.3.12.3)
-#### [📃 Caracteres do homem de bem](#lde.3.12.4)
-#### [📃 Conhecimento de si mesmo](#lde.3.12.5)
+### 📑 12. Da perfeição moral
+#### 📃 As virtudes e os vícios
+#### 📃 Paixões
+#### 📃 O egoísmo
+#### 📃 Caracteres do homem de bem
+#### 📃 Conhecimento de si mesmo

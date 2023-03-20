@@ -1,5 +1,5 @@
-## [🗂️ Parte 1. Das causas primárias](#lde.1)
-### [📑 1. De Deus](#lde.1.1)
-### [📑 2. Dos elementos gerais do Universo](#lde.1.2)
-### [📑 3. Da Criação](#lde.1.3)
-### [📑 4. Do princípio vital](#lde.1.4)
+## 🗂️ Parte 1. Das causas primárias
+### 📑 1. De Deus
+### 📑 2. Dos elementos gerais do Universo
+### 📑 3. Da Criação
+### 📑 4. Do princípio vital

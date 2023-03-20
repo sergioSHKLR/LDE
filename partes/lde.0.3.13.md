@@ -1,4 +1,4 @@
-#### [📃 Introdução 13](#lde.0.3.13)
+#### 📃 Introdução 13
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
 

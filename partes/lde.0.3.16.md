@@ -1,4 +1,4 @@
-#### [📃 Introdução 16](#lde.0.3.16)
+#### 📃 Introdução 16
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 

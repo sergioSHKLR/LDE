@@ -1,4 +1,4 @@
-#### [📃 Panteísmo](#lde.1.1.4)
+#### 📃 Panteísmo
 
 [14](#lde.q14). Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 

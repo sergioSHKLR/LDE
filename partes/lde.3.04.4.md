@@ -1,9 +1,9 @@
-## [Parte 3. Das Leis morais](#lde.3)
-### [01. Da lei divina ou natural](#lde.3.01)
+## Parte 3. Das Leis morais
+### 01. Da lei divina ou natural
 ---
 
 
-#### [Caracteres da lei natural](#lde.3.01.01)
+#### Caracteres da lei natural
 
 614. Que se deve entender por lei natural?
 
@@ -199,7 +199,7 @@ ensinado por Jesus?
 ---
 
 
-### [02. Da lei de adoração](#lde.3.02)
+### 02. Da lei de adoração
 
 ---
 
@@ -381,7 +381,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 ---
 
 
-### [03. Da lei do trabalho](#lde.3.03)
+### 03. Da lei do trabalho
 
 ---
 
@@ -456,7 +456,7 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 ---
 
 
-### [04. Da lei de reprodução](#lde.3.04)
+### 04. Da lei de reprodução
 
 ---
 
@@ -576,7 +576,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 ---
 
 
-### [05. Da lei de conservação](#lde.3.05)
+### 05. Da lei de conservação
 
 ---
 
@@ -737,7 +737,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 ---
 
 
-### [06. Da lei de destruição](#lde.3.06)
+### 06. Da lei de destruição
 
 ---
 
@@ -975,7 +975,7 @@ que se aplica a pena de morte?
 ---
 
 
-### [07. Da lei de sociedade](#lde.3.07)
+### 07. Da lei de sociedade
 
 ---
 
@@ -1051,7 +1051,7 @@ família?
 ---
 
 
-### [08. Da lei do progresso](#lde.3.08)
+### 08. Da lei do progresso
 
 ---
 
@@ -1255,7 +1255,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 ---
 
 
-### [09. Da lei de igualdade](#lde.3.09)
+### 09. Da lei de igualdade
 
 ---
 
@@ -1402,7 +1402,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 ---
 
 
-### [10. Da lei de liberdade](#lde.3.10)
+### 10. Da lei de liberdade
 
 ---
 
@@ -1629,7 +1629,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 ---
 
 
-### [11. Da lei de justiça, de amor, e de caridade](#lde.3.11)
+### 11. Da lei de justiça, de amor, e de caridade
 
 ---
 
@@ -1742,7 +1742,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 ---
 
 
-### [12. Da perfeição moral](#lde.3.12)
+### 12. Da perfeição moral
 
 ---
 

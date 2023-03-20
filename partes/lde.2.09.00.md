@@ -1,14 +1,14 @@
-### [📑 09. Da intervenção dos Espíritos no mundo corporal](#lde.2.09)
-#### [📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos](#lde.2.09.01)
-#### [📃 Influência oculta dos Espíritos em nossos pensamentos e atos](#lde.2.09.02)
-#### [📃 Possessos](#lde.2.09.03)
-#### [📃 Convulsionários](#lde.2.09.04)
-#### [📃 Afeição que os Espíritos votam a certas pessoas](#lde.2.09.05)
-#### [📃 Anjos da guarda. Espíritos protetores, familiares ou simpáticos](#lde.2.09.06)
-#### [📃 Pressentimentos](#lde.2.09.07)
-#### [📃 Influência dos Espíritos nos acontecimentos da vida](#lde.2.09.08)
-#### [📃 Ação dos Espíritos nos fenômenos da Natureza](#lde.2.09.09)
-#### [📃 Os Espíritos durante os combates](#lde.2.09.10)
-#### [📃 Pactos](#lde.2.09.11)
-#### [📃 Poder oculto. Talismãs. Feiticeiros](#lde.2.09.12)
-#### [📃 Bênçãos e maldições](#lde.2.09.13)
+### 📑 09. Da intervenção dos Espíritos no mundo corporal
+#### 📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos
+#### 📃 Influência oculta dos Espíritos em nossos pensamentos e atos
+#### 📃 Possessos
+#### 📃 Convulsionários
+#### 📃 Afeição que os Espíritos votam a certas pessoas
+#### 📃 Anjos da guarda. Espíritos protetores, familiares ou simpáticos
+#### 📃 Pressentimentos
+#### 📃 Influência dos Espíritos nos acontecimentos da vida
+#### 📃 Ação dos Espíritos nos fenômenos da Natureza
+#### 📃 Os Espíritos durante os combates
+#### 📃 Pactos
+#### 📃 Poder oculto. Talismãs. Feiticeiros
+#### 📃 Bênçãos e maldições

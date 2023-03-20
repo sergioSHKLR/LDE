@@ -1,4 +1,4 @@
-#### [Espaço universal](#lde.1.2.4)
+#### Espaço universal
 
 35. O Espaço universal é infinito ou limitado?
 

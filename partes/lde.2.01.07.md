@@ -1,4 +1,4 @@
-#### [3ª ordem – Espíritos imperfeitos](#lde.2.01.07)
+#### 3ª ordem – Espíritos imperfeitos
 
 101. Caracteres gerais.
 

@@ -1,4 +1,4 @@
-#### [📃 Provas da existência de Deus](#lde.1.1.2)
+#### 📃 Provas da existência de Deus
 
 [4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
 

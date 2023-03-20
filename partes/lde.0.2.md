@@ -1,4 +1,4 @@
-### [📃 Avisos legais](#lde.0.2)
+### 📃 Avisos legais
 Os projetos de **doutrina.org** almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia no entendimento e retenção do tópico estudado.
 
 Entretanto, cremos que alguns ressalvos devam ser feitos.

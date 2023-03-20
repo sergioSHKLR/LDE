@@ -1,6 +1,6 @@
-### [📑 04. Da lei de reprodução](#lde.3.04)
-#### [📃 População do globo](#lde.3.04.1)
-#### [📃 Sucessão e aperfeiçoamento das raças](#lde.3.04.2)
-#### [📃 Obstáculos à reprodução](#lde.3.04.3)
-#### [📃 Casamento e celibato](#lde.3.04.4)
-#### [📃 Poligamia](#lde.3.04.5)
+### 📑 04. Da lei de reprodução
+#### 📃 População do globo
+#### 📃 Sucessão e aperfeiçoamento das raças
+#### 📃 Obstáculos à reprodução
+#### 📃 Casamento e celibato
+#### 📃 Poligamia

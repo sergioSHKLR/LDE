@@ -1,5 +1,5 @@
-### [📑 1. De Deus](#lde.1.1)
-#### [📃 Deus e o infinito](#lde.1.1.1)
-#### [📃 Provas da existência de Deus](#lde.1.1.2)
-#### [📃 Atributos da Divindade](#lde.1.1.3)
-#### [📃 Panteísmo](#lde.1.1.4)
+### 📑 1. De Deus
+#### 📃 Deus e o infinito
+#### 📃 Provas da existência de Deus
+#### 📃 Atributos da Divindade
+#### 📃 Panteísmo

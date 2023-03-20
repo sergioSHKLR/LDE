@@ -1,4 +1,4 @@
-#### [Origem e natureza dos Espíritos](#lde.2.01.01)
+#### Origem e natureza dos Espíritos
 
 76. Que definição se pode dar dos Espíritos?
 

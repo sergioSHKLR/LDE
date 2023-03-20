@@ -1,4 +1,4 @@
-#### [2ª ordem – Bons Espíritos](#lde.2.01.08)
+#### 2ª ordem – Bons Espíritos
 
 107. Caracteres gerais.
 
