@@ -7217,6 +7217,8 @@ mal adquiridos – lde.q1000
 ##### 🟨 Bíblia
 criação e – lde.q59
 linguagem figurada e a – lde.q59
+
+---
 #### 🗂️ C
 ##### 🟨 Calamidades
 espíritos e – lde.q738a
@@ -7530,6 +7532,9 @@ tempo para reflexão da falta e – lde.q952a
 mediunidade de – lde.q556
 possibilidade de * da desordem e
 da imprevidência – lde.q685a
+
+---
+
 #### 🗂️ D
 ##### 🟨 Decálogo – Conclusão 8
 sistema de classificação da lei
@@ -7737,6 +7742,9 @@ portadores de – lde.q453
 prática da – lde.q450
 presciência, pressentimento e – lde.q454a
 variações no poder da – lde.q455
+
+---
+
 #### 🗂️ E
 ##### 🟨 Eclesiastes – lde.q560
 ##### 🟨 Economia
@@ -8289,6 +8297,9 @@ características do estado de – lde.q455
 conceito de – lde.q455
 mundo desconhecido e – lde.q455
 sonambulismo e – lde.q439
+
+---
+
 #### 🗂️ F
 ##### 🟨 Falibilidade
 ciência e – Introdução 7
@@ -8459,6 +8470,9 @@ esperança no – lde.q222
 predição e – lde.q399
 revelação do – lde.q868
 vida corpórea e certeza do – lde.q921
+
+---
+
 #### 🗂️ G
 Gêmeos
 encarnação de – lde.q213
@@ -8489,6 +8503,9 @@ luta contra causas justas e – lde.q542
 natureza animal da – lde.q742
 necessidade da – lde.q742
 santa – lde.q671
+
+---
+
 #### 🗂️ H
 ##### 🟨 Harmonia
 lei humana e lei divina em – lde.q788
@@ -8567,6 +8584,9 @@ transformação da – lde.q1019
 período de – lde.q607b
 ##### 🟨 Humildade
 desinteresse e – Prolegômenos
+
+---
+
 #### 🗂️ I
 ##### 🟨 Ideia
 forma e – Introdução 11V
@@ -8760,6 +8780,9 @@ alma e – lde.q454
 Espírito e – lde.q92a, 420
 ##### 🟨 Isolamento
 sociedade e – lde.q769
+
+---
+
 #### 🗂️ J
 ##### 🟨 Jesus
 caridade e – lde.q886
@@ -8801,6 +8824,9 @@ passado e – lde.q393
 vida futura e – lde.q962
 ##### 🟨 Justo
 consolo do – lde.q926
+
+---
+
 #### 🗂️ L
 ##### 🟨 Laços de família
 lei da natureza e – lde.q774
@@ -8971,6 +8997,9 @@ abandono do protegido pelo protetor
 conforme elucidações de – lde.q495
 ##### 🟨 Luta
 chegada ao progresso e – lde.q894
+
+---
+
 #### 🗂️ M
 ##### 🟨 Mãe
 aborto de risco de vida da – lde.q359
@@ -9228,6 +9257,9 @@ Terra e – lde.q236d
 topografia de – lde.q236a
 ##### 🟨 Música
 sensibilidade dos espíritos para a – lde.q251
+
+---
+
 #### 🗂️ N
 ##### 🟨 Nação
 amor à * após a desencarnação – lde.q317
@@ -9287,6 +9319,9 @@ paixões e – lde.q792a
 evidência e – lde.q802
 ##### 🟨 Nome
 importância espiritual do – Introdução 12
+
+---
+
 #### 🗂️ O
 ##### 🟨 Obsessão
 cura da – lde.q475
@@ -9359,6 +9394,9 @@ mundos inferiores e – lde.q233
 estilo alegórico na literatura do – lde.q59
 ##### 🟨 Ostentação
 benefício e – lde.q888a
+
+---
+
 #### 🗂️ P
 ##### 🟨 Pactos
 maus espíritos e – lde.q549
@@ -9740,9 +9778,15 @@ expiação e – lde.q1013
 local do – lde.q1013
 ##### 🟨 Purificação
 aperfeiçoamento moral do Espírito e – lde.q182
+
+---
+
 #### 🗂️ Q
 ##### 🟨 Queda
 homem, livre-arbítrio e – lde.q262
+
+---
+
 #### 🗂️ R
 ##### 🟨 Raças
 cruzamento de – lde.q59
@@ -9981,6 +10025,9 @@ ostentação de – lde.q823a
 prova da – lde.q533, 815, 925
 ##### 🟨 Ritual
 adoração e – lde.q654
+
+---
+
 #### 🗂️ S
 ##### 🟨 Sabedoria
 perfeição e – lde.q238
@@ -10268,6 +10315,9 @@ autoridade e – lde.q274a
 ##### 🟨 Superstição
 alegorias e – lde.q867
 utilização do necessário e – lde.q736
+
+---
+
 #### 🗂️ T
 Talismã
 feiticeiro e – lde.q554
@@ -10359,7 +10409,7 @@ Túmulo
 igualdade e – lde.q823
 lembrança das ações boas ou más e – lde.q824
 visitação a – lde.q322
-U
+#### U
 ##### 🟨 Ubiquidade
 Espírito e – lde.q92
 ##### 🟨 União
@@ -10380,6 +10430,9 @@ espaço do – lde.q35
 harmonia do – lde.q607a
 presença dos espíritos puros no – lde.q130
 reencarnação e – lde.q173b
+
+---
+
 #### 🗂️ V
 ##### 🟨 Vácuo
 espaço universal e – lde.q36
@@ -10509,9 +10562,15 @@ poder da – lde.q872
 ##### 🟨 Voto de silêncio
 relações sociais e – lde.q772
 sociedade e – lde.q772
+
+---
+
 #### 🗂️ Z
 ##### 🟨 Zelo
 excesso de – lde.q736
+
+---
+
 ❦
 
 FIM
