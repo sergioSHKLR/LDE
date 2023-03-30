@@ -1,4 +1,4 @@
-#### Propriedades da matéria
+# 📃 Propriedades da matéria
 
 [29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?
 
@@ -17,14 +17,14 @@ A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundo
 [32](#lde.q32). De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
 
 >“Sem dúvida e que só existem devido à disposição dos órgãos destinados a percebê-las.”
-
-A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
+>
+>> A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de >outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
 
 [33](#lde.q33). A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
 
 >“Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo!”[^6]
-
-O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
+>
+>> O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
 [33.a](#lde.q33a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
@@ -36,9 +36,7 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 
 [34.a](#lde.q34a). Essa forma é constante ou variável?
 
->“Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.” ❦
+>“Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.”
 
 [^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias.
 [^]: Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade.
-
----

@@ -1,4 +1,4 @@
-### 📃 Prolegômenos
+# `lde.0.4` 📃 Prolegômenos
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
@@ -30,10 +30,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 >"Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado."
 >
->"Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz." ❦
+>"Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz."
 >
 >**João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito de Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
 
 [^3]: A.K.: A cepa que se vê nesta página é o **fac-símile** da que os Espíritos desenharam.
-
----

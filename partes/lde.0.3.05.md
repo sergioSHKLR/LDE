@@ -1,4 +1,4 @@
-#### 📃 Introdução 05
+# `lde.0.3.05` 📃 Introdução 05
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -11,5 +11,3 @@ Em certos casos, as respostas revelam tal cunho de sabedoria, de profundeza e de
 Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossas observações; que não ocorrem misteriosamente, mas, ao contrário, à luz meridiana, que toda gente pode ver e comprovar; que não constituem privilégio de um único indivíduo e que milhares de pessoas repetem todos os dias. Esses efeitos têm necessariamente uma causa e, do momento que detonam a ação de uma inteligência e de uma vontade, saem do domínio puramente físico.
 
 Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem.
-
----

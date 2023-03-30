@@ -1,4 +1,4 @@
-#### 📃 Introdução 16
+# `lde.0.3.16` 📃 Introdução 16
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 
@@ -20,5 +20,3 @@ Poderíamos citar inúmeros fatos que demonstram, na inteligência que se manife
 A esse argumento retrucam os adversários, perguntando, a seu turno, por que os Espíritos, que devem saber tudo, não podem dizer coisa tão simples, de acordo com o axioma: **Quem pode o mais pode o menos**, e daí concluem que não são os Espíritos os que respondem. Se um ignorante ou um zombador, apresentando-se a uma douta assembleia, perguntasse, por exemplo, por que é dia às doze horas, acreditará alguém que ela se daria o incômodo de responder seriamente e fora lógico que, do seu silêncio ou das zombarias com que pagasse ao interrogante, se concluísse serem tolos os seus membros? Ora, exatamente porque os Espíritos são superiores, é que não respondem a questões ociosas ou ridículas e não consentem em ir para a berlinda; é por isso que se calam ou declaram que só se ocupam com coisas sérias.
 
 Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem súplicas que os façam voltar? Se o médium obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a clarividência. Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria vontade dele, é que o médium obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade.
-
----

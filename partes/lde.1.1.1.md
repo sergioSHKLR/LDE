@@ -1,14 +1,14 @@
-#### 📃 Deus e o infinito
+# `lde.1.1.1` 📃 Deus e o infinito
 
-[1](#lde.q1). O que é Deus?
+###### `lde.q1` O que é Deus?
 
 >“Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-[2](#lde.q2). Que se deve entender por infinito?
+###### `lde.q2` Que se deve entender por infinito?
 
 >“O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-[3](#lde.q3). Poder-se-ia dizer que Deus é o infinito?
+###### `lde.q3` Poder-se-ia dizer que Deus é o infinito?
 
 >“Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
 >>Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ❦

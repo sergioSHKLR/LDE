@@ -1,4 +1,4 @@
-#### 📃 Introdução 06
+# `lde.0.3.06` 📃 Introdução 06
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -19,11 +19,11 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 7. entre as diferentes espécies de seres corpóreos, Deus escolheu a espécie humana para a encarnação dos Espíritos que chegaram a certo grau de desenvolvimento, dando-lhe superioridade moral e intelectual sobre as outras;
 
 8. a alma é um Espírito encarnado, sendo o corpo apenas o seu envoltório;
+   1. há no homem três coisas:
+   2. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
+   3. a alma ou ser imaterial, Espírito encarnado no corpo;
 
-9. há no homem três coisas:
-1. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
-2. a alma ou ser imaterial, Espírito encarnado no corpo;
-3. o laço que prende a alma ao corpo, princípio intermediário entre a matéria e o Espírito;
+9. o laço que prende a alma ao corpo, princípio intermediário entre a matéria e o Espírito;
 
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos instintos lhe são comuns; pela alma, participa da natureza dos Espíritos;
 

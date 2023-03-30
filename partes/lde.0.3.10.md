@@ -1,4 +1,4 @@
-#### 📃 Introdução 10
+# `lde.0.3.10` 📃 Introdução 10
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -11,5 +11,3 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
 Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.
-
----

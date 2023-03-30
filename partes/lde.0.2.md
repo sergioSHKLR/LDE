@@ -1,4 +1,4 @@
-### 📃 Avisos legais
+# `lde.0.2`📃 Avisos legais
 Os projetos de **doutrina.org** almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia no entendimento e retenção do tópico estudado.
 
 Entretanto, cremos que alguns ressalvos devam ser feitos.
@@ -32,8 +32,6 @@ Deus abençoa sempre.
 
 **Sergio SHKLR**
 
-Doutrina.org 2023 por Sergio SHKLR é licenciada sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). 
+Doutrina.org 2023 por Sergio SHKLR é licenciada sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). [^1]
 
-Nota: A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo dos livros de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos Dias, ou quaisquer outras fontes externas. De modo a incentivar o máximo aproveitamento, disseminação e até mesmo a longevidade deste projeto, nos comprometemos a transferir toda a tecnologia desenvolvida para outras indivíduos ou entidades, para que o mesmo seja traduzido em outra línguas. Almejamos até a possível adoção por entidade estabelecidas.
-
----
+[^1]: Nota: A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo dos livros de Allan Kardec, Wikipédia, Wikicionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos Dias, ou quaisquer outras fontes externas. De modo a incentivar o máximo aproveitamento, disseminação e até mesmo a longevidade deste projeto, nos comprometemos a transferir toda a tecnologia desenvolvida para outras indivíduos ou entidades, para que o mesmo seja traduzido em outra línguas. Almejamos até a possível adoção por entidade estabelecidas.

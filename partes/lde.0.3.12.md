@@ -1,4 +1,4 @@
-#### 📃 Introdução 12
+# `lde.0.3.12` 📃 Introdução 12
 
 Um fato demonstrado pela observação e confirmado pelos próprios Espíritos é o de que os Espíritos inferiores muitas vezes usurpam nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, Sócrates, Júlio César, Carlos Magno, Fénelon, Napoleão, Washington entre outros, tenham realmente animado essas personagens? Esta dúvida existe mesmo entre alguns adeptos fervorosos da Doutrina Espírita, os quais admitem a intervenção e a manifestação dos Espíritos, mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, bem difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão autêntico como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -15,5 +15,3 @@ A experiência nos ensina que os Espíritos da mesma categoria, do mesmo caráte
 Inegavelmente a substituição dos Espíritos pode dar lugar a uma porção de equívocos, ocasionar erros e, amiúde, mistificações. Essa é uma das dificuldades do **Espiritismo prático**. Nunca, porém, dissemos que esta ciência fosse fácil, nem que se pudesse aprendê-la brincando, o que, aliás, não é possível, qualquer que seja a ciência. Jamais teremos repetido bastante que ela demanda estudo assíduo e por vezes muito prolongado.
 
 Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de matizes característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento.
-
----

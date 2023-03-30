@@ -1,4 +1,4 @@
-#### 📃 Introdução 07
+# `lde.0.3.07` 📃 Introdução 07
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -15,5 +15,3 @@ Esses erros de alguns homens eminentes — conquanto deploráveis para a memóri
 Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao movimento mecânico dos corpos, a indagação da causa física desse fenômeno caberia no domínio da Ciência; porém, desde que se trata de uma manifestação que se produz com exclusão das leis da Humanidade, ela escapa à competência da ciência material, visto não poder explicar-se por algarismos, nem por uma força mecânica. Quando surge um fato novo, que não guarda relação com alguma ciência conhecida, o sábio, para estudá-lo, tem que abstrair da sua ciência e dizer a si mesmo que o que se lhe oferece constitui um estudo novo, impossível de ser feito com ideias preconcebidas.
 
 O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria razão e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a Humanidade se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama razão não é muitas vezes senão orgulho disfarçado e quem quer que se considere infalível apresenta-se como igual a Deus. Dirigimo-nos, pois, aos ponderados, que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao apogeu, nem que a Natureza lhe tenha facultado ler a última página do seu livro.
-
----

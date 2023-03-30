@@ -1,4 +1,4 @@
-### 📃 Folha de rosto
+# `lde.0.1`📃 Folha de rosto
 
 *Filosofia Espiritualista*
 
@@ -15,5 +15,3 @@ Tradução de Guillon Ribeiro
 Copyright (c) 1944 by
 Federação Espírita Brasileira (FEB)
 ISBN 978-85-7328-728-8
-
----
