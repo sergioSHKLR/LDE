@@ -7,10 +7,10 @@
 faculdades do homem e – lde.q847
 
 ##### 🟨 Aborto
-consequências do – lde.q357
-gestação e – lde.q358
-provocação do – lde.q358
-vida da mãe em perigo e – lde.q359
+consequências do – lde.q357\
+gestação e – lde.q358\
+provocação do – lde.q358\
+vida da mãe em perigo e – lde.q359\
 
 ##### 🟨 Abuso
 direito e – lde.q734
