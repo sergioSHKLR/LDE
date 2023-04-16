@@ -1,15 +1,17 @@
-#### 🗂️ F
+#### 🗂️ /lde.6.2.06/ F
 
 ##### 🟨 Falibilidade
 ciência e – Introdução 7
 humana e Espírito superior – lde.q578
+
 ##### 🟨 Falsidade
 conhecimento da verdade e uso da – lde.q654
+
 ##### 🟨 Falta
-cometimento de – lde.q398, 398a,
-852, 872, 919a
+cometimento de – lde.q398, 398a, 852, 872, 919a
 expiação e – lde.q957
 suicídio e – lde.q948
+
 ##### 🟨 Família
 espíritos e – Introdução 12
 espíritos protetores e – lde.q517
@@ -20,10 +22,13 @@ reencarnação e – lde.q205
 reunião dos despojos mortais de – lde.q325a
 sociedade e – lde.q775
 suicídio e – lde.q949
+
 ##### 🟨 Fanatismo
 exaltação do – lde.q483
+
 ##### 🟨 Fascinação
 luta contra a – lde.q476
+
 ##### 🟨 Fatalidade
 consequências das próprias faltas e – lde.q852
 desencarnação e – lde.q859
@@ -33,18 +38,23 @@ existência de – lde.q859
 limite da duração da vida corporal e – lde.q853
 livre-arbítrio e – lde.q866, 872
 morte e – lde.q853a, 872
+
 ##### 🟨 Fato
 novo e ciência conhecida – Introdução 7
+
 ##### 🟨 Fé
 falta de – lde.q943
 felicidade e – lde.q922
 no futuro – lde.q922
 prática do bem e – lde.q838
+
 ##### 🟨 Feitiçaria
 magnetismo e – lde.q552
 conceito de – lde.q555
+
 ##### 🟨 Feiticeiro
 talismã e – lde.q554
+
 ##### 🟨 Felicidade
 afeição e – lde.q980
 almas elevadas e – lde.q979
@@ -68,9 +78,11 @@ sofrimento e – lde.q931
 Terra e – lde.q920, 921, 931
 terrestre e moral – lde.q922
 vida e – lde.q942
+
 ##### 🟨 Fenômeno
 causa inteligente do – Introdução 4
 das mesas girantes – Introdução 3
+
 ##### 🟨 Fenômeno espírita
 ação inteligente – Introdução 7
 autenticidade do – Introdução 9
@@ -80,35 +92,40 @@ livro dos ospíritos (O) e – lde.q919a
 politeísmo e – lde.q668
 sonambulismo, influenciação
 e – Introdução 16
+
 ##### 🟨 Fenômeno mediúnico
 espontâneo – lde.q408
 médium e – lde.q425
 mediunidade e – lde.q409
 revelado – Conclusão 6
+
 ##### 🟨 Fenomenologia
 conhecimento de novas leis e – Introdução 3
+
 ##### 🟨 Fenômenos
 ação dos espíritos nos * da natureza – lde.q536b
-do sonambulismo, do êxtase e
-consequências – lde.q445
+do sonambulismo, do êxtase e consequências – lde.q445
 produção de – lde.q539
+
 ##### 🟨 Feto
 Espírito e – lde.q353
 respeito ao – lde.q360
+
 ##### 🟨 Filantropia
 condição material do homem e – lde.q707
+
 ##### 🟨 Filho
 amor materno e de – lde.q892
-reencarnação de protetor e
-prosseguimento de amparo a – lde.q510
-transmissão de parecença moral
-de pais ao – lde.q207a
+reencarnação de protetor e prosseguimento de amparo a – lde.q510
+transmissão de parecença moral de pais ao – lde.q207a
+
 ##### 🟨 Filosofia
 Espiritismo e – Conclusão 5
-racional e estabelecimento de
-fundamentos – Prolegômenos
+racional e estabelecimento de fundamentos – Prolegômenos
+
 ##### 🟨 Finados
 comemoração do dia de – lde.q321
+
 ##### 🟨 Flagelos
 agravo de – lde.q741
 conceito de – lde.q740
@@ -118,12 +135,14 @@ frequência dos – lde.q737
 humanidade e – lde.q737
 necessidade regenerativa e – lde.q737
 prevenção de – lde.q741
+
 ##### 🟨 Fluido universal
 eletricidade e – lde.q27a
 Espírito, matéria e – lde.q27
 fluido magnético e – lde.q427
 indispensabilidade do – lde.q27
 princípio vital e – lde.q65
+
 ##### 🟨 Fluido vital
 centros de força e – lde.q140a
 dosagem variada de – lde.q70
@@ -132,9 +151,11 @@ Espírito encarnado e – lde.q140a
 funcionamento dos órgãos e – lde.q424
 teoria da alma subdividida e – lde.q140
 transmissão do – lde.q70
+
 ##### 🟨 Fogo
 imagem do – lde.q974
 linguagem figurada e – lde.q1009
+
 ##### 🟨 Fome
 antropofagia e – lde.q709
 desemprego e – lde.q929
@@ -143,25 +164,31 @@ inteligência para suprimir a – lde.q947
 orgulho e – lde.q929
 sociedade e – lde.q930
 suicídio e – lde.q947
+
 ##### 🟨 Força
-movimento de objetos por *
-mecânica cega – Introdução 4
+movimento de objetos por * mecânica cega – Introdução 4
+
 ##### 🟨 Fortalecimento
 tentações do mal e – lde.q660
+
 ##### 🟨 Fracasso
 consequências do – lde.q578a
 pretensão de igualdade de riquezas e – lde.q811a
+
 ##### 🟨 Fraqueza
 adoração e sentimento de – lde.q650
+
 ##### 🟨 Fraude
-explicação ignorada de fenômeno
-e – Introdução 3
+explicação ignorada de fenômeno e – Introdução 3
 rejeição de – Introdução 9
+
 ##### 🟨 Fuga
 contratempos da vida e – lde.q770
+
 ##### 🟨 Funeral
 comemoração dos mortos e – lde.q320
 pompas e – lde.q824
+
 ##### 🟨 Futuro
 certeza do – lde.q919a, 941
 conhecimento do – lde.q243, 243a, 870, 871
@@ -169,5 +196,48 @@ esperança no – lde.q222
 predição e – lde.q399
 revelação do – lde.q868
 vida corpórea e certeza do – lde.q921
+
+---
+
+#### 🗂️ /lde.6.2.07/ G
+
+##### 🟨 Gêmeos
+encarnação de – lde.q213
+
+##### 🟨 Genealogia
+orgulho pela – lde.q205a
+reencarnação e – lde.q205a
+
+##### 🟨 Gênio
+idiotia e – lde.q373a
+
+##### 🟨 Geração espontânea
+espécie humana e – lde.q49
+seres vivos e – lde.q44
+
+##### 🟨 Gerações
+substituição de – lde.q786
+
+##### 🟨 Gestação
+aborto e – lde.q358
+reencarnação e – lde.q214
+
+##### 🟨 Gnomo
+Gnomo – lde.q103
+
+##### 🟨 Gozo
+excessos de todo gênero e – lde.q714
+homem espiritualizado e – lde.q941
+limite do necessário e – lde.q713
+
+##### 🟨 Guerra
+ambição e – lde.q745
+conduta do homem na – lde.q749
+desaparecimento da – lde.q743
+liberdade, progresso e – lde.q744
+luta contra causas justas e – lde.q542
+natureza animal da – lde.q742
+necessidade da – lde.q742
+santa – lde.q671
 
 ---

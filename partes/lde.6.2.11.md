@@ -1,30 +1,39 @@
-#### 🗂️ L
+#### 🗂️ /lde.6.2.11/ L
 
 ##### 🟨 Laços de família
 lei da natureza e – lde.q774
+
 ##### 🟨 Lamennais
 eternidade das penas – lde.q1009
+
 ##### 🟨 Legislação
 direitos da mulher e equidade na – lde.q822a
 humana e lei moral – lde.q794
 humana e necessidades novas – lde.q795
 progresso da – lde.q794
 progresso da humanidade e – lde.q760
+
 ##### 🟨 Legítima defesa
 crime de – lde.q638
 culpa de assassínio e arguição de – lde.q748
 duelo e – lde.q757
+
 ##### 🟨 Lei de atração
 aplicação da – lde.q60
+
 ##### 🟨 Lei de causa e efeito
 aplicação da – lde.q399
 opressão aos fracos e – lde.q807
+
 ##### 🟨 Lei de destruição
 renovação e – lde.q41, 728
+
 ##### 🟨 Lei de destruição ver também Destruição
+
 ##### 🟨 Lei de progresso
 evolução moral e – Conclusão 4
 força da – Conclusão 4
+
 ##### 🟨 Lei divina
 abrangência da – lde.q618
 adoração e – lde.q652
@@ -59,28 +68,35 @@ prática da – lde.q812a
 suicídio voluntário e – lde.q944
 suporte da lei humana – lde.q789
 violação da – lde.q758a
+
 ##### 🟨 Lei humana
 instabilidade da – lde.q795
 mutabilidade da – lde.q616
 princípio de justiça e – lde.q822
+
 ##### 🟨 Lei natural
 caracteres da – lde.q614
 lei divina e – lde.q614
+
 ##### 🟨 Lembrança
 resgate dos erros e sua – lde.q978
 vida corpórea e – lde.q304, 306, 306a
 vidas passadas – lde.q386a, 393, 397
+
 ##### 🟨 Letargia
 catalepsia e – lde.q424
 morte e – lde.q423
+
 ##### 🟨 Leviandade
 ser humano e – Introdução 3
+
 ##### 🟨 Liberdade
 abuso da – lde.q735
 cerceamento da – lde.q826, 828
 escravidão e – lde.q832
 natural – lde.q825
 pensamento e – lde.q833
+
 ##### 🟨 Liberdade de consciência
 conceito de – lde.q837
 embaraços à – lde.q836
@@ -88,9 +104,11 @@ propagação de doutrinas perniciosas e – lde.q841
 repressão a atos de efeitos danosos e – lde.q840
 transviamento do caminho
 da verdade e – lde.q841
+
 ##### 🟨 Libertação
 desencarnação e – lde.q936
 egoísmo e – lde.q936
+
 ##### 🟨 Linguagem
 adequação de – lde.q28
 alegorias pelo Cristo e – lde.q131
@@ -104,6 +122,7 @@ dos órgãos vocais – lde.q596
 imperfeição da * humana – Introdução 11V
 palavra “alma” e a humana – Introdução 2
 palavra e – lde.q594a
+
 ##### 🟨 Livre-arbítrio
 ação dos espíritos protetores e – lde.q501
 animais e – lde.q595
@@ -125,8 +144,7 @@ futuras encarnações e – lde.q872
 gênero de provas e – lde.q258, 259
 hipótese da ausência do – lde.q872
 homem e – lde.q634, 843
-influência do organismo e
-exercício do – lde.q846
+influência do organismo e exercício do – lde.q846
 inteligência e – lde.q780a
 lei divina e – lde.q258a
 missão e – lde.q572
@@ -136,18 +154,21 @@ posição social e exercício pleno do – lde.q850
 provas, bem, mal e – lde.q399
 razão e – lde.q75a
 respeito ao – lde.q495
-responsabilidade pela prática
-do mal e – lde.q872
+responsabilidade pela prática do mal e – lde.q872
 sabedoria divina e – lde.q123
+
 ##### 🟨 Livro dos espíritos (O)
 autoria de – Prolegômenos
 Espiritismo e – Prolegômenos
 filosofia espiritualista e – Introdução 1
+
 ##### 🟨 Locomoção
 Espírito e – lde.q89, 247
+
 ##### 🟨 Lógica
 doutrina e – lde.q131
 reencarnação e – lde.q222
+
 ##### 🟨 Loucura
 causas da – Introdução 15
 cérebro desorganizado e – lde.q375
@@ -156,17 +177,18 @@ Espiritismo e – Introdução 15
 manifestações da alma e – lde.q372a
 preservativo contra a – Introdução 15
 suicídio e – lde.q376
+
 ##### 🟨 Lucidez sonambúlica
 limitações à – lde.q455
+
 ##### 🟨 Luís (São)
-duração das penas futuras –
-1004, 1006-1008
+duração das penas futuras – lde.q1004, 1006-1008
 ressurreição e reencarnação – lde.q1010
-transformação da humanidade e
-pecado original – lde.q1019
+transformação da humanidade e pecado original – lde.q1019
+
 ##### 🟨 Luís (São) e Agostinho (Santo)
-abandono do protegido pelo protetor
-conforme elucidações de – lde.q495
+abandono do protegido pelo protetor conforme elucidações de – lde.q495
+
 ##### 🟨 Luta
 chegada ao progresso e – lde.q894
 

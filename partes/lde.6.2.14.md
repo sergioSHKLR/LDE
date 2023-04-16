@@ -1,4 +1,4 @@
-#### 🗂️ O
+#### 🗂️ /lde.6.2.14/ O
 
 ##### 🟨 Obsessão
 cura da – lde.q475
@@ -7,8 +7,10 @@ mundo espiritual e – lde.q972
 oração e – lde.q479
 requisitos para ocorrência de – lde.q474
 tratamento da – lde.q478
+
 ##### 🟨 Obstáculos
 enfrentamento de – lde.q707
+
 ##### 🟨 Ociosidade
 consequências da – lde.q678
 desejo de progresso e – lde.q564
@@ -16,27 +18,33 @@ desgosto pela vida e – lde.q943
 Espírito puro e – lde.q562
 inconveniência da – lde.q574a
 trabalho e – lde.q943
+
 ##### 🟨 Ocupação
 demonstração de progresso em – lde.q566
-espíritos errantes e
-desmaterializados e – lde.q584a
+espíritos errantes e desmaterializados e – lde.q584a
 incessante dos espíritos – lde.q563
 trabalho e – lde.q675
-Ódio
+
+##### 🟨 Ódio
 dificuldade para libertação do – lde.q547
 Espírito impuro e – lde.q292
+
 ##### 🟨 Ofensa
 homem de bem e – lde.q918
 reparação de – lde.q759a
+
 ##### 🟨 Oferenda
 prática do bem e – lde.q673
 sacrifício animal e – lde.q672
+
 ##### 🟨 Opinião
 sábios e – Introdução 7
+
 ##### 🟨 Oposição
 Espiritismo e – lde.q798
 ideias novas e – Introdução 7
 liberdade de consciência e – lde.q837
+
 ##### 🟨 Oração
 conceito de – lde.q659
 direcionamento no rumo de vida e – lde.q523
@@ -53,9 +61,11 @@ obsessão e – lde.q479, 531a
 perdão das faltas e – lde.q661
 poder da – lde.q663
 suavização de sofrimento e – lde.q665
+
 ##### 🟨 Organismo
 alma e – lde.q369
 reencarnação e influência do – lde.q369
+
 ##### 🟨 Orgulho
 demonstrações de – lde.q823a
 genealogia e – lde.q205a
@@ -65,11 +75,14 @@ profissões modestas e – lde.q928
 razão e – Introdução 7
 retratação e – lde.q1000
 suicídio e – lde.q947
+
 ##### 🟨 Orientação
 mundos inferiores e – lde.q233
+
 ##### 🟨 Oriente
 estilo alegórico na literatura do – lde.q59
+
 ##### 🟨 Ostentação
 benefício e – lde.q888a
 
--
+---
