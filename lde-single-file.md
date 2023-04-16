@@ -4620,7 +4620,7 @@ Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destrui
 
 ---
 
-#### 📃 Divisão da lei natural
+#### 📃 /lde.3.01.4/ Divisão da lei natural
 
 647. A Lei de Deus se acha contida toda no preceito do amor ao próximo,
 ensinado por Jesus?
@@ -4959,7 +4959,7 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 
 ---
 
-#### 📃 Poligamia
+#### 📃 /lde.3.04.5/ Poligamia
 
 700. A igualdade numérica, que mais ou menos existe entre os sexos, constitui indício da proporção em que devam unir-se?
 
@@ -5080,7 +5080,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 ---
 
-#### 📃 Privações voluntárias. Mortificações
+#### 📃 /lde.3.05.5/ Privações voluntárias. Mortificações
 
 718. A lei de conservação obriga o homem a prover às necessidades do corpo?
 
