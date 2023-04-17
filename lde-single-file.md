@@ -1,4 +1,4 @@
-# 📔 /lde/ O LIVRO DOS ESPÍRITOS
+# 📔 /lde/ [O LIVRO DOS ESPÍRITOS](#lde)
 ## 🗂️ /lde.0/ Parte 0. Pré-textual
 ### 📃 /lde.0.1/ Folha de rosto
 
@@ -11156,4 +11156,4 @@ excesso de – lde.q736
 
 FIM
 
-<a href="lde">ir para o topo</a>
+<a href="#lde">ir para o topo</a>
