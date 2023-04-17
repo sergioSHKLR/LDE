@@ -1,4 +1,4 @@
-# 📔 /lde/ <a id="#lde">O LIVRO DOS ESPÍRITOS</a>
+# 📔 /lde/ O LIVRO DOS ESPÍRITOS
 ## 🗂️ /lde.0/ Parte 0. Pré-textual
 ### 📃 /lde.0.1/ Folha de rosto
 
@@ -7790,7 +7790,7 @@ auxílio de – lde.q964
 bondade e – lde.q1009
 cada pessoa e – lde.q963
 cepa como emblema do trabalho de – Prolegômenos
-conceito de – [lde.q1](#lde.q1), 668
+conceito de – lde.q1, 668
 criação de espíritos e – lde.q115
 criação de espíritos e atributos de – lde.q131
 Espírito e – lde.q77
@@ -8990,8 +8990,8 @@ localização do – lde.q1017
 paraíso e – lde.q1012
 
 ##### 🟨 Infinito
-conceito de – [lde.q2](#lde.q2)
-Deus e – [lde.q3](#lde.q3)
+conceito de – lde.q2
+Deus e – lde.q3
 
 ##### 🟨 Influência
 do organismo – lde.q367-370
@@ -11155,5 +11155,3 @@ excesso de – lde.q736
 ❦
 
 FIM
-
-<a href="#lde">ir para o topo</a>
