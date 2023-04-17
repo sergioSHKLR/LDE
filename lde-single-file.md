@@ -1,4 +1,4 @@
-# 📔 /lde/ <a name="#lde">O LIVRO DOS ESPÍRITOS</a>
+# 📔 /lde/ <a id="#lde">O LIVRO DOS ESPÍRITOS</a>
 ## 🗂️ /lde.0/ Parte 0. Pré-textual
 ### 📃 /lde.0.1/ Folha de rosto
 
