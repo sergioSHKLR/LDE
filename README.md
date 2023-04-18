@@ -4,7 +4,7 @@ O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de pa
 - um único arquivo.
 - separado em 253 partes.
 
-Os trechos originais em *itálico* foram mudados. Perguntas estão em estilo normal, fragmentos estão em **negrito**. Trechos entre aspas (mensagens espirituais) viraram 'blockquote'. Comentários de Kardec viraram 'nested blockquotes'
+Os trechos originais em *itálico* foram mudados para **negrito**. Trechos entre aspas (mensagens espirituais) viraram *blockquote*. Comentários de Kardec viraram *nested blockquotes*.
 
 X. Pergunta
 > Resposta
@@ -33,21 +33,21 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 ## Código alfanúmerico
 
-📄 `liv.0.00.00`
 <pre>
-  │  │  │  │
-  │  |  |  └── 📄 Item
-  |  |  |
-  │  |  └── 📑 Capítulo
-  |  |
-  │  └── 🗂️ Parte
-  |
-  └── 📔 Livro
+📄 liv.0.00.00
+    │  │  │  │
+    │  |  |  └── 📄 Item
+    |  |  |
+    │  |  └── 📑 Capítulo
+    |  |
+    │  └── 🗂️ Parte
+    |
+    └── 📔 Livro
 </pre>
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um 'fork' para incluir inline links (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
+Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um *fork* para incluir *inline links* (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
 
 # Amai-vos e instruí-vos.
 
