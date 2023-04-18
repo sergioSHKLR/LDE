@@ -7,7 +7,6 @@ Fazei, se quiserdes, abstração da sua origem. Suponde que este livro é obra d
 
 ---
 
-
 ### Conclusão 02
 
 O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de admirar que tenha por adversários os materialistas. Como o materialismo é uma doutrina cujos adeptos mal ousam confessar que o são (prova de que não se consideram muito fortes e têm a dominá-los a consciência), eles se acobertam com o manto da razão e da ciência. E, coisa estranha, os mais céticos chegam a falar em nome da religião, que não conhecem e não compreendem melhor que ao Espiritismo. Por ponto de mira tomam o maravilhoso e o sobrenatural, que não admitem. Ora, dizem, pois que o Espiritismo se funda no maravilhoso, não pode deixar de ser uma suposição ridícula. Não refletem que, condenando, sem restrições, o maravilhoso e o sobrenatural, também condenam a religião.
@@ -17,7 +16,6 @@ Assim, pois, o Espiritismo se apoia menos no maravilhoso e no sobrenatural do qu
 
 ---
 
-
 ### Conclusão 03
 
 Dizeis que desejais curar o vosso século de uma mania que ameaça invadir o mundo. Preferiríeis que o mundo fosse invadido pela incredulidade que procurais propagar? A que se deve atribuir o relaxamento dos laços de família e a maior parte das desordens que minam a sociedade, senão à ausência de toda crença? Demonstrando a existência e a imortalidade da alma, o Espiritismo reaviva a fé no futuro, levanta os ânimos abatidos, faz suportar com resignação as vicissitudes da vida. Ousaríeis chamar a isto um mal? Duas doutrinas se defrontam: uma, que nega o futuro; outra, que lhe proclama e prova a existência; uma, que nada explica, outra, que explica tudo e que, por isso mesmo, se dirige à razão; uma, que é a sanção do egoísmo; outra, que oferece base à justiça, à caridade e ao amor do próximo. A primeira somente mostra o presente e aniquila toda esperança; a segunda consola e desvenda o vasto campo do futuro. Qual a mais perniciosa?
@@ -25,7 +23,6 @@ Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e 
 Oh! vós que proclamais semelhantes doutrinas, não sabeis quão grande é o mal que fazeis à sociedade, nem de quantos crimes assumis a responsabilidade! Para o cético, tal coisa não existe. Só à matéria rende ele homenagem. ❦
 
 ---
-
 
 ### Conclusão 04 [^26]
 
@@ -39,7 +36,6 @@ Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode p
 
 ---
 
-
 ### Conclusão 05
 
 Os que dizem que as crenças espíritas ameaçam invadir o mundo, proclamam, ipso facto, a força do Espiritismo, porque jamais poderia tornar-se universal uma ideia sem fundamento e destituída de lógica. Assim, se o Espiritismo se implanta por toda parte, se, principalmente nas classes cultas, recruta adeptos, como todos facilmente reconhecerão, é que tem um fundo de verdade. Baldados, contra essa tendência, serão todos os esforços dos seus detratores e a prova é que o próprio ridículo, de que procuram cobri-lo, longe de lhe amortecer o ímpeto, parece ter-lhe dado novo vigor, resultado que plenamente justifica o que repetidas vezes os Espíritos hão dito: “Não vos inquieteis com a oposição; tudo o que contra vós fizerem se tornará a vosso favor e os vossos maiores adversários, sem o quererem, servirão à vossa causa. Contra a vontade de Deus não poderá prevalecer a má vontade dos homens”.
@@ -52,7 +48,6 @@ Que compensação ofereceis aos sofrimentos deste mundo, vós cuja doutrina cons
 
 ---
 
-
 ### Conclusão 06
 
 Falsíssima ideia formaria do Espiritismo quem julgasse que a sua força lhe vem da prática das manifestações materiais e que, portanto, obstando-se a tais manifestações, se lhe terá minado a base. Sua força está na sua filosofia, no apelo que dirige à razão, ao bom senso. Na antiguidade, era objeto de estudos misteriosos, que cuidadosamente se ocultavam do vulgo. Hoje, para ninguém tem segredos. Fala uma linguagem clara, sem ambiguidades. Nada há nele de místico, nada de alegorias suscetíveis de falsas interpretações. Quer ser por todos compreendido, porque chegados são os tempos de fazer-se que os homens conheçam a verdade. Longe de se opor à difusão da luz, deseja-a para todo o mundo. Não reclama crença cega; quer que o homem saiba por que crê. Apoiando-se na razão, será sempre mais forte do que os que se apoiam no nada.
@@ -62,7 +57,6 @@ Que faz a moderna ciência espírita? Reúne em corpo de doutrina o que estava e
 Que interesse, ademais, haveria em obstar-se a propagação das ideias espíritas? É exato que elas se erguem contra os abusos que nascem do orgulho e do egoísmo, mas, se é certo que desses abusos há quem aproveite, à coletividade humana eles prejudicam. A coletividade, portanto, será favorável a tais ideias, contando-se-lhes por adversários sérios apenas os interessados em manter aqueles abusos. As ideias espíritas, ao contrário, são um penhor de ordem e tranquilidade, porque, pela sua influência, os homens se tornam melhores uns para com os outros, menos ávidos das coisas materiais e mais resignados aos decretos da Providência. ❦
 
 ---
-
 
 ### Conclusão 07
 
@@ -83,7 +77,6 @@ O terceiro efeito é o de estimular no homem a indulgência para com os defeitos
 
 ---
 
-
 ### Conclusão 08
 
 Perguntam algumas pessoas: Ensinam os Espíritos qualquer moral nova, qualquer coisa superior ao que disse o Cristo? Se a moral deles não é senão a do Evangelho, de que serve o Espiritismo? Este raciocínio se assemelha notavelmente ao do califa Omar, com relação à Biblioteca de Alexandria: “Se ela não contém”, dizia ele, “mais do que o que está no Alcorão, é inútil. Logo deve ser queimada. Se contém coisa diversa, é nociva. Logo, também deve ser queimada”. 
@@ -94,7 +87,6 @@ Decorrido que seja mais algum tempo, a existência desse mundo, que nos espera, 
 As comunicações com os seres de além-túmulo deram em resultado fazer-nos compreender a vida futura, fazer-nos vê-la, iniciar-nos no conhecimento das penas e gozos que nos estão reservados, de acordo com os nossos méritos e, desse modo, encaminhar para o espiritualismo os que no homem somente viam a matéria, a máquina organizada. Razão, portanto, tivemos para dizer que o Espiritismo, com os fatos, matou o materialismo. Fosse este único resultado por ele produzido e já muita gratidão lhe deveria a ordem social. Ele, porém, faz mais: mostra os inevitáveis efeitos do mal e, conseguintemente, a necessidade do bem. Muito maior do que se pensa é, e cresce todos os dias, o número daqueles em que ele há melhorado os sentimentos, neutralizado as más tendências e desviado do mal. É que para esses o futuro deixou de ser coisa imprecisa, simples esperança, por se haver tornado uma verdade que se compreende e explica, quando se veem e ouvem os que partiram lamentar-se ou felicitar-se pelo que fizeram na Terra. Quem disso é testemunha entra a refletir e sente a necessidade de a si mesmo se conhecer, julgar e emendar. ❦
 
 ---
-
 
 ### Conclusão 09
 

@@ -183,7 +183,6 @@
 > > A religião, a moral, todas as filosofias condenam o suicídio como contrário às Leis da Natureza. Todas nos dizem, em princípio, que ninguém tem o direito de abreviar voluntariamente a vida. Entretanto, por que não se tem esse direito? Por que não é livre o homem de pôr termo aos seus sofrimentos? Ao Espiritismo estava reservado demonstrar, pelo exemplo dos que sucumbiram, que o suicídio não é uma falta, somente por constituir infração de uma lei moral, consideração de pouco peso para certos indivíduos, mas também um ato estúpido, pois que nada ganha quem o pratica, o contrário é o que se dá, como no-lo ensinam, não a teoria, porém os fatos que ele nos põe sob as vistas. ❦
 ---
 
-
 ### 2. Das penas e gozos futuros
 ---
 

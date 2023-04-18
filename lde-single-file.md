@@ -546,7 +546,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ### 📑 /lde.1.2/ 2. Dos elementos gerais do Universo
 ---
 
-
 #### 📃 /lde.1.2.1/ Conhecimento do princípio das coisas
 
 [17](#lde.q17). É dado ao homem conhecer o princípio das coisas?
@@ -568,7 +567,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >> Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro. ❦
 
 ---
-
 
 #### 📃 /lde.1.2.2/ Espírito e matéria
 
@@ -626,7 +624,6 @@ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário
 
 ---
 
-
 #### 📃 /lde.1.2.3/ Propriedades da matéria
 
 [29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?
@@ -672,7 +669,6 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 
 ---
 
-
 #### 📃 /lde.1.2.4/ Espaço universal
 
 35. O Espaço universal é infinito ou limitado?
@@ -688,7 +684,6 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 ---
 ### 📑 /lde.1.3/ 3. Da Criação
 ---
-
 
 #### 📃 /lde.1.3.1/ Formação dos mundos
 
@@ -720,7 +715,6 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 >“Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.”
 
 ---
-
 
 #### 📃 /lde.1.3.2/ Formação dos seres vivos
 
@@ -756,7 +750,6 @@ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para forma
 
 ---
 
-
 #### 📃 /lde.1.3.3/ Povoamento da Terra. Adão
 
 50. A espécie humana começou por um único homem?
@@ -770,7 +763,6 @@ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para forma
 O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo. ❦
 
 ---
-
 
 #### 📃 /lde.1.3.4/ Diversidade das raças humanas
 
@@ -791,7 +783,6 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 >“Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.” ❦
 
 ---
-
 
 #### 📃 /lde.1.3.5/ Pluralidade dos mundos
 
@@ -816,7 +807,6 @@ Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objet
 As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes. ❦
 
 ---
-
 
 #### 📃 /lde.1.3.6/ Considerações e concordâncias bíblicas concernentes à Criação
 
@@ -967,7 +957,6 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 ## 🗂️ /lde.2/ Parte 2. Do mundo espírita
 ### 📑 /lde.2.01/ 01. Dos Espíritos
 ---
-
 
 #### 📃 /lde.2.01.01/ Origem e natureza dos Espíritos
 
@@ -3482,7 +3471,6 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 ---
 ### 📑 /lde.2.09/ 09. Da intervenção dos Espíritos no mundo corporal
 
-
 #### 📃 /lde.2.09.01/ Faculdade que têm os Espíritos de penetrar os nossos pensamentos
 
 456. Veem os Espíritos tudo o que fazemos?
@@ -4443,7 +4431,6 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 ## 🗂️ /lde.3/ Parte 3. Das Leis morais
 ### 📑 /lde.3.01/ 01. Da lei divina ou natural
 ---
-
 
 #### 📃 /lde.3.01.1/ Caracteres da lei natural
 
@@ -6203,7 +6190,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 ### 📑 /lde.4.1/ 1. Das penas e gozos terrestres
 ---
 
-
 #### 📃 /lde.4.1.1/ Felicidade e infelicidade relativas
 
 920. Pode o homem gozar de completa felicidade na Terra?
@@ -6261,7 +6247,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 > > Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra no sentimento cristão, que lhe dá a esperança de melhor futuro, e no Espiritismo, que lhe dá a certeza desse futuro. ❦
 ---
 
-
 #### 📃 /lde.4.1.2/ Perda dos entes queridos
 
 934. A perda dos entes que nos são caros não constitui para nós legítima causa de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
@@ -6278,7 +6263,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 > > Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos parecem, que não compreendemos possamos sofrê-las. Entretanto, se as tivermos suportado corajosamente, se soubermos impor silêncio às nossas murmurações, felicitar-nos-emos, quando fora desta prisão terrena, como o doente que sofre se felicita, quando curado, por se haver submetido a um tratamento doloroso. ❦
 ---
 
-
 #### 📃 /lde.4.1.3/ Decepções. Ingratidão. Afeições destruídas
 
 937. Para o homem de coração, as decepções oriundas da ingratidão e da fragilidade dos laços da amizade não são também uma fonte de amarguras?
@@ -6293,7 +6277,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
  ❦
 ---
 
-
 #### 📃 /lde.4.1.4/ Uniões antipáticas
 
 939. Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, entre os encarnados, frequentemente só de um lado há afeição e que o mais sincero amor se vê acolhido com indiferença e até com repulsão? Como é, além disso, que a mais viva afeição de dois seres pode mudar-se em antipatia e mesmo em ódio?
@@ -6307,7 +6290,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 > “Há e para ela é uma dura expiação, mas a responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores. Se a luz da verdade já lhe houver penetrado a alma, em sua fé no futuro haurirá consolação. Todavia, à medida que os preconceitos se enfraquecerem, as causas dessas desgraças íntimas também desaparecerão.” ❦
 ---
 
-
 #### 📃 /lde.4.1.5/ Temor da morte
 
 941. Para muitas pessoas, o temor da morte é uma causa de perplexidade. Donde lhes vêm esse temor, tendo elas diante de si o futuro?
@@ -6319,7 +6301,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 942. Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz na Terra; que neles vejam o que chamam lugares comuns, sediciosas verdades; e que digam, que, afinal, o segredo para ser-se feliz consiste em saber cada um suportar a sua desgraça?
 > “Há as que isso dizem e em grande número, mas muitas se parecem com certos doentes a quem o médico prescreve a dieta; desejariam curar-se sem remédios e continuando a apanhar indigestões.” ❦
 ---
-
 
 #### 📃 /lde.4.1.6/ Desgosto da vida. Suicídio
 
@@ -6390,7 +6371,6 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 ### 📑 /lde.4.2/ 2. Das penas e gozos futuros
 ---
 
-
 #### 📃 /lde.4.2.1/ O nada. Vida futura
 
 958. Por que tem o homem, instintivamente, horror ao nada?
@@ -6406,7 +6386,6 @@ supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 > > A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada. ❦
 ---
 
-
 #### 📃 /lde.4.2.2/ Intuição das penas e gozos futuros
 
 960. Donde se origina a crença, com que deparamos entre todos os povos, na existência de penas e recompensas porvindouras?
@@ -6421,7 +6400,6 @@ supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 > > A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras. ❦
 ---
 
-
 #### 📃 /lde.4.2.3/ Intervenção de Deus nas penas e recompensas
 
 963. Com cada homem, pessoalmente, Deus se ocupa? Não é Ele muito grande e nós muito pequeninos para que cada indivíduo em particular tenha, a seus olhos, alguma importância?
@@ -6434,7 +6412,6 @@ supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 > > “Um pai deu a seu filho educação e instrução, isto é, os meios de se guiar. Cede-lhe um campo para que o cultive e lhe diz: Aqui estão a regra que deves seguir e todos os instrumentos necessários a tornares fértil este campo e assegurares a tua existência. Dei-te a instrução para compreenderes esta regra. Se a seguires, teu campo produzirá muito e te proporcionará o repouso na velhice. Se a desprezares, nada produzirá e morrerás de fome. Dito isso, deixa-o proceder livremente”.
 > > Não é verdade que esse campo produzirá na razão dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. Deus ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os Espíritos para nos inspirarem, porém não os escutamos. Há mais esta diferença: Deus faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta. ❦
 ---
-
 
 #### 📃 /lde.4.2.4/ Natureza das penas e gozos futuros
 
@@ -6521,7 +6498,6 @@ esplendor lhe aparecem.
 > > A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida. ❦
 ---
 
-
 #### 📃 /lde.4.2.5/ Penas temporais
 
 983. Não experimenta sofrimentos materiais o Espírito que expia suas faltas em nova existência? Será então exato dizer-se que, depois da morte, só há para a alma sofrimentos morais?
@@ -6551,7 +6527,6 @@ material quanto aquela.”
 989. Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos seus caracteres, todos os que as cercam. Que consequências lhes advirão disso?
 > “Inquestionavelmente, essas pessoas não são boas. Expiarão suas faltas, tendo sempre diante da vista aqueles a quem infelicitaram, valendo-lhes isso por uma exprobração. Depois, noutra existência, sofrerão o que fizeram sofrer.” ❦
 ---
-
 
 #### 📃 /lde.4.2.6/ Expiação e arrependimento
 
@@ -6607,7 +6582,6 @@ perante os homens, conserva o seu orgulho?” (720 e 721)
 > “O arrependimento lhe apressa a reabilitação, mas não o absolve. Diante dele não se desdobra o futuro, que jamais se lhe tranca?” ❦
 ---
 
-
 #### 📃 /lde.4.2.7/ Duração das penas futuras
 
 1003. É arbitrária ou sujeita a uma lei qualquer a duração dos sofrimentos do culpado, na vida futura?
@@ -6656,7 +6630,6 @@ perante os homens, conserva o seu orgulho?” (720 e 721)
 > > Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra fogo é usada figuradamente e que se deve entender como significando ogo moral (974). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra eterno se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá. ❦
 ---
 
-
 #### 📃 /lde.4.2.8/ Ressurreição da carne
 
 1010. O dogma da ressurreição da carne será a consagração da reencarnação ensinada pelos Espíritos?
@@ -6665,10 +6638,9 @@ perante os homens, conserva o seu orgulho?” (720 e 721)
 1011. Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrina da reencarnação? 25
 > “É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o Espiritismo ressalta a cada passo do texto mesmo das Escrituras sagradas. Os Espíritos, portanto, não vêm subverter a religião, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes.”
 > São Luís
-> > ♣Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
+> > Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
 > > É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita, ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado. ❦
 ---
-
 
 #### 📃 /lde.4.2.9/ Paraíso, inferno e purgatório
 

@@ -2,7 +2,6 @@
 ### 01. Da lei divina ou natural
 ---
 
-
 #### Caracteres da lei natural
 
 614. Que se deve entender por lei natural?
@@ -36,7 +35,6 @@ As outras dizem respeito especialmente ao homem considerado em si mesmo e nas su
 > “A razão está a dizer que devem ser apropriadas à natureza de cada mundo e adequadas ao grau de progresso dos seres que os habitam.” ❦
 
 ---
-
 
 
 #### Conhecimento da lei natural
@@ -95,7 +93,6 @@ alguma coisa?
 > “Jamais permitiu Deus que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma ciência sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes fenômenos, deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de filosofia, nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se bem pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o Espiritismo dá de uma imensidade de coisas que até agora se vos afiguraram sem razão alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução.” ❦
 
 ---
-
 
 
 #### O bem e o mal
@@ -183,7 +180,6 @@ Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destrui
 ---
 
 
-
 #### Divisão da lei natural
 
 647. A Lei de Deus se acha contida toda no preceito do amor ao próximo,
@@ -198,11 +194,9 @@ ensinado por Jesus?
 
 ---
 
-
 ### 02. Da lei de adoração
 
 ---
-
 
 
 #### Objetivo da adoração
@@ -225,7 +219,6 @@ adoração?
 > “A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes.” ❦
 
 ---
-
 
 
 #### Adoração exterior
@@ -261,7 +254,6 @@ adoração?
 ---
 
 
-
 #### Vida contemplativa
 
 657. Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma vez que nenhum mal fazem e só em Deus pensam?
@@ -270,7 +262,6 @@ adoração?
 > que não houver feito.” (**640**) ❦
 
 ---
-
 
 
 #### A prece
@@ -327,7 +318,6 @@ lábios nada vale.
 ---
 
 
-
 #### Politeísmo
 
 667. Por que razão, não obstante ser falsa, a crença politeísta é uma das mais antigas e espalhadas?
@@ -343,7 +333,6 @@ A palavra deus tinha, entre os Antigos, acepção muito ampla. Não indicava, co
 Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenômenos miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza. ❦
 
 ---
-
 
 
 #### Sacrifícios
@@ -380,11 +369,9 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ---
 
-
 ### 03. Da lei do trabalho
 
 ---
-
 
 
 #### Necessidade do trabalho
@@ -426,7 +413,6 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 ---
 
 
-
 #### Limite do trabalho. Repouso
 
 682. Sendo uma necessidade para todo aquele que trabalha, o repouso não é também uma Lei da Natureza?
@@ -455,11 +441,9 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 
 ---
 
-
 ### 04. Da lei de reprodução
 
 ---
-
 
 
 #### População do globo
@@ -473,7 +457,6 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 > “Não, Deus a isso provê e mantém sempre o equilíbrio. Ele coisa alguma inútil faz. O homem, que apenas vê um canto do quadro da Natureza, não pode julgar da harmonia do conjunto.” ❦
 
 ---
-
 
 
 #### Sucessão e aperfeiçoamento das raças
@@ -506,7 +489,6 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 ---
 
 
-
 #### Obstáculos à reprodução
 
 693. São contrários à Lei da Natureza as leis e os costumes humanos que têm por fim ou por efeito criar obstáculos à reprodução?
@@ -522,7 +504,6 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 > “Isso prova a predominância do corpo sobre a alma e quanto o homem é material.” ❦
 
 ---
-
 
 
 #### Casamento e celibato
@@ -554,7 +535,6 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 ---
 
 
-
 #### Poligamia
 
 700. A igualdade numérica, que mais ou menos existe entre os sexos, constitui indício da proporção em que devam unir-se?
@@ -575,11 +555,9 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 ---
 
-
 ### 05. Da lei de conservação
 
 ---
-
 
 
 #### Instinto de conservação
@@ -593,7 +571,6 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 > “Porque todos têm que concorrer para cumprimento dos desígnios da Providência. Por isso foi que Deus lhes deu a necessidade de viver. Acresce que a vida é necessária ao aperfeiçoamento dos seres. Eles o sentem instintivamente, sem disso se aperceberem.” ❦
 
 ---
-
 
 
 #### Meios de conservação
@@ -633,7 +610,6 @@ Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, 
 ---
 
 
-
 #### Gozo dos bens terrenos
 
 711. O uso dos bens da Terra é um direito de todos os homens?
@@ -667,7 +643,6 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 ---
 
 
-
 #### Necessário e supérfluo
 
 715. Como pode o homem conhecer o limite do necessário?
@@ -685,7 +660,6 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os Espíritos que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à razão regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da religião só têm a máscara. ❦
 
 ---
-
 
 
 #### Privações voluntárias. Mortificações
@@ -736,11 +710,9 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 ---
 
-
 ### 06. Da lei de destruição
 
 ---
-
 
 
 #### Destruição necessária e destruição abusiva
@@ -788,7 +760,6 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 ---
 
 
-
 #### Flagelos destruidores
 
 737. Com que fim fere Deus a Humanidade por meio de flagelos destruidores?
@@ -826,7 +797,6 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 ---
 
 
-
 ####  Guerras
 
 742. Que é o que impele o homem à guerra?
@@ -850,7 +820,6 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 > “Grande culpado é esse e muitas existências lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja morte tenha causado para satisfazer à sua ambição.” ❦
 
 ---
-
 
 
 #### Assassínio
@@ -882,7 +851,6 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 ---
 
 
-
 #### Crueldade
 
 752. Poder-se-á ligar o sentimento de crueldade ao instinto de destruição?
@@ -908,7 +876,6 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 > “A Humanidade progride. Esses homens, em quem o instinto do mal domina e que se acham deslocados entre pessoas de bem, desaparecerão gradualmente, como o mau grão se separa do bom, quando este é joeirado, mas desaparecerão para renascer sob outros invólucros. Como então terão mais experiência, compreenderão melhor o bem e o mal. Tens disso um exemplo nas plantas e nos animais que o homem há conseguido aperfeiçoar, desenvolvendo neles qualidades novas. Pois bem! só ao cabo de muitas gerações o desenvolvimento se torna completo. É a imagem das diversas existências do homem.” ❦
 
 ---
-
 
 
 #### Duelo
@@ -942,7 +909,6 @@ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu
 ---
 
 
-
 #### Pena de morte
 
 760. Desaparecerá algum dia, da legislação humana, a pena de morte?
@@ -974,11 +940,9 @@ que se aplica a pena de morte?
 
 ---
 
-
 ### 07. Da lei de sociedade
 
 ---
-
 
 
 #### Necessidade da vida social
@@ -998,7 +962,6 @@ que se aplica a pena de morte?
 Homem nenhum possui faculdades completas. Mediante a união social é que elas umas às outras se completam, para lhe assegurarem o bem-estar e o progresso. Por isso é que, precisando uns dos outros, os homens foram feitos para viver em sociedade e não insulados. ❦
 
 ---
-
 
 
 #### Vida de insulamento. Voto de silêncio
@@ -1032,7 +995,6 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 ---
 
 
-
 #### Laços de família
 
 773. Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde que estes não mais precisam de cuidados?
@@ -1050,11 +1012,9 @@ família?
 
 ---
 
-
 ### 08. Da lei do progresso
 
 ---
-
 
 
 #### Estado de natureza
@@ -1074,7 +1034,6 @@ O estado de natureza é a infância da Humanidade e o ponto de partida do seu de
 > “Não, o homem tem que progredir incessantemente e não pode volver ao estado de infância. Desde que progride, é porque Deus assim o quer. Pensar que possa retrogradar à sua primitiva condição fora negar a lei do progresso.” ❦
 
 ---
-
 
 
 #### Marcha do progresso
@@ -1128,7 +1087,6 @@ Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas qu
 ---
 
 
-
 #### Povos degenerados
 
 786. Mostra-nos a História que muitos povos, depois de abalos que os revolveram profundamente, recaíram na barbaria. Onde, neste caso, o progresso?
@@ -1168,7 +1126,6 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 ---
 
 
-
 #### Civilização
 
 790. É um progresso a civilização ou, como o entendem alguns filósofos,
@@ -1203,7 +1160,6 @@ De duas nações que tenham chegado ao ápice da escala social, somente pode con
 ---
 
 
-
 #### Progresso da legislação humana
 
 794. Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das leis humanas?
@@ -1225,7 +1181,6 @@ A civilização criou necessidades novas para o homem, necessidades relativas à
 > “Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera!” ❦
 
 ---
-
 
 
 #### Influência do Espiritismo no progresso
@@ -1254,11 +1209,9 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 ---
 
-
 ### 09. Da lei de igualdade
 
 ---
-
 
 
 #### Igualdade natural
@@ -1276,7 +1229,6 @@ seus olhos, são iguais
 ---
 
 
-
 #### Desigualdade das aptidões
 
 804. Por que não outorgou Deus as mesmas aptidões a todos os homens?
@@ -1288,7 +1240,6 @@ seus olhos, são iguais
 Assim, a diversidade das aptidões entre os homens não deriva da natureza íntima da sua criação, mas do grau de aperfeiçoamento a que tenham chegado os Espíritos encarnados neles. Deus, portanto, não criou faculdades desiguais; permitiu, porém, que os Espíritos em graus diversos de desenvolvimento estivessem em contato, para que os mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos outros, compreendessem a lei de caridade que os deve unir.
 
 ---
-
 
 
 #### Desigualdades sociais
@@ -1303,7 +1254,6 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 > “Merecem anátema! Ai deles! Serão, a seu turno, oprimidos: renascerão numa existência em que terão de sofrer tudo o que tiverem feito sofrer aos outros.” (684)
 
 ---
-
 
 
 #### Desigualdade das riquezas
@@ -1338,7 +1288,6 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 ---
 
 
-
 #### As provas de riqueza e de miséria
 
 814. Por que Deus a uns concedeu as riquezas e o poder, e a outros, a miséria?
@@ -1354,7 +1303,6 @@ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhant
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse: “Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus”. (266)
 
 ---
-
 
 
 #### Igualdade dos direitos do homem e da mulher
@@ -1385,7 +1333,6 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 ---
 
 
-
 #### Igualdade perante o túmulo
 
 823. Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de monumentos fúnebres?
@@ -1401,11 +1348,9 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 ---
 
-
 ### 10. Da lei de liberdade
 
 ---
-
 
 
 #### Liberdade natural
@@ -1428,7 +1373,6 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 ---
 
 
-
 #### Escravidão
 
 829. Haverá homens que estejam, por natureza, destinados a ser propriedades de outros homens?
@@ -1448,7 +1392,6 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 ---
 
 
-
 ####  Liberdade de pensar
 
 833. Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze ele de absoluta liberdade?
@@ -1458,7 +1401,6 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 > “Perante Deus, é. Somente a Deus sendo possível conhecê-lo, Ele o condena ou absolve, segundo a sua justiça.”
 
 ---
-
 
 
 #### Liberdade de consciência
@@ -1492,7 +1434,6 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 ---
 
 
-
 #### Livre-arbítrio
 
 843. Tem o homem o livre-arbítrio de seus atos?
@@ -1520,7 +1461,6 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 > “É fora de dúvida que o mundo tem suas exigências. Deus é justo e tudo leva em conta. Deixa-vos, entretanto, a responsabilidade de nenhum esforço empregardes para vencer os obstáculos.”
 
 ---
-
 
 
 #### Fatalidade
@@ -1590,7 +1530,6 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 ---
 
 
-
 #### Conhecimento do futuro
 
 868. Pode o futuro ser revelado ao homem?
@@ -1611,7 +1550,6 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 ---
 
 
-
 #### Resumo teórico do móvel das ações humanas
 
 872. A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
@@ -1628,11 +1566,9 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-
 ### 11. Da lei de justiça, de amor, e de caridade
 
 ---
-
 
 
 #### Justiça e direitos naturais
@@ -1669,7 +1605,6 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 ---
 
 
-
 #### Direito de propriedade. Roubo
 
 880. Qual o primeiro de todos os direitos naturais do homem?
@@ -1700,7 +1635,6 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 ---
 
 
-
 #### Caridade e amor do próximo
 
 886. Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus?
@@ -1727,7 +1661,6 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 ---
 
 
-
 #### Amor materno e filial
 
 890. Será uma virtude o amor materno, ou um sentimento instintivo, comum aos homens e aos animais?
@@ -1741,11 +1674,9 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 
 ---
 
-
 ### 12. Da perfeição moral
 
 ---
-
 
 
 #### As virtudes e os vícios
@@ -1808,7 +1739,6 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 ---
 
 
-
 ####  Paixões
 
 907. Será substancialmente mau o princípio originário das paixões, embora esteja na natureza?
@@ -1835,7 +1765,6 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 > Praticar a abnegação.”
 
 ---
-
 
 
 ####  O egoísmo
@@ -1867,7 +1796,6 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 ---
 
 
-
 ####  Caracteres do homem de bem
 
 918. Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? [^23]
@@ -1883,7 +1811,6 @@ Não é vingativo. A exemplo de Jesus, perdoa as ofensas, para só se lembrar do
 Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados.
 
 ---
-
 
 
 ####  Conhecimento de si mesmo
