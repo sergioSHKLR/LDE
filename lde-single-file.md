@@ -186,9 +186,9 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 8. a alma é um Espírito encarnado, sendo o corpo apenas o seu envoltório;
 
 9. há no homem três coisas:
-1. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
-2. a alma ou ser imaterial, Espírito encarnado no corpo;
-3. o laço que prende a alma ao corpo, princípio intermediário entre a matéria e o Espírito;
+> 1. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
+> 2. a alma ou ser imaterial, Espírito encarnado no corpo;
+> 3. o laço que prende a alma ao corpo, princípio intermediário entre a matéria e o Espírito;
 
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos instintos lhe são comuns; pela alma, participa da natureza dos Espíritos;
 
@@ -447,15 +447,15 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ### 📑 /lde.1.1/ 1. De Deus
 #### 📃 /lde.1.1.1/ Deus e o infinito
 
-[1](#lde.q1). O que é Deus?
+[1. O que é Deus?
 
 >“Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-[2](#lde.q2). Que se deve entender por infinito?
+[2. Que se deve entender por infinito?
 
 >“O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-[3](#lde.q3). Poder-se-ia dizer que Deus é o infinito?
+[3. Poder-se-ia dizer que Deus é o infinito?
 
 >“Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
 >>Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ❦
@@ -467,33 +467,33 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 #### 📃 /lde.1.1.2/ Provas da existência de Deus
 
-[4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
+4. Onde se pode encontrar a prova da existência de Deus?
 
 >“Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá.”
 >>Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação.<br />
 > O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 
-[5](#lde.q5). Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
+5. Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
 
 >“A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.”
 
-[6](#lde.q6). O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
+6. O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
 
 >“Se assim fosse, por que existiria nos vossos selvagens esse sentimento?”
 >>Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 
-[7](#lde.q7). Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
+7. Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
 
 >“Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária.”
 >>Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 
-[8](#lde.q8). Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
+8. Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
 
 >“Outro absurdo! Que homem de bom senso pode considerar o acaso um ser inteligente? E, demais, que é o acaso? Nada.”
 >>A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz.<br />
 > Um acaso inteligente já não seria acaso.
 
-[9](#lde.q9). Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
+9. Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
 
 >“Tendes um provérbio que diz: ‘Pela obra se reconhece o autor.’ Pois bem! Vede a obra e procurai o autor. O orgulho é que gera a incredulidade. O homem orgulhoso nada admite acima de si. Por isso é que ele denomina a si mesmo de espírito forte. Pobre ser, que um sopro de Deus pode abater!”
 >>O poder de uma inteligência se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a causa primária é, conseguintemente, uma inteligência superior à Humanidade.<br />
@@ -502,20 +502,20 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 #### 📃 /lde.1.1.3/ Atributos da Divindade
 
-[10](#lde.q10). Pode o homem compreender a natureza íntima de Deus?
+10. Pode o homem compreender a natureza íntima de Deus?
 
 >“Não; falta-lhe para isso o sentido.”
 
-[11](#lde.q11). Será dado um dia ao homem compreender o mistério da Divindade?
+11. Será dado um dia ao homem compreender o mistério da Divindade?
 
 >“Quando não mais tiver o espírito obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e compreenderá.”
 >> A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
 
-[12](#lde.q12). Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
+12. Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
 
 >“De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.”
 
-[13](#lde.q13). Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
+13. Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
 
 >“Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber.”
 >>**Deus é eterno.** Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.<br />
@@ -528,15 +528,15 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 #### 📃 /lde.1.1.4/ Panteísmo
 
-[14](#lde.q14). Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
+14. Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
 >“Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.”
 
-[15](#lde.q15). Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
+15. Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
 
 >“Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus.”
 
-[16](#lde.q16). Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
+16. Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
 
 >“A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo.”
 >> Esta doutrina faz de Deus um ser material que, embora dotado de suprema inteligência, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, Deus, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da Divindade: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de Deus, sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o Criador com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
@@ -548,20 +548,20 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### 📃 /lde.1.2.1/ Conhecimento do princípio das coisas
 
-[17](#lde.q17). É dado ao homem conhecer o princípio das coisas?
+17. É dado ao homem conhecer o princípio das coisas?
 
 >“Não, Deus não permite que ao homem tudo seja revelado neste mundo.”
 
-[18](#lde.q18). Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
+18. Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
 >“O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.”
 
-[19](#lde.q19). Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
+19. Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
 
 >“A Ciência lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que Deus estabeleceu.”
 >> Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador. Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 
-[20](#lde.q20). Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
+20. Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
 >“Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender.”
 >> Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro. ❦
@@ -570,53 +570,53 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### 📃 /lde.1.2.2/ Espírito e matéria
 
-[21](#lde.q21). A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
+21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
 >“Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?”
 
-[22](#lde.q22). Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
+22. Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
 >“Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.”
 
-[22.a](#lde.q22a) Que definição podeis dar da matéria?
+22. a) Que definição podeis dar da matéria?
 
 >“A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.”
 
 Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 
-[23](#lde.q23). Que é o espírito?
+23. Que é o espírito?
 
 >“O princípio inteligente do Universo.”
 
-[23.a](#lde.q23). Qual a natureza íntima do espírito?
+23a. Qual a natureza íntima do espírito?
 
 >“Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.”
 
-[24](#lde.q24). É o espírito sinônimo de inteligência?
+24. É o espírito sinônimo de inteligência?
 
 >“A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.”
 
-[25](#lde.q25). O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
+25. O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
 >“São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.”
 
-[25.a](#lde.q25a) Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
+25a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
 
 >“É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.”
 
-[26](#lde.q26). Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
+26. Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 
 >“Pode-se, é fora de dúvida, pelo pensamento.”
 
-[27](#lde.q27). Há então dois elementos gerais do Universo: a matéria e o espírito?
+27. Há então dois elementos gerais do Universo: a matéria e o espírito?
 
 >“Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.”
 
-[27.a](#lde.q27a) Esse fluido será o que designamos pelo nome de eletricidade?
+27. a) Esse fluido será o que designamos pelo nome de eletricidade?
 
 >“Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.”
 
-[28](#lde.q28). Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
+28. Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
 
 >“As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos.”
 >> Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria.
@@ -626,41 +626,41 @@ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário
 
 #### 📃 /lde.1.2.3/ Propriedades da matéria
 
-[29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?
+29. A ponderabilidade é um atributo essencial da matéria?
 
 >“Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria etérea e sutil que constitui esse fluido vos é imponderável. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada.”
 
 A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo
 
-[30](#lde.q30). A matéria é formada de um só ou de muitos elementos?
+30. A matéria é formada de um só ou de muitos elementos?
 
 >“De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.”
 
-[31](#lde.q31). Donde se originam as diversas propriedades da matéria?
+31. Donde se originam as diversas propriedades da matéria?
 
 >“São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.”
 
-[32](#lde.q32). De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
+32. De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
 
 >“Sem dúvida e que só existem devido à disposição dos órgãos destinados a percebê-las.”
 
 A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
 
-[33](#lde.q33). A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
+33. A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
 
 >“Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo!”[^6]
 
 O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
-[33.a](#lde.q33a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
+33. a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
 >“É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.”
 
-[34](#lde.q34). As moléculas têm forma determinada?
+34. As moléculas têm forma determinada?
 
 >“Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.”
 
-[34.a](#lde.q34a). Essa forma é constante ou variável?
+34. a) Essa forma é constante ou variável?
 
 >“Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.” ❦
 
