@@ -1,6 +1,6 @@
-# 📔 `lde` O LIVRO DOS ESPÍRITOS
-## 🗂️ `lde.0` Parte 0. Pré-textual
-### 📃 `lde.0.1` Folha de rosto
+# 📔 O LIVRO DOS ESPÍRITOS `lde`
+## 🗂️ Parte 0. Pré-textual `lde.0`
+### 📃 Folha de rosto `lde.0.1`
 
 *Filosofia Espiritualista*
 
