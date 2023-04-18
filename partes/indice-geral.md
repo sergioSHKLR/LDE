@@ -19,7 +19,7 @@ direito e – lde.q734
 Deus e – lde.q663
 
 ##### 🟨 Ação
-dos mortos como força invisível – Introdução 4
+dos mortos como força invisível – lde.0.3.04
 mérito e – lde.q919a
 reciprocidade de – lde.q375a
 
@@ -42,17 +42,17 @@ bom exemplo e – lde.q653a
 busca de amparo e – lde.q650
 Cristianismo e – lde.q668
 fraqueza e – lde.q650
-lei de – lde.q649-673
+lei de – lde.q649 a lde.q673
 lei natural e – lde.q652
 objetivo da – lde.q649
 prática do bem e – lde.q673
 rituais e – lde.q654
 sacrifício animal e – lde.q669a
-sacrifício humano e – lde.q669, 669b
+sacrifício humano e – lde.q669,lde.q669b
 sentimento puro e – lde.q653
 
 ##### 🟨 Afeição
-espíritos, encarnados e – lde.q484-485
+espíritos, encarnados e – lde.q484, lde.q485
 física e espiritual – lde.q939
 
 ##### 🟨 Afinidade
@@ -65,7 +65,7 @@ inveja e – lde.q926
 necessidades e – lde.q926
 
 ##### 🟨 Agostinho (Santo)
-conselho de – lde.q919a; Conclusão 9
+conselho de – lde.q919a, lde.5.9
 eternidade das penas – lde.q1009
 
 ##### 🟨 Agradecimento
@@ -73,7 +73,7 @@ providência divina e – lde.q535
 
 ##### 🟨 Alcorão
 
-Alcorão – Conclusão 8
+Alcorão – lde.5.8
 
 ##### 🟨 Além-túmulo
 amizade e – lde.q488
@@ -91,21 +91,22 @@ mundos elevados e – lde.q710
 saúde e – lde.q722
 
 ##### 🟨 Allan Kardec
-assistência espiritual a – Prolegômenos
-conselhos a – Prolegômenos
+assistência espiritual a – lde.0.4
+conselhos a – lde.0.4
 
-##### 🟨 Alma – lde.q134 a 146
+##### 🟨 Alma
+alma – lde.q134 a lde.q146
 afeição do corpo e da – lde.q939
 animais e – lde.q600
 animais, homem e – lde.q597a
 anterioridade da – lde.q222
 atributos da – lde.q428
-conceito espírita de – Introdução 2
-conceitos de – Introdução 2, lde.q134, 134a, 134b, 139
-corpo físico e – lde.q136b, 222
+conceito espírita de – lde.0.3.02
+conceitos de – lde.0.3.02, lde.q134, lde.q134a, lde.q134b, lde.q139
+corpo físico e – lde.q136b, lde.q222
 corpo físico e sede da – lde.q146a
 corpo, perispírito e – lde.q135a
-criação da – lde.q222, 789
+criação da – lde.q222, lde.q789
 desgoverno do extático e abandono pela – lde.q442
 desprendimento da – lde.q155
 destino da – lde.q787a
@@ -124,7 +125,7 @@ irradiação da – lde.q454
 lei divina e – lde.q620
 matéria e – lde.q965
 metempsicose e evolução da – lde.q613
-morte e – lde.q149-153
+morte e – lde.q149 a lde.q153
 organismo humano e – lde.q369
 pensamento e – lde.q89a
 percepção visual da – lde.q286
@@ -133,7 +134,7 @@ primeira encarnação da – lde.q190
 prova da existência e independência da – lde.q455
 questionamentos sobre a – lde.q148
 reencarnação da – lde.q223
-retorno ao mundo espiritual – lde.q157, 159
+retorno ao mundo espiritual – lde.q157, lde.q159
 sede da – lde.q146
 selvagens e – lde.q191
 sensações da – lde.q965
@@ -163,11 +164,11 @@ provas e – lde.q260a
 
 ##### 🟨 Amizade
 além-túmulo e – lde.q488
-ingratidão e – lde.q937, 938a
+ingratidão e – lde.q937, lde.q938a
 
 ##### 🟨 Amor
 conceito de – lde.q888a
-espíritos e sentimento de – lde.q291, 485
+espíritos e sentimento de – lde.q291, lde.q485
 felicidade e – lde.q938a
 filial e paterno – lde.q681
 homem de bem e o – lde.q918
@@ -204,12 +205,13 @@ vida dos – lde.q773
 
 ##### 🟨 Anjo
 alegoria representativa de – lde.q131
-demônio e – lde.q128-131
+demônio e – lde.q128 a lde.q131
 perfeição e – lde.q129
 
-##### 🟨 Anjo da guarda – lde.q489-514
+##### 🟨 Anjo da guarda
+anjo da guarda – lde.q489 a lde.q514
 assistência do – lde.q495
-conceito de – lde.q490, 514
+conceito de – lde.q490, lde.q514
 doutrina de – lde.q495
 identidade civil de – lde.q504
 proteção de – lde.q489
@@ -249,8 +251,8 @@ seres vivos e – lde.q703
 idoso e – lde.q685a
 
 ##### 🟨 Aptidão
-aquisições de – lde.q366, 804
-desigualdade de – lde.q222, 804
+aquisições de – lde.q366, lde.q804
+desigualdade de – lde.q222, lde.q804
 exercício de – lde.q370a
 grau de aperfeiçoamento e – lde.q805
 influência do organismo e – lde.q372a
@@ -259,14 +261,14 @@ trabalho conforme a – lde.q680
 
 ##### 🟨 Arrependimento
 demora para o – lde.q993
-desencarnado e – lde.q990, 994
-encarnado e – lde.q990, 992
+desencarnado e – lde.q990, lde.q994
+encarnado e – lde.q990, lde.q992
 evolução e – lde.q992
 expiação e – lde.q999
 lei do progresso e – lde.q1007
 necessidade do – lde.q999a
 reabilitação e – lde.q1002
-reencarnação e – lde.q194a, 991
+reencarnação e – lde.q194a, lde.q991
 tardio – lde.q1007
 última hora para o – lde.q1002
 
@@ -276,7 +278,7 @@ assistência espiritual e – lde.q521
 ##### 🟨 Assassinato
 culpa e – lde.q747
 guerra e – lde.q749
-legítima defesa e – lde.q748, 757
+legítima defesa e – lde.q748, lde.q757
 responsabilidade decorrente do – lde.q746
 suicídio e – lde.q758a
 
@@ -285,8 +287,8 @@ espíritos encarnados em – lde.q417
 
 ##### 🟨 Assistência espiritual
 
-##### 🟨 Allan Kardec e
-Allan Kardec e - Prolegômenos
+##### 🟨 Allan Kardec
+Allan Kardec e – lde.0.4
 artes, artistas e – lde.q521
 de superior a inferior – lde.q495
 família e – lde.q517
@@ -306,7 +308,7 @@ minerais e – lde.q888a
 
 ##### 🟨 Autenticidade
 autoconhecimento e – lde.q919
-fenômeno espírita e – Introdução 9
+fenômeno espírita e – lde.0.3.09
 
 ##### 🟨 Automatismo
 conveniência e – lde.q590
@@ -327,7 +329,8 @@ ações e atitudes do cotidiano em constante – lde.q919a
 ##### 🟨 Avareza
 demonstrações da – lde.q901
 
-Avoengos ver 🟨 **Antepassados**
+##### 🟨 Avoengos
+ver Antepassados
 
 ---
 
@@ -343,7 +346,7 @@ associação na obra do – lde.q314
 constância na prática do – lde.q466
 desinteresse na prática do – lde.q897
 eternidade do – lde.q1009
-mal e – lde.q511, 630, 780a, 932
+mal e – lde.q511, lde.q630, lde.q780a, lde.q932
 mal e possibilidade de nascimento do – lde.q785
 mal, erro e – lde.q632
 más tendências e práticas
@@ -386,7 +389,7 @@ justiça, amor e caridade na aquisição de – lde.q884
 ##### 🟨 Bens terrenos
 distribuição após a morte de – lde.q1000
 distribuição em vida dos – lde.q1001
-gozo dos – lde.q711, 712a
+gozo dos – lde.q711, lde.q712a
 mal adquiridos – lde.q1000
 
 ##### 🟨 Bíblia
@@ -401,7 +404,7 @@ linguagem figurada e a – lde.q59
 espíritos e – lde.q738a
 
 ##### 🟨 Caligrafia
-mudança de – Introdução 5 e XII
+mudança de – lde.0.3.05 e XII
 
 ##### 🟨 Calma
 aparente – lde.q988
@@ -416,7 +419,8 @@ formação de – lde.q917
 homem de bem e – lde.q918
 moral e reencarnação – lde.q216
 
-##### 🟨 Caridade – lde.q917
+##### 🟨 Caridade
+caridade – lde.q917
 auxílios mútuos e – lde.q779
 desinteressada – lde.q893
 discriminação racial e – lde.q789
@@ -425,9 +429,9 @@ exposição ao ridículo de religião
 alheia e falta de – lde.q655
 indulgência e – lde.q888a
 Jesus e – lde.q886
-prática da – lde.q771, 789
+prática da – lde.q771, lde.q789
 procedimento com – lde.q897b
-próximo e – lde.q770a , 903
+próximo e – lde.q770a , lde.q903
 solidariedade e – lde.q805
 
 ##### 🟨 Carne
@@ -443,7 +447,7 @@ sociedade e – lde.q696
 vivência do – lde.q939
 
 ##### 🟨 Castigo
-duração do – lde.q1008, 1009
+duração do – lde.q1008, lde.q1009
 eterno – lde.q1009
 imposição do – lde.q1008
 local destinado ao * dos espíritos – lde.q1012
@@ -470,7 +474,7 @@ retorno ao mundo dos espíritos e – lde.q919a
 fluido vital e – lde.q140a
 
 ##### 🟨 Cepa
-emblema do trabalho divino – Prolegômenos
+emblema do trabalho divino – lde.0.4
 
 ##### 🟨 Cérebro
 desencarnado e – lde.q378
@@ -484,10 +488,10 @@ orgulho e – lde.q962
 ##### 🟨 Céu
 espíritos no – lde.q1016
 graus de purificação e – lde.q1017
-localização do – lde.q1016, 1017
+localização do – lde.q1016, lde.q1017
 
 ##### 🟨 Charlatanismo
-acusação de – Introdução 9
+acusação de – lde.0.3.09
 boa-fé e – lde.q553
 magnetismo e – lde.q481
 sonambulismo magnético e – lde.q455
@@ -500,19 +504,20 @@ caridade material e – lde.q707
 esforço para chegar à perfeição e – lde.q692
 
 ##### 🟨 Ciência
-Espiritismo e – Introdução 7
-falibilidade e – Introdução 7
-fenômenos sobrenaturais e – Conclusão 2
+Espiritismo e – lde.0.3.07
+falibilidade e – lde.0.3.07
+fenômenos sobrenaturais e – lde.5.2
 flagelos destruidores e – lde.q741
 mistério e – lde.q19
 moral e – lde.q192
-movimento das mesas girantes e – Introdução 3
+movimento das mesas girantes e – lde.0.3.03
 obra divina e – lde.q59
 religião e – lde.q59
-sábio e – Introdução 13
+sábio e – lde.0.3.13
 
-##### 🟨 Ciência espírita – Introdução 17
-consolidação da – Conclusão 6
+##### 🟨 Ciência espírita
+Ciência espírita – lde.0.3.17
+consolidação da – lde.5.6
 
 ##### 🟨 Ciúme
 inveja e – lde.q933
@@ -536,7 +541,7 @@ desprendimento e – lde.q433
 espíritos imperfeitos e – lde.q430
 
 ##### 🟨 Classificação
-espíritos e – lde.q97, 100, 124
+espíritos e – lde.q97, lde.q100, lde.q124
 mundo espiritual e – lde.q100
 
 ##### 🟨 Clausura
@@ -575,18 +580,19 @@ natureza íntima de Deus e – lde.q11
 ##### 🟨 Comunhão
 pensamentos e sentimentos em – lde.q656
 
-##### 🟨 Comunicabilidade dos espíritos – lde.q282
+##### 🟨 Comunicabilidade dos espíritos
+comunicabilidade dos espíritos – lde.q282
 consolo pela – lde.q935
 desprendimento e – lde.q455
 entes queridos falecidos e – lde.q935
-facilitação da – Introdução 4
+facilitação da – lde.0.3.04
 impedimento da – lde.q422
-meios primitivos da – Introdução 4
-Moisés e – Conclusão 2
-mundo corpóreo e – Prolegômenos
+meios primitivos da – lde.0.3.04
+Moisés e – lde.5.2
+mundo corpóreo e – lde.0.4
 pensamento e – lde.q421
-resultado da – Conclusão 8
-tiptologia e – Introdução 16
+resultado da – lde.5.8
+tiptologia e – lde.0.3.16
 vida futura e – lde.q973
 
 ##### 🟨 Comunicação
@@ -615,17 +621,18 @@ esforço próprio e – lde.q532
 espíritos e – lde.q239
 improfícuo – lde.q462
 inteligência superior, prática do mal e – lde.q751
-princípio das coisas e – lde.q17-20
+princípio das coisas e – lde.q17 a lde.q20
 reencarnação e – lde.q192
 responsabilidade e – lde.q535b
 sentimento e – lde.q751
 vidas anteriores e – lde.q395
 
-##### 🟨 Consciência – lde.q952
+##### 🟨 Consciência
+consciência – lde.q952
 censura da – lde.q992
 conceito de – lde.q835
 escolha do caminho reto e – lde.q466
-interrogações à – lde.q906, 919a
+interrogações à – lde.q906, lde.q919a
 lei divina e – lde.q621
 tribunal da – lde.q875a
 
@@ -643,10 +650,10 @@ consciência da pessoa e – lde.q924
 esperança e – lde.q924
 
 ##### 🟨 Contradição
-ideia fundamental e – Introdução 13
+ideia fundamental e – lde.0.3.13
 
 ##### 🟨 Convenção
-coisa importante e – Introdução 13
+coisa importante e – lde.0.3.13
 
 ##### 🟨 Convivência
 reconhecimento de espíritos pela primeira vez encarnados na Terra e – lde.q176b
@@ -668,7 +675,7 @@ separação da alma do – lde.q154
 vida do – lde.q738a
 
 ##### 🟨 Corpo físico
-abandono provisório do – lde.q402, 425
+abandono provisório do – lde.q402, lde.q425
 ação do fluido vital no – lde.q140a
 alimentação e – lde.q723
 coração e – lde.q156
@@ -676,7 +683,7 @@ decomposição do – lde.q309a
 despojos mortais e – lde.q310
 direito à vida e – lde.q880
 dor e – lde.q257
-Espírito e – lde.q196a, 309
+Espírito e – lde.q196a, lde.q309
 escolha pelo Espírito de seu futuro – lde.q335
 funcionamento do – lde.q422a
 limite das necessidades e – lde.q716
@@ -706,12 +713,12 @@ concordâncias bíblicas e – lde.q59
 das almas – lde.q789
 divina – lde.q805
 escolha da espécie humana como ser à parte da – lde.q610
-espíritos e – lde.q79, 115
+espíritos e – lde.q79, lde.q115
 espíritos e igualdade na – lde.q127
 sistema de passagem do Espírito por graus dos seres inferiores da – lde.q613
 
 ##### 🟨 Criança
-desencarnação de – lde.q197-199, 381
+desencarnação de – lde.q197 a lde.q199, lde.q381
 inocência e – lde.q385
 manifestações da alma e – lde.q142
 nascimento de – lde.q356b
@@ -745,7 +752,8 @@ Espiritismo, paganismo e – lde.q798
 justiça e sublimidade do – lde.q876
 missão do – lde.q668
 
-##### 🟨 Cristo ver Jesus
+##### 🟨 Cristo
+ver Jesus
 
 ##### 🟨 Crítica
 imperfeições alheias e – lde.q903
@@ -778,7 +786,8 @@ possibilidade de * da desordem e da imprevidência – lde.q685a
 
 #### 🗂️ /lde.6.2.04/ D
 
-##### 🟨 Decálogo – Conclusão 8
+##### 🟨 Decálogo
+Decálogo – lde.5.8
 sistema de classificação da lei natural e o – lde.q648
 
 ##### 🟨 Decapitação
@@ -793,9 +802,9 @@ livre-arbítrio e – lde.q544
 
 ##### 🟨 Demônio
 anjo e – lde.q128
-comunicação espírita e – Introdução 10
+comunicação espírita e – lde.0.3.10
 expulsão do – lde.q480
-maus espíritos e – Conclusão 6
+maus espíritos e – lde.5.6
 
 ##### 🟨 Desânimo
 vida e – lde.q943
@@ -815,7 +824,7 @@ afinidade do Espírito com a matéria e – lde.q155a
 aparente – lde.q423
 criança e – lde.q381
 despojos mortais e – lde.q326
-espíritos e – lde.q149, 435
+espíritos e – lde.q149, lde.q435
 fatalidade e – lde.q859
 fome e – lde.q929
 infância e – lde.q197
@@ -835,14 +844,15 @@ oração no lar para – lde.q323
 percepções de – lde.q547a
 valor da recordação amiga para o – lde.q320
 
-##### 🟨 Desencarnado ver também Morto
+##### 🟨 Desencarnado
+ver também Morto
 
 ##### 🟨 Desenvolvimento
 das faculdades existentes no homem – lde.q754
 do senso moral – lde.q754
 
 ##### 🟨 Desequilíbrio
-emocional – Introdução 15
+emocional – lde.0.3.15
 
 ##### 🟨 Desespero
 momento derradeiro e – lde.q708
@@ -854,7 +864,7 @@ desaparecimento das – lde.q806a
 homem e – lde.q806
 
 ##### 🟨 Desmaterialização
-Espírito e – Introdução 12
+Espírito e – lde.0.3.12
 influência da matéria e – lde.q318
 ocupações dos espíritos no estado de erraticidade ou de – lde.q584a
 
@@ -871,7 +881,7 @@ desatamento dos laços do perispírito e – lde.q155a
 desobediência a conselhos e conhecidas verdades e – lde.q942
 
 ##### 🟨 Destino
-homem e – lde.q774, 778
+homem e – lde.q774, lde.q778
 
 ##### 🟨 Destruição
 abusiva – lde.q735
@@ -885,16 +895,17 @@ dos animais – lde.q734
 escrúpulo e – lde.q736
 estado material dos mundos e – lde.q732
 faceta peculiar da lei de – lde.q731
-instinto de – lde.q728a, 752
+instinto de – lde.q728a, lde.q752
 lei da natureza – lde.q728
-necessária – lde.q728a, 732
+necessária – lde.q728a, lde.q732
 outros mundos e – lde.q732
 preservação e – lde.q729
 regeneração e – lde.q729
 sentimento de repulsa à – lde.q733
 seres vivos e – lde.q728
 
-##### 🟨 Destruição ver também Lei de destruição
+##### 🟨 Destruição
+ver Lei de destruição
 
 ##### 🟨 Deturpação
 sentimento de justiça e – lde.q874
@@ -902,12 +913,12 @@ sentimento de justiça e – lde.q874
 ##### 🟨 Deus
 amor de – lde.q126
 atos humanos e – lde.q964
-atributos de – lde.q13, 16
+atributos de – lde.q13, lde.q16
 auxílio de – lde.q964
 bondade e – lde.q1009
 cada pessoa e – lde.q963
-cepa como emblema do trabalho de – Prolegômenos
-conceito de – lde.q1, 668
+cepa como emblema do trabalho de – lde.0.4
+conceito de – lde.q1, lde.q668
 criação de espíritos e – lde.q115
 criação de espíritos e atributos de – lde.q131
 Espírito e – lde.q77
@@ -915,20 +926,20 @@ ideias humanas de – lde.q13
 igualdade de direitos perante – lde.q878a
 infinito e – lde.q3
 intervenção de – lde.q963
-julgamento de – lde.q670, 672
+julgamento de – lde.q670, lde.q672
 justiça divina e – lde.q964
-lacuna entre o homem e – Introdução 17
+lacuna entre o homem e – lde.0.3.17
 leis de – lde.q964
 mensageiros de – lde.q562a
 missão dos espíritos e – lde.q569
-natureza íntima de – lde.q10, 11
+natureza íntima de – lde.q10, lde.q11
 onisciência de – lde.q616
 oração sincera e – lde.q672
 penas eternas e – lde.q1009
 percepção, pelos espíritos, de – lde.q244
 posição dos homens perante – lde.q654
 presciência de – lde.q579
-provas da existência de – lde.q4-9
+provas da existência de – lde.q4 a lde.q9
 sentimento da existência de – lde.q221
 trabalho de – lde.q21
 universalidade de sentimento da existência de – lde.q6
@@ -961,7 +972,7 @@ mais forte e – lde.q795
 ##### 🟨 Direitos humanos
 do homem e da mulher – lde.q817
 indivíduo, limite e – lde.q878
-justiça e – lde.q873, 878a
+justiça e – lde.q873, lde.q878a
 lei humana, lei natural e formulação dos – lde.q875a
 primeiro de todos os – lde.q880
 
@@ -975,13 +986,13 @@ concórdia e – lde.q298
 mulher e – lde.q818
 
 ##### 🟨 Divergências
-Espiritismo e – Conclusão 9
+Espiritismo e – lde.5.9
 
 ##### 🟨 Diversidade
 procedimento da lei natural na – lde.q635
 
 ##### 🟨 Divindade
-atributos da – lde.q10-13
+atributos da – lde.q10 a lde.q13
 
 ##### 🟨 Divórcio
 indissolubilidade do casamento e – lde.q697
@@ -996,7 +1007,8 @@ alegria da – lde.q1001
 após a morte – lde.q1001
 generosidade e – lde.q1001
 
-##### 🟨 Doença ver 🟨 Enfermidade
+##### 🟨 Doença
+ver Enfermidade
 
 ##### 🟨 Doença mental
 cérebro e – lde.q375
@@ -1044,7 +1056,7 @@ instituições humanas e – lde.q914
 regeneração do homem e – lde.q796
 
 ##### 🟨 Efeitos inteligentes
-causa de – Prolegômenos, Introdução 5
+causa de – lde.0.4, lde.0.3.05
 
 ##### 🟨 Egoísmo
 adesão ao – lde.q917
@@ -1090,7 +1102,7 @@ visita espiritual e – lde.q413
 
 ##### 🟨 Encarnação
 caráter e – lde.q362
-diferentes mundos e – lde.q172-188
+diferentes mundos e – lde.q172 a lde.q188
 esforço e – lde.q133
 
 ##### 🟨 Espírito bom 
@@ -1104,7 +1116,7 @@ inútil – lde.q988
 libertação da matéria durante a – lde.q987
 mesmo Espírito em dois corpos e – lde.q137
 necessidade da – lde.q132
-objetivo da – lde.q132-133
+objetivo da – lde.q132, lde.q133
 período de infância e – lde.q383
 perturbação e – lde.q380
 pessoas exóticas do planeta e – lde.q176a
@@ -1116,6 +1128,7 @@ Terra e – lde.q176
 
 ##### 🟨 Encarnado
 escolha de provas e – lde.q267
+
 ##### 🟨 Espírito errante e – lde.q226
 influenciação espiritual e morte de – lde.q528
 inspiração e – lde.q463
@@ -1135,7 +1148,7 @@ missão e – lde.q581
 ##### 🟨 Ensino
 divulgação de – lde.q581
 dos espíritos e leis divinas – lde.q627
-espíritos superiores e transmissão do – Introdução 6
+espíritos superiores e transmissão do – lde.0.3.06
 oportunidade favorável ao – lde.q801
 
 ##### 🟨 Entendimento
@@ -1170,12 +1183,12 @@ prazo no estado de – lde.q224a
 reencarnação e – lde.q225
 
 ##### 🟨 Erro
-acerto e – lde.q623, 715
+acerto e – lde.q623, lde.q715
 bem, mal e – lde.q632
 castigo pelo – lde.q1009
 constrangimento e – lde.q977a
 demonstração do – lde.q222
-infalibilidade e – Introdução 7
+infalibilidade e – lde.0.3.07
 lembrança do – lde.q978
 resgate do – lde.q978
 revelação do – lde.q977a
@@ -1184,7 +1197,7 @@ suicídio pelo – lde.q948
 ##### 🟨 Escala
 ascensão nos graus da – lde.q561
 elevação na – lde.q100
-espírita – lde.q96, 100, 538a
+espírita – lde.q96, lde.q100, lde.q538a
 espírita e idade do corpo físico – lde.q198
 grau de conhecimento dos espíritos e – lde.q143
 
@@ -1196,7 +1209,7 @@ teoria inexplicável e – lde.q222
 utilidade do período da infância e – lde.q385
 
 ##### 🟨 Escolha
-das provas – lde.q258, 266, 335
+das provas – lde.q258, lde.q266, lde.q335
 juízo e * das provas – lde.q269
 moradia do Espírito e – lde.q184
 
@@ -1209,8 +1222,8 @@ liberdade e – lde.q832
 responsabilidade do mal e – lde.q830
 
 ##### 🟨 Escrita
-manifestação inteligente e obtenção de – Introdução 9
-substituição de cesta e prancheta pela * a mão – Introdução 5
+manifestação inteligente e obtenção de – lde.0.3.09
+substituição de cesta e prancheta pela * a mão – lde.0.3.05
 
 ##### 🟨 Escritor
 chagas da sociedade e – lde.q904a
@@ -1225,67 +1238,68 @@ beneficência e – lde.q888a
 consequências do pedido de – lde.q888
 
 ##### 🟨 Espaço
-universal – lde.q35-36
+universal – lde.q35, lde.q36
 
 ##### 🟨 Espiritismo
-adepto do – Introdução 1
-adversários do – Conclusão 7
+adepto do – lde.0.3.01
+adversários do – lde.5.7
 ancianidade do – lde.q221a
-apelo aos adversários do – Conclusão 1
-aspectos do – Conclusão 7
-bases do – Conclusão 5
-ciência e – Introdução 7
-ciência, filosofia e – Conclusão 1
+apelo aos adversários do – lde.5.1
+aspectos do – lde.5.7
+bases do – lde.5.5
+ciência e – lde.0.3.07
+ciência, filosofia e – lde.5.1
 conhecimento do fenômeno
 da morte e – lde.q165
-consequências do – Conclusão 7
-consolação pelo – lde.q936, Conclusão 5
+consequências do – lde.5.7
+consolação pelo – lde.q936, lde.5.5
 crença geral e o – lde.q798
 crença no – lde.q982
-curiosidade, entendimento e aplicação do – Conclusão 5
-difusão do – Conclusão 5
-divergências no – Conclusão 9
+curiosidade, entendimento e aplicação do – lde.5.5
+difusão do – lde.5.5
+divergências no – lde.5.9
 duração do castigo segundo o – lde.q1009
 eliminação da solidão pelo – lde.q936
-ensinamentos do – lde.q800, 917, 982
-espiritualismo e – Introdução 1
-estudo do – Introdução 8, Introdução 13
-existência dos espíritos e – Introdução 17
-fé, resignação e – Conclusão 3
-felicidade e – Conclusão 5
-fenômeno, moral e prática do – Conclusão 7
-filosofia e – Conclusão 5
-imortalidade e – Conclusão 3
+ensinamentos do – lde.q800, lde.q917, lde.q982
+espiritualismo e – lde.0.3.01
+estudo do – lde.0.3.08, lde.0.3.13
+existência dos espíritos e – lde.0.3.17
+fé, resignação e – lde.5.3
+felicidade e – lde.5.5
+fenômeno, moral e prática do – lde.5.7
+filosofia e – lde.5.5
+imortalidade e – lde.5.3
 individualidade da alma e – lde.q152
 influência do * no progresso – lde.q798
-loucura e – Introdução 15
+loucura e – lde.0.3.15
 magnetismo e – lde.q555
-manifestações materiais e – Conclusão 6
+manifestações materiais e – lde.5.6
 marcha através do tempo e – lde.q798
-materialismo e – lde.q799, Conclusão 2
-mesas girantes e – Conclusão 1
-milagres e – Conclusão 2
+materialismo e – lde.q799, lde.5.2
+mesas girantes e – lde.5.1
+milagres e – lde.5.2
 missão do – lde.q148
 necessidade do – lde.q982
-O livro dos espíritos e – Prolegômenos
-oposição ao – Conclusão 5, 6
-origem da palavra – lde.qintrod. I
+O livro dos espíritos e – lde.0.4
+oposição ao – lde.5.5, lde.5.6
+origem da palavra – lde.0.3.01
 povos antigos e o – lde.q221a
-princípios básicos do – Introdução 6
+princípios básicos do – lde.0.3.06
 ressurreição, reencarnação e – lde.q1010
-resumo do – Introdução 6
-Santo Agostinho e o – Conclusão 9
+resumo do – lde.0.3.06
+Santo Agostinho e o – lde.5.9
 sonambulismo e – lde.q455
 teoria da pluralidade das existências e o – lde.q789
-unidade do – Conclusão 9
-universalidade do – Conclusão 6
+unidade do – lde.5.9
+universalidade do – lde.5.6
 
 ##### 🟨 Espírito
 ponto de partida do – lde.q613
 
-##### 🟨 Espírito bom – lde.q107-111
+##### 🟨 Espírito bom
+Espírito bom – lde.q107 a lde.q111
 características do – lde.q107
-conselhos de – Conclusão 9
+conselhos de – lde.5.9
 encarnação de – lde.q361a
 homens de bem e – lde.q484
 locomoção de – lde.q279
@@ -1297,7 +1311,7 @@ reencarnação de – lde.q273
 sofrimentos e benevolência de – lde.q486
 
 ##### 🟨 Espírito de Verdade (O)
-equipe de – Prolegômenos
+equipe de – lde.0.4
 
 ##### 🟨 Espírito desencarnado
 sonâmbulo e – lde.q434
@@ -1312,14 +1326,15 @@ revolta e orgulho do – lde.q997
 
 ##### 🟨 Espírito errante
 aprendizado de – lde.q227
-conceito de – lde.q224, 226, 600
+conceito de – lde.q224, lde.q226, lde.q600
 missão de – lde.q569
 reencarnação e – lde.q333
 
 ##### 🟨 Espírito familiar
 conceito de – lde.q514
 
-##### 🟨 Espírito imperfeito – lde.q101-106
+##### 🟨 Espírito imperfeito
+Espírito imperfeito – lde.q101 a lde.q106
 ação com permissão divina – lde.q466
 conceito de – lde.q514
 mal e – lde.q99
@@ -1352,7 +1367,7 @@ ausência de arrependimento do – lde.q993
 companhias malfazejas e – lde.q515
 encarnação de – lde.q361a
 influência sobre os mortos de
-um – lde.q971a, 972
+um – lde.q971a, lde.q972
 influenciação de – lde.q474
 sofrimentos do – lde.q973
 
@@ -1369,7 +1384,8 @@ relacionamento com – lde.q495
 ser humano e – lde.q509
 trabalho do – lde.q497
 
-##### 🟨 Espírito puro – lde.q112-113
+##### 🟨 Espírito puro
+Espírito puro – lde.q112, lde.q113
 ações e alegrias do – lde.q969
 afeições individuais de – lde.q296
 anjos, arcanjos, serafins e – lde.q128
@@ -1388,7 +1404,7 @@ orações pelo – lde.q664
 passagem do tempo para o – lde.q1005
 
 ##### 🟨 Espírito superior
-reuniões sérias e – Introdução 8
+reuniões sérias e – lde.0.3.08
 
 ##### 🟨 Espírito(s)
 ação do – lde.q403
@@ -1396,63 +1412,64 @@ ação nos fenômenos da natureza e os – lde.q540
 amor dos * a certas pessoas – lde.q485
 aptidões do – lde.q370
 calamidades e – lde.q738a
-classificação dos – lde.q97, 100
+classificação dos – lde.q97, lde.q100
 comunicação com os – lde.q935
 conceitos de pátria e Universo para os – lde.q317
-corpo físico e – lde.q196a, 309
-criação do – lde.q78, 115
+corpo físico e – lde.q196a, lde.q309
+criação do – lde.q78, lde.q115
 decomposição do corpo físico e – lde.q309a
-definição de – lde.q23, 76, 613
-desigualdade de conhecimento e qualidades morais entre os – Introdução 10
+definição de – lde.q23, lde.q76, lde.q613
+desigualdade de conhecimento e qualidades morais entre os – lde.0.3.10
 desigualdade nas provas e – lde.q119
 deslocamento do – lde.q90
-desmaterialização e – Introdução 12
+desmaterialização e – lde.0.3.12
 desorganização do cérebro e o – lde.q375
 Deus e – lde.q77
 dia de finados e presença de – lde.q321
-diferentes ordens de – lde.q96-99
+diferentes ordens de – lde.q96 a lde.q99
 encarnação de – lde.q271
 encarnações diferentes de um mesmo – lde.q218a
 ensino dos – lde.q222
 entorpecimento do corpo e – lde.q409
 escala dos – lde.q96
 
-##### 🟨 Espiritismo e existência do – Introdução 17
+##### 🟨 Espiritismo
+Espiritismo e existência do – lde.0.3.17
 estacionamento e retrogradação do – lde.q118
-evolução do – lde.q114, 364, 778
-evolução dos – lde.q114-127
-existência dos – Introdução 5
-famílias e grupos de – Introdução 12
+evolução do – lde.q114, lde.q364, lde.q778
+evolução dos – lde.q114 a lde.q127
+existência dos – lde.0.3.05
+famílias e grupos de – lde.0.3.12
 fases da vida do – lde.q191a
 fenômeno da natureza e os – lde.q527
 feto e – lde.q353
-forma e ubiquidade dos – lde.q88-92
-humanização do – lde.q607a, 607b
+forma e ubiquidade dos – lde.q88 a lde.q92
+humanização do – lde.q607a, lde.q607b
 ignorância de vidas anteriores ao período de humanidade pelo – lde.q608
 imortalidade do – lde.q83
-indivisibilidade do – lde.q92, 137, 299
+indivisibilidade do – lde.q92, lde.q137, lde.q299
 infância do – lde.q189
 influências dos – lde.q971
 inteligência e – lde.q24
 intervenção dos – lde.q456
 leis da natureza e – lde.q526
 leis da natureza e atuação dos – lde.q527
-linguagem dos – Introdução 13
+linguagem dos – lde.0.3.13
 locomoção do – lde.q89a
-matéria e – lde.q25, 27, 368a, 375a, 412, 605a
+matéria e – lde.q25, lde.q27, lde.q368a, lde.q375a, lde.q412, lde.q605a
 medição do tempo e – lde.q240
-migração de – lde.q985, 1019
-missão dos – Prolegômenos, 348, 470
-mistificação dos – Introdução 12
+migração de – lde.q985, lde.q1019
+missão dos – lde.0.4, lde.q348, lde.q470
+mistificação dos – lde.0.3.12
 moradia do – lde.q76
-movimentação de objetos e revelação por – Introdução 4
+movimentação de objetos e revelação por – lde.0.3.04
 natimorto e – lde.q356
-natureza do – lde.q82, 88
+natureza do – lde.q82, lde.q88
 ociosos – lde.q995
 órgãos sensitivos e – lde.q257
 origem do – lde.q81
-origem e natureza dos – lde.q76-83
-percepções do – lde.q246, 249a
+origem e natureza dos – lde.q76 a lde.q83
+percepções do – lde.q246, lde.q249a
 percepções, sensações e sofrimentos dos – lde.q237
 perispírito e – lde.q186
 povos primitivos e influência da matéria sobre o – lde.q753
@@ -1466,12 +1483,12 @@ reencarnações do – lde.q266
 reencarnante e partida para o mundo corporal – lde.q342
 regeneração moral dos – lde.q737
 repouso e – lde.q254
-retrogradação do – lde.q193, 194, 194a, 778, 805
+retrogradação do – lde.q193, lde.q194, lde.q194a, lde.q778, lde.q805
 sensação nos – lde.q257
 sensações no homem e no – lde.q257
 sexo nos – lde.q200
 simpatia e – lde.q387
-sofrimentos do – lde.q253, 255, 257, 983
+sofrimentos do – lde.q253, lde.q255, lde.q257, lde.q983
 transmissão de impressões do
 corpo físico ao – lde.q257
 transporte do – lde.q90
@@ -1480,7 +1497,7 @@ veneração por objetos pessoais de
 desencarnado e atração do – lde.q311
 vida do – lde.q189
 vida terrena e – lde.q306b
-visão do – lde.q245, 248, 429
+visão do – lde.q245, lde.q248, lde.q429
 vontade do – lde.q345
 
 ##### 🟨 Espíritos batedores e perturbadores
@@ -1520,7 +1537,7 @@ personificação alegórica de – lde.q521
 características dos – lde.q104
 
 ##### 🟨 Espíritos puros
-características dos – lde.q112, 113
+características dos – lde.q112, lde.q113
 união de – lde.q300
 
 ##### 🟨 Espíritos sábios
@@ -1535,11 +1552,11 @@ encarnação de – lde.q402
 local de reunião dos – lde.q188
 
 ##### 🟨 Espiritualismo
-adepto do – Introdução 1
-conceito de alma e – Introdução 2
+adepto do – lde.0.3.01
+conceito de alma e – lde.0.3.02
 
 ##### 🟨 Espiritismo
-e – Introdução 1
+e – lde.0.3.01
 
 ##### 🟨 Esquecimento
 maus instintos e – lde.q620
@@ -1556,11 +1573,11 @@ progresso e – lde.q776
 mundos transitórios e – lde.q236b
 
 ##### 🟨 Estudo
-Espiritismo e seriedade no – Introdução 8
+Espiritismo e seriedade no – lde.0.3.08
 procedência da sugestão e – lde.q464
 
 ##### 🟨 Estudo Sistematizado da Doutrina Espírita
-aprendizado pelo – Introdução 8
+aprendizado pelo – lde.0.3.08
 
 ##### 🟨 Eternidade
 conceito de – lde.q125
@@ -1577,7 +1594,7 @@ suicídio e – lde.q953
 ##### 🟨 Evangelho
 
 ##### 🟨 Espiritismo e
-Evangelho – Conclusão 8
+Evangelho – lde.5.8
 expulsão dos demônios e – lde.q480
 
 ##### 🟨 Evocação
@@ -1593,7 +1610,8 @@ encarnação em mundos superiores e – lde.q173
 erraticidade e – lde.q230
 escala e gradação na – lde.q100
 
-##### 🟨 Espírito e – lde.q114
+##### 🟨 Espírito e
+Espírito e – lde.q114
 espíritos vulgares e – lde.q566a
 estacionada – lde.q987
 experiências e – lde.q607
@@ -1606,7 +1624,7 @@ moradia do Espírito e grau de – lde.q188
 moral e da inteligência – lde.q791
 paixão e – lde.q191a
 planetas distantes do Sol e grau de – lde.q188
-progressão do Espírito e – lde.q100, 114
+progressão do Espírito e – lde.q100, lde.q114
 reencarnação e – lde.q612
 vidas sucessivas e – lde.q787b
 
@@ -1633,7 +1651,7 @@ ineficácia do – lde.q477
 missão e – lde.q580
 
 ##### 🟨 Experimentação
-reprodução idêntica de fenômeno na – Introdução 3
+reprodução idêntica de fenômeno na – lde.0.3.03
 
 ##### 🟨 Expiação
 animais e – lde.q602
@@ -1645,7 +1663,7 @@ encarnado e – lde.q998
 genialidade e – lde.q373a
 má compreensão do amor e – lde.q765
 perfeição e – lde.q132
-reencarnação e – lde.q178a, 262a, 273
+reencarnação e – lde.q178a, lde.q262a, lde.q273
 sofrimento material e moral e – lde.q998
 vida espiritual e – lde.q998
 vontade divina e – lde.q262a
@@ -1661,19 +1679,19 @@ sonambulismo e – lde.q439
 #### 🗂️ /lde.6.2.06/ F
 
 ##### 🟨 Falibilidade
-ciência e – Introdução 7
+ciência e – lde.0.3.07
 humana e Espírito superior – lde.q578
 
 ##### 🟨 Falsidade
 conhecimento da verdade e uso da – lde.q654
 
 ##### 🟨 Falta
-cometimento de – lde.q398, 398a, 852, 872, 919a
+cometimento de – lde.q398, lde.q398a, lde.q852, lde.q872, lde.q919a
 expiação e – lde.q957
 suicídio e – lde.q948
 
 ##### 🟨 Família
-espíritos e – Introdução 12
+espíritos e – lde.0.3.12
 espíritos protetores e – lde.q517
 humana – lde.q53a
 humana e miscigenação – lde.q690
@@ -1693,14 +1711,14 @@ luta contra a – lde.q476
 consequências das próprias faltas e – lde.q852
 desencarnação e – lde.q859
 destino e – lde.q851
-escolha do gênero de vida e – lde.q862, 872
+escolha do gênero de vida e – lde.q862, lde.q872
 existência de – lde.q859
 limite da duração da vida corporal e – lde.q853
-livre-arbítrio e – lde.q866, 872
-morte e – lde.q853a, 872
+livre-arbítrio e – lde.q866, lde.q872
+morte e – lde.q853a, lde.q872
 
 ##### 🟨 Fato
-novo e ciência conhecida – Introdução 7
+novo e ciência conhecida – lde.0.3.07
 
 ##### 🟨 Fé
 falta de – lde.q943
@@ -1722,7 +1740,7 @@ bons espíritos e – lde.q967
 comum aos homens – lde.q922
 egoísmo e – lde.q917
 espíritos errantes e – lde.q231
-espíritos puros e – lde.q153a, 967
+espíritos puros e – lde.q153a, lde.q967
 estado de natureza e – lde.q777
 infelicidade e – lde.q921
 local onde existe a – lde.q1012
@@ -1735,32 +1753,31 @@ profissão e – lde.q928
 relativa ao estado moral – lde.q967
 responsabilidade pela própria – lde.q921
 sofrimento e – lde.q931
-Terra e – lde.q920, 921, 931
+Terra e – lde.q920, lde.q921, lde.q931
 terrestre e moral – lde.q922
 vida e – lde.q942
 
 ##### 🟨 Fenômeno
-causa inteligente do – Introdução 4
-das mesas girantes – Introdução 3
+causa inteligente do – lde.0.3.04
+das mesas girantes – lde.0.3.03
 
 ##### 🟨 Fenômeno espírita
-ação inteligente – Introdução 7
-autenticidade do – Introdução 9
-ciência e – Introdução 3
-demônio e – Introdução 10
-livro dos ospíritos (O) e – lde.q919a
+ação inteligente – lde.0.3.07
+autenticidade do – lde.0.3.09
+ciência e – lde.0.3.03
+demônio e – lde.0.3.10
+Livro dos Espíritos (O) e – lde.q919a
 politeísmo e – lde.q668
-sonambulismo, influenciação
-e – Introdução 16
+sonambulismo, influenciação e – lde.0.3.16
 
 ##### 🟨 Fenômeno mediúnico
 espontâneo – lde.q408
 médium e – lde.q425
 mediunidade e – lde.q409
-revelado – Conclusão 6
+revelado – lde.5.6
 
 ##### 🟨 Fenomenologia
-conhecimento de novas leis e – Introdução 3
+conhecimento de novas leis e – lde.0.3.03
 
 ##### 🟨 Fenômenos
 ação dos espíritos nos * da natureza – lde.q536b
@@ -1780,8 +1797,8 @@ reencarnação de protetor e prosseguimento de amparo a – lde.q510
 transmissão de parecença moral de pais ao – lde.q207a
 
 ##### 🟨 Filosofia
-Espiritismo e – Conclusão 5
-racional e estabelecimento de fundamentos – Prolegômenos
+Espiritismo e – lde.5.5
+racional e estabelecimento de fundamentos – lde.0.4
 
 ##### 🟨 Finados
 comemoração do dia de – lde.q321
@@ -1790,7 +1807,7 @@ comemoração do dia de – lde.q321
 agravo de – lde.q741
 conceito de – lde.q740
 desencarnação coletiva e – lde.q738b
-destruidores – lde.q737, 739
+destruidores – lde.q737, lde.q739
 frequência dos – lde.q737
 humanidade e – lde.q737
 necessidade regenerativa e – lde.q737
@@ -1826,7 +1843,7 @@ sociedade e – lde.q930
 suicídio e – lde.q947
 
 ##### 🟨 Força
-movimento de objetos por * mecânica cega – Introdução 4
+movimento de objetos por * mecânica cega – lde.0.3.04
 
 ##### 🟨 Fortalecimento
 tentações do mal e – lde.q660
@@ -1839,8 +1856,8 @@ pretensão de igualdade de riquezas e – lde.q811a
 adoração e sentimento de – lde.q650
 
 ##### 🟨 Fraude
-explicação ignorada de fenômeno e – Introdução 3
-rejeição de – Introdução 9
+explicação ignorada de fenômeno e – lde.0.3.03
+rejeição de – lde.0.3.09
 
 ##### 🟨 Fuga
 contratempos da vida e – lde.q770
@@ -1850,8 +1867,8 @@ comemoração dos mortos e – lde.q320
 pompas e – lde.q824
 
 ##### 🟨 Futuro
-certeza do – lde.q919a, 941
-conhecimento do – lde.q243, 243a, 870, 871
+certeza do – lde.q919a, lde.q941
+conhecimento do – lde.q243, lde.q243a, lde.q870, lde.q871
 esperança no – lde.q222
 predição e – lde.q399
 revelação do – lde.q868
@@ -1907,7 +1924,7 @@ santa – lde.q671
 ##### 🟨 Harmonia
 lei humana e lei divina em – lde.q788
 leis da natureza e – lde.q604
-Universo e – lde.q8, 607a
+Universo e – lde.q8, lde.q607a
 
 ##### 🟨 Herança
 desencarnado e – lde.q328
@@ -1917,7 +1934,7 @@ física – lde.q207
 
 ##### 🟨 Hierarquia
 atribuições na – lde.q538a
-escala espiritual e – lde.q97, 114
+escala espiritual e – lde.q97, lde.q114
 espíritos e – lde.q274
 
 ##### 🟨 Hipocrisia
@@ -1931,13 +1948,13 @@ aquisições do Espírito no termo da jornada e o – lde.q266
 carnal – lde.q941
 civilizado – lde.q933
 composição do – lde.q135a
-comunicação espírita e * eminente – Introdução 11
-consequências dos atos do – lde.q714a, 964
+comunicação espírita e * eminente – lde.0.3.11
+consequências dos atos do – lde.q714a, lde.q964
 destino do – lde.q774
 direitos da mulher e do – lde.q817
 época do aparecimento do – lde.q48
 existência do – lde.q59
-faculdade inerente ao – lde.q592, 754
+faculdade inerente ao – lde.q592, lde.q754
 funções do corpo físico do – lde.q819
 geração espontânea e – lde.q49
 imprevidência do – lde.q705
@@ -1982,37 +1999,38 @@ transformação da – lde.q1019
 período de – lde.q607b
 
 ##### 🟨 Humildade
-desinteresse e – Prolegômenos
+desinteresse e – lde.0.4
 
 ---
 
 #### 🗂️ /lde.6.2.09/ I
 
 ##### 🟨 Ideia
-forma e – Introdução 11V
+forma e – lde.0.3.11V
 intuição de – lde.q415
 modificação de – lde.q800
-nova e oposição – Introdução 7
+nova e oposição – lde.0.3.07
 terrena, conforme ponto de vista do extático – lde.q443
 
 ##### 🟨 Ideia religiosa
 paganismo e gerações na substituição da – lde.q798
 
-##### 🟨 Ideias inatas – lde.q218-221
+##### 🟨 Ideias inatas
+ideias inatas – lde.q218 a lde.q221
 reencarnação e – lde.q218
 sonâmbulos e – lde.q431
 teoria das – lde.q218a
 
 ##### 🟨 Identidade
 adoção de – lde.q505
-Espírito comunicante e usurpação de – Introdução 12
-linguagem, caráter e – Introdução 12
+Espírito comunicante e usurpação de – lde.0.3.12
+linguagem, caráter e – lde.0.3.12
 revelação de – lde.q504a
 
 ##### 🟨 Identificação
-Espírito antes da desmaterialização e – Introdução 12
-indagação sobre a autoria de fatos extraordinários e – Introdução 4
-indícios de – Introdução 12
+Espírito antes da desmaterialização e – lde.0.3.12
+indagação sobre a autoria de fatos extraordinários e – lde.0.3.04
+indícios de – lde.0.3.12
 
 ##### 🟨 Idiota
 estado mental e – lde.q374
@@ -2035,14 +2053,14 @@ natural – lde.q803
 túmulo e – lde.q823
 
 ##### 🟨 Ilusão
-vítimas de – Introdução 9
+vítimas de – lde.0.3.09
 
 ##### 🟨 Imaginação
 lendas e – lde.q529
 
 ##### 🟨 Imortalidade
 alma e – lde.q222
-consolo pela – Conclusão 3
+consolo pela – lde.5.3
 Espírito e – lde.q83
 
 ##### 🟨 Impedimento
@@ -2071,13 +2089,13 @@ suicídio e – lde.q946a
 ##### 🟨 Indulgência
 caridade e – lde.q888a
 erro e – lde.q903
-Espiritismo e – Conclusão 7
+Espiritismo e – lde.5.7
 homem de bem e – lde.q918
 
 ##### 🟨 Infância
-desencarnação na – lde.q197, 381
+desencarnação na – lde.q197, lde.q381
 formação religiosa na – lde.q941
-período da – lde.q183, 379, 385
+período da – lde.q183, lde.q379, lde.q385
 período de repouso do Espírito e – lde.q382
 
 ##### 🟨 Infanticídio
@@ -2111,18 +2129,18 @@ conceito de – lde.q2
 Deus e – lde.q3
 
 ##### 🟨 Influência
-do organismo – lde.q367-370
+do organismo – lde.q367 a lde.q370
 pais e – lde.q208
 
 ##### 🟨 Influenciação
 bem-estar das pessoas sob – lde.q989
 espíritos imperfeitos e – lde.q122a
-espiritual – lde.q525, 971
-fenômeno espírita e * do meio – Introdução 16
+espiritual – lde.q525, lde.q971
+fenômeno espírita e * do meio – lde.0.3.16
 inferioridade e – lde.q465
 inspiração e – lde.q545
 inteligência e – lde.q462
-má e força de vontade – lde.q468, 469
+má e força de vontade – lde.q468, lde.q469
 mau Espírito e – lde.q473
 oculta dos Espíritos – lde.q459
 ostensiva e oculta – lde.q525a
@@ -2148,7 +2166,7 @@ perdão ao – lde.q764
 perdão e – lde.q887
 
 ##### 🟨 Inocência
-infância e – lde.q199a, 385
+infância e – lde.q199a, lde.q385
 
 ##### 🟨 Inspiração
 encarnado e – lde.q463
@@ -2157,7 +2175,7 @@ influenciação e – lde.q545
 ##### 🟨 Instinto
 animais e – lde.q593
 atos da inteligência e – lde.q74
-conservação e – lde.q702, 730
+conservação e – lde.q702, lde.q730
 inteligência e – lde.q73
 inteligência limitada e – lde.q593
 mau e esquecimento da lei divina – lde.q620
@@ -2214,7 +2232,7 @@ semelhança de caráter entre – lde.q211
 
 ##### 🟨 Irradiação
 alma e – lde.q454
-Espírito e – lde.q92a, 420
+Espírito e – lde.q92a, lde.q420
 
 ##### 🟨 Isolamento
 sociedade e – lde.q769
@@ -2226,7 +2244,7 @@ sociedade e – lde.q769
 ##### 🟨 Jesus
 caridade e – lde.q886
 entendimento da palavra de – lde.q131
-Espiritismo e – Conclusão 8
+Espiritismo e – lde.5.8
 fanatismo e divulgação da doutrina de – lde.q671
 linguagem alegórica de – lde.q131
 perfeição de – lde.q625
@@ -2241,7 +2259,7 @@ pluralidade dos mundos e – lde.q1010
 ##### 🟨 Julgamento
 escolha de provas e capacidade de – lde.q269
 participação no próprio – lde.q919a
-superficial e necessidade de observação – Introdução 10
+superficial e necessidade de observação – lde.0.3.10
 
 ##### 🟨 Júpiter
 Terra, Marte e – lde.q188
@@ -2253,7 +2271,7 @@ critério da verdadeira – lde.q876
 direitos naturais e – lde.q873
 distribuição da – lde.q765
 igualdade de direitos e – lde.q878a
-lei de – Conclusão 4
+lei de – lde.5.4
 progresso moral e – lde.q873
 regra da verdadeira – lde.q876
 revelação do caráter pela prática da – lde.q879
@@ -2299,13 +2317,14 @@ aplicação da – lde.q399
 opressão aos fracos e – lde.q807
 
 ##### 🟨 Lei de destruição
-renovação e – lde.q41, 728
+renovação e – lde.q41, lde.q728
 
-##### 🟨 Lei de destruição ver também Destruição
+##### 🟨 Lei de destruição
+ver Destruição
 
 ##### 🟨 Lei de progresso
-evolução moral e – Conclusão 4
-força da – Conclusão 4
+evolução moral e – lde.5.4
+força da – lde.5.4
 
 ##### 🟨 Lei divina
 abrangência da – lde.q618
@@ -2353,19 +2372,19 @@ lei divina e – lde.q614
 
 ##### 🟨 Lembrança
 resgate dos erros e sua – lde.q978
-vida corpórea e – lde.q304, 306, 306a
-vidas passadas – lde.q386a, 393, 397
+vida corpórea e – lde.q304, lde.q306, lde.q306a
+vidas passadas – lde.q386a, lde.q393, lde.q397
 
 ##### 🟨 Letargia
 catalepsia e – lde.q424
 morte e – lde.q423
 
 ##### 🟨 Leviandade
-ser humano e – Introdução 3
+ser humano e – lde.0.3.03
 
 ##### 🟨 Liberdade
 abuso da – lde.q735
-cerceamento da – lde.q826, 828
+cerceamento da – lde.q826, lde.q828
 escravidão e – lde.q832
 natural – lde.q825
 pensamento e – lde.q833
@@ -2385,15 +2404,15 @@ egoísmo e – lde.q936
 ##### 🟨 Linguagem
 adequação de – lde.q28
 alegorias pelo Cristo e – lde.q131
-anfibologia e – Introdução 2
+anfibologia e – lde.0.3.02
 animais e – lde.q594
 entendimento sobre a palavra alma e – lde.q139
-espíritos – Introdução 13
+espíritos – lde.0.3.13
 espíritos superiores e – lde.q1014
 humana e particular conformação
 dos órgãos vocais – lde.q596
-imperfeição da * humana – Introdução 11V
-palavra “alma” e a humana – Introdução 2
+imperfeição da * humana – lde.0.3.14
+palavra “alma” e a humana – lde.0.3.02
 palavra e – lde.q594a
 
 ##### 🟨 Livre-arbítrio
@@ -2409,14 +2428,14 @@ desencarnado e características do – lde.q872
 embriaguez e – lde.q848
 encarnado e características do – lde.q872
 estado de erraticidade e – lde.q224b
-exercício do – lde.q259, 266, 845
+exercício do – lde.q259, lde.q266, lde.q845
 faculdades morais, intelectuais e – lde.q847
 fases da vida e – lde.q844
-fatalidade e – lde.q866, 872
+fatalidade e – lde.q866, lde.q872
 futuras encarnações e – lde.q872
-gênero de provas e – lde.q258, 259
+gênero de provas e – lde.q258, lde.q259
 hipótese da ausência do – lde.q872
-homem e – lde.q634, 843
+homem e – lde.q634, lde.q843
 influência do organismo e exercício do – lde.q846
 inteligência e – lde.q780a
 lei divina e – lde.q258a
@@ -2431,31 +2450,31 @@ responsabilidade pela prática do mal e – lde.q872
 sabedoria divina e – lde.q123
 
 ##### 🟨 Livro dos espíritos (O)
-autoria de – Prolegômenos
-Espiritismo e – Prolegômenos
-filosofia espiritualista e – Introdução 1
+autoria de – lde.0.4
+Espiritismo e – lde.0.4
+filosofia espiritualista e – lde.0.3.01
 
 ##### 🟨 Locomoção
-Espírito e – lde.q89, 247
+Espírito e – lde.q89, lde.q247
 
 ##### 🟨 Lógica
 doutrina e – lde.q131
 reencarnação e – lde.q222
 
 ##### 🟨 Loucura
-causas da – Introdução 15
+causas da – lde.0.3.15
 cérebro desorganizado e – lde.q375
 desencarnação e – lde.q377
-Espiritismo e – Introdução 15
+Espiritismo e – lde.0.3.15
 manifestações da alma e – lde.q372a
-preservativo contra a – Introdução 15
+preservativo contra a – lde.0.3.15
 suicídio e – lde.q376
 
 ##### 🟨 Lucidez sonambúlica
 limitações à – lde.q455
 
 ##### 🟨 Luís (São)
-duração das penas futuras – lde.q1004, 1006-1008
+duração das penas futuras – lde.q1004, lde.q1006 a lde.q1008
 ressurreição e reencarnação – lde.q1010
 transformação da humanidade e pecado original – lde.q1019
 
@@ -2483,11 +2502,11 @@ simpatia e – lde.q388
 ##### 🟨 Mal
 antropofagia e – lde.q637
 atração para o – lde.q472
-bem e – lde.q511, 630, 780a, 932
+bem e – lde.q511, lde.q630, lde.q780a, lde.q932
 bem, erro e – lde.q632
-causa do – lde.q907, 917
+causa do – lde.q907, lde.q917
 consequências do – lde.q784
-culpa e – lde.q639, 640
+culpa e – lde.q639, lde.q640
 cumprimento da lei divina e ausência do – lde.q632
 egoísmo e – lde.q913
 eterno – lde.q1009
@@ -2497,7 +2516,7 @@ indução ao – lde.q281
 moral – lde.q634
 necessidade do – lde.q638
 pedido de riqueza e arrastamento ao – lde.q533a
-prática do – lde.q551, 640
+prática do – lde.q551, lde.q640
 resistência ao – lde.q641
 transviamento para o – lde.q583
 
@@ -2508,8 +2527,8 @@ bênção e – lde.q557
 amor ao próximo e extensão do – lde.q665
 
 ##### 🟨 Manifestação
-espírita e liberdade da – Conclusão 6
-inteligente por meio de mesas – Introdução 4
+espírita e liberdade da – lde.5.6
+inteligente por meio de mesas – lde.0.3.04
 
 ##### 🟨 Marte
 Terra, Júpiter e – lde.q188
@@ -2520,7 +2539,7 @@ criação da – lde.q21
 definições de – lde.q22a
 desligamento da – lde.q266
 destruição da – lde.q728a
-Espírito e – lde.q25, 27, 155a, 368a, 375a, 605a
+Espírito e – lde.q25, lde.q27, lde.q155a, lde.q368a, lde.q375a, lde.q605a
 estados da – lde.q22
 força, movimento e demais propriedades da – lde.q33a
 formação da – lde.q30
@@ -2529,18 +2548,19 @@ modificações e propriedades possíveis à – lde.q33
 moléculas orgânicas, ressurreição e – lde.q1010
 ponderabilidade da – lde.q29
 princípio vital e – lde.q62
-propriedades da – lde.q7, 29-34, 64a
+propriedades da – lde.q7, lde.q29 a lde.q34, lde.q64a
 seres vivos e – lde.q61
 tangibilidade da – lde.q91
 
-##### 🟨 Materialismo – lde.q147
+##### 🟨 Materialismo
+Materialismo – lde.q147
 aberração da inteligência e – lde.q148
-conceito de alma e – Introdução 2
-Espiritismo e – Conclusão 2, 799
+conceito de alma e – lde.0.3.02
+Espiritismo e – lde.5.2, lde.q799
 fenômenos do sonambulismo, do êxtase e – lde.q446
-morte do – Conclusão 8
-negação do – Conclusão 7
-oposição ao – Introdução 1
+morte do – lde.5.8
+negação do – lde.5.7
+oposição ao – lde.0.3.01
 orgulho e – lde.q147
 
 ##### 🟨 Maternidade
@@ -2552,20 +2572,20 @@ influência do – lde.q932
 prosperidade do – lde.q926
 
 ##### 🟨 Médium
-comunicabilidade dos espíritos e – Introdução 4
-grande número de – Conclusão 6
-participação de – Introdução 5
-teoria espírita e contribuição do – Introdução 16
+comunicabilidade dos espíritos e – lde.0.3.04
+grande número de – lde.5.6
+participação de – lde.0.3.05
+teoria espírita e contribuição do – lde.0.3.16
 
 ##### 🟨 Mediunidade
 afloramento sutil da – lde.q409
-gêneros de – Introdução 5
-proibição da – Conclusão 6
+gêneros de – lde.0.3.05
+proibição da – lde.5.6
 
 ##### 🟨 Medo
 desencarnação e – lde.q941
 inferno e – lde.q974
-morte e – lde.q730, 941
+morte e – lde.q730, lde.q941
 
 ##### 🟨 Memória
 vidas passadas e – lde.q307
@@ -2573,7 +2593,8 @@ vidas passadas e – lde.q307
 ##### 🟨 Mendicância
 educação moral e – lde.q889
 
-##### 🟨 Merecimento ver Mérito
+##### 🟨 Merecimento
+ver Mérito
 
 ##### 🟨 Mérito
 conquista de – lde.q133
@@ -2585,16 +2606,16 @@ progresso e – lde.q692a
 submissão a provas e – lde.q708
 
 ##### 🟨 Mesas girantes
-Espiritismo e – Conclusão 1
-fenômeno das – Introdução 3
-manifestações inteligentes e – Introdução 4
-tiptologia e – Introdução 4
+Espiritismo e – lde.5.1
+fenômeno das – lde.0.3.03
+manifestações inteligentes e – lde.0.3.04
+tiptologia e – lde.0.3.04
 
 ##### 🟨 Metempsicose
 reencarnação e – lde.q611
 
 ##### 🟨 Milagre
-ciência e – Conclusão 2
+ciência e – lde.5.2
 desejo por – lde.q802
 
 ##### 🟨 Minerais
@@ -2608,19 +2629,19 @@ riqueza e – lde.q814
 ##### 🟨 Missão
 candidatos a uma mesma – lde.q572a
 capacitação e elevação para desempenho da – lde.q571
-conhecimento prévio da – lde.q570, 576
+conhecimento prévio da – lde.q570, lde.q576
 cumprimento de – lde.q568
 dever e – lde.q575
 encarnação e – lde.q132
 engano e – lde.q581
 Espírito bom e – lde.q280
 Espírito encarnado e – lde.q573
-Espírito protetor e – lde.q491, 493
+Espírito protetor e – lde.q491, lde.q493
 Espírito, influência maléfica e – lde.q470
 experiência adquirida e – lde.q580
 previsão ou não de – lde.q577
 realização de – lde.q575
-reencarnação e – lde.q175, 178, 273, 338
+reencarnação e – lde.q175, lde.q178, lde.q273, lde.q338
 resistência ao mal e – lde.q645
 tentação e cumprimento de – lde.q712
 
@@ -2630,7 +2651,7 @@ conhecimento e – lde.q18
 criação do Espírito e – lde.q78
 
 ##### 🟨 Mistificação
-incerteza sobre – Introdução 9
+incerteza sobre – lde.0.3.09
 
 ##### 🟨 Mitologia
 combates e – lde.q541
@@ -2638,7 +2659,7 @@ ideia espírita e – lde.q537
 
 ##### 🟨 Moisés 
 
-Moisés – Conclusão 8
+Moisés – lde.5.8
 
 ##### 🟨 Molécula
 forma da – lde.q34a
@@ -2655,7 +2676,7 @@ graus de adiantamento moral e – lde.q188
 ciência e – lde.q192
 definição de – lde.q629
 inteligência – lde.q365
-progresso – Conclusão 5
+progresso – lde.5.5
 
 ##### 🟨 Morte
 agonia e – lde.q156
@@ -2679,20 +2700,21 @@ pressentimento e – lde.q411
 sentimento da pessoa no momento da – lde.q961
 sentimentos depois da – lde.q295
 sofrimento e alegria após a – lde.q965
-temor da – lde.q730, 858, 941
+temor da – lde.q730, lde.q858, lde.q941
 temor ou desejo da – lde.q981
-vida e – lde.q68, 738a
+vida e – lde.q68, lde.q738a
 violenta e reação do Espírito – lde.q546
 visão do Espírito após a – lde.q257
 
-##### 🟨 Morte ver também Desencarnação
+##### 🟨 Morte
+ver Desencarnação
 
 ##### 🟨 Mortificação
 alimentação e – lde.q724
 exemplo de verdadeira – lde.q721
 
 ##### 🟨 Morto
-oração pelo – lde.q323, 664, 665
+oração pelo – lde.q323, lde.q664, lde.q665
 respeito ao – lde.q329
 
 ##### 🟨 Mulher
@@ -2706,16 +2728,17 @@ criação em seis dias do – lde.q59
 ##### 🟨 Mundo de expiação e provas
 predominância de espíritos maus em – lde.q872
 
-##### 🟨 Mundo espiritual – lde.q84 a 87
+##### 🟨 Mundo espiritual
+mundo espiritual – lde.q84 a lde.q87
 afeições entre espíritos no – lde.q297
-composição do – Introdução 6
-comunicação entre mundo corpóreo e – Prolegômenos
+composição do – lde.0.3.06
+comunicação entre mundo corpóreo e – lde.0.4
 culpado e vítima no – lde.q977a
-espíritos e – Prolegômenos, 84
+espíritos e – lde.0.4, lde.q84
 habitantes da Terra e – lde.q495
 hierarquia e – lde.q540
 inimigos no – lde.q293
-lado mau do – Introdução 10
+lado mau do – lde.0.3.10
 locomoção no – lde.q232
 malevolência e – lde.q531
 mundo corpóreo e – lde.q86
@@ -2725,12 +2748,13 @@ reconhecimento de espírito protetor no – lde.q506
 regresso da alma ao – lde.q287
 relacionamento no – lde.q274
 revelação dos erros no – lde.q977a
-vida no – lde.q150b, 159
+vida no – lde.q150b, lde.q159
 
-##### 🟨 Mundo físico ver Plano físico
+##### 🟨 Mundo físico
+ver Plano físico
 
 ##### 🟨 Mundos
-formação dos – lde.q37-42
+formação dos – lde.q37 a lde.q42
 lei de destruição e – lde.q732
 superior e inferior – lde.q805
 transitórios – lde.q234
@@ -2748,8 +2772,8 @@ vida em – lde.q985
 ##### 🟨 Mundos habitados
 encarnação nos – lde.q172
 esquecimento do passado em – lde.q394
-pluralidade dos – lde.q55-58
-vida nos diferentes – lde.q57, 58
+pluralidade dos – lde.q55 a lde.q58
+vida nos diferentes – lde.q57, lde.q58
 
 ##### 🟨 Mundos transitórios
 destinação dos – lde.q236
@@ -2808,11 +2832,11 @@ encadeamento e solidariedade na – lde.q132
 fenômenos da – lde.q536a
 reinos da – lde.q585
 ser à parte dos três reinos da – lde.q592
-universalidade da criação e – lde.q573, 607a
+universalidade da criação e – lde.q573, lde.q607a
 vazio e – lde.q236e
 
 ##### 🟨 Necessário
-felicidade e – lde.q922, 927
+felicidade e – lde.q922, lde.q927
 lei divina e o – lde.q930
 limite do – lde.q715
 mau uso do – lde.q705
@@ -2830,7 +2854,7 @@ paixões e – lde.q792a
 evidência e – lde.q802
 
 ##### 🟨 Nome
-importância espiritual do – Introdução 12
+importância espiritual do – lde.0.3.12
 
 ---
 
@@ -2874,26 +2898,26 @@ prática do bem e – lde.q673
 sacrifício animal e – lde.q672
 
 ##### 🟨 Opinião
-sábios e – Introdução 7
+sábios e – lde.0.3.07
 
 ##### 🟨 Oposição
 Espiritismo e – lde.q798
-ideias novas e – Introdução 7
+ideias novas e – lde.0.3.07
 liberdade de consciência e – lde.q837
 
 ##### 🟨 Oração
 conceito de – lde.q659
 direcionamento no rumo de vida e – lde.q523
-eficácia da – lde.q660a, 664
+eficácia da – lde.q660a, lde.q664
 espíritos arrependidos e – lde.q997
 estudo de si mesmo e – lde.q660a
 exemplo de Jesus e – lde.q664
 expressão de amor a Deus pela – lde.q659
 fortalecimento pela – lde.q663
-intenção e – lde.q658, 659
+intenção e – lde.q658, lde.q659
 intercessória – lde.q662
 nascimento de criança e – lde.q210
-obsessão e – lde.q479, 531a
+obsessão e – lde.q479, lde.q531a
 perdão das faltas e – lde.q661
 poder da – lde.q663
 suavização de sofrimento e – lde.q665
@@ -2908,7 +2932,7 @@ genealogia e – lde.q205a
 materialismo e – lde.q147
 necessidade, trabalho e – lde.q929
 profissões modestas e – lde.q928
-razão e – Introdução 7
+razão e – lde.0.3.07
 retratação e – lde.q1000
 suicídio e – lde.q947
 
@@ -2935,7 +2959,7 @@ provas e – lde.q355
 
 ##### 🟨 Paixão
 conceitos de – lde.q908
-criação de necessidades e – lde.q792a, 795
+criação de necessidades e – lde.q792a, lde.q795
 desenvolvimento espiritual e – lde.q191a
 espíritos e má – lde.q228
 espíritos inferiores e – lde.q972a
@@ -2948,8 +2972,9 @@ vontade e – lde.q907
 ##### 🟨 Palavra
 faculdade da – lde.q772
 
-##### 🟨 Panteísmo – lde.q14,15
-conceito de alma e – Introdução 2
+##### 🟨 Panteísmo
+Panteísmo – lde.q14,15
+conceito de alma e – lde.0.3.02
 refutações ao – lde.q16
 
 ##### 🟨 Paraíso
@@ -2962,16 +2987,16 @@ privações de mal assalariado e – lde.q717
 supérfluo e – lde.q717
 
 ##### 🟨 Parentela
-filiação e – lde.q203-206
+filiação e – lde.q203 a lde.q206
 física e espiritual – lde.q204
 
 ##### 🟨 Parricídio
 infanticídio e – lde.q750
 
 ##### 🟨 Passado
-conhecimento do – lde.q242, 399
+conhecimento do – lde.q242, lde.q399
 esquecimento do – lde.q392
-lembrança do – lde.q219, 397, 285a, 393
+lembrança do – lde.q219, lde.q397, lde.q285a, lde.q393
 
 ##### 🟨 Paternidade
 responsabilidade pela – lde.q582
@@ -2984,7 +3009,7 @@ original – lde.q1019
 
 ##### 🟨 Pena de morte
 crime e – lde.q760
-desaparecimento da – lde.q760, 762
+desaparecimento da – lde.q760, lde.q762
 
 ##### 🟨 Pena de talião
 conceito de – lde.q764
@@ -2992,7 +3017,7 @@ execução do assassino e – lde.q764
 
 ##### 🟨 Penas eternas
 arrependimento e – lde.q1006
-condenação a – lde.q171, 222
+condenação a – lde.q171, lde.q222
 Deus e – lde.q1009
 
 ##### 🟨 Penas futuras
@@ -3020,7 +3045,7 @@ transmissão oculta do – lde.q419
 velocidade do Espírito e do – lde.q89
 
 ##### 🟨 Percepção
-espíritos e – lde.q25a, 237, 246, 547a
+espíritos e – lde.q25a, lde.q237, lde.q246, lde.q547a
 livre-arbítrio e – lde.q250
 momento presente e – lde.q241
 pensamento e – lde.q26
@@ -3035,10 +3060,10 @@ inimigos e – lde.q764
 anjo e – lde.q129
 aproximação da – lde.q908
 aquisição de – lde.q177
-ausência de – Conclusão 4
+ausência de – lde.5.4
 busca da – lde.q125
 caminho do bem e – lde.q127
-chegada à – lde.q126, 133a
+chegada à – lde.q126, lde.q133a
 conquistas e – lde.q119
 encadeamento natural na escala espiritual e – lde.q192
 Espírito puro e – lde.q128
@@ -3048,7 +3073,7 @@ grau de – lde.q179
 igualdade na criação do Espírito e – lde.q115
 Jesus e – lde.q625
 possibilidades do Espírito na caminhada para a – lde.q398a
-reencarnação e – lde.q168, 222
+reencarnação e – lde.q168, lde.q222
 retrogradação e – lde.q118
 sabedoria e – lde.q238
 união e – lde.q298
@@ -3059,15 +3084,16 @@ aproximação da – lde.q913
 ##### 🟨 Perguntas
 respostas e – lde.q613
 
-##### 🟨 Perispírito – lde.q93-95
+##### 🟨 Perispírito
+perispírito – lde.q93 a lde.q95
 alma e – lde.q150a
 alma, corpo e – lde.q135a
 conceito de – lde.q257
 decapitação e – lde.q162
 densidade do – lde.q257
 desprendimento do corpo físico e – lde.q257
-diferentes mundos e – lde.q181, 187, 257
-Espírito e – lde.q93, 186
+diferentes mundos e – lde.q181, lde.q187, lde.q257
+Espírito e – lde.q93, lde.q186
 Espírito puro e – lde.q186a
 faculdades do – lde.q257
 forma do – lde.q95
@@ -3081,12 +3107,12 @@ substância do * em diversos mundos – lde.q187
 troca de – lde.q94a
 
 ##### 🟨 Perseverança
-consequências da – Prolegômenos
+consequências da – lde.0.4
 
 ##### 🟨 Personalidade
 egoísmo e sentimento da – lde.q917
 identidade digna de confiança e – lde.q505
-manifestações frequentes de * ilustre – Introdução 11
+manifestações frequentes de * ilustre – lde.0.3.11
 
 ##### 🟨 Perturbação
 desencarnação e – lde.q319
@@ -3103,12 +3129,13 @@ separação da alma e do corpo e – lde.q164
 ##### 🟨 Planetas
 formação dos – lde.q56
 
-##### 🟨 Plano espiritual ver Mundo espiritual
+##### 🟨 Plano espiritual
+ver Mundo espiritual
 
 ##### 🟨 Plano físico
 apoio a Espírito na partida para o – lde.q342
 malevolência e – lde.q531
-mundo corporal e – Introdução 6
+mundo corporal e – lde.0.3.06
 reencontro no – lde.q386
 
 ##### 🟨 Platão
@@ -3117,7 +3144,8 @@ eternidade das penas – lde.q1009
 ##### 🟨 Pluralidade dos mundos habitados
 homem e – lde.q55
 
-##### 🟨 Pluralidade dos mundos habitados ver também Mundos habitados
+##### 🟨 Pluralidade dos mundos habitados
+ver também Mundos habitados
 
 ##### 🟨 Pobreza
 predominância da – lde.q931
@@ -3128,7 +3156,7 @@ honrarias terrenas e – lde.q275
 prova do – lde.q816
 
 ##### 🟨 Poesia
-médium versejador e – Introdução 14
+médium versejador e – lde.0.3.14
 
 ##### 🟨 Poligamia
 aperfeiçoamento social e – lde.q701
@@ -3140,7 +3168,7 @@ crença na – lde.q667
 fenômeno espírita e – lde.q668
 
 ##### 🟨 População
-do globo – lde.q686, 687
+do globo – lde.q686, lde.q687
 
 ##### 🟨 Posse
 aquisição de bens e – lde.q883a
@@ -3151,11 +3179,11 @@ uso do vocábulo – lde.q474
 
 ##### 🟨 Povoamento
 Adão, Terra e – lde.q51
-espiritual do espaço – lde.q87, 317
+espiritual do espaço – lde.q87, lde.q317
 reencarnação e – lde.q786
 seres vivos e – lde.q43
 sucessão de raças e – lde.q688
-Terra e – lde.q50, 51, 59
+Terra e – lde.q50, lde.q51, lde.q59
 
 ##### 🟨 Povos
 atração de espíritos protetores e – lde.q521
@@ -3165,7 +3193,8 @@ degenerados – lde.q786
 marcha de progresso em diferentes – lde.q780b
 períodos de vida dos – lde.q788
 
-##### 🟨 Prece ver Oração
+##### 🟨 Prece
+ver Oração
 
 ##### 🟨 Preconceito
 obediência a – lde.q955
@@ -3232,10 +3261,10 @@ transformação do – lde.q607a
 
 ##### 🟨 Princípio vital
 alma e – lde.q136
-conceito de – Introdução 2
+conceito de – lde.0.3.02
 corpo físico e – lde.q67
 Espírito, matéria e – lde.q64
-fluido vital e – Introdução 2
+fluido vital e – lde.0.3.02
 fonte universal do – lde.q139
 matéria e – lde.q62
 modificações do – lde.q66
@@ -3244,7 +3273,7 @@ seres orgânicos e – lde.q67a
 vida e – lde.q63
 
 ##### 🟨 Princípios básicos
-Espiritismo e – Introdução 6
+Espiritismo e – lde.0.3.06
 
 ##### 🟨 Privação
 culpa pela – lde.q927
@@ -3280,18 +3309,18 @@ Espírito e – lde.q366
 estado de natureza e – lde.q776
 exigências da vida e – lde.q501
 imposição do – lde.q768
-inevitável – Conclusão 4
+inevitável – lde.5.4
 influência do Espiritismo no – lde.q798
 legislação e – lde.q794
 lei de auxílios mútuos e – lde.q509
 lentidão e – lde.q116
-marcha do – lde.q781a, 779
+marcha do – lde.q781a, lde.q779
 material e espiritual – lde.q276
 meios de – lde.q738
 merecimento e – lde.q692a
-moral – Conclusão 5
+moral – lde.5.5
 moral e intelectual – lde.q780
-obstáculos ao – lde.q781, 781a, 785
+obstáculos ao – lde.q781, lde.q781a, lde.q785
 participação geral no – lde.q789
 reencarnação e – lde.q169
 sofrimento e – lde.q270
@@ -3299,10 +3328,10 @@ substituição de gerações e – lde.q786
 virtude e – lde.q893
 
 ##### 🟨 Proibição
-manifestação espírita e sua – Conclusão 6
+manifestação espírita e sua – lde.5.6
 
 ##### 🟨 Propriedade
-direito de – lde.q882, 885
+direito de – lde.q882, lde.q885
 legítima – lde.q884
 
 ##### 🟨 Prosperidade
@@ -3321,7 +3350,7 @@ altruísmo ante a – lde.q740
 conhecimento antecipado do gênero de – lde.q522
 emprego da autoridade e – lde.q816
 entendimento sobre aplicação de – lde.q268
-escolha das – lde.q258, 266, 335, 852
+escolha das – lde.q258, lde.q266, lde.q335, lde.q852
 êxito e gênero de – lde.q864
 experiência no caminho do mal como – lde.q515
 faltas e – lde.q399
@@ -3352,10 +3381,10 @@ solicitude da – lde.q495
 
 ##### 🟨 Próximo
 ações contrárias a si mesmo e ao – lde.q919a
-caridade e – lde.q770a, 903
+caridade e – lde.q770a, lde.q903
 
 ##### 🟨 Psicologia
-Espiritismo e – Conclusão 8
+Espiritismo e – lde.5.8
 
 ##### 🟨 Punição
 após a morte – lde.q973
@@ -3429,10 +3458,11 @@ manifestação de – lde.q488a
 marcas de civilização perfeita e – lde.q793
 pais, filhos, amigos e – lde.q285
 
-##### 🟨 Recordação ver Lembrança
+##### 🟨 Recordação
+ver Lembrança
 
 ##### 🟨 Reencarnação
-reencarnação – lde.q166-170
+reencarnação – lde.q166 a lde.q170
 alma e – lde.q336
 aperfeiçoamento das raças pela – lde.q689
 aproveitamento do tempo e – lde.q115a
@@ -3450,7 +3480,7 @@ diversidade de experiências e – lde.q177a
 egoísmo e – lde.q915
 ensino dos Espíritos sobre a – lde.q222
 erraticidade e – lde.q225
-escolha das provas e – lde.q258, 264
+escolha das provas e – lde.q258, lde.q264
 escolha e – lde.q184a
 espaço de tempo para – lde.q223
 Espírito errante e – lde.q333
@@ -3460,12 +3490,12 @@ estacionamento, aquisições do Espírito e – lde.q192a
 evolução e – lde.q538
 evolução e limite à – lde.q169
 evolução espiritual e – lde.q192
-evolução espiritual pela – lde.q271, 612, 789, 985, 991
+evolução espiritual pela – lde.q271, lde.q612, lde.q789, lde.q985, lde.q991
 existências consecutivas e – lde.q218b
 experiência e – lde.q787a
 experiência feminina e – lde.q202
 expiação de idiotas, cretinos e – lde.q373
-expiação e – lde.q178a, 262a
+expiação e – lde.q178a, lde.q262a
 família e – lde.q203
 funcionamento do organismo e – lde.q368
 fundamentos da – lde.q613
@@ -3480,25 +3510,25 @@ inconformismo e – lde.q350
 influência do organismo e – lde.q367
 intervalo para – lde.q349
 justiça da – lde.q171
-justiça divina e – lde.q171, 222
+justiça divina e – lde.q171, lde.q222
 laços de família e – lde.q205
 lei de causa e efeito e – lde.q807
 livre-arbítrio e – lde.q847
 lógica e – lde.q222
 má compreensão do princípio da – lde.q195
 metempsicose e – lde.q611
-missão e – lde.q178, 338
-momento da – lde.q330a, 332
+missão e – lde.q178, lde.q338
+momento da – lde.q330a, lde.q332
 mundo inferior e – lde.q174
 mundo para – lde.q986
 mundos evoluídos e – lde.q985
-necessidade da – lde.q166, 330a
+necessidade da – lde.q166, lde.q330a
 notícia histórica sobre a – lde.q222
 novo corpo físico e – lde.q166c
 objeções à lei de – lde.q222
 objetivos da – lde.q167
 opinião humana e – lde.q222
-parentela e – lde.q204, 209
+parentela e – lde.q204, lde.q209
 passagens evangélicas e – lde.q222
 penalização e – lde.q372
 perda de faculdades intelectuais e – lde.q220
@@ -3533,7 +3563,7 @@ influenciação perniciosa e – lde.q122b
 
 ##### 🟨 Regeneração
 destruição e – lde.q729
-nova era para – Prolegômenos
+nova era para – lde.0.4
 
 ##### 🟨 Regulamento
 trabalho e – lde.q683
@@ -3560,7 +3590,7 @@ penas eternas e – lde.q1009
 respeito a crenças alheias e – lde.q655
 
 ##### 🟨 Religiosidade
-Espiritismo e – Conclusão 7
+Espiritismo e – lde.5.7
 
 ##### 🟨 Remorso
 culpado e – lde.q977a
@@ -3590,11 +3620,11 @@ seres vivos e – lde.q686
 reparação das faltas pelo – lde.q1000
 
 ##### 🟨 Resignação
-Espiritismo e – Conclusão 7
+Espiritismo e – lde.5.7
 sofrimento e – lde.q924
 
 ##### 🟨 Respeito
-direito alheio e – lde.q827, 877
+direito alheio e – lde.q827, lde.q877
 feto e – lde.q360
 livre-arbítrio e – lde.q495
 opinião sincera e – lde.q838
@@ -3610,7 +3640,7 @@ proporcionalidade de compreensão e – lde.q637
 sociedade e – lde.q813
 
 ##### 🟨 Resposta
-participação de médium e – Introdução 5
+participação de médium e – lde.0.3.05
 
 ##### 🟨 Ressurreição
 ciência e – lde.q1010
@@ -3618,7 +3648,7 @@ Espiritismo e – lde.q1010
 reencarnação e – lde.q1010
 
 ##### 🟨 Reunião
-instrutiva – Introdução 8
+instrutiva – lde.0.3.08
 no espaço com revelação pelo sonho – lde.q406
 parentes e amigos, após a morte, em – lde.q290
 
@@ -3629,7 +3659,7 @@ futuro e – lde.q868
 lei divina e – lde.q622
 lei divina, Jesus e – lde.q626
 posição superior de diferentes mundos e – lde.q182
-verdade e – lde.q628, Conclusão 8
+verdade e – lde.q628, lde.5.8
 vidas anteriores e – lde.q395
 
 ##### 🟨 Riqueza
@@ -3640,9 +3670,9 @@ herança e a origem da – lde.q808a
 homem de bem e a prova da – lde.q918
 idealismo de devaneios sobre igualdade de – lde.q811a
 merecimento e – lde.q925
-miséria e – lde.q814, 925
+miséria e – lde.q814, lde.q925
 ostentação de – lde.q823a
-prova da – lde.q533, 815, 925
+prova da – lde.q533, lde.q815, lde.q925
 
 ##### 🟨 Ritual
 adoração e – lde.q654
@@ -3659,7 +3689,7 @@ animal e adoração – lde.q669a
 animal e oferenda – lde.q672
 benefício alheio e – lde.q951
 da própria vida – lde.q951
-humano e adoração – lde.q669, 669b
+humano e adoração – lde.q669, lde.q669b
 morte e – lde.q951
 
 ##### 🟨 Satanás
@@ -3677,7 +3707,7 @@ diferença entre o civilizado e o – lde.q933
 instinto – lde.q849
 
 ##### 🟨 Semelhança
-física e moral – lde.q207-217
+física e moral – lde.q207 a lde.q217
 
 ##### 🟨 Sensação
 belezas naturais e – lde.q252
@@ -3718,7 +3748,8 @@ escolha de local de – lde.q325
 funeral e – lde.q327
 presença de desencarnado em – lde.q327
 
-##### 🟨 Ser humano ver Homem
+##### 🟨 Ser humano
+ver Homem
 
 ##### 🟨 Seres inorgânicos
 seres vivos e – lde.q585
@@ -3728,22 +3759,22 @@ aparecimento dos – lde.q59
 aperfeiçoamento e – lde.q703
 criação dos – lde.q59
 destruição recíproca dos – lde.q728a
-formação dos – lde.q43-49
+formação dos – lde.q43 a lde.q49
 geração espontânea dos – lde.q44
-instinto de conservação e – lde.q702, 727
+instinto de conservação e – lde.q702, lde.q727
 lei de destruição e – lde.q728
 lei do progresso e – lde.q185
 morte de – lde.q70
 princípio inteligente e – lde.q611
 reprodução dos – lde.q686
 seres inorgânicos e – lde.q585
-vida material e – Introdução 2
+vida material e – lde.0.3.02
 
 ##### 🟨 Seriedade
-estudo do Espiritismo com – Introdução 8
+estudo do Espiritismo com – lde.0.3.08
 
 ##### 🟨 Sexo
-espíritos e – lde.q200-202
+espíritos e – lde.q200 a lde.q202
 nos espíritos – lde.q200
 reencarnação e – lde.q201
 
@@ -3756,7 +3787,7 @@ sociedade e – lde.q772
 utilidade do – lde.q772
 
 ##### 🟨 Símbolo
-desenho da cepa pelos espíritos e representação de – Prolegômenos
+desenho da cepa pelos espíritos e representação de – lde.0.4
 representação do Espírito por cor, alegoria e – lde.q88a
 
 ##### 🟨 Simpatia
@@ -3791,8 +3822,8 @@ passagem do Espírito pela fieira animal e – lde.q613
 planetário e a Terra – lde.q188
 
 ##### 🟨 Sobrenatural
-Espiritismo e o – Conclusão 2
-religião e o – Conclusão 2
+Espiritismo e o – lde.5.2
+religião e o – lde.5.2
 
 ##### 🟨 Sobrevivência
 probabilidades de – lde.q348
@@ -3816,28 +3847,28 @@ aplicação do – lde.q1003
 apoio dos bons espíritos no – lde.q976
 arrependimento e – lde.q1008
 causador do – lde.q933
-causas do – lde.q257, 983
+causas do – lde.q257, lde.q983
 civilização e – lde.q926
 consolação e – lde.q924
 duração do – lde.q1004
 ensino pelo – lde.q738a
-erros atuais e – lde.q983, 984
+erros atuais e – lde.q983, lde.q984
 erros de outras vidas e – lde.q984
-Espiritismo e – Conclusão 5
+Espiritismo e – lde.5.5
 Espírito e – lde.q253
 Espírito mau e seu – lde.q973
 Espírito protetor, erros de outrem e – lde.q503
 eterno – lde.q1006
-explicação do – Conclusão 5
+explicação do – lde.5.5
 felicidade e – lde.q931
-físico e moral – lde.q487, 983
+físico e moral – lde.q487, lde.q983
 imperfeições e – lde.q133a
 impulso do progresso mediante – lde.q744a
 influenciação e – lde.q465a
 lembrança de * pelo desencarnado – lde.q312
 livre-arbítrio e – lde.q1006
 moral e material – lde.q933
-natureza do – lde.q255, 465b
+natureza do – lde.q255, lde.q465b
 necessidade de extirpação do egoísmo e – lde.q916
 necessidade do – lde.q976a
 orgulho, egoísmo e * dos bons espíritos – lde.q487
@@ -3846,7 +3877,7 @@ pessoa de bem e seu – lde.q984
 reencarnação e – lde.q196
 resignação e – lde.q924
 resistência ao – lde.q726
-segundo os bons espíritos – lde.q976, 976a
+segundo os bons espíritos – lde.q976, lde.q976a
 vida futura e – lde.q1003
 voluntário – lde.q727
 
@@ -3870,7 +3901,7 @@ espécie de – lde.q482
 Espiritismo e – lde.q455
 êxtase e – lde.q439
 faculdades do – lde.q438
-fenômeno espírita e – Introdução 16
+fenômeno espírita e – lde.0.3.16
 magnético e sonambulismo natural – lde.q455
 provocado – lde.q426
 sensações e – lde.q437
@@ -3883,7 +3914,7 @@ Espírito desencarnado e – lde.q434
 extático e – lde.q455
 ideias inatas e – lde.q431
 percepção visual do – lde.q435
-visão à distância do – lde.q432, 455
+visão à distância do – lde.q432, lde.q455
 
 ##### 🟨 Sonho
 comunicação com visita de encarnados no – lde.q406
@@ -3899,7 +3930,7 @@ visitação e – lde.q343
 alma durante o – lde.q401
 influência do – lde.q402
 relacionamento com espíritos e – lde.q401
-sonho – lde.q400-412
+sonho – lde.q400 a lde.q412
 
 ##### 🟨 Sorte
 gênero de prova com rótulo de – lde.q864
@@ -3920,9 +3951,9 @@ antagonismo das leis da natureza e – lde.q957
 assassinato e – lde.q758a
 busca de uma vida melhor e – lde.q950
 causa de – lde.q350
-causas da loucura e – Introdução 15
-consequências do – lde.q953b, 957
-culpa e – lde.q947, 952a
+causas da loucura e – lde.0.3.15
+consequências do – lde.q953b, lde.q957
+culpa e – lde.q947, lde.q952a
 deixar-se morrer de fome e – lde.q947
 desespero e – lde.q952a
 desgosto pela vida e – lde.q945
@@ -3941,11 +3972,11 @@ intenção e – lde.q949
 interrupção da vida e
 consequências do – lde.q950
 ligação do Espírito ao cadáver no – lde.q957
-loucura e – lde.q376, 944a
+loucura e – lde.q376, lde.q944a
 má ação e – lde.q948
 moral – lde.q952
-morte inevitável e – lde.q953, 953a
-orgulho e – lde.q947, 951
+morte inevitável e – lde.q953, lde.q953a
+orgulho e – lde.q947, lde.q951
 perda de entes queridos e – lde.q956
 perturbação espiritual e – lde.q957
 punição pelo – lde.q952a
@@ -3954,13 +3985,13 @@ sacrifício e – lde.q951
 salvar outra vida e – lde.q951
 segundo o Espiritismo – lde.q957
 sofrimento e – lde.q946
-vergonha e – lde.q948, 949
+vergonha e – lde.q948, lde.q949
 vício e – lde.q952
 voluntário e loucura – lde.q944a
 
 ##### 🟨 Supérfluo
 ambição e – lde.q717
-necessário e – lde.q704, 923
+necessário e – lde.q704, lde.q923
 
 ##### 🟨 Superior
 dependência do Espírito, reencarnado ou na erraticidade, a – lde.q888a
@@ -3980,14 +4011,15 @@ utilização do necessário e – lde.q736
 ##### 🟨 Talismã
 feiticeiro e – lde.q554
 
-##### 🟨 Temor ver Medo
+##### 🟨 Temor
+ver Medo
 
 ##### 🟨 Tempo
 espíritos e compreensão do – lde.q240
 formação dos mundos e – lde.q42
 percepção integral das leis divinas e – lde.q617a
 personificação do – lde.q131
-predito – lde.q1019, Conclusão 8
+predito – lde.q1019, lde.5.8
 
 ##### 🟨 Tentação
 conduta diante da – lde.q472
@@ -4020,7 +4052,7 @@ movimento da – lde.q59
 mundos transitórios e a – lde.q236d
 período de humanização do Espírito e – lde.q607b
 população da – lde.q687
-povoamento da – lde.q43, 59
+povoamento da – lde.q43, lde.q59
 primeiros ocupantes da – lde.q236e
 qualidade da encarnação na – lde.q172
 reencarnação em mundo inferior à – lde.q174
@@ -4032,21 +4064,21 @@ vontade divina e governo da – lde.q529a
 mal e * dos bons – lde.q932
 
 ##### 🟨 Tiptologia
-mesas girantes e – Introdução 4
-sematologia e – Introdução 4
+mesas girantes e – lde.0.3.04
+sematologia e – lde.0.3.04
 
 ##### 🟨 Trabalho
 bases fundamentais para o – lde.q718
 coletividade dos espíritos e – lde.q559
 conceito de – lde.q674
 descanso e – lde.q682
-divino – lde.q21, 80
+divino – lde.q21, lde.q80
 exigências da lei do – lde.q676
 exploração do – lde.q684
 impossibilidade de conseguir – lde.q930
 início de obra do bem e participação de outrem no – lde.q314
 interesse pelo – lde.q945
-limite do – lde.q682, 683
+limite do – lde.q682, lde.q683
 natureza das necessidades e – lde.q678
 necessidade do – lde.q674
 ociosidade e – lde.q943
@@ -4068,7 +4100,7 @@ instinto em fase de – lde.q589
 ordem espiritual e – lde.q100
 
 ##### 🟨 Transmigração
-progressiva – lde.q189-196
+progressiva – lde.q189 a lde.q196
 
 ##### 🟨 Trasgo
 
@@ -4090,7 +4122,7 @@ Espírito e – lde.q92
 almas sem afinidade na – lde.q939
 amor ausente na – lde.q939
 antipatia e – lde.q939
-Espiritismo e – Conclusão 9
+Espiritismo e – lde.5.9
 espíritos bons e – lde.q980
 indissolubilidade e – lde.q940
 momento da * da alma ao corpo – lde.q344
@@ -4114,7 +4146,7 @@ reencarnação e – lde.q173b
 espaço universal e – lde.q36
 
 ##### 🟨 Valor
-da intenção – lde.q670, 672
+da intenção – lde.q670, lde.q672
 do conhecimento de si mesmo – lde.q919a
 intrínseco das funções da mulher – lde.q821
 prece ao Espírito bom e – lde.q666
@@ -4148,7 +4180,7 @@ contato do – lde.q265
 criminalidade e – lde.q645
 desinteresse pessoal e – lde.q895
 suicídio e – lde.q952
-virtude e – lde.q893-906
+virtude e – lde.q893 a lde.q906
 
 ##### 🟨 Vida
 comprometimento da – lde.q954
@@ -4183,7 +4215,7 @@ ocupações e – lde.q558
 paralelismo da vida humana com a – lde.q266
 recapitulação da vida corpórea e – lde.q393
 reencarnação e – lde.q330a
-retorno à – lde.q149-165
+retorno à – lde.q149 a lde.q165
 vida corpórea e – lde.q266
 vida social e – lde.q119
 
@@ -4222,11 +4254,11 @@ Espírito e – lde.q531a
 
 ##### 🟨 Virtude
 sublimidade da – lde.q893
-vícios e – lde.q893-906
+vícios e – lde.q893 a lde.q906
 
 ##### 🟨 Visão
 de Deus pelos espíritos – lde.q244
-Espírito e – lde.q245, 429
+Espírito e – lde.q245, lde.q429
 faculdade da – lde.q247
 limitação da – lde.q247
 
@@ -4245,7 +4277,7 @@ da alma – lde.q455
 desvio da – lde.q928
 orgulho e – lde.q928
 ponto de vista de conhecimento
-e – Introdução 7
+e – lde.0.3.07
 profissional e felicidade – lde.q928
 progresso em experiência corporal e – lde.q270
 seguir a – lde.q928
@@ -4272,5 +4304,3 @@ excesso de – lde.q736
 ❦
 
 FIM
-
-<a href="lde">ir para o topo</a>
