@@ -446,7 +446,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ## `lde.1` 🗂️  Parte 1. Das causas primárias
 ### `lde.1.1` 📑 1. De Deus
-#### `lde.1.1.1` 📃 /Deus e o infinito
+#### `lde.1.1.1` 📃 Deus e o infinito
 
 `lde.q1` 1. O que é Deus?
 
@@ -1549,7 +1549,7 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 ---
 
-1.   A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
+163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
 
 >“Imediatamente não é bem o termo. A alma passa algum tempo em estado de perturbação.”
 >Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
@@ -6849,10 +6849,10 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 faculdades do homem e – lde.q847
 
 ##### 🟨 Aborto
-consequências do – lde.q357\
-gestação e – lde.q358\
-provocação do – lde.q358\
-vida da mãe em perigo e – lde.q359\
+consequências do – lde.q357
+gestação e – lde.q358
+provocação do – lde.q358
+vida da mãe em perigo e – lde.q359
 
 ##### 🟨 Abuso
 direito e – lde.q734
