@@ -149,7 +149,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 ---
 
-#### `lde.0.3.05' 📃 Introdução 05
+#### `lde.0.3.05` 📃 Introdução 05
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -165,7 +165,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 
 ---
 
-#### `lde.0.3.05` 📃 Introdução 06
+#### `lde.0.3.06` 📃 Introdução 06
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -391,7 +391,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 ---
 
-#### `lde.0.3.17`/ 📃 Introdução 17
+#### `lde.0.3.17` 📃 Introdução 17
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 A ciência espírita compreende duas partes: experimental uma, relativa às manifestações em geral; filosófica, outra, relativa às manifestações inteligentes. Aquele que apenas haja observado a primeira se acha na posição de quem não conhecesse a Física senão por experiências recreativas, sem haver penetrado no âmago da ciência. A verdadeira Doutrina Espírita está no ensino que os Espíritos deram, e os conhecimentos que esse ensino comporta são por demais profundos e extensos para serem adquiridos de qualquer modo, que não por um estudo perseverante, feito no silêncio e no recolhimento. Porque, só dentro desta condição se pode observar um número infinito de fatos e particularidades que passam despercebidos ao observador superficial, e firmar opinião. Não produzisse este livro outro resultado além do de mostrar o lado sério da questão e de provocar estudos neste sentido e rejubilaríamos por haver sido eleito para executar uma obra em que, aliás, nenhum mérito pessoal pretendemos ter, pois que os princípios nela exarados não são de criação nossa. O mérito que apresenta cabe todo aos Espíritos que a ditaram. Esperamos que dará outro resultado, o de guiar os homens que desejem esclarecer-se, mostrando-lhes, nestes estudos, um fim grande e sublime: o do progresso individual e social e o de lhes indicar o caminho que conduz a esse fim.
@@ -444,21 +444,21 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-## `lde.1/ 🗂️  Parte 1. Das causas primárias
-### `lde.1.1/ 📑 1. De Deus
-#### `lde.1.1.1/ 📃 /Deus e o infinito
+## `lde.1` 🗂️  Parte 1. Das causas primárias
+### `lde.1.1` 📑 1. De Deus
+#### `lde.1.1.1` 📃 /Deus e o infinito
 
-/lde.q1/
+`lde.q1`
 1. O que é Deus?
 
 >“Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-/lde.q2/
+`lde.q2`
 2. Que se deve entender por infinito?
 
 >“O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-/lde.q3/
+`lde.q3`
 3. Poder-se-ia dizer que Deus é o infinito?
 
 >“Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
