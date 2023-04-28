@@ -858,9 +858,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### `lde.1.4.1` 📃 Seres orgânicos e inorgânicos
 
-*Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria.
-
-Tais são os minerais, a água, o ar etc.*
+*Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.*
 
 `lde.q60` 60. É a mesma a força que une os elementos da matéria nos corpos orgânicos e nos inorgânicos?
 
@@ -950,11 +948,11 @@ A inteligência é uma faculdade especial, peculiar a algumas classes de seres o
 
 Podem distinguir-se assim:
 
-`lde.q1` 1º - os seres inanimados, constituídos só de matéria, sem vitalidade nem inteligência: são os corpos brutos;
+1º - os seres inanimados, constituídos só de matéria, sem vitalidade nem inteligência: são os corpos brutos;
 
-`lde.q2` 2º - os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de inteligência;
+2º - os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de inteligência;
 
-`lde.q3` 3º - os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
+3º - os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
 
 `lde.q72` 72. Qual a fonte da inteligência?
 
@@ -1136,9 +1134,9 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 #### `lde.2.01.06` 📃 Escala espírita
 
-`lde.q100` 100. Observações preliminares.
+`lde.q100` 100. Observações preliminares. A classificação dos Espíritos se baseia no grau de adiantamento deles, nas qualidades que já adquiriram e nas imperfeições de que ainda terão de despojar-se. Esta classificação, aliás, nada tem de absoluta. Apenas no seu conjunto cada categoria apresenta caráter definido.
 
-A classificação dos Espíritos se baseia no grau de adiantamento deles, nas qualidades que já adquiriram e nas imperfeições de que ainda terão de despojar-se. Esta classificação, aliás, nada tem de absoluta. Apenas no seu conjunto cada categoria apresenta caráter definido. De um grau a outro a transição é insensível e, nos limites extremos, os matizes se apagam, como nos reinos da natureza, como nas cores do arco-íris, ou, também, como nos diferentes períodos da vida do homem. Podem, pois, formar-se maior ou menor número de classes, conforme o ponto de vista donde se considere a questão. Dá-se aqui o que se dá com todos os sistemas de classificação científica, que podem ser mais ou menos completos, mais ou menos racionais, mais ou menos cômodos para a inteligência. Sejam, porém, quais forem, em nada alteram as bases da ciência. Assim, é natural que inquiridos sobre este ponto, hajam os Espíritos divergido quanto ao número das categorias, sem que isto tenha valor algum. Entretanto, não faltou quem se agarrasse a esta contradição aparente, sem refletir que os Espíritos nenhuma importância ligam ao que é puramente convencional. Para eles, o pensamento é tudo. Deixam-nos a forma, a escolha dos termos, as classificações, numa palavra, os sistemas.
+De um grau a outro a transição é insensível e, nos limites extremos, os matizes se apagam, como nos reinos da natureza, como nas cores do arco-íris, ou, também, como nos diferentes períodos da vida do homem. Podem, pois, formar-se maior ou menor número de classes, conforme o ponto de vista donde se considere a questão. Dá-se aqui o que se dá com todos os sistemas de classificação científica, que podem ser mais ou menos completos, mais ou menos racionais, mais ou menos cômodos para a inteligência. Sejam, porém, quais forem, em nada alteram as bases da ciência. Assim, é natural que inquiridos sobre este ponto, hajam os Espíritos divergido quanto ao número das categorias, sem que isto tenha valor algum. Entretanto, não faltou quem se agarrasse a esta contradição aparente, sem refletir que os Espíritos nenhuma importância ligam ao que é puramente convencional. Para eles, o pensamento é tudo. Deixam-nos a forma, a escolha dos termos, as classificações, numa palavra, os sistemas.
 
 Façamos ainda uma consideração que se não deve jamais perder de vista, a de que entre os Espíritos, do mesmo modo que entre os homens, há os muito ignorantes, de maneira que nunca serão demais as cautelas que se tomem contra a tendência a crer que, por serem Espíritos, todos devam saber tudo. Qualquer classificação exige método, análise e conhecimento aprofundado do assunto. Ora, no mundo dos Espíritos, os que possuem limitados conhecimentos são, como neste mundo, os ignorantes, os inaptos a apreender uma síntese, a formular um sistema. Só muito imperfeitamente percebem ou compreendem uma classificação qualquer. Consideram da primeira categoria todos os Espíritos que lhes são superiores, por não poderem apreciar as gradações de saber, de capacidade e de moralidade que os distinguem, como sucede entre nós a um homem rude com relação aos civilizados. Mesmo os que sejam capazes de tal apreciação podem mostrar-se divergentes, quanto às particularidades, conforme os pontos de vista em que se achem, sobretudo se se trata de uma divisão, que nenhum cunho absoluto apresente. Lineu, Jussieu e Tournefort tiveram cada um o seu método, sem que a Botânica houvesse em consequência experimentado modificação alguma. É que nenhum deles inventou as plantas, nem seus caracteres. Apenas observaram as analogias, segundo as quais formaram os grupos ou classes. Foi assim que também nós procedemos. Não inventamos os Espíritos, nem seus caracteres. Vimos e observamos, julgamo-los pelas suas palavras e atos, depois os classificamos pelas semelhanças, baseando-nos em dados que eles próprios nos forneceram.
 
@@ -1152,9 +1150,7 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 
 #### `lde.2.01.07` 📃 3ª ordem – Espíritos imperfeitos
 
-`lde.q101` 101. Caracteres gerais.
-
-Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
+`lde.q101` 101. Caracteres gerais. Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
 
 Têm a intuição de Deus, mas não o compreendem.
 
@@ -1170,39 +1166,33 @@ Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa 
 
 Podem compor cinco classes principais.
 
-`lde.q102` 102. Décima classe. Espíritos impuros.
+`lde.q102` 102. Décima classe. Espíritos impuros. São inclinados ao mal, de que fazem o objeto de suas preocupações.
 
-São inclinados ao mal, de que fazem o objeto de suas preocupações. Como Espíritos, dão conselhos pérfidos, sopram a discórdia e a desconfiança e se mascaram de todas as maneiras para melhor enganar. Ligam-se aos homens de caráter bastante fraco para cederem às suas sugestões, a fim de induzi-los à perdição, satisfeitos com o conseguirem retardar-lhes o adiantamento, fazendo-os sucumbir nas provas por que passam.
+Como Espíritos, dão conselhos pérfidos, sopram a discórdia e a desconfiança e se mascaram de todas as maneiras para melhor enganar. Ligam-se aos homens de caráter bastante fraco para cederem às suas sugestões, a fim de induzi-los à perdição, satisfeitos com o conseguirem retardar-lhes o adiantamento, fazendo-os sucumbir nas provas por que passam.
 
 Nas manifestações, os Espíritos se dão a conhecer pela linguagem. A trivialidade e a grosseria das expressões, neles, como nos homens, é sempre indício de inferioridade moral, mas também intelectual. Suas comunicações exprimem a baixeza de seus pendores e, se tentam iludir, falando com sensatez, não conseguem sustentar por muito tempo o papel e acabam sempre por se traírem.
 
-Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nomes de demônios, maus gênios, Espíritos do mal. Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
+Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nomes de demônios, maus gênios, Espíritos do mal.
 
-`lde.q103` 103. Nona classe. Espíritos levianos.
+Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
 
-São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a verdade. Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os Espíritos vulgarmente tratados de **duendes**, **trasgos**, **gnomos**, **diabretes**. Acham-se sob a dependência dos Espíritos superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
+`lde.q103` 103. Nona classe. Espíritos levianos. São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a verdade. Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os Espíritos vulgarmente tratados de **duendes**, **trasgos**, **gnomos**, **diabretes**. Acham-se sob a dependência dos Espíritos superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
 
 Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
 
-`lde.q104` 104. Oitava classe. Espíritos pseudossábios.
+`lde.q104` 104. Oitava classe. Espíritos pseudossábios. Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
 
-Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
+`lde.q105` 105. Sétima classe. Espíritos neutros. Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
 
-`lde.q105` 105. Sétima classe. Espíritos neutros.
+`lde.q106` 106. Sexta classe. Espíritos batedores e perturbadores. Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente.
 
-Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
-
-`lde.q106` 106. Sexta classe. Espíritos batedores e perturbadores.
-
-Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente. Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. ❦
+Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. ❦
 
 ---
 
 #### `lde.2.01.08` 📃 2ª ordem – Bons Espíritos
 
-`lde.q107` 107. Caracteres gerais.
-
-Predominância do Espírito sobre a matéria; desejo do bem. Suas qualidades e poderes para o bem estão em relação com o grau de adiantamento que hajam alcançado; uns têm a ciência, outros a sabedoria e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam Espíritos perfeitos.
+`lde.q107` 107. Caracteres gerais. Predominância do Espírito sobre a matéria; desejo do bem. Suas qualidades e poderes para o bem estão em relação com o grau de adiantamento que hajam alcançado; uns têm a ciência, outros a sabedoria e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam Espíritos perfeitos.
 
 Compreendem Deus e o infinito e já gozam da felicidade dos bons. São felizes pelo bem que fazem e pelo mal que impedem. O amor que os une lhes é fonte de inefável ventura, que não tem a perturbá-la nem a inveja, nem os remorsos, nem nenhuma das más paixões que constituem o tormento dos Espíritos imperfeitos. Todos, entretanto, ainda têm que passar por provas, até que atinjam a perfeição.
 
@@ -1214,21 +1204,13 @@ A esta ordem pertencem os Espíritos designados, nas crenças vulgares, pelos no
 
 Podem ser divididos em quatro grupos principais:
 
-`lde.q108` 108. Quinta classe. Espíritos benévolos.
+`lde.q108` 108. Quinta classe. Espíritos benévolos. A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 
-A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
+`lde.q109` 109. Quarta classe. Espíritos sábios. Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
 
-`lde.q109` 109. Quarta classe. Espíritos sábios.
+`lde.q110` 110. Terceira classe. Espíritos de sabedoria. As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
 
-Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
-
-`lde.q110` 110. Terceira classe. Espíritos de sabedoria.
-
-As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
-
-`lde.q111` 111. Segunda classe. Espíritos superiores.
-
-Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
+`lde.q111` 111. Segunda classe. Espíritos superiores. Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
 
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo. ❦
 
@@ -1236,13 +1218,9 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 #### `lde.2.01.09` 📃 1ª ordem – Espíritos puros
 
-`lde.q112` 112. Caracteres gerais.
+`lde.q112` 112. Caracteres gerais. Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
 
-Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
-
-`lde.q113` 113. Primeira classe. Classe única.
-
-Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
+`lde.q113` 113. Primeira classe. Classe única. Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
 
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens. ❦
 
@@ -1408,11 +1386,11 @@ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém
 
 O homem é, portanto, formado de três partes essenciais:
 
-`lde.q1` 1º - o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital;
+1º - o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital;
 
-`lde.q2` 2º - a alma, Espírito encarnado que tem no corpo a sua habitação;
+2º - a alma, Espírito encarnado que tem no corpo a sua habitação;
 
-`lde.q3` 3º - o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
+3º - o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
 
 `lde.q136` 136. A alma independe do princípio vital?
 
@@ -1636,9 +1614,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 >“Sofrendo a prova de uma nova existência.”
 
-`lde.q166a` 166. a) Como realiza essa nova existência? Será pela sua transformação
-
-como Espírito?
+`lde.q166a` 166. a) Como realiza essa nova existência? Será pela sua transformação como Espírito?
 
 >“Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.”
 
@@ -1646,11 +1622,7 @@ como Espírito?
 
 >Resposta
 
-`lde.q166c` 166. c) Parece resultar desse princípio que a alma, depois de haver deixado
-
-um corpo, toma outro, ou, então, que reencarna em novo corpo.
-
-É assim que se deve entender?
+`lde.q166c` 166. c) Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
 
 >“Evidentemente.”
 
@@ -2060,17 +2032,17 @@ Alguma coisa de pungente há na ideia de que a nossa sorte fique para sempre dec
 
 Se não há reencarnação, só há, evidentemente, uma existência corporal. Se a nossa atual existência corpórea é única, a alma de cada homem foi criada por ocasião do seu nascimento, a menos que se admita a anterioridade da alma, caso em que caberia perguntar o que era ela antes do nascimento e se o estado em que se achava não constituía uma existência sob forma qualquer. Não há meio termo: ou a alma existia, ou não existia antes do corpo. Se existia, qual a sua situação? Tinha, ou não, consciência de si mesma? Se não tinha, é quase como se não existisse. Se tinha individualidade, era progressiva, ou estacionária? Num e noutro caso, a que grau chegara ao tomar o corpo? Admitindo, de acordo com a crença vulgar, que a alma nasce com o corpo, ou, o que vem a ser o mesmo, que, antes de encarnar, só dispõe de faculdades negativas, perguntamos:
 
-`lde.q1` 1. Por que mostra a alma aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?
+1. Por que mostra a alma aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?
 
-`lde.q2` 2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela ciência, enquanto outras se conservam inferiores ou medíocres durante a vida toda?
+2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela ciência, enquanto outras se conservam inferiores ou medíocres durante a vida toda?
 
-`lde.q3` 3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem?
+3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem?
 
-`lde.q4` 4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram?
+4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram?
 
-`lde.q5` 5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros?
+5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros?
 
-`lde.q6` 6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton?
+6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton?
 
 Qual a filosofia ou a teosofia capaz de resolver estes problemas? É fora de dúvida que, ou as almas são iguais ao nascerem, ou são desiguais. Se são iguais, por que, entre elas, tão grande diversidade de aptidões? Dir-se-á que isso depende do organismo. Mas, então, achamo-nos em presença da mais monstruosa e imoral das doutrinas. O homem seria simples máquina, joguete da matéria; deixaria de ter a responsabilidade de seus atos, pois que poderia atribuir tudo às suas imperfeições físicas. Se as almas são desiguais, é que Deus as criou assim. Nesse caso, porém, por que a inata superioridade concedida a algumas? Corresponderá essa parcialidade à Justiça de Deus e ao amor que Ele consagra igualmente a todas as suas criaturas?
 
@@ -2080,15 +2052,15 @@ Admitamos, ao contrário, uma série de progressivas existências anteriores par
 
 Vimos de apreciar a alma com relação ao seu passado e ao seu presente. Se a considerarmos, tendo em vista o seu futuro, esbarraremos nas mesmas dificuldades.
 
-`lde.q1` 1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba?
+1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba?
 
-`lde.q2` 2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor?
+2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor?
 
-`lde.q3` 3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele?
+3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele?
 
-`lde.q4` 4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros?
+4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros?
 
-`lde.q5` 5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida?
+5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida?
 
 Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de Deus. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma religião que proclama ser Deus a bondade e a razão por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da ciência, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma religião fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a religião e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da Terra e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
@@ -2510,7 +2482,7 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 
 `lde.q286` 286. Deixando seus despojos mortais, a alma vê imediatamente os parentes e amigos que a precederam no mundo dos Espíritos?
 
-“Imediatamente, ainda aqui, não é o termo próprio. Como já dissemos, é-lhe necessário algum tempo para que ela se reconheça a si mesma e alije o véu material.”
+>“Imediatamente, ainda aqui, não é o termo próprio. Como já dissemos, é-lhe necessário algum tempo para que ela se reconheça a si mesma e alije o véu material.”
 
 `lde.q287` 287. Como é acolhida a alma no seu regresso ao mundo dos Espíritos?
 
@@ -2618,7 +2590,7 @@ A teoria das metades eternas encerra uma simples figura, representativa da uniã
 
 >“Não, porquanto há Espíritos errantes de todos os graus.0A encarnação é um estado transitório, já o dissemos. O Espírito se acha no seu estado normal, quando liberto da matéria.”
 
-`lde.q2` 22 EsPoder-se-á dizer que são errantes todos os Espíritos que não estão encarnados?
+`lde.q226` 226. Poder-se-á dizer que são errantes todos os Espíritos que não estão encarnados?
 
 >“Sim, com relação aos que tenham de reencarnar. Não são errantes, porém, os Espíritos puros, os que chegaram à perfeição. Esses se encontram no seu estado definitivo.”
 
@@ -2958,7 +2930,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 `lde.q361` 361. Qual a origem das qualidades morais, boas ou más, do homem?
 
-“São as do Espírito nele encarnado. Quanto mais puro é esse Espírito, tanto mais propenso ao bem é o homem.”
+>“São as do Espírito nele encarnado. Quanto mais puro é esse Espírito, tanto mais propenso ao bem é o homem.”
 
 `lde.q361a` 361. a) Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o homem vicioso a de um Espírito mau?
 
@@ -3804,19 +3776,19 @@ Nada tem de surpreendente a doutrina dos anjos guardiães, a velarem pelos seus 
 
 >“Constitui isso um mérito que lhe é levado em conta, seja para seu progresso, seja para sua felicidade. Sente-se ditoso quando vê bem-sucedidos os seus esforços, o que representa, para ele, um triunfo, como triunfo é, para um preceptor, os bons êxitos do seu educando.”
 
-`lde.q503a` 503. a) É responsável pelo mau resultado de seus esforços?
+`lde.q502a` 502. a) É responsável pelo mau resultado de seus esforços?
 
 >“Não, pois que fez o que de si dependia.”
 
-`lde.q504` 504. Sofre o Espírito protetor quando vê que seu protegido segue mau caminho, não obstante os avisos que dele recebe? Não há aí uma causa de turbação da sua felicidade?
+`lde.q503` 503. Sofre o Espírito protetor quando vê que seu protegido segue mau caminho, não obstante os avisos que dele recebe? Não há aí uma causa de turbação da sua felicidade?
 
 >“Compungem-no os erros do seu protegido, a quem lastima. Tal aflição, porém, não tem analogia com as angústias da paternidade terrena, porque ele sabe que há remédio para o mal e que o que não se faz hoje, amanhã se fará.”
 
-`lde.q505` 505. Poderemos sempre saber o nome do Espírito nosso protetor ou anjo de guarda?
+`lde.q504` 504. Poderemos sempre saber o nome do Espírito nosso protetor ou anjo de guarda?
 
 >“Como quereis saber nomes para vós inexistentes? Supondes que Espíritos só há os que conheceis?”
 
-`lde.q506a` 506. a) Como então o podemos invocar, se o não conhecemos?
+`lde.q504a` 504. a) Como então o podemos invocar, se o não conhecemos?
 
 >“Dai-lhe o nome que quiserdes, o de Espírito superior que vos inspire simpatia ou veneração. O vosso protetor acudirá ao apelo que com esse nome lhe dirigirdes, visto que todos os bons Espíritos são irmãos e se assistem mutuamente.”
 
@@ -4588,9 +4560,7 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 
 > “Já não dissemos que elas estão escritas por toda parte? Desde os séculos mais longínquos, todos os que meditaram sobre a sabedoria hão podido compreendê-las e ensiná-las. Pelos ensinos, mesmo incompletos, que espalharam, prepararam o terreno para receber a semente. Estando as Leis divinas escritas no livro da natureza, possível foi ao homem conhecê-las, logo que as quis procurar. Por isso é que os preceitos que consagram foram, desde todos os tempos, proclamados pelos homens de bem; e também por isso é que elementos delas se encontram, se bem que incompletos ou adulterados pela ignorância, na doutrina moral de todos os povos saídos da barbárie.”
 
-`lde.q627` 627. Uma vez que Jesus ensinou as verdadeiras Leis de Deus, qual a utilidade do ensino que os Espíritos dão? Terão que nos ensinar mais
-
-alguma coisa?
+`lde.q627` 627. Uma vez que Jesus ensinou as verdadeiras Leis de Deus, qual a utilidade do ensino que os Espíritos dão? Terão que nos ensinar mais alguma coisa?
 
 > “Jesus empregava amiúde, na sua linguagem, alegorias e parábolas, porque falava de conformidade com os tempos e os lugares.
 > Faz-se mister agora que a verdade se torne inteligível para todo mundo. Muito necessário é que aquelas leis sejam explicadas e desenvolvidas, tão poucos são os que as compreendem e ainda menos os que as praticam. A nossa missão consiste em abrir os olhos e os ouvidos a todos, confundindo os orgulhosos e desmascarando os hipócritas: os que vestem a capa da virtude e da religião, a fim de ocultarem suas torpezas. O ensino dos Espíritos tem que ser claro e sem equívocos, para que ninguém possa pretextar ignorância e para que todos o possam julgar e apreciar com a razão. Estamos incumbidos de preparar o reino do bem que Jesus anunciou. Daí a necessidade de que a ninguém seja possível interpretar a Lei de Deus ao sabor de suas paixões, nem falsear o sentido de uma lei toda de amor e de caridade.”
@@ -4629,15 +4599,11 @@ alguma coisa?
 > “Já te dissemos: os Espíritos foram criados simples e ignorantes (**115**). Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal.
 > Eis por que se une ao corpo.” (**119**)
 
-`lde.q635` 635. Das diferentes posições sociais nascem necessidades que não são idênticas para todos os homens. Não parece poder inferir-se daí que a lei
-
-natural não constitui regra uniforme?
+`lde.q635` 635. Das diferentes posições sociais nascem necessidades que não são idênticas para todos os homens. Não parece poder inferir-se daí que a lei natural não constitui regra uniforme?
 
 > “Essas diferentes posições são da natureza das coisas e conformes a lei do progresso. Isso não infirma a unidade da lei natural, que se aplica a tudo.”
 
-As condições de existência do homem mudam de acordo com os tempos e os lugares, do que lhe resultam necessidades diferentes e posições sociais apropriadas a essas necessidades. Pois que está na ordem das coisas, tal diversidade é conforme a Lei de Deus, lei que não deixa de ser una quanto ao seu princípio.
-
-À razão cabe distinguir as necessidades reais das factícias ou convencionais.
+As condições de existência do homem mudam de acordo com os tempos e os lugares, do que lhe resultam necessidades diferentes e posições sociais apropriadas a essas necessidades. Pois que está na ordem das coisas, tal diversidade é conforme a Lei de Deus, lei que não deixa de ser una quanto ao seu princípio. À razão cabe distinguir as necessidades reais das factícias ou convencionais.
 
 `lde.q636` 636. São absolutos, para todos os homens, o bem e o mal?
 
@@ -4649,9 +4615,7 @@ As condições de existência do homem mudam de acordo com os tempos e os lugare
 
 As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete o homem faltas, que, nem por serem consequência da posição em que a sociedade o colocou, se tornam menos repreensíveis. A responsabilidade do homem é proporcionada aos meios de que ele dispõe para compreender o bem e o mal. Assim, mais culpado é, aos olhos de Deus, o homem instruído que pratica uma simples injustiça, do que o selvagem ignorante que se entrega aos seus instintos.
 
-`lde.q638` 638. Parece, às vezes, que o mal é uma consequência da força das coisas.
-
-Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destruir, até mesmo o seu semelhante. Poder-se-á dizer que há, então, infração da Lei de Deus?
+`lde.q638` 638. Parece, às vezes, que o mal é uma consequência da força das coisas. Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destruir, até mesmo o seu semelhante. Poder-se-á dizer que há, então, infração da Lei de Deus?
 
 > “Embora necessário, o mal não deixa de ser o mal. Essa necessidade desaparece, entretanto, à medida que a alma se depura, passando de uma a outra existência. Então, mais culpado é o homem, quando o pratica, porque melhor o compreende.”
 
@@ -4691,9 +4655,7 @@ Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destrui
 
 #### `lde.3.01.4` 📃 Divisão da lei natural
 
-`lde.q647` 647. A Lei de Deus se acha contida toda no preceito do amor ao próximo,
-
-ensinado por Jesus?
+`lde.q647` 647. A Lei de Deus se acha contida toda no preceito do amor ao próximo, ensinado por Jesus?
 
 > “Certamente. Esse preceito encerra todos os deveres dos homens uns para com os outros. Cumpre, porém, se lhes mostre a aplicação que comporta, do contrário deixarão de cumpri-lo, como o fazem presentemente. Ademais, a lei natural abrange todas as circunstâncias da vida e esse preceito compreende só uma parte da lei. Aos homens são necessárias regras precisas; os preceitos gerais e muito vagos deixam grande número de portas abertas à
 > interpretação.”
@@ -4722,9 +4684,7 @@ ensinado por Jesus?
 
 > “Não, que nunca houve povos de ateus. Todos compreendem que acima de tudo há um Ente supremo.”
 
-`lde.q652` 652. Poder-se-á considerar a lei natural como fonte originária da
-
-adoração?
+`lde.q652` 652. Poder-se-á considerar a lei natural como fonte originária da adoração?
 
 > “A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes.” ❦
 
@@ -4798,13 +4758,7 @@ adoração?
 
 > “O Espírito de quem ora atua pela sua vontade de praticar o bem. Atrai a si, mediante a prece, os bons Espíritos e estes se associam ao bem que deseje fazer.”
 
-O pensamento e a vontade representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que
-
-façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons Espíritos,
-
-que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos
-
-lábios nada vale.
+O pensamento e a vontade representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons Espíritos, que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos lábios nada vale.
 
 `lde.q663` 663. Podem as preces, que por nós mesmos fizermos, mudar a natureza das nossas provas e desviar-lhes o curso?
 
@@ -5378,11 +5332,7 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 
 > “Não; é um assassínio e um costume absurdo, digno dos bárbaros. Com uma civilização mais adiantada e mais moral, o homem compreenderá que o duelo é tão ridículo quanto os combates que outrora se consideravam como o juízo de Deus.”
 
-`lde.q758` 758. Poder-se-á considerar o duelo como um assassínio por parte daquele
-
-que, conhecendo a sua própria fraqueza, tem a quase certeza de que
-
-sucumbirá?
+`lde.q758` 758. Poder-se-á considerar o duelo como um assassínio por parte daquele que, conhecendo a sua própria fraqueza, tem a quase certeza de que sucumbirá?
 
 > “É um suicídio.”
 
@@ -5420,9 +5370,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 
 > “Necessidade não é o termo. O homem julga necessária uma coisa, sempre que não descobre outra melhor. À proporção que se instrui, vai compreendendo melhor o que é justo e o que é injusto e repudia os excessos cometidos, nos tempos de ignorância, em nome da justiça.”
 
-`lde.q763` 763. Será um indício de progresso da civilização a restrição dos casos em
-
-que se aplica a pena de morte?
+`lde.q763` 763. Será um indício de progresso da civilização a restrição dos casos em que se aplica a pena de morte?
 
 > “Podes duvidar disso? Não se revolta o teu Espírito, quando lês a narrativa das carnificinas humanas que outrora se faziam em nome da justiça e, não raro, em honra da Divindade; das torturas que se infligiam ao condenado e até ao simples acusado, para lhe arrancar, pela agudeza do sofrimento, a confissão de um crime que muitas vezes não cometera? Pois bem! Se houvesses vivido nessas épocas, terias achado tudo isso natural e talvez mesmo, se foras juiz, fizesses outro tanto. Assim é que o que pareceu justo, numa época, parece bárbaro em outra. Só as Leis divinas são eternas; as humanas mudam com o progresso e continuarão a mudar, até que tenham sido postas de acordo com aquelas.”
 
@@ -5498,9 +5446,7 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 
 > “Diverso do dos animais é o destino do homem. Por que, então, quererem identificá-lo com estes? Há no homem alguma coisa mais, além das necessidades físicas: há a necessidade de progredir. Os laços sociais são necessários ao progresso e os de família mais apertados tornam os primeiros. Eis por que os segundos constituem uma Lei da Natureza. Quis Deus que, por essa forma, os homens aprendessem a amar-se como irmãos.” (205)
 
-`lde.q775` 775. Qual seria, para a sociedade, o resultado do relaxamento dos laços de
-
-família?
+`lde.q775` 775. Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 
 > “Uma recrudescência do egoísmo.” ❦
 
@@ -5542,7 +5488,7 @@ O estado de natureza é a infância da Humanidade e o ponto de partida do seu de
 
 > “Fazendo compreensíveis o bem e o mal. O homem, desde então, pode escolher. O desenvolvimento do livre-arbítrio acompanha o da inteligência e aumenta a responsabilidade dos atos.”
 
-`lde.q7780b` 7780. b) Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos os mais pervertidos também?
+`lde.q780b` 780. b) Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos os mais pervertidos também?
 
 > “O progresso completo constitui o objetivo. Os povos, porém, como os indivíduos, só passo a passo o atingem. Enquanto não se lhes haja desenvolvido o senso moral, pode mesmo acontecer que se sirvam da inteligência para a prática do mal. O moral e a inteligência são duas forças que só com o tempo chegam a equilibrar- -se.” (365 a 751)
 
@@ -5618,9 +5564,7 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 #### `lde.3.08.4` 📃 Civilização
 
-`lde.q790` 790. É um progresso a civilização ou, como o entendem alguns filósofos,
-
-uma decadência da Humanidade?
+`lde.q790` 790. É um progresso a civilização ou, como o entendem alguns filósofos, uma decadência da Humanidade?
 
 > “Progresso incompleto. O homem não passa subitamente da infância à madureza.”
 
