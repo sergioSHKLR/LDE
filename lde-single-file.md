@@ -2478,7 +2478,9 @@ Dizem todos os Espíritos que, na erraticidade, eles se aplicam a pesquisar, est
 
 `lde.q285a` 285. a) Como é que os que se conheceram na Terra se reconhecem no mundo dos Espíritos?
 
->“Vemos a nossa vida pretérita e lemos nela como em um livro. Vendo a dos nossos amigos e dos nossos inimigos, aí vemos a passagem deles da vida corporal à outra.”
+>“Vemos a nossa vida pretérita e lemos nela como em um livro. 
+
+>>Vendo a dos nossos amigos e dos nossos inimigos, aí vemos a passagem deles da vida corporal à outra.”
 
 `lde.q286` 286. Deixando seus despojos mortais, a alma vê imediatamente os parentes e amigos que a precederam no mundo dos Espíritos?
 
