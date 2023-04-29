@@ -1620,7 +1620,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 `lde.q166b` 166. b) A alma passa então por muitas existências corporais?
 
->Resposta
+>“Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles.”
 
 `lde.q166c` 166. c) Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
 
@@ -2182,7 +2182,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 >“Durante a sua formação.”
 
-Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema. ❦
+>>Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema. ❦
 
 ---
 
@@ -2366,7 +2366,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 >“Pode parecer-vos a vós; ao Espírito, não. Logo que este se desliga da matéria, cessa toda ilusão e outra passa a ser a sua maneira de pensar.”
 
-Sob a influência das ideias carnais, o homem, na Terra, só vê das provas o lado penoso. Tal a razão de lhe parecer natural sejam escolhidas as que, do seu ponto de vista, podem coexistir com os gozos materiais. Na vida espiritual, porém, compara esses gozos fugazes e grosseiros com a inalterável felicidade que lhe é dado entrever e desde logo nenhuma impressão mais lhe causam os passageiros sofrimentos terrenos. Assim, pois, o Espírito pode escolher prova muito rude e, conseguintemente, uma angustiada existência, na esperança de alcançar depressa um estado melhor, como o doente escolhe muitas vezes o remédio mais desagradável para se curar de pronto. Aquele que intenta ligar seu nome à descoberta de um país desconhecido não procura trilhar estrada florida. Conhece os perigos a que se arrisca, mas também sabe que o espera a glória, se lograr bom êxito.
+>>Sob a influência das ideias carnais, o homem, na Terra, só vê das provas o lado penoso. Tal a razão de lhe parecer natural sejam escolhidas as que, do seu ponto de vista, podem coexistir com os gozos materiais. Na vida espiritual, porém, compara esses gozos fugazes e grosseiros com a inalterável felicidade que lhe é dado entrever e desde logo nenhuma impressão mais lhe causam os passageiros sofrimentos terrenos. Assim, pois, o Espírito pode escolher prova muito rude e, conseguintemente, uma angustiada existência, na esperança de alcançar depressa um estado melhor, como o doente escolhe muitas vezes o remédio mais desagradável para se curar de pronto. Aquele que intenta ligar seu nome à descoberta de um país desconhecido não procura trilhar estrada florida. Conhece os perigos a que se arrisca, mas também sabe que o espera a glória, se lograr bom êxito.
 
 A doutrina da liberdade que temos de escolher as nossas existências e as provas que devamos sofrer deixa de parecer singular, desde que se atenda a que os Espíritos, uma vez desprendidos da matéria, apreciam as coisas de modo diverso da nossa maneira de apreciá-las. Divisam a meta, que bem diferente é para eles dos gozos fugitivos do mundo. Após cada existência, veem o passo que deram e compreendem o que ainda lhes falta em pureza para atingirem aquela meta. Daí o se submeterem voluntariamente a todas as vicissitudes da vida corpórea, solicitando as que possam fazer que a alcancem mais presto. Não há, pois, motivo de espanto no fato de o Espírito não preferir a existência mais suave. Não lhe é possível, no estado de imperfeição em que se encontra, gozar de uma vida isenta de amarguras. Ele o percebe e, precisamente para chegar a fruí-la, é que trata de se melhorar.
 
@@ -2400,13 +2400,13 @@ Dizem todos os Espíritos que, na erraticidade, eles se aplicam a pesquisar, est
 
 >“Entre canibais não nascem Espíritos já adiantados, mas Espíritos da natureza dos canibais, ou ainda inferiores aos destes.”
 
-Sabemos que os nossos antropófagos não se acham no último degrau da escala espiritual e que mundos há onde a bruteza e a ferocidade não têm analogia na Terra. Os Espíritos que aí encarnam são, portanto, inferiores aos mais ínfimos que no nosso mundo encarnam. Para eles, pois, nascer entre os nossos selvagens representa um progresso, como progresso seria, para os antropófagos terrenos, exercerem entre nós uma profissão que os obrigasse a fazer correr sangue. Não podem pôr mais alto suas vistas, porque sua inferioridade moral não lhes permite compreender maior progresso. O Espírito só gradativamente avança. Não lhe é dado transpor de um salto a distância que da civilização separa a barbárie e é esta uma das razões que nos mostram ser necessária a reencarnação, que verdadeiramente corresponde à Justiça de Deus. De outro modo, que seria desses milhões de criaturas que todos os dias morrem na maior degradação, se não tivessem meios de alcançar a superioridade? Por que os privaria Deus dos favores concedidos aos outros homens?
+>>Sabemos que os nossos antropófagos não se acham no último degrau da escala espiritual e que mundos há onde a bruteza e a ferocidade não têm analogia na Terra. Os Espíritos que aí encarnam são, portanto, inferiores aos mais ínfimos que no nosso mundo encarnam. Para eles, pois, nascer entre os nossos selvagens representa um progresso, como progresso seria, para os antropófagos terrenos, exercerem entre nós uma profissão que os obrigasse a fazer correr sangue. Não podem pôr mais alto suas vistas, porque sua inferioridade moral não lhes permite compreender maior progresso. O Espírito só gradativamente avança. Não lhe é dado transpor de um salto a distância que da civilização separa a barbárie e é esta uma das razões que nos mostram ser necessária a reencarnação, que verdadeiramente corresponde à Justiça de Deus. De outro modo, que seria desses milhões de criaturas que todos os dias morrem na maior degradação, se não tivessem meios de alcançar a superioridade? Por que os privaria Deus dos favores concedidos aos outros homens?
 
 `lde.q272` 272. Poderá dar-se que Espíritos vindos de um mundo inferior à Terra, ou de um povo muito atrasado, como os canibais, por exemplo, nasçam no seio de povos civilizados?
 
 >“Pode. Alguns há que se extraviam, por quererem subir muito alto. Mas, nesse caso, ficam deslocados no meio em que nasceram, por estarem seus costumes e instintos em conflito com os dos outros homens.”
 
-Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilização. Voltando para o meio dos canibais, não sofrem uma degradação; apenas volvem ao lugar que lhes é próprio e com isso talvez até ganhem.
+>>Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilização. Voltando para o meio dos canibais, não sofrem uma degradação; apenas volvem ao lugar que lhes é próprio e com isso talvez até ganhem.
 
 `lde.q273` 273. Será possível que um homem de raça civilizada reencarne, por expiação, numa raça de selvagens? [^13]
 
@@ -2422,19 +2422,19 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 >“Muito grande. Os Espíritos têm uns sobre os outros a autoridade correspondente ao grau de superioridade que hajam alcançado, autoridade que eles exercem por um ascendente moral irresistível.”
 
-`lde.q275a` 275. a) Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são superiores?
+`lde.q275a` 274. a) Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são superiores?
 
 >“Eu disse: irresistível.”
 
-`lde.q276` 276. O poder e a consideração de que um homem gozou na Terra lhe dão supremacia no mundo dos Espíritos?
+`lde.q276` 275. O poder e a consideração de que um homem gozou na Terra lhe dão supremacia no mundo dos Espíritos?
 
 >“Não; pois que os pequenos serão elevados e os grandes rebaixados. Lê os salmos.”
 
-`lde.q277a` 277. a) Como devemos entender essa elevação e esse rebaixamento?
+`lde.q277a` 275. a) Como devemos entender essa elevação e esse rebaixamento?
 
 >“Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus: aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?”
 
-`lde.q278` 278. Aquele que foi grande na Terra e que, como Espírito, vem a achar-se entre os de ordem inferior, experimenta com isso alguma humilhação?
+`lde.q278` 276. Aquele que foi grande na Terra e que, como Espírito, vem a achar-se entre os de ordem inferior, experimenta com isso alguma humilhação?
 
 >“Às vezes bem grande, mormente se era orgulhoso e invejoso.”
 
@@ -2446,7 +2446,7 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 >“Sim e não. Quer dizer: eles se veem, mas se distinguem uns dos outros. Evitam-se ou se aproximam, conforme a simpatia ou a antipatia que reciprocamente uns inspiram aos outros, tal qual sucede entre vós. **Constituem um mundo do qual o vosso é pálido reflexo**. Os da mesma categoria se reúnem por uma espécie de afinidade e formam grupos ou famílias, unidos pelos laços da simpatia e pelos fins a que visam: os bons, pelo desejo de fazerem o bem; os maus, pelo de fazerem o mal, pela vergonha de suas faltas e pela necessidade de se acharem entre os que se lhes assemelham.”
 
-Tal uma grande cidade onde os homens de todas as classes e de todas as condições se veem e encontram, sem se confundirem; onde as sociedades se formam pela analogia dos gostos; onde a virtude e o vício se acotovelam, sem trocarem palavra.
+>>Tal uma grande cidade onde os homens de todas as classes e de todas as condições se veem e encontram, sem se confundirem; onde as sociedades se formam pela analogia dos gostos; onde a virtude e o vício se acotovelam, sem trocarem palavra.
 
 `lde.q279` 279. Todos os Espíritos têm reciprocamente acesso aos diferentes grupos ou sociedades que eles formam?
 
@@ -2516,7 +2516,7 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 
 >“Não; compreenderão que era estúpido o ódio que se votavam mutuamente e pueril o motivo que o inspirava. Apenas os Espíritos imperfeitos conservam uma espécie de animosidade, enquanto se não purificam. Se foi unicamente um interesse material o que os inimizou, nisso não pensarão mais, por pouco desmaterializados que estejam. Não havendo entre eles antipatia e tendo deixado de existir a causa de suas desavenças, aproximam-se uns dos outros com prazer.”
 
-Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
+>>Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
 
 `lde.q294` 294. A lembrança dos atos maus que dois homens praticaram um contra o outro constitui obstáculo a que entre eles reine simpatia?
 
@@ -2562,71 +2562,11 @@ Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhe
 
 >“Certamente, se um deles for preguiçoso.”
 
-A teoria das metades eternas encerra uma simples figura, representativa da união de dois Espíritos simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os Espíritos que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois Espíritos tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo. ❦
+>>A teoria das metades eternas encerra uma simples figura, representativa da união de dois Espíritos simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os Espíritos que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois Espíritos tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo. ❦
 
 ---
 
-#### `lde.2.06.08` 📃 Espíritos errantes
-
-`lde.q223` 223. A alma reencarna logo depois de se haver separado do corpo?
-
->“Algumas vezes reencarna imediatamente, porém, de ordinário, só o faz depois de intervalos mais ou menos longos. Nos mundos superiores, a reencarnação é quase sempre imediata. Sendo aí menos grosseira a matéria corporal, o Espírito, quando encarnado nesses mundos, goza quase que de todas as suas faculdades de Espírito, sendo o seu estado normal o dos sonâmbulos
->lúcidos entre vós.”
-
-`lde.q224` 224. Que é a alma no intervalo das encarnações?
-
->“Espírito errante, que aspira a novo destino, que espera.”
-
-`lde.q224a` 224. a) Quanto podem durar esses intervalos?
-
->“Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de erraticidade, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o Espírito terá que volver a
->uma existência apropriada a purificá-lo das máculas de suas existências precedentes.”
-
-`lde.q224b` 224. b) Essa duração depende da vontade do Espírito, ou lhe pode ser imposta como expiação?
-
->“É uma consequência do livre arbítrio.O smEspíritos sabe perfeitamente o que fazem. Mas, também, para algunds, constitui uma punição que Deus lhes inflige. Outros peoem que ela se pr longue,ea fim ds continuarem estudos que só na condição de Epiírrto livie podem efetuar-se com provetuo.”
-
-`lde.q225` 225. A erraticidade é, por si só, am sinl |de inferioridade dos Espíritos?
-
->“Não, porquanto há Espíritos errantes de todos os graus.0A encarnação é um estado transitório, já o dissemos. O Espírito se acha no seu estado normal, quando liberto da matéria.”
-
-`lde.q226` 226. Poder-se-á dizer que são errantes todos os Espíritos que não estão encarnados?
-
->“Sim, com relação aos que tenham de reencarnar. Não são errantes, porém, os Espíritos puros, os que chegaram à perfeição. Esses se encontram no seu estado definitivo.”
-
-No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou graus, pelos quais vão passando sucessivamente, à medida que se purificam. Com relação ao estado em que se acham, podem ser: encarnados, isto é, ligados a um corpo; errantes, isto é, sem corpo material e aguardando nova encarnação para se melhorarem; Espíritos puros, isto é, perfeitos, não precisando mais de encarnação.
-
-`lde.q227` 227. De que modo se instruem os Espíritos errantes? Certo não o fazem do mesmo modo que nós outros?
-
->“Estudam e procuram meios de elevar-se. Veem, observam o que ocorre nos lugares aonde vão; ouvem os discursos dos homens doutos e os conselhos dos Espíritos mais elevados e tudo isso lhes incute ideias que antes não tinham.”
-
-`lde.q228` 228. Conservam os Espíritos algumas de suas paixões humanas?
-
->“Com o invólucro imaterial os Espíritos elevados deixam as paixões más e só guardam as do bem. Quanto aos Espíritos inferiores, esses as conservam, pois do contrário pertenceriam à primeira ordem.”
-
-`lde.q229` 229. Por que, deixando a Terra, não deixam aí os Espíritos todas as más paixões, uma vez que lhes reconhecem os inconvenientes?
-
->“Vês nesse mundo pessoas excessivamente invejosas. Imaginas que, mal o deixam, perdem esse defeito? pcompanhaíritos errantesAos que da Terra partem, sobretudo os que alimentaram pvxões bem acentuaids, umaa esécpe de atmosfera que os envolve, conservando-lhes o que têm de mau, por não se achar o Espíirio inteiramente desprendido da matéria. Só por momentos ele entrevê a verdade, qte ussim ahelaparece|como que para mostrar-lhe o bom caminho.”
-
-`lde.q230` 230. Na erraticidade, o Espírito progride?
-
->“Pode melhorar-se muito, tais sejam a vontade e o desejo que tenha de consegui-lo. Todavia, na existência corporal é que põe em prática as ideias que adquiriu.”
-
-`lde.q231` 231. São felizes ou desgraçados osEspíritos errantes?
-
->“Mais ou menos, conforme seus méritos. Sofrem por efeito das paixões cuja essência conservaram, ou são felizes, de conformidade com o grau de desmaterialização a que hajam chegado. Na erraticidade, o Espírito percebe o que lhe falta para ser mais feliz e, desde então, procura os meios de alcançá-lo. Nem sempre, porém, lhe é permitido reencarnar como fora de seu agrado, representando isso, para ele, uma punição.”
-
-`lde.q232` 232. Podem os Espíritos errantes ir a todos os mundos?
-
->“Conforme. Pelo simples fato de haver deixado o corpo, o Espírito não se acha completamente desprendido da matéria e continua a pertencer ao mundo onde acabou de viver, ou a outro do mesmo grau, a menos que, durante a vida, se tenha elevado, o que, aliás, constitui o objetivo para que devem tender seus esforços, pois, do contrário, nunca se aperfeiçoaria. Pode, no entanto, ir a alguns mundos superiores, mas na qualidade de estrangeiro. A bem dizer, consegue apenas entrevê-los, donde lhe nasce o desejo de melhorar-se, para ser digno da felicidade de que gozam os que os habitam, para ser digno também de habitá-los mais tarde.”
-
-`lde.q233` 233. Os Espíritos já purificados descem aos mundos inferiores?
-
->“Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.”
-
----
-
-#### `lde.2.06.09` 📃 Recordação da existência corpórea
+#### `lde.2.06.08` 📃 Recordação da existência corpórea
 
 `lde.q304` 304. Lembra-se o Espírito da sua existência corporal?
 
@@ -2709,7 +2649,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 ---
 
-#### `lde.2.06.10` 📃 Comemoração dos mortos. Funerais
+#### `lde.2.06.09` 📃 Comemoração dos mortos. Funerais
 
 `lde.q320` 320. Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
 
