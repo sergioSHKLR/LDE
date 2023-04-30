@@ -19,7 +19,7 @@ Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
 
 ---
 
-Obs. Na Pergunta, palavra 'amet' realçada em fonte normal, visto que a sentença se encontra em itálico. Na Resposta, palavra 'tempor' realçada em itálico, visto que a sentença se encontra em fonte normal.
+Obs. Na Pergunta, palavra 'amet' foi realçada em fonte normal, visto que a sentença se encontra em itálico. Na Resposta, palavra 'tempor' foi realçada em itálico, visto que a sentença se encontra em fonte normal.
 
 Outra forma originalmente utilizada para diferenciar os comentários de Kardec das mensagens de Espíritos, foi o de usar uma fonte ligeiramente menor em tamanho. Considero estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização. Adicionalmente, as mesmas não são apropriada para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, <a href="https://github.com/JhonnyBn">JhonnyBn</a>, criou para automatizar o processo.
 
@@ -81,4 +81,4 @@ Clique abaixo para abrir o livro em arquivo único.
 
 - [LDE](./lde-single-file.md)
 
-<img src="./lde-capa.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 50%">
+<img src="./lde-capa.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 25%">
