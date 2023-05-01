@@ -43,6 +43,8 @@ Obs. Na Pergunta, palavra 'amet' foi realçada em fonte normal, visto que a sent
 
 Outra forma originalmente utilizada para diferenciar os comentários de Kardec das mensagens de Espíritos, foi o de usar uma fonte ligeiramente menor em tamanho. Considero estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização. Adicionalmente, as mesmas não são apropriada para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, <a href="https://github.com/JhonnyBn">JhonnyBn</a>, criou para automatizar o processo.
 
+## Solução
+
 Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**. Trechos entre aspas (mensagens espirituais) viraram *blockquote*. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
 
 ---
@@ -62,7 +64,7 @@ Acredito que o formato acima utiliza com muita mais eficiência o realce de cert
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-## Estrutura de hieraquia
+### Estrutura de hieraquia
 
 <pre>
 📔 Livro
@@ -74,7 +76,7 @@ Para facilitar a organização hierárquica, localização, correlação de item
          └── 📄 Item
 </pre>
 
-## Código alfanúmerico
+### Código alfanúmerico
 
 <pre>
 📄 lde.0.00.00
@@ -93,7 +95,7 @@ Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos 
 
 Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um *fork* para incluir *inline links* (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
 
-# Amai-vos e instruí-vos.
+#### Amai-vos e instruí-vos.
 
 Clique abaixo para abrir o livro em arquivo único.
 
