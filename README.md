@@ -99,4 +99,7 @@ Clique abaixo para abrir o livro em arquivo único.
 
 - [LDE](./lde-single-file.md)
 
+![bitmoji](https://sdk.bitmoji.com/render/panel/d7be3250-261b-46c1-af1a-b31774f0611e-bd659c69-9143-4f24-a67c-e76f5feeeaec-v1.png?transparent=1&palette=1&width=246)
+
+
 [^1]: Copyright 1944 by FEB. Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A).
