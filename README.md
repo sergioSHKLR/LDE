@@ -46,7 +46,7 @@ Outra forma originalmente utilizada para diferenciar os comentários de Kardec d
 
 ## Solução
 
-Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote* e *itálico*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
+Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
 
 ---
 
@@ -55,13 +55,13 @@ Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exce�
 
  X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
- > *Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua*.
+ > Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua.
  >
  > > Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
 
 E disse Jesus: 
 
->*"A cada um, de acordo com suas obras."* Romanos, cap. 2, vers. 6
+>"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
 
 ---
 
