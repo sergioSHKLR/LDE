@@ -14,15 +14,16 @@
 
 Temos o intuito de maximizar a disseminação, pesquisa, interligação, e estudo da Doutrina Espírita, codificada materialmente por Allan Kardec com a direção do Espírito da Verdade. 
 
-Para isso, escolhemos usar a coletânea de Guillon Ribeiro & Manuel Quintão como base, por ser uma das mais encontradas, tanto em formato físico como no digital.  O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil edição que um ePUB, e não usasse DRM (como AZW do Kindle). Formatos proprietários como DOC ou DOCX foram rejeitados. Formatos livre e simples como TXT ou RTF não são capazes de usar imagens ou tabelas. Formatos como ODF não conseguem suportar arquivos de tamanho comprimento com eficiência. 
+Para isso, escolhemos usar a coletânea de Guillon Ribeiro & Manuel Quintão como base, por ser uma das mais encontradas, tanto em formato físico como no digital.  O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil edição que um ePUB, e não usasse DRM (como AZW do Kindle). Formatos proprietários como DOC ou DOCX foram rejeitados. Formatos livre e simples como TXT ou RTF não são capazes de usar imagens ou tabelas. Formatos como ODF não conseguem suportar arquivos de tal comprimento com eficiência. 
 
 Decidi então por adotar o formato MarkDown (.md) pela sua fácil edição. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML/CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
 
 ##  Análise
 
-Em primeiro lugar, teríamos que estabelecer padrões de formatação que mantivesse a fidelidade ao original, não em forma, mas em conteúdo.
+Em primeiro lugar, teríamos que estabelecer padrões de formatação que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a particionamento do livro em partes, decidi nomear a seção anterior à Parte 1 como Parte 0, e dar o título de Pré-textual. 
+Analisando a particionamento do livro em partes, decidi nomear a seção anterior à Parte 1 como Parte 0, e dar o título de Pré-textual. Considerando o Índice Geral uma parte muito valiosa, decidimos por mantê-la e dar-lhe o nome de Parte 6 e o título de Pós-textual.
+
 
 A formatação original da Editora, na  qual perguntas se encontravam em itálico e repostas em fonte normal forçou que trechos em realce se fizessem na fonte oposta, como no exemplo abaixo:
 
@@ -45,7 +46,7 @@ Outra forma originalmente utilizada para diferenciar os comentários de Kardec d
 
 ## Solução
 
-Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**;  quotações bíblicas serão destacadas em itálico, e identificada com livro, capítulo e versículo. Trechos entre aspas (mensagens espirituais) viraram *blockquote*. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
+Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote* e *itálico*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
 
 ---
 
@@ -54,14 +55,17 @@ Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exce�
 
  X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
- > Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua.
+ > *Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua*.
  >
  > > Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
 
+E disse Jesus: 
+
+>*"A cada um, de acordo com suas obras."* Romanos, cap. 2, vers. 6
 
 ---
 
-Acredito que o formato acima utiliza com muita mais eficiência o realce de certos trechos. Ademais, comentário de Kardec são visualmente ligados à resposta à que se referem.
+Acredito que o formato acima utiliza com muita mais eficiência o realce de certos trechos. Ademais, comentários de Kardec são visualmente ligados à resposta à que se referem.
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
