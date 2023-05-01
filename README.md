@@ -95,8 +95,6 @@ Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos 
 
 Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um *fork* para incluir *inline links* (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
 
-#### Amai-vos e instruí-vos.
-
 Clique abaixo para abrir o livro em arquivo único.
 
 - [LDE](./lde-single-file.md)
