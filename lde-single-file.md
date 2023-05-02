@@ -4,9 +4,6 @@ Nosso projeto almeja a disseminação da Filosofia e Ciência Espírita tal como
 
 ## Legenda explicativa
 
-| Formatação de texto |
-| ------------------------ |
-
  X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
  > Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua.
@@ -17,6 +14,20 @@ E disse Jesus:
 
 >"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
 
+<pre>
+lde.qX. X. Pergunta lorem ipsum dolor sit amet, consectetur adipiscing elit? 
+║ Resposta lorem ipsum eiusmod tempor incididunt ut labore et dolore magna aliqua.
+║ ║ Comentário de Kardec lorem ipsum aute irure dolor in reprehenderit in voluptate.
+| |
+| └── nested blockquote
+└── blockquote
+
+E disse Jesus: 
+
+║ "A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
+|
+└── blockquote
+</pre>
 ---
 
 Trechos realçados originalmente em itálico foram convertidos para negrito (*bold*). Resposta dos Espíritos e citações bíblicas são *blockquote*. Comentários de Allan Kardec (perguntas individuais e não seções inteiras) são *nested blockquotes*.
@@ -48,6 +59,21 @@ Para facilitar a organização hierárquica, localização, correlação de item
     |
     └── 📔 Livro
 </pre>
+
+juntamente com
+
+<pre>
+📄 lde.q X a
+    │  │ │ │
+    │  | | └── Sub-item
+    |  | |
+    │  | └── Número
+    |  |
+    │  └── Questão
+    |
+    └── 📔 Livro
+</pre>
+
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
@@ -60,18 +86,18 @@ Deus abençoa, sempre!
 
 lde-single-file.md é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).
 
-1. Não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
+- Não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
 
-2. Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
+- Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
 
-   - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
+ - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
 
-   - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
-     - I – a reprodução
-     - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+ - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+  - I – a reprodução
+  - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
-3. O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
-4. Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
+- O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
+- Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
 Notas: A licença acima se aplica somente ao formato (hierárquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em https://github.com/sergioSHKLR/1lde.
 Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato.
