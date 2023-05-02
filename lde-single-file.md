@@ -1,10 +1,10 @@
-# `lde` 📔 O LIVRO DOS ESPÍRITOS
-
-### 📃 Apresentação
+# Apresentação
 
 Nosso projeto almeja a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec, traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
 Entretanto, cremos que alguns ressalvos devam ser feitos.
+
+## Avisos legais
 
 1. Não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
 
@@ -19,27 +19,9 @@ Entretanto, cremos que alguns ressalvos devam ser feitos.
 3. O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
 4. Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
+## Legenda explicativa
 
-Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
-
-Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
-
-Deus abençoa, sempre!
-
-![Sergio SHKLR](/home/owner/1lde/assinado.png)
-
-
-
-LDE.md Sergio SHKLR é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).[^a]
-
-
-
-[^a]: A licença acima se aplica somente ao formato (hierárquia, código alfanúmerico, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em https://github.com/sergioSHKLR/1lde
-
----
-### Legenda explicativa 📃 
-
-| Formatação de texto [^b] |
+| Formatação de texto |
 | ------------------------ |
 
  X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
@@ -54,7 +36,7 @@ E disse Jesus:
 
 ---
 
-Trechos realçados originalmente em itálico foram convertidos para negrito (*bold*). Resposta dos Espíritos e citações bíblicas [^c] são *blockquote*. Comentários de Allan Kardec (perguntas individuais e não seções inteiras) são *nested blockquotes*.
+Trechos realçados originalmente em itálico foram convertidos para negrito (*bold*). Resposta dos Espíritos e citações bíblicas são *blockquote*. Comentários de Allan Kardec (perguntas individuais e não seções inteiras) são *nested blockquotes*.
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. O formato hierárquico e o código mestre são explicados abaixo.
 
@@ -85,12 +67,22 @@ Para facilitar a organização hierárquica, localização, correlação de item
 </pre>
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
+Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
+Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-[^b]: Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato.
-[^c]: Todas as citações bíblicas serão destacadas e identificadas com o livro, capítulo, e versículo de onde foram tiradas.
+Deus abençoa, sempre!
+
+![Sergio SHKLR](./assinado.png)
+
+lde-single-file.md é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).
+
+Notas: A licença acima se aplica somente ao formato (hierárquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em https://github.com/sergioSHKLR/1lde.
+Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato.
+Todas as citações bíblicas serão destacadas e identificadas com o livro, capítulo, e versículo de onde foram tiradas.
 
 ---
+# `lde` 📔 O LIVRO DOS ESPÍRITOS
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
 
