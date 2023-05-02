@@ -1,5 +1,97 @@
 # `lde` 📔 O LIVRO DOS ESPÍRITOS
 
+### 📃 Apresentação
+
+Nosso projeto almeja a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec, traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+
+Entretanto, cremos que alguns ressalvos devam ser feitos.
+
+1. Não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
+
+2. Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
+
+   - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
+
+   - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+     - I – a reprodução
+     - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+
+3. O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
+4. Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
+
+
+Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
+
+Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
+
+Deus abençoa, sempre!
+
+![Sergio SHKLR](/home/owner/1lde/assinado.png)
+
+
+
+LDE.md Sergio SHKLR é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).[^a]
+
+
+
+[^a]: A licença acima se aplica somente ao formato (hierárquia, código alfanúmerico, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em https://github.com/sergioSHKLR/1lde
+
+---
+### Legenda explicativa 📃 
+
+| Formatação de texto [^b] |
+| ------------------------ |
+
+ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
+
+ > Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua.
+ >
+ > > Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
+
+E disse Jesus: 
+
+>"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
+
+---
+
+Trechos realçados originalmente em itálico foram convertidos para negrito (*bold*). Resposta dos Espíritos e citações bíblicas [^c] são *blockquote*. Comentários de Allan Kardec (perguntas individuais e não seções inteiras) são *nested blockquotes*.
+
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. O formato hierárquico e o código mestre são explicados abaixo.
+
+### Estrutura de hieraquia
+
+<pre>
+📔 Livro
+ |
+ └── 🗂️ Parte
+     |
+     └── 📑 Capítulo
+         |
+         └── 📄 Item
+</pre>
+
+### Código mestre
+
+<pre>
+📄 lde.0.00.00
+    │  │  │  │
+    │  |  |  └── 📄 Item
+    |  |  |
+    │  |  └── 📑 Capítulo
+    |  |
+    │  └── 🗂️ Parte
+    |
+    └── 📔 Livro
+</pre>
+Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
+
+
+
+[^b]: Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato.
+[^c]: Todas as citações bíblicas serão destacadas e identificadas com o livro, capítulo, e versículo de onde foram tiradas.
+
+---
+
 ## `lde.0` 🗂️ Parte 0. Pré-textual
 
 ### `lde.0.1` 📃 Folha de rosto
@@ -24,43 +116,37 @@ ISBN 978-85-7328-728-8
 
 ### `lde.0.2` 📃 Avisos legais
 
-Os projetos de **Doutrina.org** almejam aperfeiçoar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Para tal, desenvolvemos uma interface que previne distrações e encoraja o estudo sequencial e metódico. A inclusão de material adicional (figuras, artigos, mapas, videos, audio) auxilia no entendimento e retenção do tópico estudado.
+Nosso projeto almeja a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec, traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
 Entretanto, cremos que alguns ressalvos devam ser feitos.
 
-Em primeiro lugar, não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
+1. Não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
 
-*O Livro dos Espíritos*
-[ISBN 978-85-7328-728-8](https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Espíritos-Guillon-1.pdf)
+2. Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
 
-Agradecemos a [Federação Espírita Brasileira](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/), [Kardecpedia.com](https://kardecpedia.com/roteiro-de-estudos/2/o-livro-dos-espiritos) e [Portal Luz Espírita](https://www.luzespirita.org.br/index.php?lisPage=livro&livroID=1) por oferecerem suas obras livremente em seus respectivos **sites**.
+    - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
 
-O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
+    - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+      - I – a reprodução
+      - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
-Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A).
+4. O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
+5. Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
-- Art. 41. Os direitos patrimoniais do autor perduram por setenta anos contados de 1° de Janeiro do ano subseqüente ao de seu falecimento, obedecida a ordem sucessória da lei civil.
 
-- Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
+Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
-- Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-> - I – a reprodução
-> - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+Deus abençoa, sempre!
 
-Em segundo lugar, tentamos ao máximo manter a integralidade da obra, no entanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
+![Sergio SHKLR](/home/owner/1lde/assinado.png)
 
-Por último, nossos projetos são sem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
-Em caso de erros, por favor, entrem em contato conosco para assegurar que efetuemos a devida correção.
 
-Deus abençoa sempre.
+LDE.md Sergio SHKLR é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).[^0]
 
-**Sergio SHKLR**
-
-Doutrina.org 2023 por Sergio SHKLR é licenciada sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). 
-
-Nota: A licença acima se aplica somente à diagramação, uso de painéis, cores e tipografia e NÃO ao conteúdo dos livros de Allan Kardec, Wikipédia, Wikcionário, WikiMedia, A Igreja de Jesus Cristo dos Santos dos Últimos Dias, ou quaisquer outras fontes externas. Nosso código-fonte é disponível em https://github.com/sergioSHKLR.
+[^0]: A licença acima se aplica somente ao formato (hierárquia, código alfanúmerico, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em https://github.com/sergioSHKLR/1lde
 
 ---
 
