@@ -112,13 +112,21 @@ juntamente com
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-Em sequência, converteremos os outros livros da codificação. Ao término de *A Gênese* (GEN), iremos criar um *fork* para incluir *inline links* (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
+Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
+
+Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
+
+Deus abençoa, sempre!
+
+![Sergio SHKLR](./assinado.png)
+
+- ⭕ SHKLR.org
+- Fundador
 
 Clique abaixo para abrir o livro em arquivo único.
 
 - [lde-single-file.md](./lde-single-file.md)
 
-![bitmoji](https://sdk.bitmoji.com/render/panel/d7be3250-261b-46c1-af1a-b31774f0611e-bd659c69-9143-4f24-a67c-e76f5feeeaec-v1.png?transparent=1&palette=1&width=246)
 
 
 **Notas**
