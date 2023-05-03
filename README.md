@@ -173,7 +173,7 @@ Deus abençoa, sempre!
 
 ---
 
-## Versão Alpha (em desenvolvimento)
+## Versão Beta (em desenvolvimento)
 
 Clique abaixo para abrir o livro em sua versão de arquivo único.
 
