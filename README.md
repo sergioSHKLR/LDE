@@ -11,20 +11,21 @@ O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de pa
 
 ## Apresentação
 
-Nosso projeto almeja a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec, traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+Sou um Americano, criado no Brasil até 1997, quando resolvi voltar aos EUA e servir na Marinha. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. 
 
-O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil edição que um ePUB, e não usasse DRM (como AZW do Kindle). Formatos proprietários como DOC ou DOCX foram rejeitados. Formatos livre e simples como TXT ou RTF não são capazes de usar imagens ou tabelas. Formatos como ODF não conseguem suportar arquivos de tal comprimento com eficiência. 
+Nossos projetos almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-Decidi então por adotar o formato MarkDown (.md) pela sua fácil edição. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML/CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
+O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil edição que um eBook (um rígido formato de HTML & CSS dentro de um ZIP), e não usasse *DRM* (como AZW do *Kindle*). Formatos orgânicos aos processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livre e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada. 
+
+Decidi então por adotar o formato *MarkDown* (.md) pela sua fácil edição e grande capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
 
 ##  Análise
 
-Em primeiro lugar, teríamos que estabelecer padrões de formatação que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
+Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a particionamento do livro em partes, decidi nomear a seção anterior à *Parte 1* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a `lde.5` *Parte 5 - Conclusão*, decidimos por dar-lhes o nome de *Parte 6* e o título de *Pós-textual*.
+Analisando a divisão do livro em partes, decidi nomear a seção anterior à *Parte 1* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a `lde.5` *Parte 5 - Conclusão*, decidimos por dar-lhes o nome de *Parte 6* e o título de *Pós-textual*. Inéditamente, iremos manter o Indíce Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
 
-
-A formatação original da Editora, na  qual perguntas se encontravam em itálico e repostas em fonte normal forçou que trechos em realce se fizessem na fonte oposta, como no exemplo abaixo:
+A formatação original da Editora, na  qual perguntas se encontravam em estilo itálico e repostas em estilo normal forçou que trechos em realce se fizessem no estilo oposta, como no exemplo abaixo:
 
 ---
 
@@ -39,19 +40,19 @@ Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
 
 ---
 
-Obs. Na Pergunta, palavra 'amet' foi realçada em fonte normal, visto que a sentença se encontra em itálico. Na Resposta, palavra 'tempor' foi realçada em itálico, visto que a sentença se encontra em fonte normal.
+Como se vê, na Pergunta, a palavra 'amet' foi realçada em estilo normal, visto que a sentença se encontra em estilo itálico. Na Resposta, palavra 'tempor' foi realçada em estilo itálico, visto que a sentença se encontra em estilo normal.
 
-Outra forma originalmente utilizada para diferenciar os comentários de Kardec das mensagens de Espíritos, foi o de usar uma fonte ligeiramente menor em tamanho. Considero estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização. Adicionalmente, as mesmas não são apropriada para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
+Outra forma originalmente utilizada para diferenciar os comentários de Kardec das mensagens de Espíritos, foi o de usar uma fonte ligeiramente menor em tamanho. Considero estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriada para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
-Outra pequenas mudança foi a substituição de quase todos os numerais romanos por seus equivalentes arábicos. 
+Outra pequenas mudança foi a substituição de quase todos os numerais romanos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França)
 
 ## Solução
 
-Sendo assim, decidi formatar todo o texto em fonte normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
+Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
 
 ---
 
-| Formatação de Doutrina.org |
+| Formatação de **lde-single-file.md** |
 | -------------------------- |
 
  X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
@@ -82,7 +83,7 @@ Para facilitar a organização hierárquica, localização, correlação de item
          └── 📄 Item
 </pre>
 
-### Código alfanúmerico
+### Código mestre
 
 <pre>
 📄 lde.0.00.00
@@ -118,16 +119,19 @@ Em caso de erros, por favor, entrem em contato conosco para assegurar que a devi
 
 Deus abençoa, sempre!
 
-![Sergio SHKLR](./assinado.png)
+![Sergio SHKLR](./assinatura.png)
 
-- ⭕ SHKLR.org
-- Fundador
+Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
+
+---
+
+## Versão Alpha (em desenvolvimento)
 
 Clique abaixo para abrir o livro em arquivo único.
 
 - [lde-single-file.md](./lde-single-file.md)
 
-
+---
 
 **Notas**
 
@@ -147,4 +151,4 @@ Clique abaixo para abrir o livro em arquivo único.
 
 - Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
-- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato.
+- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato. ⚜️
