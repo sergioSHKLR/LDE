@@ -114,7 +114,7 @@ Em sequência, converteremos os outros livros da codificação. Ao término de G
 
 Clique abaixo para abrir o livro em arquivo único.
 
-- [LDE](./lde-single-file.md)
+- [lde-single-file.md](./lde-single-file.md)
 
 ![bitmoji](https://sdk.bitmoji.com/render/panel/d7be3250-261b-46c1-af1a-b31774f0611e-bd659c69-9143-4f24-a67c-e76f5feeeaec-v1.png?transparent=1&palette=1&width=246)
 
