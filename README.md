@@ -1,12 +1,11 @@
 # Um dos cinco repositórios de Doutrina.org
 
-![lde](./lde-capa.jpg)
+## Direto ao ponto                                              
 
-| Direto ao ponto                                              |
-| ------------------------------------------------------------ |
-| O Livro dos Espíritos (ISBN 978-85-7328-728-8)[^1] digitalizado (manualmente, de parágrafo em parágrafo) em duas opções: |
-| um único arquivo                                             |
-| ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes*) |
+O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
+
+- um único arquivo                                             |
+- ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes. Voltarão a ser disponíveis quando o RELEASE ficar pronto*)
 
 ---
 
@@ -95,6 +94,19 @@ Para facilitar a organização hierárquica, localização, correlação de item
     └── 📔 Livro
 </pre>
 
+juntamente com
+
+<pre>
+📄 lde.q X a
+    │  │ │ │
+    │  | | └── Sub-item
+    |  | |
+    │  | └── Número
+    |  |
+    │  └── Questão
+    |
+    └── 📔 Livro
+</pre>
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
@@ -107,4 +119,22 @@ Clique abaixo para abrir o livro em arquivo único.
 ![bitmoji](https://sdk.bitmoji.com/render/panel/d7be3250-261b-46c1-af1a-b31774f0611e-bd659c69-9143-4f24-a67c-e76f5feeeaec-v1.png?transparent=1&palette=1&width=246)
 
 
-[^1]: Copyright 1944 by FEB. Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A).
+**Notas**
+
+- **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+
+- Não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
+
+- Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
+
+  - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
+
+  - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+    - I – a reprodução
+    - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+
+- O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
+
+- Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
+
+- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato.
