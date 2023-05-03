@@ -39,7 +39,8 @@ Para facilitar a organização hierárquica, localização, correlação de item
      └── 📑 capítulo
          |
          └── 📄 item
-         └── ❓ pergunta
+         └── ❓ pergunta numerada
+         └── #️ item numerado
          
 🟨 ── assunto
 </pre>
@@ -47,7 +48,8 @@ Para facilitar a organização hierárquica, localização, correlação de item
 Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
 
 <pre>
-- ❓ ─ itens no formato pergunta+resposta; código mestre `lde.qX`
+- #️  ─ itens numerados, fora do formato pergunta+resposta; código mestre `lde.X.X.X.X`
+- ❓ ─ itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
 - 📄 ─ itens, geralmente agrupados em 📑 capítulos mas podem existir diretamente abaixo de partes 🗂️; código mestre `lde.X.X.X`
 - 🟨 ─ reservado para o uso no Indíce geral, denotam títulos de assuntos tratados; referem-se à 📄 itens ou ❓ perguntas; sem código mestre
 - 📑 ─ capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
@@ -59,7 +61,7 @@ Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunt
 
 <pre>
 lde.X.X.X.X
- │  │ │ │ └── sub-item
+ │  │ │ │ └── #️ sub-item
  │  │ │ │
  │  | | └── 📄 item
  |  | |
