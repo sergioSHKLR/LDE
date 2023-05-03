@@ -7089,7 +7089,7 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 ## `lde.6` 🗂️ Parte 6. Pós-textual
 
-### `lde.6.1` 📑 1. Nota explicativa [^27]
+### `lde.6.1` 📄 1. Nota explicativa [^27]
 
 > Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. Revista Espírita de 1868. 1. ed. Rio de Janeiro: FEB, 2005. p. 28, janeiro de 1868.)
 
@@ -14286,6 +14286,7 @@ sociedade e – lde.q772
 excesso de – lde.q736
 
 ---
+#### 📑 Notas de rodapé
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 
@@ -14303,7 +14304,7 @@ excesso de – lde.q736
 
 [^8]: A.K. Ver, na **Introdução**, a explicação sobre o termo **alma**, item **2**.
 
-[^9]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa
+[^9]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa
 
 [^10]: A.K.: Segundo os Espíritos, de todos os mundos que compõem o nosso sistema planetário, a Terra é dos que têm habitantes menos adiantados, física e moralmente. Marte lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos Espíritos superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de Espíritos menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga.
 [^]: O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a Terra e Saturno menos do que Júpiter.
@@ -14311,39 +14312,39 @@ excesso de – lde.q736
 [^]: As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na Terra e as idades não se podem comparar. Evocado, um Espírito que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: “Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à inteligência, tenho trinta anos da idade que tive na Terra”.
 [^]: Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a Deus.
 
-[^11]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^11]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^12]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^12]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^13]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^13]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^14]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^14]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^15]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^15]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
 [^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, `lde.q664`, é do Espírito **São Luís**.
 
-[^17]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^17]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^18]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^18]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^19]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^19]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^20]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^20]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^21]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^21]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^22]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^22]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^23]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^23]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
 [^24]: N.E.: Frase atribuída ao filósofo grego **Sócrates** (470–399 a.C.)
 
 [^25]: N.E.: Na 2ª impressão da 2ª edição de O Livro dos Espíritos, as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo no 1011 a questão que se segue à de no 1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
 
-[^26]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
+[^26]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^27]: N.E.: Esta (`lde.6.1` 📑 1.) Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+[^27]: N.E.: Esta (`lde.6.1` 📄 1.) Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
 ---
 Fim da obra original
