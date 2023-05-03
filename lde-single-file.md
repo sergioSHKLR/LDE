@@ -8,7 +8,7 @@ Nossos projetos almejam a disseminação da Filosofia e Ciência Espírita tal c
 
 ## Apresentação
 
-| Formatação de **lde-single-file.md** |
+### Formatação de **lde-single-file.md** |
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
@@ -103,7 +103,7 @@ Deus abençoa, sempre!
 
 ![Sergio SHKLR](./assinatura.png)
 
-| 🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp) |
+🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
 
 ## Notas
 
@@ -126,8 +126,11 @@ Deus abençoa, sempre!
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato. ⚜️
 
 ---
+
 Começo da obra original
+
 ---
+
 
 # `lde` 📔 O LIVRO DOS ESPÍRITOS
 
@@ -14369,5 +14372,7 @@ excesso de – lde.q736
 [^27]: N.E.: Esta (`lde.6.1` 📄 1.) Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
 ---
+
 Fim da obra original
+
 ---
