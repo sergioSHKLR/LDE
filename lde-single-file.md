@@ -36,17 +36,17 @@ Para facilitar a organização hierárquica, localização, correlação de item
 Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
 
 <pre>
-- #️⃣ ─ (:hash:) itens numerados, fora do formato pergunta+resposta; código mestre `lde.X.X.X.X`
-- ❓ ─ (:question:) itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
-- 📄 ─ (:page_facing_up:) assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente 
-       abaixo de partes 🗂️; código mestre `lde.X.X.X`
-- 🟨 ─ (:yellow_square:) títulos de assuntos tratados; referem-se à #️⃣ itens ou ❓ perguntas; sem código
-       mestre; reservado para uso no Indíce geral
-- 📑 ─ (:bookmark_tabs:) capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
-- 🗂️ ─ (:card_index_dividers:) partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens 
-       individuais; código mestre `lde.X`
-- 📔 ─ (:notebook_with_decorative_cover:) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
-- ⚜️ ─ (:fleur_de_lis:) fim de uma seção
+#️⃣ ─ (:hash:) itens numerados, fora do formato pergunta+resposta; código mestre `lde.X.X.X.X`
+❓ ─ (:question:) itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
+📄 ─ (:page_facing_up:) assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente 
+      abaixo de partes 🗂️; código mestre `lde.X.X.X`
+🟨 ─ (:yellow_square:) títulos de assuntos tratados; referem-se à #️⃣ itens ou ❓ perguntas; sem código
+      mestre; reservado para uso no Indíce geral
+📑 ─ (:bookmark_tabs:) capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
+🗂️ ─ (:card_index_dividers:) partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens 
+      individuais; código mestre `lde.X`
+📔 ─ (:notebook_with_decorative_cover:) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
+⚜️ ─ (:fleur_de_lis:) fim de uma seção
 </pre>
 
 #### Hierarquia
