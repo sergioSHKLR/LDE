@@ -31,7 +31,7 @@ A formatação original da Editora, na  qual perguntas se encontravam em estilo 
 ---
 
 | Formatação original do livro impresso |
-| ------------------------------------- |
+| --- |
 
 X. *Pergunta lorem ipsum dolor sit* amet, consectetur adipiscing elit?
 
@@ -49,32 +49,9 @@ Outra pequenas mudança foi a substituição de quase todos os numerais romanos 
 
 ## Solução
 
-Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo abaixo.
-
----
-
-| Formatação de **lde-single-file.md** |
-| -------------------------- |
-
-`lde.qX` ❓ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
-
- > Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua.
- >
- > > Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
-
-E disse Jesus: 
-
->"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
-
----
-
-Acredito que o formato acima utiliza com muita mais eficiência o realce de certos trechos. Ademais, comentários de Kardec são visualmente ligados à resposta à que se referem.
-
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
-
 ### Estrutura
 | Formatação de **lde-single-file.md** |
-| -------------------------- |
+| --- |
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
