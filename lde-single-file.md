@@ -36,19 +36,21 @@ Para facilitar a organização hierárquica, localização, correlação de item
 Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
 
 <pre>
-- #️  ─ itens numerados, fora do formato pergunta+resposta; código mestre `lde.X.X.X.X`
-- ❓ ─ itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
-- 📄 ─ assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente 
+- #️⃣ ─ (:hash:) itens numerados, fora do formato pergunta+resposta; código mestre `lde.X.X.X.X`
+- ❓ ─ (:question:) itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
+- 📄 ─ (:page_facing_up:) assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente 
        abaixo de partes 🗂️; código mestre `lde.X.X.X`
-- 🟨 ─ títulos de assuntos tratados; referem-se à #️ itens ou ❓ perguntas; sem código
+- 🟨 ─ (:yellow_square:) títulos de assuntos tratados; referem-se à #️⃣ itens ou ❓ perguntas; sem código
        mestre; reservado para uso no Indíce geral
-- 📑 ─ capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
-- 🗂️ ─ partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens 
+- 📑 ─ (:bookmark_tabs:) capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
+- 🗂️ ─ (:card_index_dividers:) partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens 
        individuais; código mestre `lde.X`
-- 📔 ─ a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
+- 📔 ─ (:notebook_with_decorative_cover:) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
+- ⚜️ ─ (:fleur_de_lis:) fim de uma seção
 </pre>
 
 #### Hierarquia
+
 <pre>
 📔 livro
  |
@@ -58,7 +60,7 @@ Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunt
          |
          └── 📄 item
          └── ❓ pergunta numerada
-         └── #️ item numerado
+         └── #️⃣ item numerado
          
 🟨 ── assunto
 </pre>
@@ -67,7 +69,7 @@ Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunt
 
 <pre>
 lde.X.X.X.X
- │  │ │ │ └── #️ item
+ │  │ │ │ └── #️⃣ item
  │  │ │ │
  │  | | └── 📄 assunto
  |  | |
@@ -91,6 +93,7 @@ juntamente com
     |
     └── 📔 livro
 </pre>
+
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
@@ -101,7 +104,7 @@ Deus abençoa, sempre!
 
 ![Sergio SHKLR](./assinatura.png)
 
-Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
+🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
 
 ---
 
