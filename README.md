@@ -45,7 +45,7 @@ Outra pequenas mudança foi a substituição de quase todos os numerais romanos 
 
 ## Solução
 
-### Estrutura
+Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo acima.
 
 ### Formatação de **lde-single-file.md**
 
@@ -59,28 +59,7 @@ E disse Jesus:
 
 >"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
 
----
-
-Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo acima.
-
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
-
-### Legenda
-
-Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
-
-<pre>
-#️⃣ ─ (:question:) itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
-📄 ─ (:page_facing_up:) assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente 
-      abaixo de partes 🗂️; código mestre `lde.X.X.X`
-🟨 ─ (:yellow_square:) títulos de assuntos tratados; referem-se à #️⃣ itens ou #️⃣ perguntas; sem código
-      mestre; reservado para uso no Indíce geral
-📑 ─ (:bookmark_tabs:) capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
-🗂️ ─ (:card_index_dividers:) partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens 
-      individuais; código mestre `lde.X`
-📔 ─ (:notebook_with_decorative_cover:) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
-⚜️ ─ (:fleur_de_lis:) fim de uma seção
-</pre>
+### Estrutura
 
 ### Hierarquia
 
@@ -97,7 +76,21 @@ Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunt
 🟨 ── assunto
 </pre>
 
+#### Legenda
+
+Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
+
+ - #️⃣ ─ (question) itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
+ - 📄 ─ (page_facing_up) assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente abaixo de partes 🗂️; código mestre `lde.X.X.X`
+ - 🟨 ─ (yellow_square) títulos de assuntos tratados; referem-se à #️⃣ itens ou #️⃣ perguntas; sem código mestre; reservado para uso no Indíce geral
+ - 📑 ─ (bookmark_tabs) capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
+ - 🗂️ ─ (card_index_dividers) partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens individuais; código mestre `lde.X`
+ - 📔 ─ (notebook_with_decorative_cover) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
+ - ⚜️ ─ (fleur_de_lis) fim de uma seção
+
 ### Código mestre
+
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 <pre>
 lde.X.X.X
@@ -111,7 +104,7 @@ lde.X.X.X
  └── 📔 livro
 </pre>
 
-juntamente com
+E em especial no LDE, o código para questões é modificado para:
 
 <pre>
 #️⃣ lde.q X a
@@ -124,6 +117,7 @@ juntamente com
     |
     └── 📔 livro
 </pre>
+
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
 ## Controle de Qualidade
