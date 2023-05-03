@@ -4,8 +4,8 @@
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
 
-- um único arquivo                                             |
-- ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes. Voltarão a ser disponíveis quando o RELEASE ficar pronto*)
+| um único arquivo |
+| ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes. Voltarão a ser disponíveis quando o RELEASE ficar pronto*) |
 
 ---
 ## Introdução
@@ -31,7 +31,6 @@ A formatação original da Editora, na  qual perguntas se encontravam em estilo 
 ---
 
 | Formatação original do livro impresso |
-| --- |
 
 X. *Pergunta lorem ipsum dolor sit* amet, consectetur adipiscing elit?
 
@@ -51,7 +50,6 @@ Outra pequenas mudança foi a substituição de quase todos os numerais romanos 
 
 ### Estrutura
 | Formatação de **lde-single-file.md** |
-| --- |
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
@@ -146,7 +144,7 @@ Deus abençoa, sempre!
 
 ![Sergio SHKLR](./assinatura.png)
 
-🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
+| 🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp) |
 
 ---
 
@@ -176,7 +174,7 @@ Deus abençoa, sempre!
 
 Clique abaixo para abrir o livro em sua versão de arquivo único.
 
-- [lde-single-file.md](./lde-single-file.md)
+| [lde-single-file.md](./lde-single-file.md) |
 
 ---
 
