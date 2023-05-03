@@ -149,14 +149,6 @@ Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 
 
 ---
 
-## Versão Alpha (em desenvolvimento)
-
-Clique abaixo para abrir o livro em sua versão de arquivo único.
-
-- [lde-single-file.md](./lde-single-file.md)
-
----
-
 **Notas**
 
 - **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
@@ -176,3 +168,14 @@ Clique abaixo para abrir o livro em sua versão de arquivo único.
 - Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato. ⚜️
+
+---
+
+## Versão Alpha (em desenvolvimento)
+
+Clique abaixo para abrir o livro em sua versão de arquivo único.
+
+- [lde-single-file.md](./lde-single-file.md)
+
+---
+
