@@ -11,9 +11,9 @@ O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de pa
 
 ## Apresentação
 
-Temos o intuito de maximizar a disseminação, pesquisa, interligação, e estudo da Doutrina Espírita, codificada materialmente por Allan Kardec com a direção do Espírito da Verdade. 
+Nosso projeto almeja a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec, traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-Para isso, escolhemos usar a coletânea de Guillon Ribeiro & Manuel Quintão como base, por ser uma das mais encontradas, tanto em formato físico como no digital.  O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil edição que um ePUB, e não usasse DRM (como AZW do Kindle). Formatos proprietários como DOC ou DOCX foram rejeitados. Formatos livre e simples como TXT ou RTF não são capazes de usar imagens ou tabelas. Formatos como ODF não conseguem suportar arquivos de tal comprimento com eficiência. 
+O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil edição que um ePUB, e não usasse DRM (como AZW do Kindle). Formatos proprietários como DOC ou DOCX foram rejeitados. Formatos livre e simples como TXT ou RTF não são capazes de usar imagens ou tabelas. Formatos como ODF não conseguem suportar arquivos de tal comprimento com eficiência. 
 
 Decidi então por adotar o formato MarkDown (.md) pela sua fácil edição. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML/CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
 
@@ -21,7 +21,7 @@ Decidi então por adotar o formato MarkDown (.md) pela sua fácil edição. Adic
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a particionamento do livro em partes, decidi nomear a seção anterior à Parte 1 como Parte 0, e dar o título de Pré-textual. Considerando o Índice Geral uma parte muito valiosa, decidimos por mantê-la e dar-lhe o nome de Parte 6 e o título de Pós-textual.
+Analisando a particionamento do livro em partes, decidi nomear a seção anterior à *Parte 1* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a `lde.5` *Parte 5 - Conclusão*, decidimos por dar-lhes o nome de *Parte 6* e o título de *Pós-textual*.
 
 
 A formatação original da Editora, na  qual perguntas se encontravam em itálico e repostas em fonte normal forçou que trechos em realce se fizessem na fonte oposta, como no exemplo abaixo:
@@ -41,7 +41,7 @@ Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
 
 Obs. Na Pergunta, palavra 'amet' foi realçada em fonte normal, visto que a sentença se encontra em itálico. Na Resposta, palavra 'tempor' foi realçada em itálico, visto que a sentença se encontra em fonte normal.
 
-Outra forma originalmente utilizada para diferenciar os comentários de Kardec das mensagens de Espíritos, foi o de usar uma fonte ligeiramente menor em tamanho. Considero estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização. Adicionalmente, as mesmas não são apropriada para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, <a href="https://github.com/JhonnyBn">JhonnyBn</a>, criou para automatizar o processo.
+Outra forma originalmente utilizada para diferenciar os comentários de Kardec das mensagens de Espíritos, foi o de usar uma fonte ligeiramente menor em tamanho. Considero estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização. Adicionalmente, as mesmas não são apropriada para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
 ## Solução
 
@@ -110,7 +110,7 @@ juntamente com
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um *fork* para incluir *inline links* (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
+Em sequência, converteremos os outros livros da codificação. Ao término de *A Gênese* (GEN), iremos criar um *fork* para incluir *inline links* (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
 
 Clique abaixo para abrir o livro em arquivo único.
 
