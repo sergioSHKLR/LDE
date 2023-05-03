@@ -1,8 +1,17 @@
-# Apresentação
+# O *Livro dos Espíritos* em formato .MD
 
-Nosso projeto almeja a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec, traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+## Introdução
 
-## Legenda explicativa
+Sou um Americano, criado no Brasil até 1997, quando resolvi voltar aos EUA e servir na Marinha. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. 
+
+Nossos projetos almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+
+---
+
+## Apresentação
+
+| Formatação de **lde-single-file.md** |
+| -------------------------- |
 
  X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
@@ -15,11 +24,10 @@ E disse Jesus:
 >"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
 
 ---
-Trechos realçados originalmente em *itálico* foram convertidos para **negrito** (**bold**). Resposta dos Espíritos e citações bíblicas* são *blockquote*. Comentários de Allan Kardec (perguntas individuais e não seções inteiras) são *nested blockquotes*.
 
-* Todas as citações bíblicas serão destacadas e identificadas com o livro, capítulo, e versículo de onde foram tiradas.
+Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo acima.
 
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. O formato hierárquico e o código mestre são explicados abaixo.
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 ### Estrutura de hieraquia
 
@@ -69,9 +77,13 @@ Em caso de erros, por favor, entrem em contato conosco para assegurar que a devi
 
 Deus abençoa, sempre!
 
-![Sergio SHKLR](./assinado.png)
+![Sergio SHKLR](./assinatura.png)
 
-Notas:
+Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
+
+---
+
+**Notas**
 
 - **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
@@ -82,16 +94,19 @@ Notas:
   - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
 
   - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
-   - I – a reprodução
-   - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+    - I – a reprodução
+    - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 - O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
 
 - Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
-- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato.
+- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato. ❦
 
 ---
+Começo da obra original
+---
+
 # `lde` 📔 O LIVRO DOS ESPÍRITOS
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
@@ -14272,10 +14287,6 @@ excesso de – lde.q736
 
 ---
 
-❦
-
-FIM
-
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 
 [^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
@@ -14333,3 +14344,7 @@ FIM
 [^26]: N.E.: Ver `lde.6.1` 📑 1. Nota explicativa.
 
 [^27]: N.E.: Esta (`lde.6.1` 📑 1.) Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+
+---
+Fim da obra original
+---
