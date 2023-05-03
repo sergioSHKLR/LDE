@@ -27,9 +27,7 @@ Analisando a divisão do livro em partes, decidi nomear a seção anterior à *P
 
 A formatação original da Editora, na  qual perguntas se encontravam em estilo itálico e repostas em estilo normal forçou que trechos em realce se fizessem no estilo oposta, como no exemplo abaixo:
 
----
-
-| Formatação original do livro impresso |
+### Formatação original do livro impresso
 
 X. *Pergunta lorem ipsum dolor sit* amet, consectetur adipiscing elit?
 
@@ -48,7 +46,8 @@ Outra pequenas mudança foi a substituição de quase todos os numerais romanos 
 ## Solução
 
 ### Estrutura
-| Formatação de **lde-single-file.md** |
+
+### Formatação de **lde-single-file.md**
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
@@ -141,7 +140,7 @@ Deus abençoa, sempre!
 
 ![Sergio SHKLR](./assinatura.png)
 
-| 🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp) |
+🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
 
 ## Notas
 
@@ -167,4 +166,4 @@ Deus abençoa, sempre!
 
 Clique abaixo para abrir o livro em sua versão de arquivo único.
 
-| [lde-single-file.md](./lde-single-file.md) |
+[lde-single-file.md](./lde-single-file.md)
