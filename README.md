@@ -128,7 +128,7 @@ Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 
 
 ## Versão Alpha (em desenvolvimento)
 
-Clique abaixo para abrir o livro em arquivo único.
+Clique abaixo para abrir o livro em sua versão de arquivo único.
 
 - [lde-single-file.md](./lde-single-file.md)
 
