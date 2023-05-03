@@ -20,7 +20,7 @@ O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (págin
 
 Decidi então por adotar o formato *MarkDown* (.md) pela sua fácil edição e grande capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
 
-##  Análise
+## Análise
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
@@ -67,7 +67,7 @@ Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os tr
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-#### Legenda
+### Legenda
 
 Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
 
@@ -84,7 +84,7 @@ Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunt
 ⚜️ ─ (:fleur_de_lis:) fim de uma seção
 </pre>
 
-#### Hierarquia
+### Hierarquia
 
 <pre>
 📔 livro
@@ -99,7 +99,7 @@ Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunt
 🟨 ── assunto
 </pre>
 
-#### Código mestre
+### Código mestre
 
 <pre>
 lde.X.X.X
@@ -130,13 +130,13 @@ Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos 
 
 ---
 
-### Controle de Qualidade
+## Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-### Agradecimentos
+## Agradecimentos
 
 Em primeiro lugar, Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, Washington D.C, e Palm Beach. Também a Brian Foster (in memoriam) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom SS, de Largo, FL, EUA. João Neto, de Uberlândia, MG, Brasil, programador e quem nos economizou meses em digitação e revisão.
 
@@ -148,7 +148,7 @@ Deus abençoa, sempre!
 
 ---
 
-**Notas**
+## Notas
 
 - **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
