@@ -11,7 +11,7 @@ Nossos projetos almejam a disseminação da Filosofia e Ciência Espírita tal c
 ## Apresentação
 
 | Formatação de **lde-single-file.md** |
-| -------------------------- |
+| --- |
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
