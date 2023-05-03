@@ -29,8 +29,26 @@ Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os tr
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-### Estrutura de hieraquia
+### Estrutura
 
+#### Legenda
+
+Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
+
+<pre>
+- #️  ─ itens numerados, fora do formato pergunta+resposta; código mestre `lde.X.X.X.X`
+- ❓ ─ itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
+- 📄 ─ assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente 
+       abaixo de partes 🗂️; código mestre `lde.X.X.X`
+- 🟨 ─ títulos de assuntos tratados; referem-se à #️ itens ou ❓ perguntas; sem código
+       mestre; reservado para uso no Indíce geral
+- 📑 ─ capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
+- 🗂️ ─ partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens 
+       individuais; código mestre `lde.X`
+- 📔 ─ a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
+</pre>
+
+#### Hierarquia
 <pre>
 📔 livro
  |
@@ -45,25 +63,13 @@ Para facilitar a organização hierárquica, localização, correlação de item
 🟨 ── assunto
 </pre>
 
-Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
-
-<pre>
-- #️  ─ itens numerados, fora do formato pergunta+resposta; código mestre `lde.X.X.X.X`
-- ❓ ─ itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
-- 📄 ─ itens, geralmente agrupados em 📑 capítulos mas podem existir diretamente abaixo de partes 🗂️; código mestre `lde.X.X.X`
-- 🟨 ─ reservado para o uso no Indíce geral, denotam títulos de assuntos tratados; referem-se à 📄 itens ou ❓ perguntas; sem código mestre
-- 📑 ─ capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
-- 🗂️ ─ partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens individuais; código mestre `lde.X`
-- 📔 ─ a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
-</pre>
-
 ### Código mestre
 
 <pre>
 lde.X.X.X.X
- │  │ │ │ └── #️ sub-item
+ │  │ │ │ └── #️ item
  │  │ │ │
- │  | | └── 📄 item
+ │  | | └── 📄 assunto
  |  | |
  │  | └── 📑 capítulo
  |  |
@@ -77,15 +83,14 @@ juntamente com
 <pre>
 ❓ lde.q X a
     │  │ │ │
-    │  | | └── sub-item
+    │  | | └── sub-pergunta
     |  | |
-    │  | └── número
+    │  | └── pergunta
     |  |
     │  └── questão
     |
     └── 📔 livro
 </pre>
-
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
