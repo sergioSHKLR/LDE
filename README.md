@@ -4,8 +4,8 @@
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
 
-| um único arquivo |
-| ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes. Voltarão a ser disponíveis quando o RELEASE ficar pronto*) |
+- um único arquivo
+- ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes. Voltarão a ser disponíveis quando o RELEASE ficar pronto*)
 
 ## Introdução
 
