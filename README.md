@@ -10,7 +10,7 @@ O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de pa
 ---
 ## Introdução
 
-Sou um Americano, criado no Brasil até 1997, quando resolvi voltar aos EUA e servir na Marinha. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. 
+Sou um Americano, criado no Brasil até 1997, quando resolvi voltar aos EUA e servir na Marinha. Aposentado desde 2018, após quase 21 anos de serviço, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. 
 
 Nossos projetos almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
@@ -56,7 +56,7 @@ Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os tr
 | Formatação de **lde-single-file.md** |
 | -------------------------- |
 
- X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
+`lde.qX` ❓ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
  > Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua.
  >
@@ -75,41 +75,55 @@ Para facilitar a organização hierárquica, localização, correlação de item
 ### Estrutura de hieraquia
 
 <pre>
-📔 Livro
+📔 livro
  |
- └── 🗂️ Parte
+ └── 🗂️ parte
      |
-     └── 📑 Capítulo
+     └── 📑 capítulo
          |
-         └── 📄 Item
+         └── 📄 item
+         └── ❓ pergunta
+         
+🟨 ── assunto
+</pre>
+
+Aonde os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
+
+<pre>
+- ❓ ─ itens no formato pergunta+resposta; código mestre `lde.qX`
+- 📄 ─ itens, geralmente agrupados em 📑 capítulos mas podem existir diretamente abaixo de partes 🗂️; código mestre `lde.X.X.X`
+- 🟨 ─ reservado para o uso no Indíce geral, denotam títulos de assuntos tratados; referem-se à 📄 itens ou ❓ perguntas; sem código mestre
+- 📑 ─ capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
+- 🗂️ ─ partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens individuais; código mestre `lde.X`
+- 📔 ─ a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
 </pre>
 
 ### Código mestre
 
 <pre>
-📄 lde.0.00.00
-    │  │  │  │
-    │  |  |  └── 📄 Item
-    |  |  |
-    │  |  └── 📑 Capítulo
-    |  |
-    │  └── 🗂️ Parte
-    |
-    └── 📔 Livro
+lde.X.X.X
+ │  │ │ │
+ │  | | └── 📄 item
+ |  | |
+ │  | └── 📑 capítulo
+ |  |
+ │  └── 🗂️ parte
+ |
+ └── 📔 livro
 </pre>
 
 juntamente com
 
 <pre>
-📄 lde.q X a
+❓ lde.q X a
     │  │ │ │
-    │  | | └── Sub-item
+    │  | | └── sub-item
     |  | |
-    │  | └── Número
+    │  | └── número
     |  |
-    │  └── Questão
+    │  └── questão
     |
-    └── 📔 Livro
+    └── 📔 livro
 </pre>
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
