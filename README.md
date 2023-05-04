@@ -156,7 +156,7 @@ Deus abençoa, sempre!
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato. ⚜️
 
-## Versão Beta (em desenvolvimento)
+## 8. Versão Beta (em desenvolvimento)
 
 Clique abaixo para abrir o livro em sua versão de arquivo único.
 
