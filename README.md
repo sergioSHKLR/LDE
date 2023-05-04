@@ -11,7 +11,7 @@ O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de pa
 
 Sou um Americano, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde resolvi me alistar e servir na Marinha. Aposentado desde 2018, após quase 21 anos de serviço, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros.
 
-Nossos projetos almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela [Federação Espírita Brasileira](https://www.febnet.org.br). Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+Nossos projetos, situados em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
 ## Apresentação
 
