@@ -1,25 +1,25 @@
 # Um dos cinco repositórios de Doutrina.org
 
-## Direto ao ponto                                              
+## 0. Direto ao ponto                                              
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
 
 - um único arquivo
 - ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes. Voltarão a ser disponíveis quando o RELEASE ficar pronto*)
 
-## Introdução
+## 1. Introdução
 
 Sou um Americano, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde resolvi me alistar e servir na Marinha. Aposentado desde 2018, após quase 21 anos de serviço, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros.
 
 Nossos projetos, situados em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-## Apresentação
+## 2. Apresentação
 
 O objetivo seria de criar um arquivo que não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil edição que um eBook (um rígido formato de HTML & CSS dentro de um ZIP), e não usasse *DRM* (como AZW do *Kindle*). Formatos orgânicos aos processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livre e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada. 
 
 Decidi então por adotar o formato *MarkDown* (.md) pela sua fácil edição e grande capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
 
-## Análise
+## 3. Análise
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
@@ -27,7 +27,7 @@ Analisando a divisão do livro em partes, decidi nomear a seção anterior à *P
 
 A formatação original da Editora, na  qual perguntas se encontravam em estilo itálico e repostas em estilo normal forçou que trechos em realce se fizessem no estilo oposta, como no exemplo abaixo:
 
-### Formatação original do livro impresso
+### 3.1 Formatação original do livro impresso
 
 X. *Pergunta lorem ipsum dolor sit* amet, consectetur adipiscing elit?
 
@@ -43,11 +43,11 @@ Outra forma originalmente utilizada para diferenciar os comentários de Kardec d
 
 Outra pequenas mudança foi a substituição de quase todos os numerais romanos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França)
 
-## Solução
+## 4. Solução
 
 Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo acima.
 
-### Formatação de **lde-single-file.md**
+### 4.1 Formatação de **lde-single-file.md**
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
@@ -59,9 +59,9 @@ E disse Jesus:
 
 >"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
 
-### Estrutura
+### 5. Estrutura
 
-### Hierarquia
+#### 5.1 Hierarquia
 
 <pre>
 📔 livro
@@ -76,7 +76,7 @@ E disse Jesus:
 🟨 ── assunto
 </pre>
 
-#### Legenda
+#### 5.2 Legenda
 
 Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
 
@@ -88,7 +88,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
  - 📔 ─ (notebook_with_decorative_cover) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
  - ⚜️ ─ (fleur_de_lis) fim de uma seção
 
-### Código mestre
+### 5.3 Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
@@ -120,13 +120,13 @@ E em especial no LDE, o código para questões é modificado para:
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-## Controle de Qualidade
+## 6. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-## Agradecimentos
+## 7. Agradecimentos
 
 Em primeiro lugar, Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, Washington D.C, e Palm Beach. Também a Brian Foster (in memoriam) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom SS, de Largo, FL, EUA. João Neto, de Uberlândia, MG, Brasil, programador e quem nos economizou meses em digitação e revisão.
 
@@ -136,7 +136,7 @@ Deus abençoa, sempre!
 
 🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💬 [WhatsApp](https://wa.me/12814060950) | 📞 [+1 (281) 406-0950](tel:+12814060950) |
 
-## Notas
+## 8. Notas
 
 - **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
