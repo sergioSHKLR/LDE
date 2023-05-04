@@ -101,7 +101,7 @@ Deus abençoa, sempre!
 
 ![Sergio SHKLR](./assinatura.png)
 
-🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 📞 [+1 (281) 406-0950](tel:+12814060950) (WhatsApp)
+🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💬 [WhatsApp](https://wa.me/12814060950) | 📞 [+1 (281) 406-0950](tel:+12814060950) |
 
 ## Notas
 
