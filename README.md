@@ -88,7 +88,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
  - 📔 ─ (notebook_with_decorative_cover) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
  - ⚜️ ─ (fleur_de_lis) fim de uma seção
 
-### 4.3 Código mestre
+#### 4.2.3. Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
