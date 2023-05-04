@@ -47,7 +47,7 @@ Outra pequenas mudança foi a substituição de quase todos os numerais romanos 
 
 Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo acima.
 
-### 4.1 Formatação de **lde-single-file.md**
+### 4.1. Formatação de **lde-single-file.md**
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
@@ -59,9 +59,9 @@ E disse Jesus:
 
 >"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
 
-### 5. Estrutura
+### 4.2. Estrutura
 
-#### 5.1 Hierarquia
+#### 4.2.1. Hierarquia
 
 <pre>
 📔 livro
@@ -76,7 +76,7 @@ E disse Jesus:
 🟨 ── assunto
 </pre>
 
-#### 5.2 Legenda
+#### 4.2.2. Legenda
 
 Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
 
@@ -88,7 +88,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
  - 📔 ─ (notebook_with_decorative_cover) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
  - ⚜️ ─ (fleur_de_lis) fim de uma seção
 
-### 5.3 Código mestre
+### 4.3 Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
@@ -120,13 +120,13 @@ E em especial no LDE, o código para questões é modificado para:
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-## 6. Controle de Qualidade
+## 5. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-## 7. Agradecimentos
+## 6. Agradecimentos
 
 Em primeiro lugar, Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, Washington D.C, e Palm Beach. Também a Brian Foster (in memoriam) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom SS, de Largo, FL, EUA. João Neto, de Uberlândia, MG, Brasil, programador e quem nos economizou meses em digitação e revisão.
 
@@ -136,7 +136,7 @@ Deus abençoa, sempre!
 
 🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💬 [WhatsApp](https://wa.me/12814060950) | 📞 [+1 (281) 406-0950](tel:+12814060950) |
 
-## 8. Notas
+## 7. Notas
 
 - **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
