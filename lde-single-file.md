@@ -1,14 +1,14 @@
 # O *Livro dos Espíritos* em formato .MD
 
-## Introdução
+## 1. Introdução
 
 Sou um Americano, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde resolvi me alistar e servir na Marinha. Aposentado desde 2018, após quase 21 anos de serviço, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. 
 
 Nossos projetos, situados em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-## Apresentação
+## 2. Apresentação
 
-### Formatação de **lde-single-file.md** |
+### 2.1. Formatação de texto
 
 `lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
 
@@ -26,9 +26,9 @@ Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os tr
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-### Estrutura
+### 2.2. Estrutura
 
-### Hierarquia
+#### 2.2.1. Hierarquia
 
 <pre>
 📔 livro
@@ -39,11 +39,10 @@ Para facilitar a organização hierárquica, localização, correlação de item
          |
          └── 📄 item
          └── #️⃣ pergunta numerada
-
 🟨 ── assunto
 </pre>
 
-#### Legenda
+#### 2.2.2. Legenda
 
 Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
 
@@ -55,7 +54,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
  - 📔 ─ (notebook_with_decorative_cover) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
  - ⚜️ ─ (fleur_de_lis) fim de uma seção
 
-### Código mestre
+#### 2.2.3. Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
@@ -87,13 +86,13 @@ E em especial no LDE, o código para questões é modificado para:
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-## Controle de Qualidade
+## 3. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-## Agradecimentos
+## 4. Agradecimentos
 
 Em primeiro lugar, Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, Washington D.C, e Palm Beach. Também a Brian Foster (in memoriam) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom SS, de Largo, FL, EUA. João Neto, de Uberlândia, MG, Brasil, programador e quem nos economizou meses em digitação e revisão.
 
@@ -103,7 +102,7 @@ Deus abençoa, sempre!
 
 🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💬 [WhatsApp](https://wa.me/12814060950) | 📞 [+1 (281) 406-0950](tel:+12814060950) |
 
-## Notas
+## 5. Notas
 
 - **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
@@ -128,7 +127,6 @@ Deus abençoa, sempre!
 Começo da obra original
 
 ---
-
 
 # `lde` 📔 O LIVRO DOS ESPÍRITOS
 
