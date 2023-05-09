@@ -85,7 +85,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior elemento ou g
 
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
-| ✝️ | trecho bíblico | livro, capítulo, versículo | latin_cross |
+| ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
 | 🟨 | assunto | agrupa #️⃣ questões e/ou 📄 seções | yellow_square |
 | ⚜️ | fim | parte final de um elemento | fleur_de_lis |
 
