@@ -106,7 +106,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior elemento ou g
 ✝️ ── trecho bíblico
 </pre>
 
-#### 6.4. Código mestre
+### 6.4. Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
