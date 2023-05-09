@@ -1,133 +1,3 @@
-# O *Livro dos Espíritos* em formato .MD
-
-## 1. Introdução
-
-Sou um Americano, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde resolvi me alistar e servir na Marinha. Aposentado desde 2018, após quase 21 anos de serviço, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. 
-
-Nossos projetos, situados em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. Decidimos utilzar a coletânea traduzida do orginal francês para o português por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
-
-## 2. Apresentação
-
-### 2.1. Formatação de texto
-
-`lde.qX` #️⃣ X. Pergunta lorem ipsum dolor sit **amet**, consectetur adipiscing elit? 
-
- > Resposta sed do eiusmod **tempor** incididunt ut labore et dolore magna aliqua.
- >
- > > Comentário de Kardec Duis aute irure dolor in reprehenderit in voluptate.
-
-E disse Jesus: 
-
->"A cada um, de acordo com suas obras." Romanos, cap. 2, vers. 6
-
----
-
-Decidi formatar todo o texto em estilo normal com as seguintes exceções: Os trechos originalmente em *itálico* foram mudados para **negrito**; respostas dos Espíritos (entre aspas) e quotações bíblicas serão destacadas em *blockquote*, e identificadas com livro, capítulo e versículo. Comentários de Kardec viraram *nested blockquotes* como no exemplo acima.
-
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
-
-### 2.2. Estrutura
-
-#### 2.2.1. Hierarquia
-
-<pre>
-📔 livro
- |
- └── 🗂️ parte
-     |
-     └── 📑 capítulo
-         |
-         └── 📄 item
-         └── #️⃣ pergunta numerada
-🟨 ── assunto
-</pre>
-
-#### 2.2.2. Legenda
-
-Os emojis abaixo denotam a seguinte arrumação, do menor ao maior conjunto:
-
- - #️⃣ ─ (question) itens numerados, dentro do formato pergunta+resposta; código mestre `lde.qX`
- - 📄 ─ (page_facing_up) assuntos, geralmente agrupados em 📑 capítulos mas podem existir diretamente abaixo de partes 🗂️; código mestre `lde.X.X.X`
- - 🟨 ─ (yellow_square) títulos de assuntos tratados; referem-se à #️⃣ itens ou #️⃣ perguntas; sem código mestre; reservado para uso no Indíce geral
- - 📑 ─ (bookmark_tabs) capítulos, contendo um ou mais 📄 itens; código mestre `lde.X.X`
- - 🗂️ ─ (card_index_dividers) partes, contendo um ou mais 📑 capítulos, podendo também ter 📄 itens individuais; código mestre `lde.X`
- - 📔 ─ (notebook_with_decorative_cover) a obra básica, contendo partes, capitulos e itens. Código mestre `lde`
- - ⚜️ ─ (fleur_de_lis) fim de uma seção
-
-#### 2.2.3. Código mestre
-
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
-
-<pre>
-lde.X.X.X
- │  │ │ │
- │  | | └── 📄 assunto
- |  | |
- │  | └── 📑 capítulo
- |  |
- │  └── 🗂️ parte
- |
- └── 📔 livro
-</pre>
-
-E em especial no LDE, o código para questões é modificado para:
-
-<pre>
-#️⃣ lde.q X a
-    │  │ │ │
-    │  | | └── sub-pergunta
-    |  | |
-    │  | └── pergunta
-    |  |
-    │  └── questão
-    |
-    └── 📔 livro
-</pre>
-
-Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
-
-## 3. Controle de Qualidade
-
-Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (**tablets** e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
-
-Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
-
-## 4. Agradecimentos
-
-Em primeiro lugar, Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, Washington D.C, e Palm Beach. Também a Brian Foster (in memoriam) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom SS, de Largo, FL, EUA. João Neto, de Uberlândia, MG, Brasil, programador e quem nos economizou meses em digitação e revisão.
-
-Deus abençoa, sempre!
-
-![Sergio SHKLR](./assinatura.png)
-
-🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💬 [WhatsApp](https://wa.me/12814060950) | 📞 [+1 (281) 406-0950](tel:+12814060950) |
-
-## 5. Notas
-
-- **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
-
-- Não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
-
-- Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
-
-  - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
-
-  - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
-    - I – a reprodução
-    - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
-
-- O nome ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços, produtos, ou informações.
-
-- Nossos projetos não tem fins lucrativos. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
-
-- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de Emojis, que podem sofrer de desvios de formato. ⚜️
-
----
-
-Começo da obra original
-
----
-
 # `lde` 📔 O LIVRO DOS ESPÍRITOS
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
@@ -14305,8 +14175,9 @@ sociedade e – lde.q772
 ##### 🟨 Zelo
 
 excesso de – lde.q736
-
+⚜️
 ---
+
 #### 📑 Notas de rodapé
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
@@ -14367,8 +14238,4 @@ excesso de – lde.q736
 
 [^27]: N.E.: Esta (`lde.6.1` 📄 1.) Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
----
-
-Fim da obra original
-
----
+FIM ⚜️
