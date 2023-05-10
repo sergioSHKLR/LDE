@@ -14,7 +14,7 @@ Intencionamos criar versões mais dinâmicas das Obras Básicas, utilizando emoj
 
 ## 2. Análise
 
-Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso (sem necessidade de um aplicativo especial) e edição que um eBook (um rígido formato de HTML & CSS dentro de um ZIP), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livre e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
+Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso quem um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
 ## 3. Formato de arquivo
 
@@ -26,7 +26,7 @@ Decidimos utilizar a coletânea traduzida do original francês para o português
 
 ### 4.1 Formatação de texto (livro impresso)
 
-Usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não são separados ou atribuídos com livro, capítulo e versículo.
+Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não são separados ou atribuídos com livro, capítulo e versículo.
 
 ---
 
@@ -42,7 +42,7 @@ Como se vê, na pergunta, a palavra 'Deus' foi realçada em estilo normal, visto
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
-## 5. Análise
+## 5. Método
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
@@ -54,7 +54,7 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções: Os
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, icones, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França).
 
-### 6.1. Formatação de texto (lde-single-file.md)
+### 6.1. Formatação de texto (1lde-single-file.md)
 
 `lde.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
 
@@ -79,7 +79,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior elemento ou g
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `lde.X` | card_index_dividers |
 | 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `lde` | notebook_with_decorative_cover |
 
-* Existem várias exceções como 59, 100-110, 222, 872.
+* Existem várias exceções como 59, 100-113, 222, 257, 455 e 872.
 
 ##### 6.2.1. Adicionais
 
@@ -160,7 +160,7 @@ Deus abençoa, sempre!
 
 ## 10. Notas
 
-- **lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+- **1lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (hierarquia, código mestre, diagramação, uso de ícones, e tipografia) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
 - Não exercemos direitos sobre as obras originais, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
 
@@ -184,4 +184,4 @@ Deus abençoa, sempre!
 
 Clique abaixo para abrir o livro em sua versão de arquivo único.
 
-[lde-single-file.md](./lde-single-file.md)
+[1lde-single-file.md](./1lde-single-file.md)
