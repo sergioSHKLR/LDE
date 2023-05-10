@@ -262,7 +262,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus: 
 
-**"Têm olhos e não veem; têm ouvidos e não ouvem."** ✝️ Mateus, cap. 13, vers. 14
+>**"Têm olhos e não veem; têm ouvidos e não ouvem."** ✝️ Mateus, cap. 13, vers. 14
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
@@ -4636,7 +4636,7 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 
 `lde.q664` 664. Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso, como podem as nossas preces lhes proporcionar alívio e abreviar os sofrimentos? Têm elas o poder de abrandar a Justiça de Deus?
 
-> “A prece não pode ter por efeito mudar os desígnios de Deus, mas a alma por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do Espírito sofredor Espíritos melhores, que o vão esclarecer, consolar e dar-lhe esperanças. Jesus orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces.” ✝️ Mateus, cap. 18, vers. 12-14
+> “A prece não pode ter por efeito mudar os desígnios de Deus, mas a alma por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do Espírito sofredor Espíritos melhores, que o vão esclarecer, consolar e dar-lhe esperanças. Jesus orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces.”
 
 `lde.q665` 665. Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho?
 
@@ -5235,7 +5235,8 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 
 `lde.q764` 764. Disse Jesus: Quem matou com a espada, pela espada perecerá. Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
-> “Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, como acerca de outras. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, nesta existência ou em outra. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também: Perdoai aos vossos inimigos? E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, na mesma proporção em que houverdes perdoado, compreendei-o bem?” ✝️ Mateus, cap. 6, vers. 14-15
+> “Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, como acerca de outras. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, nesta existência ou em outra. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também: 
+>"Perdoai aos vossos inimigos? E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, na mesma proporção em que houverdes perdoado, compreendei-o bem?” ✝️ Mateus, cap. 6, vers. 14-15
 
 `lde.q765` 765. Que se deve pensar da pena de morte imposta em nome de Deus?
 
@@ -5600,7 +5601,8 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 >
 > > A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhantes são provas tão grandes e tão escorregadias como a desgraça, porque, quanto mais rico e poderoso é ele, tanto mais obrigações tem que cumprir e tanto mais abundantes são os meios de que dispõe para fazer o bem e o mal. Deus experimenta o pobre pela resignação e o rico pelo emprego que dá aos seus bens e ao seu poder.
 > >
-> > A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse: “Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus”. (266) ✝️ Mateus, cap. 19, vers. 16-30
+> > A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse: 
+> >“Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus”. (266) ✝️ Mateus, cap. 19, vers. 16-30
 
 ---
 
