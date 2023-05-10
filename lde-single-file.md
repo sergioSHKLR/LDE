@@ -260,7 +260,9 @@ A uma delas serve de base a linguagem de certos Espíritos, que não parece dign
 
 Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quanto julgar do caráter de um povo pelo que se diz e faz numa reunião de desatinados ou de gente de má nota, com os quais não entretêm relações as pessoas circunspectas nem as sensatas. Os que assim julgam se colocam na situação do estrangeiro que, chegando a uma grande capital pelo mais abjeto dos seus arrabaldes, julgasse de todos os habitantes pelos costumes e linguagem desse bairro ínfimo. No mundo dos Espíritos também há uma sociedade boa e uma sociedade má; dignem-se, os que daquele modo se pronunciam, de estudar o que se passa entre os Espíritos de escol e se convencerão de que a cidade celeste não contém apenas a escória popular.
 
-Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus: **Têm olhos e não veem; têm ouvidos e não ouvem.**
+Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus: 
+
+**"Têm olhos e não veem; têm ouvidos e não ouvem."** ✝️ livro, cap. X, vers. Y
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
@@ -274,7 +276,7 @@ Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conheci
 
 Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho: 
 
-> *Os grandes serão rebaixados e os pequenos serão elevados. (**Mateus X Y**)*
+>Os grandes serão rebaixados e os pequenos serão elevados. ✝️ Mateus, cap. X, vers. Y
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados.
 
@@ -1271,7 +1273,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 >
 >> A palavra **demônio** não implica a ideia de Espírito mau, senão na sua acepção moderna, porquanto o termo grego **daïmon**, donde ela derivou, significa **gênio**, inteligência e se aplicava aos seres incorpóreos, bons ou maus, indistintamente.Por demônios, segundo a acepção vulgar da palavra, se entendem seres essencialmente malfazejos. Como todas as coisas, eles teriam sido criados por Deus. Ora, Deus, que é soberanamente justo e bom, não pode ter criado seres prepostos, por sua natureza, ao mal e condenados por toda a eternidade. Se não fossem obra de Deus, existiriam, como Ele, desde toda a eternidade, ou então haveria muitas potências soberanas.A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de Deus, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de Deus suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do Cristo. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 >
->> *“Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido” (**Mateus, cap. 24, vers. 29 e 34**).*
+>> “Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido” ✝️ Mateus, cap. 24, vers. 29 e 34
 >
 >> Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 >
@@ -1989,7 +1991,7 @@ Vimos de apreciar a alma com relação ao seu passado e ao seu presente. Se a co
 
 Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de Deus. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma religião que proclama ser Deus a bondade e a razão por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da ciência, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma religião fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a religião e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da Terra e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
-> *Quando desciam da montanha (depois da transfiguração), Jesus lhes fez esta recomendação: Não faleis a ninguém do que acabastes de ver, até que o Filho do homem tenha ressuscitado dentre os mortos. Perguntaram-lhe então seus discípulos: — Por que dizem os escribas ser preciso que primeiro venha Elias? — Respondeu-lhes Jesus: — É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem. — Compreenderam então seus discípulos que era de João Batista que Ele lhes falava. (**Mateus, 17:9 a 13**.)*
+> Quando desciam da montanha (depois da transfiguração), Jesus lhes fez esta recomendação: Não faleis a ninguém do que acabastes de ver, até que o Filho do homem tenha ressuscitado dentre os mortos. Perguntaram-lhe então seus discípulos: — Por que dizem os escribas ser preciso que primeiro venha Elias? — Respondeu-lhes Jesus: — É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem. — Compreenderam então seus discípulos que era de João Batista que Ele lhes falava. ✝️ Mateus, cap. 17, vers. 9 a 13.
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
 
@@ -2001,9 +2003,9 @@ Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente ado
 
 Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que Deus, por misericórdia, lhe concedeu.
 
-As próprias palavras de Jesus não permitem dúvida a tal respeito. Eis o que se lê no **Evangelho de João, 3:3 a 7**:
+As próprias palavras de Jesus não permitem dúvida a tal respeito. 
 
->*Respondendo a Nicodemos, disse Jesus: – Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus. Disse-lhe Nicodemos: — Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu Jesus: — Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.*
+>*Respondendo a Nicodemos, disse Jesus: – Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus. Disse-lhe Nicodemos: — Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu Jesus: — Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**. ✝️ João, cap. 3, vers. 3 a 7
 
 (Ver, adiante, o parágrafo “Ressurreição da carne”, questão 1010.) ⚜️
 
@@ -2357,7 +2359,8 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 `lde.q277a` 275. a) Como devemos entender essa elevação e esse rebaixamento?
 
->“Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus: aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?”
+>“Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus: 
+>> "Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?” ✝️ Mateus, cap. 23, vers. 12
 
 `lde.q278` 276. Aquele que foi grande na Terra e que, como Espírito, vem a achar-se entre os de ordem inferior, experimenta com isso alguma humilhação?
 
@@ -3459,7 +3462,8 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 `lde.q469` 469. Por que meio podemos neutralizar a influência dos maus Espíritos?
 
->“Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer: ‘Senhor! não nos deixes cair em tentação, mas livra-nos do mal’.”
+>“Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer: 
+>>"‘Senhor! não nos deixes cair em tentação, mas livra-nos do mal’." ✝️ Mateus, cap. 6, vers. 13
 
 `lde.q470` 470. Os Espíritos, que ao mal procuram induzir-nos e que põem assim em prova a nossa firmeza no bem, procedem desse modo cumprindo missão? E, se assim é, cabe-lhes alguma responsabilidade?
 
@@ -4453,7 +4457,7 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 
 `lde.q632` 632. Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e do mal e crer que pratica o bem quando em realidade pratica o mal?
 
-> “Jesus disse: vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.”
+> “Jesus disse: vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.” ✝️ Mateus, cap. 7, vers. 12
 
 `lde.q633` 633. A regra do bem e do mal, que se poderia chamar de **reciprocidade** ou de **solidariedade**, é inaplicável ao proceder pessoal do homem para consigo mesmo. Achará ele, na lei natural, a regra desse proceder e um guia seguro?
 
@@ -4514,7 +4518,7 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 
 `lde.q646` 646. Estará subordinado a determinadas condições o mérito do bem que se pratique? Por outra: será de diferentes graus o mérito que resulta da prática do bem?
 
-> “O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. ‘Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra’, disse-o Jesus, a propósito do óbolo da viúva.” ⚜️
+> “O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. ‘Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra’, disse-o Jesus, a propósito do óbolo da viúva.” ✝️ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4 ⚜️
 
 ---
 
@@ -4631,7 +4635,7 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 
 `lde.q664` 664. Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso, como podem as nossas preces lhes proporcionar alívio e abreviar os sofrimentos? Têm elas o poder de abrandar a Justiça de Deus?
 
-> “A prece não pode ter por efeito mudar os desígnios de Deus, mas a alma por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do Espírito sofredor Espíritos melhores, que o vão esclarecer, consolar e dar-lhe esperanças. Jesus orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces.”
+> “A prece não pode ter por efeito mudar os desígnios de Deus, mas a alma por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do Espírito sofredor Espíritos melhores, que o vão esclarecer, consolar e dar-lhe esperanças. Jesus orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces.” ✝️ Mateus, cap. 18, vers. 12-14
 
 `lde.q665` 665. Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho?
 
@@ -5230,7 +5234,7 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 
 `lde.q764` 764. Disse Jesus: Quem matou com a espada, pela espada perecerá. Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
-> “Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, como acerca de outras. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, nesta existência ou em outra. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também: Perdoai aos vossos inimigos? E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, na mesma proporção em que houverdes perdoado, compreendei-o bem?”
+> “Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, como acerca de outras. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, nesta existência ou em outra. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também: Perdoai aos vossos inimigos? E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, na mesma proporção em que houverdes perdoado, compreendei-o bem?” ✝️ Mateus, cap. 6, vers. 14-15
 
 `lde.q765` 765. Que se deve pensar da pena de morte imposta em nome de Deus?
 
@@ -5595,7 +5599,7 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 >
 > > A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhantes são provas tão grandes e tão escorregadias como a desgraça, porque, quanto mais rico e poderoso é ele, tanto mais obrigações tem que cumprir e tanto mais abundantes são os meios de que dispõe para fazer o bem e o mal. Deus experimenta o pobre pela resignação e o rico pelo emprego que dá aos seus bens e ao seu poder.
 > >
-> > A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse: “Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus”. (266)
+> > A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse: “Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus”. (266) ✝️ Mateus, cap. 19, vers. 16-30
 
 ---
 
@@ -5909,7 +5913,9 @@ Há fatalidade, portanto, nos acontecimentos que se apresentam, por serem estes 
 
 No que concerne à morte é que o homem se acha submetido, em absoluto, à inexorável lei da fatalidade, por isso que não pode escapar à sentença que lhe marca o termo da existência, nem ao gênero de morte que haja de cortar a esta o fio.
 
-Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que Jesus nos ensinou por meio da sublime prece que é a Oração dominical, quando manda que digamos: “Não nos deixes sucumbir à tentação, mas livra-nos do mal”.
+Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que Jesus nos ensinou por meio da sublime prece que é a Oração dominical, quando manda que digamos: 
+
+>“Não nos deixes sucumbir à tentação, mas livra-nos do mal”. ✝️ Mateus, cap. 6, vers. 9-13
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
 
@@ -7034,7 +7040,7 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 
 > Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. Revista Espírita de 1863 – 1. ed. Rio de Janeiro: FEB, 2005. – janeiro de 1863.)
 >
-> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (O Evangelho segundo o Espiritismo, cap. XVII, item 3, p. 348.)
+> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (O Evangelho segundo o Espiritismo, cap. 17, item 3, p. 348.)
 
 É importante compreender, também, que os textos publicados por Allan Kardec na Revista Espírita tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo XI, item 43, do livro A Gênese, o Codificador explica essa metodologia:
 
