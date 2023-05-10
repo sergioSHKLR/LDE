@@ -8,16 +8,16 @@
 
 **O LIVRO DOS ESPÍRITOS**
 
-Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade —segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns —recebidos e coordenados por **Allan Kardec**. 
+Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns — recebidos e coordenados por **Allan Kardec**. 
+
+Tradução de Guillon Ribeiro
 
 Título do original francês
 *Le livre des esprits*
 (Paris, 18 de abril de 1857)
 
-Tradução de Guillon Ribeiro
-
-Copyright (c) 1944 by
-Federação Espírita Brasileira (FEB)
+Copyright © 1944 by
+Federação Espírita Brasileira — FEB
 ISBN 978-85-7328-728-8
 
 ---
@@ -44,7 +44,7 @@ Pensam outros que a alma é o princípio da inteligência, agente universal do q
 
 Segundo outros, finalmente, a alma é um ser moral, distinto, independente da matéria e que conserva sua individualidade após a morte. Esta acepção é, sem contradita, a mais geral, porque, debaixo de um nome ou de outro, a ideia desse ser que sobrevive ao corpo se encontra, no estado de crença instintiva, não derivada de ensino, entre todos os povos, qualquer que seja o grau de civilização de cada um. Essa doutrina, segundo a qual a alma é **causa** e não **efeito**, é a dos espiritualistas.
 
-Sem discutir o mérito de tais opiniões e considerando apenas o lado linguístico da questão, diremos que estas três aplicações do termo **alma** correspondem a três ideias distintas, que demandariam, para serem expressas, três vocábulos diferentes. Aquela palavra tem, pois, tríplice acepção e cada um, do seu ponto de vista, pode com razão defini-la como o faz. O mal está em a língua dispor somente de uma palavra para exprimir três ideias. A fim de evitar todo equívoco, seria necessário restringir-se a acepção do termo **alma** a uma daquelas ideias. A escolha é indiferente; o que se faz mister é o entendimento entre todos, reduzindo-se o problema a uma simples questão de convenção. Julgamos mais lógico tomá-lo na sua acepção vulgar e por isso chamamos **ALMA** **ao ser imaterial e individual que em nós reside e sobrevive ao corpo**. Mesmo quando esse ser não existisse, não passasse de produto da imaginação, ainda assim seria preciso um termo para designá-lo.
+Sem discutir o mérito de tais opiniões e considerando apenas o lado linguístico da questão, diremos que estas três aplicações do termo **alma** correspondem a três ideias distintas, que demandariam, para serem expressas, três vocábulos diferentes. Aquela palavra tem, pois, tríplice acepção e cada um, do seu ponto de vista, pode com razão defini-la como o faz. O mal está em a língua dispor somente de uma palavra para exprimir três ideias. A fim de evitar todo equívoco, seria necessário restringir-se a acepção do termo **alma** a uma daquelas ideias. A escolha é indiferente; o que se faz mister é o entendimento entre todos, reduzindo-se o problema a uma simples questão de convenção. Julgamos mais lógico tomá-lo na sua acepção vulgar e por isso chamamos ALMA **ao ser imaterial e individual que em nós reside e sobrevive ao corpo**. Mesmo quando esse ser não existisse, não passasse de produto da imaginação, ainda assim seria preciso um termo para designá-lo.
 
 Na ausência de um vocábulo especial para tradução de cada uma das duas outras ideias a que corresponde a palavra alma, denominamos:
 
