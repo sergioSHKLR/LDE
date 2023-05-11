@@ -20,6 +20,7 @@ Copyright © 1944 by
 Federação Espírita Brasileira — FEB
 ISBN 978-85-7328-728-8
 ⚜️
+
 ---
 
 ### `lde.0.2` 📑 Introdução
