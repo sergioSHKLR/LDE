@@ -64,6 +64,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 E disse Jesus: 
 
 “A cada um, de acordo com suas obras.”
+
 ✝️ Romanos, cap. 2, vers. 6
 
 ---
