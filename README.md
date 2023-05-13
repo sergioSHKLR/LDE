@@ -165,7 +165,7 @@ Deus abençoa, sempre!
 
 ![Sergio SHKLR](./assinatura.png)
 
-🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💌 [sergio@shklr.org](mailto:sergio@shklr.org)
+🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=Em relação ao repo 1lde)
 
 ## 10. Notas
 
