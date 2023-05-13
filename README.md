@@ -93,7 +93,7 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior elemento ou g
 
 ### 6.3. Hierarquia 
 
-<pre>
+```
 📔 livro
  |
  └── 🗂️ parte
@@ -106,13 +106,13 @@ Os emojis abaixo denotam a seguinte arrumação, do menor ao maior elemento ou g
 
 🟨 ── assunto
 ✝️ ── trecho bíblico
-</pre>
+```
 
 ### 6.4. Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-<pre>
+```
 lde.X.X.X
  │  │ │ │
  │  | | └── 📄 seção
@@ -122,11 +122,11 @@ lde.X.X.X
  │  └── 🗂️ parte
  |
  └── 📔 livro
-</pre>
+```
 
 E em especial no LDE, o código para questões é modificado para:
 
-<pre>
+```
 #️⃣ lde.q X a
     │  │ │ │
     │  | | └── sub-questão
@@ -136,7 +136,7 @@ E em especial no LDE, o código para questões é modificado para:
     │  └── questão 
     |
     └── 📔 livro
-</pre>
+```
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
