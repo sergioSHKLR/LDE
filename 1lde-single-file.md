@@ -1,6 +1,6 @@
 # `lde` 📔 O LIVRO DOS ESPÍRITOS
 
-## `lde.0` 🗂️ Parte 0. Pré-textualPré-textualPré-textualPré-textual
+## `lde.0` 🗂️ Parte 0. Pré-textual
 
 ### `lde.0.1` 📃 Folha de rosto
 
