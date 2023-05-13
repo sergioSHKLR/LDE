@@ -8,7 +8,7 @@ Filosofia Espiritualista
 
 **O LIVRO DOS ESPÍRITOS**
 
-Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns — recebidos e coordenados por Allan Kardec. 
+Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futurae o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns — recebidos e coordenados por Allan Kardec. 
 
 Tradução de Guillon Ribeiro
 
@@ -709,7 +709,7 @@ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário
 
 `lde.q42` #️⃣ 42. Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
-> “Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.”
+> “Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.” ⚜️
 
 ---
 
