@@ -6,7 +6,7 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado e em duas opções:
 
 - um único arquivo
-- ~~separado em 253 partes~~ (*defasadas em virtude de mudanças recentes no arquivo único, que é a fonte das partes. Voltarão a ser disponíveis quando o RELEASE ficar pronto*)
+- separado em 253 partes
 
 ## 1. Objetivo
 
