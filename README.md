@@ -165,7 +165,7 @@ Deus abençoa, sempre!
 ![Sergio SHKLR](./sign-dark.png#gh-dark-mode-only)
 ![Sergio SHKLR](./sign-light.png#gh-light-mode-only)
 
-🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde)
+🎩 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde)
 
 ## 10. Notas
 
@@ -181,9 +181,9 @@ Deus abençoa, sempre!
 
  - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
 
- - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
-  - I – a reprodução
-  - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+    - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+       - I – a reprodução
+       - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
