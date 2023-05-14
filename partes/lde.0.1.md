@@ -9,9 +9,7 @@ Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos E
 Tradução de Guillon Ribeiro
 
 Título do original francês
-
 Le livre des esprits
-
 (Paris, 18 de abril de 1857)
 
 Copyright © 1944 by
