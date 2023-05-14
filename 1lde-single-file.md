@@ -2,7 +2,7 @@
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
 
-### `lde.0.1` 📃 Folha de rosto
+### `lde.0.01` 📃 Folha de rosto
 
 Filosofia Espiritualista
 
@@ -23,11 +23,11 @@ ISBN 978-85-7328-728-8
 
 ---
 
-### `lde.0.2` 📑 Introdução
+### `lde.0.02` 📑 Introdução
 
 ---
 
-#### `lde.0.2.01` 📃 Introdução 01
+#### `lde.0.02.01` 📃 Introdução 01
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **espiritismo**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo **espiritualismo** a acepção que lhe é própria. Diremos, pois, que a Doutrina **Espírita** ou o **Espiritismo** tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
@@ -36,7 +36,7 @@ Como especialidade, **O Livro dos Espíritos** contém a Doutrina Espírita; com
 
 ---
 
-#### `lde.0.2.02` 📃 Introdução 02
+#### `lde.0.02.02` 📃 Introdução 02
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra **alma**. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
@@ -65,7 +65,7 @@ Passemos agora ao objeto principal desta instrução preliminar.
 
 ---
 
-#### `lde.0.2.03` 📃 Introdução 03
+#### `lde.0.02.03` 📃 Introdução 03
 
 Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contraditores. Vamos tentar responder a algumas das objeções destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a pretensão de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de boa-fé, aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo leviano e precipitadamente formado.
 
@@ -94,7 +94,7 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 ---
 
-#### `lde.0.2.04` 📃 Introdução 04
+#### `lde.0.02.04` 📃 Introdução 04
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior
 
@@ -117,7 +117,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 ---
 
-#### `lde.0.2.05` 📃 Introdução 05
+#### `lde.0.02.05` 📃 Introdução 05
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -134,7 +134,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 
 ---
 
-#### `lde.0.2.06` 📃 Introdução 06
+#### `lde.0.02.06` 📃 Introdução 06
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -219,7 +219,7 @@ Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos E
 
 ---
 
-#### `lde.0.2.07` 📃 Introdução 07
+#### `lde.0.02.07` 📃 Introdução 07
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -240,7 +240,7 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 ---
 
-#### `lde.0.2.08` 📃 Introdução 08
+#### `lde.0.02.08` 📃 Introdução 08
 
 Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita, que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam a priori, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
@@ -251,7 +251,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 
 ---
 
-#### `lde.0.2.09` 📃 Introdução 09
+#### `lde.0.02.09` 📃 Introdução 09
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 
@@ -264,7 +264,7 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 
 ---
 
-#### `lde.0.2.10` 📃 Introdução 10
+#### `lde.0.02.10` 📃 Introdução 10
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -285,7 +285,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ---
 
-#### `lde.0.2.11` 📃 Introdução 11
+#### `lde.0.02.11` 📃 Introdução 11
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
@@ -300,7 +300,7 @@ devendo esta sentença entender-se com relação à categoria em que cada um de 
 
 ---
 
-#### `lde.0.2.12` 📃 Introdução 12
+#### `lde.0.02.12` 📃 Introdução 12
 
 Um fato demonstrado pela observação e confirmado pelos próprios Espíritos é o de que os Espíritos inferiores muitas vezes usurpam nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, Sócrates, Júlio César, Carlos Magno, Fénelon, Napoleão, Washington entre outros, tenham realmente animado essas personagens? Esta dúvida existe mesmo entre alguns adeptos fervorosos da Doutrina Espírita, os quais admitem a intervenção e a manifestação dos Espíritos, mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, bem difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão autêntico como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -321,7 +321,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ---
 
-#### `lde.0.2.13` 📃 Introdução 13
+#### `lde.0.02.13` 📃 Introdução 13
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
 
@@ -336,14 +336,14 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 ---
 
-#### `lde.0.2.14` 📃 Introdução 14
+#### `lde.0.02.14` 📃 Introdução 14
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**.
 ⚜️
 
 ---
 
-#### `lde.0.2.15` 📃 Introdução 15
+#### `lde.0.02.15` 📃 Introdução 15
 
 Há também pessoas que vêem perigo por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a razão alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao Espiritismo. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos loucos e maníacos os estudos da Matemática, da Medicina, da Música, da Filosofia e outros têm produzido? Dever-se-ia, em consequência, banir esses estudos? Que prova isso? Nos trabalhos corporais, estropiam-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da inteligência, estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao Espírito. Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da plenitude das suas faculdades. No seu gênero, ele é, como homem, um mártir do trabalho.
 
@@ -358,7 +358,7 @@ Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo 
 
 ---
 
-#### `lde.0.2.16` 📃 Introdução 16
+#### `lde.0.02.16` 📃 Introdução 16
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 
@@ -385,7 +385,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 ---
 
-#### `lde.0.2.17` 📃 Introdução 17
+#### `lde.0.02.17` 📃 Introdução 17
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 
@@ -399,7 +399,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ---
 
-### `lde.0.3` 📑 Prolegômenos
+### `lde.0.03` 📑 Prolegômenos
 
 ![Cepa Espírita](./vine.png)
 
@@ -6560,7 +6560,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.1.1` 📃 Felicidade e infelicidade relativas
+#### `lde.4.01.01` 📃 Felicidade e infelicidade relativas
 
 `lde.q920` #️⃣ 920. Pode o homem gozar de completa felicidade na Terra?
 
@@ -6644,7 +6644,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.1.2` 📃 Perda dos entes queridos
+#### `lde.4.01.02` 📃 Perda dos entes queridos
 
 `lde.q934` #️⃣ 934. A perda dos entes que nos são caros não constitui para nós legítima causa de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
 
@@ -6669,7 +6669,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.1.3` 📃 Decepções. Ingratidão. Afeições destruídas
+#### `lde.4.01.03` 📃 Decepções. Ingratidão. Afeições destruídas
 
 `lde.q937` #️⃣ 937. Para o homem de coração, as decepções oriundas da ingratidão e da fragilidade dos laços da amizade não são também uma fonte de amarguras?
 
@@ -6687,7 +6687,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.1.4` 📃 Uniões antipáticas
+#### `lde.4.01.04` 📃 Uniões antipáticas
 
 `lde.q939` #️⃣ 939. Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, entre os encarnados, frequentemente só de um lado há afeição e que o mais sincero amor se vê acolhido com indiferença e até com repulsão? Como é, além disso, que a mais viva afeição de dois seres pode mudar-se em antipatia e mesmo em ódio?
 
@@ -6706,7 +6706,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.1.5` 📃 Temor da morte
+#### `lde.4.01.05` 📃 Temor da morte
 
 `lde.q941` #️⃣ 941. Para muitas pessoas, o temor da morte é uma causa de perplexidade. Donde lhes vêm esse temor, tendo elas diante de si o futuro?
 
@@ -6724,7 +6724,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.1.6` 📃 Desgosto da vida. Suicídio
+#### `lde.4.01.06` 📃 Desgosto da vida. Suicídio
 
 `lde.q943` #️⃣ 943. Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de certos indivíduos?
 
@@ -6820,7 +6820,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.1` 📃 O nada. Vida futura
+#### `lde.4.02.01` 📃 O nada. Vida futura
 
 `lde.q958` #️⃣ 958. Por que tem o homem, instintivamente, horror ao nada?
 
@@ -6840,7 +6840,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.2` 📃 Intuição das penas e gozos futuros
+#### `lde.4.02.02` 📃 Intuição das penas e gozos futuros
 
 `lde.q960` #️⃣ 960. Donde se origina a crença, com que deparamos entre todos os povos, na existência de penas e recompensas porvindouras?
 
@@ -6860,7 +6860,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.3` 📃 Intervenção de Deus nas penas e recompensas
+#### `lde.4.02.03` 📃 Intervenção de Deus nas penas e recompensas
 
 `lde.q963` #️⃣ 963. Com cada homem, pessoalmente, Deus se ocupa? Não é Ele muito grande e nós muito pequeninos para que cada indivíduo em particular tenha, a seus olhos, alguma importância?
 
@@ -6884,7 +6884,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.4` 📃 Natureza das penas e gozos futuros
+#### `lde.4.02.04` 📃 Natureza das penas e gozos futuros
 
 `lde.q965` #️⃣ 965. Têm alguma coisa de material as penas e gozos da alma depois da morte?
 
@@ -6995,7 +6995,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.5` 📃 Penas temporais
+#### `lde.4.02.05` 📃 Penas temporais
 
 `lde.q983` #️⃣ 983. Não experimenta sofrimentos materiais o Espírito que expia suas faltas em nova existência? Será então exato dizer-se que, depois da morte, só há para a alma sofrimentos morais?
 
@@ -7032,7 +7032,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.6` 📃 Expiação e arrependimento
+#### `lde.4.02.06` 📃 Expiação e arrependimento
 
 `lde.q990` #️⃣ 990. O arrependimento se dá no estado corporal ou no estado espiritual?
 
@@ -7106,7 +7106,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.7` 📃 Duração das penas futuras
+#### `lde.4.02.07` 📃 Duração das penas futuras
 
 `lde.q1003` #️⃣ 1003. É arbitrária ou sujeita a uma lei qualquer a duração dos sofrimentos do culpado, na vida futura?
 
@@ -7179,7 +7179,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.8` 📃 Ressurreição da carne
+#### `lde.4.02.08` 📃 Ressurreição da carne
 
 `lde.q1010` #️⃣ 1010. O dogma da ressurreição da carne será a consagração da reencarnação ensinada pelos Espíritos?
 
@@ -7198,7 +7198,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-#### `lde.4.2.9` 📃 Paraíso, inferno e purgatório
+#### `lde.4.02.09` 📃 Paraíso, inferno e purgatório
 
 `lde.q1012` #️⃣ 1012. Haverá no Universo lugares circunscritos para as penas e gozos dos Espíritos, segundo seus merecimentos?
 
@@ -7365,77 +7365,6 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 ---
 
-## `lde.6` 🗂️ Parte 6. Pós-textual
-
-### `lde.6.01` 📃 1. Nota explicativa [^27]
-
-> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. Revista Espírita de 1868. 1. ed. Rio de Janeiro: FEB, 2005. p. 28, janeiro de 1868.)
-
-A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
-
-A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
-
-1. O Livro dos Espíritos (1857),
-
-2. O Livro dos Médiuns (1861),
-
-3. O Evangelho segundo o Espiritismo (1864),
-
-4. O Céu e o Inferno (1865),
-
-5. A Gênese (1868),
-
-além da obra O Que é o Espiritismo (1859), de uma série de opúsculos e 136 edições da Revista Espírita (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro Obras Póstumas (1890).
-
-O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
-
-1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
-
-2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
-
-3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
-
-4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
-
-Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
-
-Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de O Livro dos Espíritos — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral. 424134424134
-
-O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
-
-Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.” (Revista Espírita, 1862, p. 401). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
-
-Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
-
-> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (O Livro dos Espíritos, item 207, p. 176.)
->
-> [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (Revista Espírita, 1861, p. 432.)
->
-> Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (Revista Espírita, 1867, p. 231.)
->
-> Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (A Gênese, cap. I, item 36, p. 42-43. Vide também Revista Espírita, 1867, p. 373.)
-
-Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
-
-É baseado nesses informes “científicos” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
-
-> Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. Revista Espírita de 1863 – 1. ed. Rio de Janeiro: FEB, 2005. – janeiro de 1863.)
->
-> O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (O Evangelho segundo o Espiritismo, cap. 17, item 3, p. 348.)
-
-É importante compreender, também, que os textos publicados por Allan Kardec na Revista Espírita tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo XI, item 43, do livro A Gênese, o Codificador explica essa metodologia:
-
-> Quando, na Revista Espírita de janeiro de 1862, publicamos um artigo sobre a “interpretação da doutrina dos anjos decaídos”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (A Gênese, cap. XI, item 43, Nota, p. 292.)
-
-Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
-
-> É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (Revista Espírita, 1862, p. 38.)
-
-Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral. ⚜️
-
-**A Editora**
-
----
 ## `lde.6` 🗂️ Parte 6. Pós-textual
 
 ### `lde.6.01` 📃 1. Nota explicativa [^27]
