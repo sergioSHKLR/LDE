@@ -14566,7 +14566,7 @@ excesso de – lde.q736
 
 [^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
 
-[^3]: A.K.: A cepa que se vê nesta página é o **fac-símile** da que os Espíritos desenharam.
+[^3]: A.K.: A cepa que se vê nesta página é uma representação artística da que os Espíritos desenharam.
 
 [^4]: A.K.: O texto colocado entre aspas, em seguida às perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
 
