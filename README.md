@@ -63,7 +63,9 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 `lde.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
->> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ⚜️
+>> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
+
+⚜️
 
 E disse Jesus: 
 
@@ -142,7 +144,7 @@ E em especial no LDE, o código para questões é modificado de `lde.X.X.X.X` pa
   └── 📔 livro
 ```
 
-Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
 ## 7. Controle de Qualidade
 
