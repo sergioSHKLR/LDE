@@ -399,7 +399,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ### `lde.0.3` 📑 Prolegômenos
 
-<img src="./vine.png" style="zoom:50%;" />
+![Cepa Espírita](./vine.png)
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
