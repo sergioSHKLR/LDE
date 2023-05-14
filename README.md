@@ -1,7 +1,7 @@
 # O LIVRO DOS ESPÍRITOS
 Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
-## 0. Direto ao ponto                                              
+## 0. Direto ao ponto                       
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
@@ -19,7 +19,7 @@ Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição 
 
 ## 4. Obra original
 
-optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar  gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
 ### 4.1 Formatação de texto (livro impresso)
 
@@ -54,7 +54,7 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 - respostas dos Espíritos (entre aspas) serão destacadas em *blockquote* (linha cinza vertical, simples),
 - comentários de Kardec serão *nested blockquotes* (linha cinza vertical, dupla),
 - trechos bíblicos serão identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo,
-- trechos originalmente realçados em *itálico* foram mudados para **negrito**;  
+- trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
@@ -101,12 +101,12 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 📔 livro
  |
  └── 🗂️ parte
+   |
+   └── 📑 capítulo
      |
-     └── 📑 capítulo
-         |
-         └── 📄 seção
-             |         
-             └── #️⃣ questão
+     └── 📄 seção
+       |     
+       └── #️⃣ questão
 
 🟨 ── assunto
 ✝️ ── trecho bíblico
@@ -118,12 +118,12 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 ```
 lde.X.X.X
- │  │ │ │
- │  | | └── 📄 seção
- |  | |
- │  | └── 📑 capítulo
- |  |
- │  └── 🗂️ parte
+ │ │ │ │
+ │ | | └── 📄 seção
+ | | |
+ │ | └── 📑 capítulo
+ | |
+ │ └── 🗂️ parte
  |
  └── 📔 livro
 ```
@@ -132,14 +132,14 @@ E em especial no LDE, o código para questões é modificado de `lde.X.X.X.X` pa
 
 ```
 #️⃣ lde.q X a
-    │  │ │ │
-    │  | | └── sub-questão
-    |  | |
-    │  | └── número
-    |  |
-    │  └── questão 
-    |
-    └── 📔 livro
+  │ │ │ │
+  │ | | └── sub-questão
+  | | |
+  │ | └── número
+  | |
+  │ └── questão 
+  |
+  └── 📔 livro
 ```
 
 Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
@@ -177,11 +177,11 @@ Deus abençoa, sempre!
 
 - Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
 
-  - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
+ - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
 
-  - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
-    - I – a reprodução
-    - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+ - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+  - I – a reprodução
+  - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
