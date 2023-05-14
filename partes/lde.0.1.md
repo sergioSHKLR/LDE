@@ -13,9 +13,7 @@ Le livre des esprits
 (Paris, 18 de abril de 1857)
 
 Copyright © 1944 by
-
 Federação Espírita Brasileira — FEB
-
 ISBN 978-85-7328-728-8
 ⚜️
 
