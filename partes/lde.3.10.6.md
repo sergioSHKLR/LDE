@@ -81,6 +81,7 @@
 
 `lde.q867` 867. Donde vem a expressão: Nascer sob uma boa estrela?
 
-> “Antiga superstição, que prendia às estrelas os destinos dos homens. Alegoria que algumas pessoas fazem a tolice de tomar ao pé da letra.” ⚜️
+> “Antiga superstição, que prendia às estrelas os destinos dos homens. Alegoria que algumas pessoas fazem a tolice de tomar ao pé da letra.”
+⚜️
 
 ---

@@ -18,6 +18,7 @@
 
 `lde.q745` 745. Que se deve pensar daquele que suscita a guerra para proveito seu?
 
-> “Grande culpado é esse e **muitas existências** lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja morte tenha causado para satisfazer à sua ambição.” ⚜️
+> “Grande culpado é esse e **muitas existências** lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja morte tenha causado para satisfazer à sua ambição.”
+⚜️
 
 ---

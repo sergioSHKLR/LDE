@@ -31,6 +31,7 @@
 
 `lde.q912` 912. Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 
-> “Praticar a abnegação.” ⚜️
+> “Praticar a abnegação.”
+⚜️
 
 ---

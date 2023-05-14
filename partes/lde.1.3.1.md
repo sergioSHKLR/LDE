@@ -25,6 +25,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 
 42. Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
->“Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.” ⚜️
+>“Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.”
+⚜️
 
 ---

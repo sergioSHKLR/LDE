@@ -77,6 +77,7 @@
 
 `lde.q535b` 535. b) No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 
-> “Assim é, de fato, mas importa ver o fim. Pagarão bem caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar.” ⚜️
+> “Assim é, de fato, mas importa ver o fim. Pagarão bem caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar.”
+⚜️
 
 ---

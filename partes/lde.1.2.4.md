@@ -7,6 +7,7 @@
 
 `lde.q36` #️⃣ 36. O vácuo absoluto existe em alguma parte no Espaço universal?
 
-> “Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos.” ⚜️
+> “Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos.”
+⚜️
 
 ---

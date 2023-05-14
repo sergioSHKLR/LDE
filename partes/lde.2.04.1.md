@@ -30,6 +30,7 @@
 
 `lde.q170` 170. O que fica sendo o Espírito depois da sua última encarnação?
 
-> “Espírito bem-aventurado; puro Espírito.” ⚜️
+> “Espírito bem-aventurado; puro Espírito.”
+⚜️
 
 ---

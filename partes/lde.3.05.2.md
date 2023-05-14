@@ -31,6 +31,7 @@
 
 `lde.q710` 710. Nos mundos de mais apurada organização, têm os seres vivos necessidade de alimentar-se?
 
-> “Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos.” ⚜️
+> “Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos.”
+⚜️
 
 ---

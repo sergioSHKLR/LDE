@@ -42,7 +42,8 @@
 
 `lde.q162` 162. Após a decapitação, por exemplo, conserva o homem por alguns instantes a consciência de si mesmo?
 
-> “Não raro a conserva durante alguns minutos, até que a vida orgânica se tenha extinguido completamente. Mas, também, quase sempre a apreensão da morte lhe faz perder aquela consciência antes do momento do suplício.” ⚜️
+> “Não raro a conserva durante alguns minutos, até que a vida orgânica se tenha extinguido completamente. Mas, também, quase sempre a apreensão da morte lhe faz perder aquela consciência antes do momento do suplício.”
+⚜️
 
 ---
 

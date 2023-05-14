@@ -12,6 +12,7 @@
 
 `lde.q778` 778. Pode o homem retrogradar para o estado de natureza?
 
-> “Não, o homem tem que progredir incessantemente e não pode volver ao estado de infância. Desde que progride, é porque Deus assim o quer. Pensar que possa retrogradar à sua primitiva condição fora negar a lei do progresso.” ⚜️
+> “Não, o homem tem que progredir incessantemente e não pode volver ao estado de infância. Desde que progride, é porque Deus assim o quer. Pensar que possa retrogradar à sua primitiva condição fora negar a lei do progresso.”
+⚜️
 
 ---

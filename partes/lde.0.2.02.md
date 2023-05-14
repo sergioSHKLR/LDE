@@ -22,6 +22,7 @@ Evitar-se-ia igualmente a confusão, mesmo usando-se do termo **alma** nos três
 
 Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra **alma**, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
 
-Passemos agora ao objeto principal desta instrução preliminar. ⚜️
+Passemos agora ao objeto principal desta instrução preliminar.
+⚜️
 
 ---

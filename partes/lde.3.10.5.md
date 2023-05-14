@@ -33,6 +33,7 @@
 
 `lde.q850` 850. A posição social não constitui às vezes, para o homem, obstáculo à inteira liberdade de seus atos?
 
-> “É fora de dúvida que o mundo tem suas exigências. Deus é justo e tudo leva em conta. Deixa-vos, entretanto, a responsabilidade de nenhum esforço empregardes para vencer os obstáculos.” ⚜️
+> “É fora de dúvida que o mundo tem suas exigências. Deus é justo e tudo leva em conta. Deixa-vos, entretanto, a responsabilidade de nenhum esforço empregardes para vencer os obstáculos.”
+⚜️
 
 ---

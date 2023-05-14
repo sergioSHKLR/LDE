@@ -64,6 +64,7 @@
 
 `lde.q343` 343. Os que vemos, em sonho, que nos testemunham afeto e que se nos apresentam com desconhecidos semblantes, são alguma vez os Espíritos amigos que nos seguem os passos na vida?
 
-> “Muito frequentemente são eles que vos vêm visitar, como ides visitar um encarcerado.” ⚜️
+> “Muito frequentemente são eles que vos vêm visitar, como ides visitar um encarcerado.”
+⚜️
 
 ---

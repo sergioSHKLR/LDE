@@ -16,6 +16,7 @@
 `lde.q20` #️⃣ 20. Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
 > “Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender.”
-> > Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro. ⚜️
+> > Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
+⚜️
 
 ---

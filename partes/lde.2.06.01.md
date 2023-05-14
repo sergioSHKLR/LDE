@@ -52,6 +52,7 @@
 
 `lde.q233` 233. Os Espíritos já purificados descem aos mundos inferiores?
 
-> “Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.” ⚜️
+> “Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.”
+⚜️
 
 ---

@@ -14,6 +14,7 @@
 
 `lde.q652` 652. Poder-se-á considerar a lei natural como fonte originária da adoração?
 
-> “A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes.” ⚜️
+> “A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes.”
+⚜️
 
 ---

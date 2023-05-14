@@ -38,6 +38,7 @@
 
 `lde.q736` 736. Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto à destruição dos animais?
 
-> “Esse excesso, no tocante a um sentimento louvável em si mesmo, se torna abusivo e o seu merecimento fica neutralizado por abusos de muitas outras espécies. Entre tais povos, há mais temor supersticioso do que verdadeira bondade.” ⚜️
+> “Esse excesso, no tocante a um sentimento louvável em si mesmo, se torna abusivo e o seu merecimento fica neutralizado por abusos de muitas outras espécies. Entre tais povos, há mais temor supersticioso do que verdadeira bondade.”
+⚜️
 
 ---

@@ -29,6 +29,7 @@
 
 `lde.q618` 618. São as mesmas, para todos os mundos, as leis divinas?
 
-> “A razão está a dizer que devem ser apropriadas à natureza de cada mundo e adequadas ao grau de progresso dos seres que os habitam.” ⚜️
+> “A razão está a dizer que devem ser apropriadas à natureza de cada mundo e adequadas ao grau de progresso dos seres que os habitam.”
+⚜️
 
 ---

@@ -84,6 +84,7 @@
 >
 > ✝️ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4
 >
-> , disse-o Jesus, a propósito do óbolo da viúva.”  ⚜️
+> , disse-o Jesus, a propósito do óbolo da viúva.” 
+⚜️
 
 ---

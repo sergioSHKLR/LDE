@@ -44,6 +44,7 @@ Aos dotados desta faculdade ela se afigura tão natural, como a que todos temos 
 
 O poder da vista dupla varia, indo desde a sensação confusa até a percepção clara e nítida das coisas presentes ou ausentes. Quando rudimentar, confere a certas pessoas o tato, a perspicácia, uma certa segurança nos atos, a que se pode dar o qualificativo de **precisão de golpe de vista moral**. Um pouco desenvolvida, desperta os pressentimentos. Mais desenvolvida, mostra os acontecimentos que deram ou estão para dar-se.
 
-O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais. ⚜️
+O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
+⚜️
 
 ---

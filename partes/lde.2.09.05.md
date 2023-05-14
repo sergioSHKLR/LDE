@@ -29,6 +29,7 @@
 
 `lde.q488a` 488. a) São sensíveis à afeição que lhes conservamos?
 
-> “Muito sensíveis, mas esquecem-se dos que os olvidam.” ⚜️
+> “Muito sensíveis, mas esquecem-se dos que os olvidam.”
+⚜️
 
 ---

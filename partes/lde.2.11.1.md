@@ -30,6 +30,7 @@
 
 `lde.q591` 591. Nos mundos superiores, as plantas são de natureza mais perfeita, como os outros seres?
 
-> “Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens.” ⚜️
+> “Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens.”
+⚜️
 
 ---

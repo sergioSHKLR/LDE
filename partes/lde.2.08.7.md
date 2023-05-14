@@ -40,6 +40,7 @@
 
 `lde.q454a` 454. a) Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
-> “Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente.” ⚜️
+> “Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente.”
+⚜️
 
 ---

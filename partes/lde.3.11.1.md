@@ -36,6 +36,7 @@
 
 `lde.q879` 879. Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 
-> “O do verdadeiro justo, a exemplo de Jesus, porquanto praticaria também o amor do próximo e a caridade, sem os quais não há verdadeira justiça.” ⚜️
+> “O do verdadeiro justo, a exemplo de Jesus, porquanto praticaria também o amor do próximo e a caridade, sem os quais não há verdadeira justiça.”
+⚜️
 
 ---

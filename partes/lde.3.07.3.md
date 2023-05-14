@@ -10,6 +10,7 @@
 
 `lde.q775` 775. Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 
-> “Uma recrudescência do egoísmo.” ⚜️
+> “Uma recrudescência do egoísmo.”
+⚜️
 
 ---

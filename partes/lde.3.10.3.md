@@ -6,6 +6,7 @@
 
 `lde.q834` 834. É responsável o homem pelo seu pensamento?
 
-> “Perante Deus, é. Somente a Deus sendo possível conhecê-lo, Ele o condena ou absolve, segundo a sua justiça.” ⚜️
+> “Perante Deus, é. Somente a Deus sendo possível conhecê-lo, Ele o condena ou absolve, segundo a sua justiça.”
+⚜️
 
 ---

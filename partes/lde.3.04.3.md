@@ -10,6 +10,7 @@
 
 `lde.q694` 694. Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, para satisfação da sensualidade?
 
-> “Isso prova a predominância do corpo sobre a alma e quanto o homem é material.” ⚜️
+> “Isso prova a predominância do corpo sobre a alma e quanto o homem é material.”
+⚜️
 
 ---

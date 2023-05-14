@@ -16,6 +16,7 @@
 
 `lde.q95` 95. O invólucro semimaterial do Espírito tem formas determinadas e pode ser perceptível?
 
-> “Tem a forma que o Espírito queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável.” ⚜️
+> “Tem a forma que o Espírito queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável.”
+⚜️
 
 ---

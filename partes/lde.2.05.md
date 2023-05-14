@@ -110,6 +110,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 >
 >✝️ João, cap. 3, vers. 3 a 7
 
-(lde.q1010) ⚜️
+(lde.q1010)
+⚜️
 
 ---

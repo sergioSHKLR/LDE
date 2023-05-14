@@ -70,6 +70,7 @@
 
 `lde.q412` 412. Pode a atividade do Espírito, durante o repouso, ou o sono corporal, fatigar o corpo?
 
-> “Pode, pois que o Espírito se acha preso ao corpo qual balão cativo ao poste. Assim como as sacudiduras do balão abalam o poste, a atividade do Espírito reage sobre o corpo e pode fatigá-lo.” ⚜️
+> “Pode, pois que o Espírito se acha preso ao corpo qual balão cativo ao poste. Assim como as sacudiduras do balão abalam o poste, a atividade do Espírito reage sobre o corpo e pode fatigá-lo.”
+⚜️
 
 ---

@@ -60,6 +60,7 @@
 
 `lde.q438` 438. O uso que um sonâmbulo faz da sua faculdade influi no estado do seu Espírito depois da morte?
 
-> “Muito, como o bom ou mau uso que o homem faz de todas as faculdades com que Deus o dotou.” ⚜️
+> “Muito, como o bom ou mau uso que o homem faz de todas as faculdades com que Deus o dotou.”
+⚜️
 
 ---

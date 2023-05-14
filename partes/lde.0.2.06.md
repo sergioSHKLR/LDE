@@ -78,6 +78,7 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 
 34. mas ensinam também não haver faltas irremissíveis que a expiação não possa apagar. Meio de consegui-lo encontra o homem nas diferentes existências que lhe permitem avançar, conforme os seus desejos e esforços, na senda do progresso, para a perfeição, que é o seu destino final.
 
-Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos Espíritos superiores. Vejamos agora as objeções que se lhe contrapõem. ⚜️
+Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos Espíritos superiores. Vejamos agora as objeções que se lhe contrapõem.
+⚜️
 
 ---

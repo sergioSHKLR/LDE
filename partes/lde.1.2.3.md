@@ -36,6 +36,7 @@
 
 `lde.q34a` #️⃣ 34. a) Essa forma é constante ou variável?
 
-> “Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.” ⚜️
+> “Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.”
+⚜️
 
 ---

@@ -16,6 +16,7 @@
 
 `lde.q797` 797. Como poderá o homem ser levado a reformar suas leis?
 
-> “Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera!” ⚜️
+> “Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera!”
+⚜️
 
 ---

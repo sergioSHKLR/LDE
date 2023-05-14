@@ -14,6 +14,7 @@
 
 `lde.q458` 458. Que pensam de nós os Espíritos que nos cercam e observam?
 
-> “Depende. Os levianos riem das pequenas partidas que vos pregam e zombam das vossas impaciências. Os Espíritos sérios se condoem dos vossos reveses e procuram ajudar-vos.” ⚜️
+> “Depende. Os levianos riem das pequenas partidas que vos pregam e zombam das vossas impaciências. Os Espíritos sérios se condoem dos vossos reveses e procuram ajudar-vos.”
+⚜️
 
 ---

@@ -10,6 +10,7 @@ Em certos casos, as respostas revelam tal cunho de sabedoria, de profundeza e de
 
 Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossas observações; que não ocorrem misteriosamente, mas, ao contrário, à luz meridiana, que toda gente pode ver e comprovar; que não constituem privilégio de um único indivíduo e que milhares de pessoas repetem todos os dias. Esses efeitos têm necessariamente uma causa e, do momento que detonam a ação de uma inteligência e de uma vontade, saem do domínio puramente físico.
 
-Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem. ⚜️
+Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem.
+⚜️
 
 ---

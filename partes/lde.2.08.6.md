@@ -30,6 +30,7 @@
 
 `lde.q446` 446. Poderiam tais fenômenos adequar-se às ideias materialistas?
 
-> “Aquele que os estudar de boa-fé e sem prevenções não poderá ser materialista, nem ateu.” ⚜️
+> “Aquele que os estudar de boa-fé e sem prevenções não poderá ser materialista, nem ateu.”
+⚜️
 
 ---
