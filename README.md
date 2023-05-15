@@ -103,12 +103,12 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 📔 livro
  |
  └── 🗂️ parte
-   |
-   └── 📑 capítulo
-     |
-     └── 📃 seção
-       |     
-       └── #️⃣ questão
+      |
+      └── 📑 capítulo
+           |
+           └── 📃 seção
+                |     
+                └── #️⃣ questão
 
 🟨 ─ assunto
 ✝️ ─ trecho bíblico
