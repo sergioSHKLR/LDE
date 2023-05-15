@@ -106,12 +106,12 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
    |
    └── 📑 capítulo
      |
-     └── 📄 seção
+     └── 📃 seção
        |     
        └── #️⃣ questão
 
-🟨 ── assunto
-✝️ ── trecho bíblico
+🟨 ─ assunto
+✝️ ─ trecho bíblico
 ```
 
 ### 6.4. Código mestre
@@ -120,12 +120,12 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 ```
 lde.X.X.X
- │ │ │ │
- │ | | └── 📄 seção
- | | |
- │ | └── 📑 capítulo
- | |
- │ └── 🗂️ parte
+ |  | | |
+ |  | | └── 📃 seção
+ |  | | 
+ |  | └── 📑 capítulo
+ |  |
+ |  └── 🗂️ parte
  |
  └── 📔 livro
 ```
@@ -133,15 +133,13 @@ lde.X.X.X
 E em especial no LDE, o código para questões é modificado de `lde.X.X.X.X` para:
 
 ```
-#️⃣ lde.q X a
-  │ │ │ │
-  │ | | └── sub-questão
-  | | |
-  │ | └── número
-  | |
-  │ └── questão 
-  |
-  └── 📔 livro
+lde.qXa
+ |   ||
+ |   |└── sub-questão
+ |   |
+ |   └── #️⃣ questão
+ |
+ └── 📔 livro
 ```
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
