@@ -189,10 +189,4 @@ Deus abençoa, sempre!
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
----
-
-## Versão Beta (em desenvolvimento contínuo)
-
-Clique abaixo para abrir o livro.
-
-[1lde-single-file.md](./1lde-single-file.md)
+⚜️
