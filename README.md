@@ -45,7 +45,7 @@ Consideramos estas escolhas de formatações demasiada sutis (não chamam a aten
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à *Parte 1* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a `lde.5` *Parte 5 - Conclusão*, decidimos por dar-lhes o nome de *Parte 6* e o título de *Pós-textual*. Em contraste com outras iniciativas, e inéditamente, iremos manter o Indíce Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à *Parte 1* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a `lde.5` *Parte 5 - Conclusão*, decidimos por dar-lhes o nome de *Parte 6* e o título de *Pós-textual*. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
 
 ## 6. Padronização
 
