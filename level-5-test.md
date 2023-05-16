@@ -11,12 +11,12 @@ O que é Deus?
 
 > “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-##### `lde.q2` #️⃣ 2
+##### `lde.q2` #️⃣ 2 <a id="lde.q2"></a>
 Que se deve entender por infinito?
 
 > “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-##### `lde.q3` #️⃣ 3
+##### `lde.q3` #️⃣ 3 <a id="lde.q3"></a>
 Poder-se-ia dizer que Deus é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
@@ -56,7 +56,7 @@ ideias humanas de – `lde.q13`
 
 igualdade de direitos perante – `lde.q878a`
 
-infinito e – `lde.q3`
+infinito e – <a href="#lde.q3">lde-q3</a>
 
 intervenção de – `lde.q963`
 
