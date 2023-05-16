@@ -1,6 +1,4 @@
-[TOC]
-
-# `lde` 📔 O LIVRO DOS ESPÍRITOS
+# `lde` 📔 O LIVRO DOS ESPÍRITOS (working copy)
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
 
@@ -9100,7 +9098,7 @@ cada pessoa e – `lde.q963`
 
 cepa como emblema do trabalho de – `lde.0.3`
 
-conceito de – `lde.q1`, `lde.q668`
+conceito de – [`lde.q1`](#`lde.q1`-#️⃣-1), `lde.q668`
 
 criação de espíritos e – `lde.q115`
 
