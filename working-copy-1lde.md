@@ -9100,7 +9100,7 @@ cada pessoa e – `lde.q963`
 
 cepa como emblema do trabalho de – `lde.0.3`
 
-conceito de – `lde.q1`, `lde.q668`
+conceito de – [`lde.q1`](#ldeq1-%EF%B8%8F%E2%83%A3-1), `lde.q668`
 
 criação de espíritos e – `lde.q115`
 
