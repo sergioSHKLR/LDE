@@ -1,3 +1,5 @@
+[TOC]
+
 # `lde` 📔 O LIVRO DOS ESPÍRITOS
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
@@ -466,15 +468,18 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.1` 📃 Deus e o infinito
 
-`lde.q1` #️⃣ 1. O que é Deus?
+##### `lde.q1` #️⃣ 1
+O que é Deus?
 
 > “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-`lde.q2` #️⃣ 2. Que se deve entender por infinito?
+##### `lde.q2` #️⃣ 2
+Que se deve entender por infinito?
 
 > “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-`lde.q3` #️⃣ 3. Poder-se-ia dizer que Deus é o infinito?
+##### `lde.q3` #️⃣ 3
+Poder-se-ia dizer que Deus é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
 >
