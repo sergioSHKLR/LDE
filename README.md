@@ -5,6 +5,8 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
+Em desenvolvimento semanal, *release* mais recente - 05.23b
+
 ## 1. Objetivo
 
 Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
