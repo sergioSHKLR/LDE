@@ -5,6 +5,8 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
+Em desenvolvimento semanal, *release* mais recente - 05.23b
+
 ## 1. Objetivo
 
 Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
@@ -19,7 +21,7 @@ Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição 
 
 ## 4. Obra original
 
-optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
 ### 4.1 Formatação de texto (livro impresso)
 
@@ -45,7 +47,7 @@ Consideramos estas escolhas de formatações demasiada sutis (não chamam a aten
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à *Parte 1* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a `lde.5` *Parte 5 - Conclusão*, decidimos por dar-lhes o nome de *Parte 6* e o título de *Pós-textual*. Em contraste com outras iniciativas, e inéditamente, iremos manter o Indíce Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `lde.1` 🗂️ Parte 1 - título como `lde.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `lde.5` 🗂️ Parte 5 - Conclusão, decidimos por dar-lhes o nome de `lde.6` 🗂️ Parte 6 e o título de Pós-textual. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
 
 ## 6. Padronização
 
@@ -58,12 +60,14 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
-### 6.1. Formatação de texto (1lde-single-file.md)
+### 6.1. Formatação de texto (1lde.md)
 
 `lde.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
->> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ⚜️
+>> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
+
+⚜️
 
 E disse Jesus: 
 
@@ -81,9 +85,9 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 |---|---|---|---|---|---|---|
 | 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `lde` | notebook_with_decorative_cover |
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `lde.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes | 📄 seções | 🗂️ partes | `lde.X.X` | bookmark_tabs |
-| 📄 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `lde.X.X.X` | page_facing_up |
-| #️⃣ | questão | pergunta, reposta e comentário * | - | 📄 seções | `lde.qX` | question |
+| 📑 | capítulo | subdivisão de partes | 📃 seções | 🗂️ partes | `lde.X.X` | bookmark_tabs |
+| 📃 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `lde.X.X.X` | page_facing_up |
+| #️⃣ | questão | pergunta, reposta e comentário * | - | 📃 seções | `lde.qX` | hash |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
@@ -92,8 +96,8 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
-| 🟨 | assunto | agrupa #️⃣ questões e/ou 📄 seções | yellow_square |
-| ⚜️ | fim | parte final de um elemento | fleur_de_lis |
+| 🟨 | assunto | agrupa #️⃣ questões e/ou 📃 seções | yellow_square |
+| ⚜️ | fim | término de um elemento | fleur_de_lis |
 
 ### 6.3. Hierarquia 
 
@@ -101,15 +105,15 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 📔 livro
  |
  └── 🗂️ parte
-   |
-   └── 📑 capítulo
-     |
-     └── 📄 seção
-       |     
-       └── #️⃣ questão
+      |
+      └── 📑 capítulo
+           |
+           └── 📃 seção
+                |     
+                └── #️⃣ questão
 
-🟨 ── assunto
-✝️ ── trecho bíblico
+🟨 ─ assunto
+✝️ ─ trecho bíblico
 ```
 
 ### 6.4. Código mestre
@@ -118,12 +122,12 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 ```
 lde.X.X.X
- │ │ │ │
- │ | | └── 📄 seção
- | | |
- │ | └── 📑 capítulo
- | |
- │ └── 🗂️ parte
+ |  | | |
+ |  | | └── 📃 seção
+ |  | | 
+ |  | └── 📑 capítulo
+ |  |
+ |  └── 🗂️ parte
  |
  └── 📔 livro
 ```
@@ -131,18 +135,16 @@ lde.X.X.X
 E em especial no LDE, o código para questões é modificado de `lde.X.X.X.X` para:
 
 ```
-#️⃣ lde.q X a
-  │ │ │ │
-  │ | | └── sub-questão
-  | | |
-  │ | └── número
-  | |
-  │ └── questão 
-  |
-  └── 📔 livro
+lde.qXa
+ |   ||
+ |   |└── sub-questão
+ |   |
+ |   └── #️⃣ questão
+ |
+ └── 📔 livro
 ```
 
-Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
 ## 7. Controle de Qualidade
 
@@ -163,11 +165,13 @@ Deus abençoa, sempre!
 ![Sergio SHKLR](./sign-dark.png#gh-dark-mode-only)
 ![Sergio SHKLR](./sign-light.png#gh-light-mode-only)
 
-🪨 Fundador | ⭕ SHKLR.org | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde)
+🎩 Fundador
+
+⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde)
 
 ## 10. Notas
 
-- **1lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+- **1lde.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
@@ -179,16 +183,10 @@ Deus abençoa, sempre!
 
  - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
 
- - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
-  - I – a reprodução
-  - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+    - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+       - I – a reprodução
+       - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
----
-
-## Versão Beta (em desenvolvimento contínuo)
-
-Clique abaixo para abrir o livro.
-
-[1lde-single-file.md](./1lde-single-file.md)
+⚜️
