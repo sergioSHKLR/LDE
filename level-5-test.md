@@ -27,7 +27,7 @@ Poder-se-ia dizer que Deus é o infinito?
 
 ---
 
-##### 🟨 Deus
+##### :yellow_square: Deus
 
 amor de – `lde.q126`
 
