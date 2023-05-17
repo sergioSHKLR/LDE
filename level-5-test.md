@@ -43,7 +43,7 @@ cada pessoa e – `lde.q963`
 
 cepa como emblema do trabalho de – `lde.0.3`
 
-conceito de – [lde.q1](#lde.q1-hash-1), `lde.q668`
+conceito de – [lde.q1](#ldeq1-hash-1), `lde.q668`
 
 criação de espíritos e – `lde.q115`
 
