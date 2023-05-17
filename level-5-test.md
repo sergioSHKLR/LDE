@@ -1,30 +1,30 @@
+`lde`
 # :notebook_with_decorative_cover: O Livro dos Espíritos
 
-## :card_index_dividers: Parte 1. Das causas primárias
 `lde.1`
+## :card_index_dividers: Parte 1. Das causas primárias
 
-### :bookmark_tabs: 1. De Deus
 `lde.1.1`
+### :bookmark_tabs: 1. De Deus
 
-#### :page_with_curl: Deus e o infinito
 `lde.1.1.1`
+#### :page_with_curl: Deus e o infinito
 
-##### :hash: 1
 `lde.q1`
-O que é Deus?
+##### :hash: 1
+1. O que é Deus?
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
-
-##### :hash: 2
 `lde.q2`
-Que se deve entender por infinito?
+##### :hash: 2
+2. Que se deve entender por infinito?
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
-##### :hash: 3
 `lde.q3`
-Poder-se-ia dizer que Deus é o infinito?
+##### :hash: 3
+3. Poder-se-ia dizer que Deus é o infinito?
 
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 >
