@@ -95,3 +95,11 @@ universalidade de sentimento da existência de – `lde.q6`
 
 Universo e – `lde.q38`
 </details>
+
+<details><summary>:yellow_square: Deus</summary>
+niverso e – `lde.q38`
+</details>
+
+<details><summary>:yellow_square: Deus</summary>
+niverso e – `lde.q38`
+</details>
