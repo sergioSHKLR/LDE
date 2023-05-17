@@ -1,4 +1,3 @@
----
 
 ## `lde.1` 🗂️ Parte 1. Das causas primárias
 
@@ -44,7 +43,7 @@ cada pessoa e – `lde.q963`
 
 cepa como emblema do trabalho de – `lde.0.3`
 
-conceito de – [`lde.q1`](#lde.q1), `lde.q668`
+conceito de – [lde.q1](#lde.q1), `lde.q668`
 
 criação de espíritos e – `lde.q115`
 
@@ -56,7 +55,7 @@ ideias humanas de – `lde.q13`
 
 igualdade de direitos perante – `lde.q878a`
 
-infinito e – <a href="#lde.q3">lde-q3</a>
+infinito e – <a href="#lde.q3" style="color: red;">lde-q3</a>
 
 intervenção de – `lde.q963`
 
