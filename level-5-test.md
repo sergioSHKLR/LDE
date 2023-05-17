@@ -43,7 +43,7 @@ cada pessoa e – `lde.q963`
 
 cepa como emblema do trabalho de – `lde.0.3`
 
-conceito de – [`lde.q1`](#ldeq1-hash-1), `lde.q668`
+conceito de – [lde.q1](#ldeq1-hash-1), `lde.q668`
 
 criação de espíritos e – `lde.q115`
 
@@ -55,7 +55,7 @@ ideias humanas de – `lde.q13`
 
 igualdade de direitos perante – `lde.q878a`
 
-infinito e – <a href="#lde.q3">lde.q3</a>
+infinito e – [lde.q3](#ldeq3-hash-3)
 
 intervenção de – `lde.q963`
 
