@@ -1,5 +1,5 @@
 
-## `lde.1` 🗂️ Parte 1. Das causas primárias
+## `lde.1` :card_index_dividers: Parte 1. Das causas primárias
 
 ### `lde.1.1` :bookmark_tabs: 1. De Deus
 
