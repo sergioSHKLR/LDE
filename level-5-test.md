@@ -13,6 +13,7 @@ O que é Deus?
 <details><summary>:label:</summary>
 <code>Deus, conceito de</code>
 </details>
+<hr />
 
 ##### `lde.q2` :hash: 2
 Que se deve entender por infinito?
