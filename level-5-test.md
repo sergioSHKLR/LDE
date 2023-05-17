@@ -10,7 +10,7 @@ O que é Deus?
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
-<details><summary>tags</summary>
+<details><summary>:tag:</summary>
 <code>Deus, conceito de</code>
 </details>
 
