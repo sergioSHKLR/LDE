@@ -41,7 +41,7 @@ bondade e – `lde.q1009`
 
 cada pessoa e – `lde.q963`
 
-cepa como emblema do trabalho de – [lde.0.3 :page_with_curl]()
+cepa como emblema do trabalho de – [lde.0.3 :page_with_curl:]()
 
 conceito de – [lde.q1 :hash:](#ldeq1-hash-1), `lde.q668`
 
