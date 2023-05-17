@@ -26,8 +26,8 @@ Poder-se-ia dizer que Deus é o infinito?
 :fleur_de_lis:
 
 ---
-
-##### :yellow_square: Deus
+<details><summary>
+##### :yellow_square: Deus</summary>
 
 amor de – `lde.q126`
 
@@ -94,3 +94,4 @@ trabalho de – `lde.q21`
 universalidade de sentimento da existência de – `lde.q6`
 
 Universo e – `lde.q38`
+</details>
