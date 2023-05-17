@@ -1,7 +1,7 @@
 
 ## `lde.1` 🗂️ Parte 1. Das causas primárias
 
-### `lde.1.1` 📑 1. De Deus
+### `lde.1.1` :bookmark_tabs: 1. De Deus
 
 #### `lde.1.1.1` :page_with_curl: Deus e o infinito
 
