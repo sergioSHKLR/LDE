@@ -10,9 +10,6 @@ O que é Deus?
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
-<details><summary>:label:</summary>
-<code>Deus, conceito de</code>
-</details>
 
 ##### `lde.q2` :hash: 2
 Que se deve entender por infinito?
@@ -25,10 +22,6 @@ Poder-se-ia dizer que Deus é o infinito?
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 >
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
-
-<details><summary>:label:</summary>
-<code>Deus, infinito e</code>
-</details>
  
 
 :fleur_de_lis:
