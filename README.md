@@ -86,7 +86,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `lde` | notebook_with_decorative_cover |
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `lde.X` | card_index_dividers |
 | 📑 | capítulo | subdivisão de partes | 📃 seções | 🗂️ partes | `lde.X.X` | bookmark_tabs |
-| 📃 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `lde.X.X.X` | page_facing_up |
+| 📃 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `lde.X.X.X` | page_with_curl |
 | #️⃣ | questão | pergunta, reposta e comentário * | - | 📃 seções | `lde.qX` | hash |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
