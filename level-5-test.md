@@ -11,7 +11,7 @@ O que é Deus?
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
 <details><summary>tags</summary>
-`Deus, conceito de`
+<code>Deus, conceito de</code>
 </details>
 
 ##### `lde.q2` :hash: 2
