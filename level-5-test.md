@@ -26,7 +26,7 @@ Poder-se-ia dizer que Deus é o infinito?
 :fleur_de_lis:
 
 ---
-##### <details><summary>:yellow_square: Deus</summary>
+<details><summary>:yellow_square: Deus</summary>
 
 amor de – `lde.q126`
 
