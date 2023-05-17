@@ -1,3 +1,4 @@
+# :notebook_with_decorative_cover: O Livro dos Espíritos
 
 ## :card_index_dividers: Parte 1. Das causas primárias
 `lde.1`
