@@ -55,7 +55,7 @@ ideias humanas de – `lde.q13`
 
 igualdade de direitos perante – `lde.q878a`
 
-infinito e – <a href="#lde.q3" style="color: red;">lde-q3</a>
+infinito e – <a href="#lde.q3">lde.q3</a>
 
 intervenção de – `lde.q963`
 
