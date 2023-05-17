@@ -10,7 +10,7 @@ O que é Deus?
 
 > “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-##### `lde.q2` #️⃣ 2 <a name="lde.q2"></a>
+##### `lde.q2` :hash: 2 <a name="lde.q2"></a>
 Que se deve entender por infinito?
 
 > “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
