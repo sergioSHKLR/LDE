@@ -23,7 +23,7 @@ Poder-se-ia dizer que Deus é o infinito?
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
  
 
-⚜️
+:fleur_de_lis:
 
 ---
 
