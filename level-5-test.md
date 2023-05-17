@@ -5,7 +5,7 @@
 
 #### `lde.1.1.1` 📃 Deus e o infinito
 
-##### `lde.q1` #️⃣ 1
+##### `lde.q1` :hash: 1
 O que é Deus?
 
 > “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
@@ -43,7 +43,7 @@ cada pessoa e – `lde.q963`
 
 cepa como emblema do trabalho de – `lde.0.3`
 
-conceito de – [lde.q1](#lde.q1--1), `lde.q668`
+conceito de – [lde.q1](#lde.q1-hash-1), `lde.q668`
 
 criação de espíritos e – `lde.q115`
 
