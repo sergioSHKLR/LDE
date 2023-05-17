@@ -8,17 +8,17 @@
 ##### `lde.q1` :hash: 1
 O que é Deus?
 
-> “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
+> “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
 ##### `lde.q2` :hash: 2
 Que se deve entender por infinito?
 
-> “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
+> “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
 ##### `lde.q3` :hash: 3
 Poder-se-ia dizer que Deus é o infinito?
 
-> “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
+> “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 >
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
  
