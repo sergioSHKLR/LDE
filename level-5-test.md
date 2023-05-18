@@ -42,7 +42,7 @@ E disse Jesus:
 :fleur_de_lis:
 
 ---
-<details><summary>:yellow_square:  2 Deus</summary>
+<details><summary>:yellow_square:  Índice 1</summary>
 
 amor de – `lde.q126`
 
@@ -111,10 +111,10 @@ universalidade de sentimento da existência de – `lde.q6`
 Universo e – `lde.q38`
 </details>
 
-<details><summary>:yellow_square:  2 Deus</summary>
+<details><summary>:yellow_square:  Índice 2</summary>
 niverso e – `lde.q38`
 </details>
 
-<details><summary>:yellow_square: 3 Deus</summary>
+<details><summary>:yellow_square: Índice 3</summary>
 niverso e – `lde.q38`
 </details>
