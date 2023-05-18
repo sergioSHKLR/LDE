@@ -13,8 +13,7 @@
 ---
 
 
-##### `lde.q1` :hash: 1
-1. O que é Deus?
+<code name="lde.q1">lde.q1</code> :hash: 1. O que é Deus?
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
