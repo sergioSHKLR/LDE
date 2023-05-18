@@ -14,10 +14,10 @@
 
 
 ##### <code>lde.q1</code> :hash: 1.
-O que é Deus?
+<details><summary>O que é Deus?</summary>
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
-
+</details>
 
 ##### <code>lde.q2</code> :hash: 2.
 Que se deve entender por infinito?
