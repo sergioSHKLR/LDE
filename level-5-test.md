@@ -18,12 +18,12 @@
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
 
-name="lde-q2"><code>lde.q2</code></a> :hash: 2. Que se deve entender por infinito?
+<a name="lde-q2"><code>lde.q2</code></a> :hash: 2. Que se deve entender por infinito?
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
 
-name="lde-q3"><code>lde.q3</code></a> :hash: 3. Poder-se-ia dizer que Deus é o infinito?
+<a name="lde-q3"><code>lde.q3</code></a> :hash: 3. Poder-se-ia dizer que Deus é o infinito?
 
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 >
@@ -53,7 +53,7 @@ bondade e – `lde.q1009`
 
 cada pessoa e – `lde.q963`
 
-cepa como emblema do trabalho de – [lde.0.3 :page_with_curl:]()
+cepa como emblema do trabalho de – 
 
 conceito de – <a href="#lde-q1"><code>lde.q1</code></a>, `lde.q668`
 
@@ -67,7 +67,7 @@ ideias humanas de – `lde.q13`
 
 igualdade de direitos perante – `lde.q878a`
 
-infinito e – [lde.q3 :hash:](#ldeq3-hash-3)
+infinito e – <a href="#lde-q3"><code>lde.q3</code>
 
 intervenção de – `lde.q963`
 
@@ -77,7 +77,7 @@ justiça divina e – `lde.q964`
 
 lacuna entre o homem e – `lde.0.2.17`
 
-leis de – `lde.q964`
+leis de – `lde.q964`, <a href="#lde-q2"><code>lde.q2</code>
 
 mensageiros de – `lde.q562a`
 
