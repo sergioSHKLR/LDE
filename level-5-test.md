@@ -42,7 +42,7 @@ E disse Jesus:
 :fleur_de_lis:
 
 ---
-:yellow_square: Deus
+<details><summary>:yellow_square:  2 Deus</summary>
 
 amor de – `lde.q126`
 
