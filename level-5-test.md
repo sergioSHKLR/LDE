@@ -56,7 +56,7 @@ cada pessoa e – `lde.q963`
 
 cepa como emblema do trabalho de – 
 
-conceito de – <a href="#lde-q1">lde.q1</a>, `lde.q668`
+conceito de – [`lde.q1`](#lde.q1), `lde.q668`
 
 criação de espíritos e – `lde.q115`
 
