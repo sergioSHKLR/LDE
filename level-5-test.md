@@ -42,7 +42,7 @@ E disse Jesus:
 :fleur_de_lis:
 
 ---
-<details><summary>:yellow_square: Deus</summary>
+:yellow_square: Deus
 
 amor de – `lde.q126`
 
@@ -70,7 +70,7 @@ ideias humanas de – `lde.q13`
 
 igualdade de direitos perante – `lde.q878a`
 
-infinito e – [`lde.q3`](#ldeq1-hash-3)
+infinito e – [`lde.q3`](#ldeq3-hash-3)
 
 intervenção de – `lde.q963`
 
@@ -80,7 +80,7 @@ justiça divina e – `lde.q964`
 
 lacuna entre o homem e – `lde.0.2.17`
 
-leis de – `lde.q964`, [`lde.q2`](#ldeq1-hash-2)
+leis de – `lde.q964`, [`lde.q2`](#ldeq2-hash-2)
 
 mensageiros de – `lde.q562a`
 
