@@ -18,14 +18,12 @@
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
 
-##### `lde.q2` :hash: 2
-2. Que se deve entender por infinito?
+name="lde-q2"><code>lde.q2</code></a> :hash: 2. Que se deve entender por infinito?
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
 
-##### `lde.q3` :hash: 3
-3. Poder-se-ia dizer que Deus é o infinito?
+name="lde-q3"><code>lde.q3</code></a> :hash: 3. Poder-se-ia dizer que Deus é o infinito?
 
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 >
