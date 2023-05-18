@@ -67,7 +67,7 @@ ideias humanas de – `lde.q13`
 
 igualdade de direitos perante – `lde.q878a`
 
-infinito e – <a href="#lde-q3"><code>lde.q3</code>
+infinito e – <a href="#lde-q3"><code>lde.q3</code></a>
 
 intervenção de – `lde.q963`
 
@@ -77,7 +77,7 @@ justiça divina e – `lde.q964`
 
 lacuna entre o homem e – `lde.0.2.17`
 
-leis de – `lde.q964`, <a href="#lde-q2"><code>lde.q2</code>
+leis de – `lde.q964`, <a href="#lde-q2"><code>lde.q2</code></a>
 
 mensageiros de – `lde.q562a`
 
