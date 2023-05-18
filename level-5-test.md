@@ -20,10 +20,10 @@
 </details>
 
 ##### <code>lde.q2</code> :hash: 2.
-Que se deve entender por infinito?
+<details><summary>O que se deve entender por infinito?</summary>
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
-
+</details>
 
 ##### <code>lde.q3</code> :hash: 3.
 Poder-se-ia dizer que Deus é o infinito?
