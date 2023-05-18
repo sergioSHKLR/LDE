@@ -14,19 +14,19 @@
 
 
 ##### <code>lde.q1</code> :hash: 1.
-<details>1.<summary> O que é Deus?</summary>
+<details><summary> O que é Deus?</summary>
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 </details>
 
 ##### <code>lde.q2</code> :hash: 2.
-<details>2.<summary> O que se deve entender por infinito?</summary>
+<details><summary> O que se deve entender por infinito?</summary>
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 </details>
 
 ##### <code>lde.q3</code> :hash: 3.
-<details>3.<summary> Poder-se-ia dizer que Deus é o infinito? </summary>
+<details><summary> Poder-se-ia dizer que Deus é o infinito? </summary>
 
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 >
