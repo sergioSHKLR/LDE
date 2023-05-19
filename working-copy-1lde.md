@@ -7610,7 +7610,9 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 ---
 
-<details><summary><code>lde.6.2</code>:card_file_box: 2. Índice Geral</summary>
+<code>lde.6.2</code>:card_file_box: 2. Índice Geral
+
+</summary>
 
 <details><summary><code>lde.6.2.01</code>:card_index_dividers: A</summary>
 
