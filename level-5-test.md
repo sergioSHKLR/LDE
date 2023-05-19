@@ -1,37 +1,30 @@
 
 # `lde` :notebook_with_decorative_cover: O Livro dos Espíritos
 
-
 ## `lde.1` :card_index_dividers: Parte 1. Das causas primárias
-
 
 ### `lde.1.1` :bookmark_tabs: 1. De Deus
 ---
 
-
 #### `lde.1.1.1` :page_with_curl: Deus e o infinito
 ---
 
-
-##### <code>lde.q1</code> :hash: 1.
-<details><summary> O que é Deus?</summary>
+##### <code>lde.q1</code> :hash: 1
+1. O que é Deus?
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
-</details>
 
-##### <code>lde.q2</code> :hash: 2.
-<details><summary> O que se deve entender por infinito?</summary>
+##### <code>lde.q2</code> :hash: 2
+2. O que se deve entender por infinito?
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
-</details>
 
-##### <code>lde.q3</code> :hash: 3.
-<details><summary> Poder-se-ia dizer que Deus é o infinito? </summary>
+##### <code>lde.q3</code> :hash: 3
+3. Poder-se-ia dizer que Deus é o infinito?
 
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
->
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
-</details>
+
 
 E disse Jesus: 
 
@@ -42,7 +35,7 @@ E disse Jesus:
 :fleur_de_lis:
 
 ---
-<details><summary>:yellow_square:  Índice 1</summary>
+<details><summary>:yellow_square: Índice 1</summary>
 
 amor de – `lde.q126`
 
