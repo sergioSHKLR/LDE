@@ -7616,6 +7616,8 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 #### `lde.6.2.01` :card_index_dividers: A
 
+<details><summary>:card_index_dividers: A</summary>
+
 <details><summary>:yellow_square: Aberração</summary>
 
 faculdades do homem e – `lde.q847`
@@ -8260,6 +8262,7 @@ demonstrações da – `lde.q901`
 <details><summary>:yellow_square: Avoengos</summary>
 
 ver Antepassados
+</details>
 </details>
 ---
 
