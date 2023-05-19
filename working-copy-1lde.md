@@ -7614,9 +7614,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 ---
 
-#### `lde.6.2.01` :card_index_dividers: A
-
-<details><summary>:card_index_dividers: A</summary>
+<details><summary><code>`lde.6.2.01`</code> :card_index_dividers: A</summary>
 
 <details><summary>:yellow_square: Aberração</summary>
 
