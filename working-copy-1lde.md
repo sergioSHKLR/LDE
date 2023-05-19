@@ -15989,11 +15989,11 @@ sonho e – `lde.q343`
 
 </details>
 
-##### 🟨 Vista
+<details><summary>:yellow_square: Vista
 
 da alma – `lde.q455`
 
-##### 🟨 Vocação
+<details><summary>:yellow_square: Vocação
 
 desvio da – `lde.q928`
 
@@ -16007,7 +16007,7 @@ progresso em experiência corporal e – `lde.q270`
 
 seguir a – `lde.q928`
 
-##### 🟨 Vontade
+<details><summary>:yellow_square: Vontade
 
 crença em Deus e – `lde.q631`
 
@@ -16017,7 +16017,7 @@ paixão e – `lde.q907`
 
 poder da – `lde.q872`
 
-##### 🟨 Voto de silêncio
+<details><summary>:yellow_square: Voto de silêncio
 
 relações sociais e – `lde.q772`
 
@@ -16027,7 +16027,7 @@ sociedade e – `lde.q772`
 
 #### `lde.6.2.22` 🗂️ Z
 
-##### 🟨 Zelo
+<details><summary>:yellow_square: Zelo
 
 excesso de – `lde.q736`
  
