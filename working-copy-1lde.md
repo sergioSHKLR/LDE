@@ -466,17 +466,17 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.1` :page_with_curl: Deus e o infinito
 
-<details><summary>`lde.q1` :hash: 1
+##### `lde.q1` :hash: 1
 O que é Deus?
 
 > “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-<details><summary>`lde.q2` :hash: 2
+##### `lde.q2` :hash: 2
 Que se deve entender por infinito?
 
 > “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-<details><summary>`lde.q3` :hash: 3
+##### `lde.q3` :hash: 3
 Poder-se-ia dizer que Deus é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
@@ -7610,7 +7610,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 ---
 
-### `lde.6.2` :card_file_box: 2. Índice Geral<details><summary><summary>
+### `lde.6.2` :card_file_box: 2. Índice Geral
 
 <details><summary><code>lde.6.2.01</code>:card_index_dividers: A</summary>
 
@@ -15989,12 +15989,11 @@ sonho e – `lde.q343`
 
 </details>
 
-<details><summary>:yellow_square: Vista</summary>
+##### 🟨 Vista
 
 da alma – `lde.q455`
-</details>
 
-<details><summary>:yellow_square: Vocação</summary>
+##### 🟨 Vocação
 
 desvio da – `lde.q928`
 
@@ -16007,9 +16006,8 @@ profissional e felicidade – `lde.q928`
 progresso em experiência corporal e – `lde.q270`
 
 seguir a – `lde.q928`
-</details>
 
-<details><summary>:yellow_square: Vontade</summary>
+##### 🟨 Vontade
 
 crença em Deus e – `lde.q631`
 
@@ -16018,22 +16016,21 @@ Espírito reencarnante e – `lde.q345`
 paixão e – `lde.q907`
 
 poder da – `lde.q872`
-</details>
 
-<details><summary>:yellow_square: Voto de silêncio</summary>
+##### 🟨 Voto de silêncio
 
 relações sociais e – `lde.q772`
 
 sociedade e – `lde.q772`
-</details>
+
 ---
 
 #### `lde.6.2.22` 🗂️ Z
 
-<details><summary>:yellow_square: Zelo</summary>
+##### 🟨 Zelo
 
 excesso de – `lde.q736`
- </details>
+ 
 
 ⚜️
 
