@@ -8260,11 +8260,10 @@ demonstrações da – `lde.q901`
 <details><summary>:yellow_square: Avoengos</summary>
 
 ver Antepassados
-
+</details>
 ---
 
 #### `lde.6.2.02` :card_index_dividers: B
-</details>
 
 <details><summary>:yellow_square: Batista, João
 
