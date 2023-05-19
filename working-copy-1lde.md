@@ -16033,7 +16033,7 @@ excesso de – `lde.q736`
  
 
 ⚜️
-
+</details>
 ---
 
 #### 📑 Notas de rodapé
