@@ -7612,9 +7612,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 ### `lde.6.2` :card_file_box: 2. Índice Geral
 
----
-
-<details><summary><code>`lde.6.2.01`</code> :card_index_dividers: A</summary>
+<details><summary><code>lde.6.2.01</code>:card_index_dividers: A</summary>
 
 <details><summary>:yellow_square: Aberração</summary>
 
@@ -8262,9 +8260,8 @@ demonstrações da – `lde.q901`
 ver Antepassados
 </details>
 </details>
----
 
-#### `lde.6.2.02` :card_index_dividers: B
+<details><summary><code>lde.6.2.02</code>:card_index_dividers: B
 
 <details><summary>:yellow_square: Batista, João
 
@@ -8384,7 +8381,7 @@ linguagem figurada e a – `lde.q59`
 
 ---
 
-#### `lde.6.2.03` :card_index_dividers: C
+<code>lde.6.2.03</code>:card_index_dividers: C
 </details>
 
 <details><summary>:yellow_square: Calamidades
@@ -9148,7 +9145,7 @@ possibilidade de * da desordem e da imprevidência – `lde.q685a`
 
 ---
 
-#### `lde.6.2.04` :card_index_dividers: D
+<code>lde.6.2.04</code>:card_index_dividers: D
 </details>
 
 <details><summary>:yellow_square: Decálogo
@@ -9652,7 +9649,7 @@ variações no poder da – `lde.q455`
 
 ---
 
-#### `lde.6.2.05` :card_index_dividers: E
+<code>lde.6.2.05</code>:card_index_dividers: E
 </details>
 
 <details><summary>:yellow_square: Eclesiastes
@@ -10908,7 +10905,7 @@ sonambulismo e – `lde.q439`
 
 ---
 
-#### `lde.6.2.06` :card_index_dividers: F
+<code>lde.6.2.06</code>:card_index_dividers: F
 </details>
 
 <details><summary>:yellow_square: Falibilidade
@@ -11303,7 +11300,7 @@ vida corpórea e certeza do – `lde.q921`
 
 ---
 
-#### `lde.6.2.07` :card_index_dividers: G
+<code>lde.6.2.07</code>:card_index_dividers: G
 </details>
 
 <details><summary>:yellow_square: Gêmeos
@@ -11384,7 +11381,7 @@ santa – `lde.q671`
 
 ---
 
-#### `lde.6.2.08` :card_index_dividers: H
+<code>lde.6.2.08</code>:card_index_dividers: H
 </details>
 
 <details><summary>:yellow_square: Harmonia
@@ -11547,7 +11544,7 @@ desinteresse e – `lde.0.3`
 
 ---
 
-#### `lde.6.2.09` :card_index_dividers: I
+<code>lde.6.2.09</code>:card_index_dividers: I
 </details>
 
 <details><summary>:yellow_square: Ideia
@@ -12014,7 +12011,7 @@ sociedade e – `lde.q769`
 
 ---
 
-#### `lde.6.2.10` :card_index_dividers: J
+<code>lde.6.2.10</code>:card_index_dividers: J
 </details>
 
 <details><summary>:yellow_square: Jesus
@@ -12109,7 +12106,7 @@ consolo do – `lde.q926`
 
 ---
 
-#### `lde.6.2.11` :card_index_dividers: L
+<code>lde.6.2.11</code>:card_index_dividers: L
 </details>
 
 <details><summary>:yellow_square: Laços de família
@@ -12493,7 +12490,7 @@ chegada ao progresso e – `lde.q894`
 
 ---
 
-#### `lde.6.2.12` :card_index_dividers: M
+<code>lde.6.2.12</code>:card_index_dividers: M
 </details>
 
 <details><summary>:yellow_square: Mãe
@@ -13085,7 +13082,7 @@ sensibilidade dos espíritos para a – `lde.q251`
 
 ---
 
-#### `lde.6.2.13` :card_index_dividers: N
+<code>lde.6.2.13</code>:card_index_dividers: N
 </details>
 
 <details><summary>:yellow_square: Nação
@@ -13222,7 +13219,7 @@ importância espiritual do – `lde.0.2.12`
 
 ---
 
-#### `lde.6.2.14` :card_index_dividers: O
+<code>lde.6.2.14</code>:card_index_dividers: O
 </details>
 
 <details><summary>:yellow_square: Obsessão
@@ -13395,7 +13392,7 @@ benefício e – `lde.q888a`
 
 ---
 
-#### `lde.6.2.15` :card_index_dividers: P
+<code>lde.6.2.15</code>:card_index_dividers: P
 </details>
 
 <details><summary>:yellow_square: Pactos
@@ -14295,7 +14292,7 @@ aperfeiçoamento moral do Espírito e – `lde.q182`
 
 ---
 
-#### `lde.6.2.16` :card_index_dividers: Q
+<code>lde.6.2.16</code>:card_index_dividers: Q
 </details>
 
 <details><summary>:yellow_square: Queda
@@ -14304,7 +14301,7 @@ homem, livre-arbítrio e – `lde.q262`
 
 ---
 
-#### `lde.6.2.17` :card_index_dividers: R
+<code>lde.6.2.17</code>:card_index_dividers: R
 </details>
 
 <details><summary>:yellow_square: Raças
@@ -14834,7 +14831,7 @@ adoração e – `lde.q654`
 
 ---
 
-#### `lde.6.2.18` :card_index_dividers: S
+<code>lde.6.2.18</code>:card_index_dividers: S
 </details>
 
 <details><summary>:yellow_square: Sabedoria
@@ -15480,7 +15477,7 @@ utilização do necessário e – `lde.q736`
 
 ---
 
-#### `lde.6.2.19` :card_index_dividers: T
+<code>lde.6.2.19</code>:card_index_dividers: T
 </details>
 
 <details><summary>:yellow_square: Talismã
@@ -15686,7 +15683,7 @@ visitação a – `lde.q322`
 
 ---
 
-#### `lde.6.2.20` :card_index_dividers: U
+<code>lde.6.2.20</code>:card_index_dividers: U
 </details>
 
 <details><summary>:yellow_square: Ubiquidade
@@ -15735,7 +15732,7 @@ reencarnação e – `lde.q173b`
 
 ---
 
-#### `lde.6.2.21` :card_index_dividers: V
+<code>lde.6.2.21</code>:card_index_dividers: V
 </details>
 
 <details><summary>:yellow_square: Vácuo
