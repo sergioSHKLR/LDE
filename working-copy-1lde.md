@@ -466,17 +466,17 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.1` :page_with_curl: Deus e o infinito
 
-##### `lde.q1` :hash: 1
+<details><summary>`lde.q1` :hash: 1
 O que é Deus?
 
 > “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-##### `lde.q2` :hash: 2
+<details><summary>`lde.q2` :hash: 2
 Que se deve entender por infinito?
 
 > “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-##### `lde.q3` :hash: 3
+<details><summary>`lde.q3` :hash: 3
 Poder-se-ia dizer que Deus é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
@@ -7610,7 +7610,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 ---
 
-### `lde.6.2` :card_file_box: 2. Índice Geral
+### `lde.6.2` :card_file_box: 2. Índice Geral<details><summary><summary>
 
 <details><summary><code>lde.6.2.01</code>:card_index_dividers: A</summary>
 
@@ -15989,6 +15989,110 @@ sonho e – `lde.q343`
 
 </details>
 
-<details><summary>:yellow_square: Vista
+<details><summary>:yellow_square: Vista</summary>
 
-da alma – 
+da alma – `lde.q455`
+</details>
+
+<details><summary>:yellow_square: Vocação</summary>
+
+desvio da – `lde.q928`
+
+orgulho e – `lde.q928`
+
+ponto de vista de conhecimento e – `lde.0.2.07`
+
+profissional e felicidade – `lde.q928`
+
+progresso em experiência corporal e – `lde.q270`
+
+seguir a – `lde.q928`
+</details>
+
+<details><summary>:yellow_square: Vontade</summary>
+
+crença em Deus e – `lde.q631`
+
+Espírito reencarnante e – `lde.q345`
+
+paixão e – `lde.q907`
+
+poder da – `lde.q872`
+</details>
+
+<details><summary>:yellow_square: Voto de silêncio</summary>
+
+relações sociais e – `lde.q772`
+
+sociedade e – `lde.q772`
+</details>
+---
+
+#### `lde.6.2.22` 🗂️ Z
+
+<details><summary>:yellow_square: Zelo</summary>
+
+excesso de – `lde.q736`
+ </details>
+
+⚜️
+
+---
+
+#### 📑 Notas de rodapé
+
+[^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
+
+[^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
+
+[^3]: A.K.: A cepa que se vê nesta página é uma representação artística da que os Espíritos desenharam.
+
+[^4]: A.K.: O texto colocado entre aspas, em seguida às perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
+
+[^5]: N.E.: A definição dada na resposta à questão 1 de **O Livro dos Espíritos** — Cause Première — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como causa primária, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide Reformador de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do Grande dicionário francês-português, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: > “premier, ière \[...\] || Fig. La cause première, a causa primária, Deus”.
+
+[^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade.
+
+[^7]: N.E.: Ano do calendário judaico.
+
+[^8]: A.K. Ver, na **Introdução**, a explicação sobre o termo **alma**, item **2**.
+
+[^9]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa
+
+[^10]: A.K.: Segundo os Espíritos, de todos os mundos que compõem o nosso sistema planetário, a Terra é dos que têm habitantes menos adiantados, física e moralmente. Marte lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos Espíritos superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de Espíritos menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga. O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a Terra e Saturno menos do que Júpiter. Muitos Espíritos, que na Terra animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos Espíritos, habitantes daquele planeta, foram mandados à Terra para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na Terra e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um Espírito habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris. As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na Terra e as idades não se podem comparar. Evocado, um Espírito que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: “Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à inteligência, tenho trinta anos da idade que tive na Terra”. Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a Deus.
+
+[^11]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^12]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^13]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^14]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^15]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, `lde.q664`, é do Espírito **São Luís**.
+
+[^17]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^18]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^19]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^20]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^21]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^22]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^23]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^24]: N.E.: Frase atribuída ao filósofo grego **Sócrates** (470–399 a.C.)
+
+[^25]: N.E.: Na 2ª impressão da 2ª edição de O Livro dos Espíritos, as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo no 1011 a questão que se segue à de no 1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
+
+[^26]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
+
+[^27]: N.E.: Esta nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+
+⚜️
