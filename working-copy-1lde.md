@@ -7634,19 +7634,19 @@ vida da mãe em perigo e – `lde.q359`
 
 </details>
 
-<details><summary>:yellow_square: Abuso
+<details><summary>:yellow_square: Abuso</summary>
 
 direito e – `lde.q734`
 
 </details>
 
-<details><summary>:yellow_square: Acaso
+<details><summary>:yellow_square: Acaso</summary>
 
 Deus e – `lde.q663`
 
 </details>
 
-<details><summary>:yellow_square: Ação
+<details><summary>:yellow_square: Ação</summary>
 
 dos mortos como força invisível – `lde.0.2.04`
 
@@ -7656,19 +7656,19 @@ reciprocidade de – `lde.q375a`
 
 </details>
 
-<details><summary>:yellow_square: Aceitação
+<details><summary>:yellow_square: Aceitação</summary>
 
 perda de entes queridos e – `lde.q936`
 
 </details>
 
-<details><summary>:yellow_square: Acerto
+<details><summary>:yellow_square: Acerto</summary>
 
 erro e – `lde.q715`
 
 </details>
 
-<details><summary>:yellow_square: Adão
+<details><summary>:yellow_square: Adão</summary>
 
 criação dos mundos e – `lde.q59`
 
@@ -7678,13 +7678,13 @@ povoamento da Terra e – `lde.q50`
 
 </details>
 
-<details><summary>:yellow_square: Adolescência
+<details><summary>:yellow_square: Adolescência</summary>
 
 caráter na – `lde.q385`
 
 </details>
 
-<details><summary>:yellow_square: Adoração
+<details><summary>:yellow_square: Adoração</summary>
 
 bom exemplo e – `lde.q653a`
 
@@ -7712,7 +7712,7 @@ sentimento puro e – `lde.q653`
 
 </details>
 
-<details><summary>:yellow_square: Afeição
+<details><summary>:yellow_square: Afeição</summary>
 
 espíritos, encarnados e – `lde.q484`, `lde.q485`
 
@@ -7720,7 +7720,7 @@ física e espiritual – `lde.q939`
 
 </details>
 
-<details><summary>:yellow_square: Afinidade
+<details><summary>:yellow_square: Afinidade</summary>
 
 atração por – `lde.q521`
 
@@ -7728,7 +7728,7 @@ Espírito e corpo físico em total – `lde.q957`
 
 </details>
 
-<details><summary>:yellow_square: Aflição
+<details><summary>:yellow_square: Aflição</summary>
 
 desejos e – `lde.q926`
 
@@ -7738,7 +7738,7 @@ necessidades e – `lde.q926`
 
 </details>
 
-<details><summary>:yellow_square: Agostinho (Santo)
+<details><summary>:yellow_square: Agostinho (Santo)</summary>
 
 conselho de – `lde.q919a`, `lde.5.9`
 
@@ -7746,19 +7746,19 @@ eternidade das penas – `lde.q1009`
 
 </details>
 
-<details><summary>:yellow_square: Agradecimento
+<details><summary>:yellow_square: Agradecimento</summary>
 
 providência divina e – `lde.q535`
 
 </details>
 
-<details><summary>:yellow_square: Alcorão
+<details><summary>:yellow_square: Alcorão</summary>
 
 Alcorão – `lde.5.8`
 
 </details>
 
-<details><summary>:yellow_square: Além-túmulo
+<details><summary>:yellow_square: Além-túmulo</summary>
 
 amizade e – `lde.q488`
 
@@ -7772,7 +7772,7 @@ suicídio e falso entendimento das relações no – `lde.q956`
 
 </details>
 
-<details><summary>:yellow_square: Alimentação
+<details><summary>:yellow_square: Alimentação</summary>
 
 mortificação e – `lde.q724`
 
@@ -7780,13 +7780,13 @@ mundos elevados e – `lde.q710`
 
 </details>
 
-<details><summary>:yellow_square: Alimento
+<details><summary>:yellow_square: Alimento</summary>
 
 saúde e – `lde.q722`
 
 </details>
 
-<details><summary>:yellow_square: Allan Kardec
+<details><summary>:yellow_square: Allan Kardec</summary>
 
 assistência espiritual a – `lde.0.3`
 
@@ -7794,7 +7794,7 @@ conselhos a – `lde.0.3`
 
 </details>
 
-<details><summary>:yellow_square: Alma
+<details><summary>:yellow_square: Alma</summary>
 
 alma – `lde.q134` a `lde.q146`
 
@@ -7910,7 +7910,7 @@ vista da – `lde.q455`
 
 </details>
 
-<details><summary>:yellow_square: Ambição
+<details><summary>:yellow_square: Ambição</summary>
 
 culpa por guerras e – `lde.q745`
 
@@ -7920,7 +7920,7 @@ supérfluo e – `lde.q717`
 
 </details>
 
-<details><summary>:yellow_square: Ambiente
+<details><summary>:yellow_square: Ambiente</summary>
 
 criminalidade e – `lde.q644`
 
@@ -7928,7 +7928,7 @@ provas e – `lde.q260a`
 
 </details>
 
-<details><summary>:yellow_square: Amizade
+<details><summary>:yellow_square: Amizade</summary>
 
 além-túmulo e – `lde.q488`
 
@@ -7936,7 +7936,7 @@ ingratidão e – `lde.q937`, `lde.q938a`
 
 </details>
 
-<details><summary>:yellow_square: Amor
+<details><summary>:yellow_square: Amor</summary>
 
 conceito de – `lde.q888a`
 
@@ -7958,13 +7958,13 @@ reciprocidade no – `lde.q939`
 
 </details>
 
-<details><summary>:yellow_square: Ancianidade
+<details><summary>:yellow_square: Ancianidade</summary>
 
 Espiritismo e – `lde.q221a`
 
 </details>
 
-<details><summary>:yellow_square: Animais
+<details><summary>:yellow_square: Animais</summary>
 
 alma dos – `lde.q600`
 
@@ -8008,7 +8008,7 @@ vida dos – `lde.q773`
 
 </details>
 
-<details><summary>:yellow_square: Anjo
+<details><summary>:yellow_square: Anjo</summary>
 
 alegoria representativa de – `lde.q131`
 
@@ -8018,7 +8018,7 @@ perfeição e – `lde.q129`
 
 </details>
 
-<details><summary>:yellow_square: Anjo da guarda
+<details><summary>:yellow_square: Anjo da guarda</summary>
 
 anjo da guarda – `lde.q489` a `lde.q514`
 
@@ -8034,19 +8034,19 @@ proteção de – `lde.q489`
 
 </details>
 
-<details><summary>:yellow_square: Antepassados
+<details><summary>:yellow_square: Antepassados</summary>
 
 culto aos – `lde.q206`
 
 </details>
 
-<details><summary>:yellow_square: Antiguidade
+<details><summary>:yellow_square: Antiguidade</summary>
 
 teor das comunicações mediúnicas na – `lde.q628`
 
 </details>
 
-<details><summary>:yellow_square: Antipatia
+<details><summary>:yellow_square: Antipatia</summary>
 
 casamento e – `lde.q940`
 
@@ -8062,7 +8062,7 @@ união e – `lde.q939`
 
 </details>
 
-<details><summary>:yellow_square: Antropofagia
+<details><summary>:yellow_square: Antropofagia</summary>
 
 fome e – `lde.q709`
 
@@ -8074,7 +8074,7 @@ selvagem e – `lde.q637`
 
 </details>
 
-<details><summary>:yellow_square: Apego
+<details><summary>:yellow_square: Apego</summary>
 
 bens terrenos e – `lde.q895`
 
@@ -8082,7 +8082,7 @@ produção intelectual e – `lde.q315`
 
 </details>
 
-<details><summary>:yellow_square: Aperfeiçoamento
+<details><summary>:yellow_square: Aperfeiçoamento</summary>
 
 esforço e – `lde.q988`
 
@@ -8094,13 +8094,13 @@ seres vivos e – `lde.q703`
 
 </details>
 
-<details><summary>:yellow_square: Aposentadoria
+<details><summary>:yellow_square: Aposentadoria</summary>
 
 idoso e – `lde.q685a`
 
 </details>
 
-<details><summary>:yellow_square: Aptidão
+<details><summary>:yellow_square: Aptidão</summary>
 
 aquisições de – `lde.q366`, `lde.q804`
 
@@ -8118,7 +8118,7 @@ trabalho conforme a – `lde.q680`
 
 </details>
 
-<details><summary>:yellow_square: Arrependimento
+<details><summary>:yellow_square: Arrependimento</summary>
 
 demora para o – `lde.q993`
 
@@ -8144,13 +8144,13 @@ tardio – `lde.q1007`
 
 </details>
 
-<details><summary>:yellow_square: Arte
+<details><summary>:yellow_square: Arte</summary>
 
 assistência espiritual e – `lde.q521`
 
 </details>
 
-<details><summary>:yellow_square: Assassinato
+<details><summary>:yellow_square: Assassinato</summary>
 
 culpa e – `lde.q747`
 
@@ -8164,16 +8164,16 @@ suicídio e – `lde.q758a`
 
 </details>
 
-<details><summary>:yellow_square: Assembleia
+<details><summary>:yellow_square: Assembleia</summary>
 
 espíritos encarnados em – `lde.q417`
 
 </details>
 
-<details><summary>:yellow_square: Assistência espiritual
+<details><summary>:yellow_square: Assistência espiritual</summary>
 </details>
 
-<details><summary>:yellow_square: Allan Kardec
+<details><summary>:yellow_square: Allan Kardec</summary>
 
 Allan Kardec e – `lde.0.3`
 
@@ -8193,25 +8193,25 @@ ser humano e – `lde.q512`
 
 </details>
 
-<details><summary>:yellow_square: Assistência social
+<details><summary>:yellow_square: Assistência social</summary>
 
 previdência e – `lde.q685a`
 
 </details>
 
-<details><summary>:yellow_square: Ateísmo
+<details><summary>:yellow_square: Ateísmo</summary>
 
 sentimento de adoração e – `lde.q651`
 
 </details>
 
-<details><summary>:yellow_square: Atração
+<details><summary>:yellow_square: Atração</summary>
 
 minerais e – `lde.q888a`
 
 </details>
 
-<details><summary>:yellow_square: Autenticidade
+<details><summary>:yellow_square: Autenticidade</summary>
 
 autoconhecimento e – `lde.q919`
 
@@ -8219,7 +8219,7 @@ fenômeno espírita e – `lde.0.2.09`
 
 </details>
 
-<details><summary>:yellow_square: Automatismo
+<details><summary>:yellow_square: Automatismo</summary>
 
 conveniência e – `lde.q590`
 
@@ -8231,13 +8231,13 @@ transição e – `lde.q589`
 
 </details>
 
-<details><summary>:yellow_square: Autor
+<details><summary>:yellow_square: Autor</summary>
 
 pregação e – `lde.q905`
 
 </details>
 
-<details><summary>:yellow_square: Autoridade
+<details><summary>:yellow_square: Autoridade</summary>
 
 providências para o bem público e – `lde.q483`
 
@@ -8245,19 +8245,19 @@ superioridade e – `lde.q274a`
 
 </details>
 
-<details><summary>:yellow_square: Avaliação
+<details><summary>:yellow_square: Avaliação</summary>
 
 ações e atitudes do cotidiano em constante – `lde.q919a`
 
 </details>
 
-<details><summary>:yellow_square: Avareza
+<details><summary>:yellow_square: Avareza</summary>
 
 demonstrações da – `lde.q901`
 
 </details>
 
-<details><summary>:yellow_square: Avoengos
+<details><summary>:yellow_square: Avoengos</summary>
 
 ver Antepassados
 
