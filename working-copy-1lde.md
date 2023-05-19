@@ -466,17 +466,17 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.1` :page_with_curl: Deus e o infinito
 
-##### `lde.q1` :hash: 1
+`lde.q1` :hash: 1
 O que é Deus?
 
 > “Deus é a inteligência suprema, causa primária de todas as coisas.” [^4], [^5]
 
-##### `lde.q2` :hash: 2
+`lde.q2` :hash: 2
 Que se deve entender por infinito?
 
 > “O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.”
 
-##### `lde.q3` :hash: 3
+`lde.q3` :hash: 3
 Poder-se-ia dizer que Deus é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.”
@@ -7616,11 +7616,11 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 #### `lde.6.2.01` :card_index_dividers: A
 
-##### :yellow_square: Aberração
+:yellow_square: Aberração
 
 faculdades do homem e – `lde.q847`
 
-##### :yellow_square: Aborto
+:yellow_square: Aborto
 
 consequências do – `lde.q357`
 
@@ -7630,15 +7630,15 @@ provocação do – `lde.q358`
 
 vida da mãe em perigo e – `lde.q359`
 
-##### :yellow_square: Abuso
+:yellow_square: Abuso
 
 direito e – `lde.q734`
 
-##### :yellow_square: Acaso
+:yellow_square: Acaso
 
 Deus e – `lde.q663`
 
-##### :yellow_square: Ação
+:yellow_square: Ação
 
 dos mortos como força invisível – `lde.0.2.04`
 
@@ -7646,15 +7646,15 @@ mérito e – `lde.q919a`
 
 reciprocidade de – `lde.q375a`
 
-##### :yellow_square: Aceitação
+:yellow_square: Aceitação
 
 perda de entes queridos e – `lde.q936`
 
-##### :yellow_square: Acerto
+:yellow_square: Acerto
 
 erro e – `lde.q715`
 
-##### :yellow_square: Adão
+:yellow_square: Adão
 
 criação dos mundos e – `lde.q59`
 
@@ -7662,11 +7662,11 @@ notícia histórica sobre – `lde.q51`
 
 povoamento da Terra e – `lde.q50`
 
-##### :yellow_square: Adolescência
+:yellow_square: Adolescência
 
 caráter na – `lde.q385`
 
-##### :yellow_square: Adoração
+:yellow_square: Adoração
 
 bom exemplo e – `lde.q653a`
 
@@ -7692,19 +7692,19 @@ sacrifício humano e – `lde.q669`,`lde.q669b`
 
 sentimento puro e – `lde.q653`
 
-##### :yellow_square: Afeição
+:yellow_square: Afeição
 
 espíritos, encarnados e – `lde.q484`, `lde.q485`
 
 física e espiritual – `lde.q939`
 
-##### :yellow_square: Afinidade
+:yellow_square: Afinidade
 
 atração por – `lde.q521`
 
 Espírito e corpo físico em total – `lde.q957`
 
-##### :yellow_square: Aflição
+:yellow_square: Aflição
 
 desejos e – `lde.q926`
 
@@ -7712,21 +7712,21 @@ inveja e – `lde.q926`
 
 necessidades e – `lde.q926`
 
-##### :yellow_square: Agostinho (Santo)
+:yellow_square: Agostinho (Santo)
 
 conselho de – `lde.q919a`, `lde.5.9`
 
 eternidade das penas – `lde.q1009`
 
-##### :yellow_square: Agradecimento
+:yellow_square: Agradecimento
 
 providência divina e – `lde.q535`
 
-##### :yellow_square: Alcorão
+:yellow_square: Alcorão
 
 Alcorão – `lde.5.8`
 
-##### :yellow_square: Além-túmulo
+:yellow_square: Além-túmulo
 
 amizade e – `lde.q488`
 
@@ -7738,23 +7738,23 @@ relações no – `lde.q274`
 
 suicídio e falso entendimento das relações no – `lde.q956`
 
-##### :yellow_square: Alimentação
+:yellow_square: Alimentação
 
 mortificação e – `lde.q724`
 
 mundos elevados e – `lde.q710`
 
-##### :yellow_square: Alimento
+:yellow_square: Alimento
 
 saúde e – `lde.q722`
 
-##### :yellow_square: Allan Kardec
+:yellow_square: Allan Kardec
 
 assistência espiritual a – `lde.0.3`
 
 conselhos a – `lde.0.3`
 
-##### :yellow_square: Alma
+:yellow_square: Alma
 
 alma – `lde.q134` a `lde.q146`
 
@@ -7868,7 +7868,7 @@ vida material e – `lde.q138`
 
 vista da – `lde.q455`
 
-##### :yellow_square: Ambição
+:yellow_square: Ambição
 
 culpa por guerras e – `lde.q745`
 
@@ -7876,19 +7876,19 @@ privação alheia e – `lde.q717`
 
 supérfluo e – `lde.q717`
 
-##### :yellow_square: Ambiente
+:yellow_square: Ambiente
 
 criminalidade e – `lde.q644`
 
 provas e – `lde.q260a`
 
-##### :yellow_square: Amizade
+:yellow_square: Amizade
 
 além-túmulo e – `lde.q488`
 
 ingratidão e – `lde.q937`, `lde.q938a`
 
-##### :yellow_square: Amor
+:yellow_square: Amor
 
 conceito de – `lde.q888a`
 
@@ -7908,11 +7908,11 @@ necessidade do – `lde.q938a`
 
 reciprocidade no – `lde.q939`
 
-##### :yellow_square: Ancianidade
+:yellow_square: Ancianidade
 
 Espiritismo e – `lde.q221a`
 
-##### :yellow_square: Animais
+:yellow_square: Animais
 
 alma dos – `lde.q600`
 
@@ -7954,7 +7954,7 @@ trabalho dos – `lde.q677`
 
 vida dos – `lde.q773`
 
-##### :yellow_square: Anjo
+:yellow_square: Anjo
 
 alegoria representativa de – `lde.q131`
 
@@ -7962,7 +7962,7 @@ demônio e – `lde.q128` a `lde.q131`
 
 perfeição e – `lde.q129`
 
-##### :yellow_square: Anjo da guarda
+:yellow_square: Anjo da guarda
 
 anjo da guarda – `lde.q489` a `lde.q514`
 
@@ -7976,15 +7976,15 @@ identidade civil de – `lde.q504`
 
 proteção de – `lde.q489`
 
-##### :yellow_square: Antepassados
+:yellow_square: Antepassados
 
 culto aos – `lde.q206`
 
-##### :yellow_square: Antiguidade
+:yellow_square: Antiguidade
 
 teor das comunicações mediúnicas na – `lde.q628`
 
-##### :yellow_square: Antipatia
+:yellow_square: Antipatia
 
 casamento e – `lde.q940`
 
@@ -7998,7 +7998,7 @@ simpatia e – `lde.q293`
 
 união e – `lde.q939`
 
-##### :yellow_square: Antropofagia
+:yellow_square: Antropofagia
 
 fome e – `lde.q709`
 
@@ -8008,13 +8008,13 @@ mal e – `lde.q637`
 
 selvagem e – `lde.q637`
 
-##### :yellow_square: Apego
+:yellow_square: Apego
 
 bens terrenos e – `lde.q895`
 
 produção intelectual e – `lde.q315`
 
-##### :yellow_square: Aperfeiçoamento
+:yellow_square: Aperfeiçoamento
 
 esforço e – `lde.q988`
 
@@ -8024,11 +8024,11 @@ reprovação aos sacrifícios e – `lde.q670`
 
 seres vivos e – `lde.q703`
 
-##### :yellow_square: Aposentadoria
+:yellow_square: Aposentadoria
 
 idoso e – `lde.q685a`
 
-##### :yellow_square: Aptidão
+:yellow_square: Aptidão
 
 aquisições de – `lde.q366`, `lde.q804`
 
@@ -8044,7 +8044,7 @@ nascimento e desenvolvimento de – `lde.q352`
 
 trabalho conforme a – `lde.q680`
 
-##### :yellow_square: Arrependimento
+:yellow_square: Arrependimento
 
 demora para o – `lde.q993`
 
@@ -8068,11 +8068,11 @@ tardio – `lde.q1007`
 
 última hora para o – `lde.q1002`
 
-##### :yellow_square: Arte
+:yellow_square: Arte
 
 assistência espiritual e – `lde.q521`
 
-##### :yellow_square: Assassinato
+:yellow_square: Assassinato
 
 culpa e – `lde.q747`
 
@@ -8084,13 +8084,13 @@ responsabilidade decorrente do – `lde.q746`
 
 suicídio e – `lde.q758a`
 
-##### :yellow_square: Assembleia
+:yellow_square: Assembleia
 
 espíritos encarnados em – `lde.q417`
 
-##### :yellow_square: Assistência espiritual
+:yellow_square: Assistência espiritual
 
-##### :yellow_square: Allan Kardec
+:yellow_square: Allan Kardec
 
 Allan Kardec e – `lde.0.3`
 
@@ -8108,25 +8108,25 @@ pedidos de – `lde.q910`
 
 ser humano e – `lde.q512`
 
-##### :yellow_square: Assistência social
+:yellow_square: Assistência social
 
 previdência e – `lde.q685a`
 
-##### :yellow_square: Ateísmo
+:yellow_square: Ateísmo
 
 sentimento de adoração e – `lde.q651`
 
-##### :yellow_square: Atração
+:yellow_square: Atração
 
 minerais e – `lde.q888a`
 
-##### :yellow_square: Autenticidade
+:yellow_square: Autenticidade
 
 autoconhecimento e – `lde.q919`
 
 fenômeno espírita e – `lde.0.2.09`
 
-##### :yellow_square: Automatismo
+:yellow_square: Automatismo
 
 conveniência e – `lde.q590`
 
@@ -8136,25 +8136,25 @@ rejeição e – `lde.q589`
 
 transição e – `lde.q589`
 
-##### :yellow_square: Autor
+:yellow_square: Autor
 
 pregação e – `lde.q905`
 
-##### :yellow_square: Autoridade
+:yellow_square: Autoridade
 
 providências para o bem público e – `lde.q483`
 
 superioridade e – `lde.q274a`
 
-##### :yellow_square: Avaliação
+:yellow_square: Avaliação
 
 ações e atitudes do cotidiano em constante – `lde.q919a`
 
-##### :yellow_square: Avareza
+:yellow_square: Avareza
 
 demonstrações da – `lde.q901`
 
-##### :yellow_square: Avoengos
+:yellow_square: Avoengos
 
 ver Antepassados
 
@@ -8162,11 +8162,11 @@ ver Antepassados
 
 #### `lde.6.2.02` :card_index_dividers: B
 
-##### :yellow_square: Batista, João
+:yellow_square: Batista, João
 
 Elias e – `lde.q222`
 
-##### :yellow_square: Bem
+:yellow_square: Bem
 
 adoração e prática do – `lde.q673`
 
@@ -8212,7 +8212,7 @@ tentações e recursos para a prática do – `lde.q816`
 
 trabalho no – `lde.q494`
 
-##### :yellow_square: Bem-estar
+:yellow_square: Bem-estar
 
 conceito de – `lde.q812`
 
@@ -8220,21 +8220,21 @@ desejo de – `lde.q719`
 
 extensão do – `lde.q812`
 
-##### :yellow_square: Bênção
+:yellow_square: Bênção
 
 maldição e – `lde.q557`
 
-##### :yellow_square: Beneficência
+:yellow_square: Beneficência
 
 esmola e – `lde.q888a`
 
-##### :yellow_square: Benevolência
+:yellow_square: Benevolência
 
 Espírito protetor e – `lde.q493a`
 
 sofrimento e – `lde.q486`
 
-##### :yellow_square: Bens
+:yellow_square: Bens
 
 acumulação incessante de – `lde.q900`
 
@@ -8246,7 +8246,7 @@ disposições sobre – `lde.q810`
 
 justiça, amor e caridade na aquisição de – `lde.q884`
 
-##### :yellow_square: Bens terrenos
+:yellow_square: Bens terrenos
 
 distribuição após a morte de – `lde.q1000`
 
@@ -8256,7 +8256,7 @@ gozo dos – `lde.q711`, `lde.q712a`
 
 mal adquiridos – `lde.q1000`
 
-##### :yellow_square: Bíblia
+:yellow_square: Bíblia
 
 criação e – `lde.q59`
 
@@ -8266,23 +8266,23 @@ linguagem figurada e a – `lde.q59`
 
 #### `lde.6.2.03` :card_index_dividers: C
 
-##### :yellow_square: Calamidades
+:yellow_square: Calamidades
 
 espíritos e – `lde.q738a`
 
-##### :yellow_square: Caligrafia
+:yellow_square: Caligrafia
 
 mudança de – `lde.0.2.05` e `lde.0.2.12`
 
-##### :yellow_square: Calma
+:yellow_square: Calma
 
 aparente – `lde.q988`
 
-##### :yellow_square: Canibais
+:yellow_square: Canibais
 
 escala espiritual e – `lde.q271`
 
-##### :yellow_square: Caráter
+:yellow_square: Caráter
 
 encarnação e – `lde.q362`
 
@@ -8294,7 +8294,7 @@ homem de bem e – `lde.q918`
 
 moral e reencarnação – `lde.q216`
 
-##### :yellow_square: Caridade
+:yellow_square: Caridade
 
 caridade – `lde.q917`
 
@@ -8320,11 +8320,11 @@ próximo e – `lde.q770a `, `lde.q903`
 
 solidariedade e – `lde.q805`
 
-##### :yellow_square: Carne
+:yellow_square: Carne
 
 alimentação com a * dos animais – `lde.q723`
 
-##### :yellow_square: Casamento
+:yellow_square: Casamento
 
 antipatia e – `lde.q940`
 
@@ -8340,7 +8340,7 @@ sociedade e – `lde.q696`
 
 vivência do – `lde.q939`
 
-##### :yellow_square: Castigo
+:yellow_square: Castigo
 
 duração do – `lde.q1008`, `lde.q1009`
 
@@ -8350,41 +8350,41 @@ imposição do – `lde.q1008`
 
 local destinado ao * dos espíritos – `lde.q1012`
 
-##### :yellow_square: Cataclismo
+:yellow_square: Cataclismo
 
 geológico e dilúvio de Noé – `lde.q59`
 
 recompensa ao provocador de – `lde.q584a`
 
-##### :yellow_square: Catalepsia
+:yellow_square: Catalepsia
 
 letargia e – `lde.q424`
 
-##### :yellow_square: Causa primária
+:yellow_square: Causa primária
 
 formação da matéria e – `lde.q7`
 
 revelação de inteligência suprema e – `lde.q9`
 
-##### :yellow_square: Celibato
+:yellow_square: Celibato
 
 casamento e – `lde.q696`
 
 lei da natureza e – `lde.q699`
 
-##### :yellow_square: Censura
+:yellow_square: Censura
 
 retorno ao mundo dos espíritos e – `lde.q919a`
 
-##### :yellow_square: Centros de força
+:yellow_square: Centros de força
 
 fluido vital e – `lde.q140a`
 
-##### :yellow_square: Cepa
+:yellow_square: Cepa
 
 emblema do trabalho divino – `lde.0.3`
 
-##### :yellow_square: Cérebro
+:yellow_square: Cérebro
 
 desencarnado e – `lde.q378`
 
@@ -8392,13 +8392,13 @@ desenvolvimento dos órgãos e – `lde.q370`
 
 desorganizado e loucura – `lde.q375`
 
-##### :yellow_square: Ceticismo
+:yellow_square: Ceticismo
 
 ideia inata da espiritualidade e – `lde.q962`
 
 orgulho e – `lde.q962`
 
-##### :yellow_square: Céu
+:yellow_square: Céu
 
 espíritos no – `lde.q1016`
 
@@ -8406,7 +8406,7 @@ graus de purificação e – `lde.q1017`
 
 localização do – `lde.q1016`, `lde.q1017`
 
-##### :yellow_square: Charlatanismo
+:yellow_square: Charlatanismo
 
 acusação de – `lde.0.2.09`
 
@@ -8416,17 +8416,17 @@ magnetismo e – `lde.q481`
 
 sonambulismo magnético e – `lde.q455`
 
-##### :yellow_square: Choro
+:yellow_square: Choro
 
 nascimento e – `lde.q384`
 
-##### :yellow_square: Ciência
+:yellow_square: Ciência
 
 caridade material e – `lde.q707`
 
 esforço para chegar à perfeição e – `lde.q692`
 
-##### :yellow_square: Ciência
+:yellow_square: Ciência
 
 Espiritismo e – `lde.0.2.07`
 
@@ -8448,17 +8448,17 @@ religião e – `lde.q59`
 
 sábio e – `lde.0.2.13`
 
-##### :yellow_square: Ciência espírita
+:yellow_square: Ciência espírita
 
 Ciência espírita – `lde.0.2.17`
 
 consolidação da – `lde.5.6`
 
-##### :yellow_square: Ciúme
+:yellow_square: Ciúme
 
 inveja e – `lde.q933`
 
-##### :yellow_square: Civilização
+:yellow_square: Civilização
 
 barbárie e – `lde.q272`
 
@@ -8482,7 +8482,7 @@ reencarnação de espíritos inferiores em adiantada – `lde.q755`
 
 sofrimento e – `lde.q926`
 
-##### :yellow_square: Clarividência
+:yellow_square: Clarividência
 
 alma e – `lde.q455`
 
@@ -8490,17 +8490,17 @@ desprendimento e – `lde.q433`
 
 espíritos imperfeitos e – `lde.q430`
 
-##### :yellow_square: Classificação
+:yellow_square: Classificação
 
 espíritos e – `lde.q97`, `lde.q100`, `lde.q124`
 
 mundo espiritual e – `lde.q100`
 
-##### :yellow_square: Clausura
+:yellow_square: Clausura
 
 vida em – `lde.q770`
 
-##### :yellow_square: Colônia
+:yellow_square: Colônia
 
 de transição – `lde.q234`
 
@@ -8514,31 +8514,31 @@ moradia em * de transição – `lde.q235`
 
 permanência de Espírito em – `lde.q234a`
 
-##### :yellow_square: Combate
+:yellow_square: Combate
 
 ao egoísmo – `lde.q917`
 
 predomínio da natureza corpórea e – `lde.q912`
 
-##### :yellow_square: Combates
+:yellow_square: Combates
 
 espíritos durante – `lde.q541`
 
 morte em – `lde.q546`
 
-##### :yellow_square: Começo dos tempos
+:yellow_square: Começo dos tempos
 
 Terra e – `lde.q236e`
 
-##### :yellow_square: Cometa
+:yellow_square: Cometa
 
 formação dos mundos e – `lde.q40`
 
-##### :yellow_square: Comportamento
+:yellow_square: Comportamento
 
 respeito ao próximo e observância de igual – `lde.q876`
 
-##### :yellow_square: Compreensão
+:yellow_square: Compreensão
 
 dificuldades de – `lde.q604`
 
@@ -8546,11 +8546,11 @@ lei de justiça e – `lde.q812a`
 
 natureza íntima de Deus e – `lde.q11`
 
-##### :yellow_square: Comunhão
+:yellow_square: Comunhão
 
 pensamentos e sentimentos em – `lde.q656`
 
-##### :yellow_square: Comunicabilidade dos espíritos
+:yellow_square: Comunicabilidade dos espíritos
 
 comunicabilidade dos espíritos – `lde.q282`
 
@@ -8578,7 +8578,7 @@ tiptologia e – `lde.0.2.16`
 
 vida futura e – `lde.q973`
 
-##### :yellow_square: Comunicação
+:yellow_square: Comunicação
 
 Espírito e – `lde.q408`
 
@@ -8586,27 +8586,27 @@ palavra articulada e – `lde.q594a`
 
 preceitos divinos e – `lde.q244b`
 
-##### :yellow_square: Concepção
+:yellow_square: Concepção
 
 nascimento e – `lde.q351`
 
 união da alma ao corpo físico e – `lde.q345`
 
-##### :yellow_square: Condenação
+:yellow_square: Condenação
 
 eterna – `lde.q1009`
 
 imposta – `lde.q1008`
 
-##### :yellow_square: Conduta
+:yellow_square: Conduta
 
 tentações e – `lde.q472`
 
-##### :yellow_square: Confiança
+:yellow_square: Confiança
 
 revelações dos extáticos e – `lde.q444`
 
-##### :yellow_square: Conhecimento
+:yellow_square: Conhecimento
 
 aquisição do – `lde.q561`
 
@@ -8630,7 +8630,7 @@ sentimento e – `lde.q751`
 
 vidas anteriores e – `lde.q395`
 
-##### :yellow_square: Consciência
+:yellow_square: Consciência
 
 consciência – `lde.q952`
 
@@ -8646,11 +8646,11 @@ lei divina e – `lde.q621`
 
 tribunal da – `lde.q875a`
 
-##### :yellow_square: Conselho
+:yellow_square: Conselho
 
 advertências mediante – `lde.q524`
 
-##### :yellow_square: Conservação
+:yellow_square: Conservação
 
 instinto de – `lde.q702`
 
@@ -8660,41 +8660,41 @@ seres vivos e – `lde.q727`
 
 submissão às leis divinas e – `lde.q725`
 
-##### :yellow_square: Consolação
+:yellow_square: Consolação
 
 consciência da pessoa e – `lde.q924`
 
 esperança e – `lde.q924`
 
-##### :yellow_square: Contradição
+:yellow_square: Contradição
 
 ideia fundamental e – `lde.0.2.13`
 
-##### :yellow_square: Convenção
+:yellow_square: Convenção
 
 coisa importante e – `lde.0.2.13`
 
-##### :yellow_square: Convivência
+:yellow_square: Convivência
 
 reconhecimento de espíritos pela primeira vez encarnados na Terra e – `lde.q176b`
 
-##### :yellow_square: Convulsionários
+:yellow_square: Convulsionários
 
 efeitos do magnetismo e – `lde.q483`
 
 fenômenos com os – `lde.q481`
 
-##### :yellow_square: Coração
+:yellow_square: Coração
 
 corpo físico e – `lde.q156`
 
 morte e – `lde.q69`
 
-##### :yellow_square: Cordão fluídico
+:yellow_square: Cordão fluídico
 
 sensações do sonâmbulo e – `lde.q47`
 
-##### :yellow_square: Corpo
+:yellow_square: Corpo
 
 alma, perispírito e – `lde.q135a`
 
@@ -8702,7 +8702,7 @@ separação da alma do – `lde.q154`
 
 vida do – `lde.q738a`
 
-##### :yellow_square: Corpo físico
+:yellow_square: Corpo físico
 
 abandono provisório do – `lde.q402`, `lde.q425`
 
@@ -8740,25 +8740,25 @@ segunda vista e – `lde.q450a`
 
 união da alma e do – `lde.q344`
 
-##### :yellow_square: Costume
+:yellow_square: Costume
 
 crime e – `lde.q751`
 
-##### :yellow_square: Cotidiano
+:yellow_square: Cotidiano
 
 intromissão de espíritos vulgares nas ocupações do – `lde.q567`
 
-##### :yellow_square: Cremação
+:yellow_square: Cremação
 
 costume de – `lde.q955`
 
-##### :yellow_square: Crença
+:yellow_square: Crença
 
 sentimento intuitivo e – `lde.q613`
 
 vontade e – `lde.q631`
 
-##### :yellow_square: Criação
+:yellow_square: Criação
 
 Bíblia e – `lde.q59`
 
@@ -8776,7 +8776,7 @@ espíritos e igualdade na – `lde.q127`
 
 sistema de passagem do Espírito por graus dos seres inferiores da – `lde.q613`
 
-##### :yellow_square: Criança
+:yellow_square: Criança
 
 desencarnação de – `lde.q197` a `lde.q199`, `lde.q381`
 
@@ -8796,11 +8796,11 @@ progresso moral e intelectual de – `lde.q379`
 
 teoria da encarnação gradativa da – `lde.q142`
 
-##### :yellow_square: Criatura
+:yellow_square: Criatura
 
 nivelamento do Criador à – `lde.q15`
 
-##### :yellow_square: Crime
+:yellow_square: Crime
 
 guerra, crueldade e – `lde.q749`
 
@@ -8810,19 +8810,19 @@ prática de * de morte – `lde.q638`
 
 predestinação ao – `lde.q861`
 
-##### :yellow_square: Criminalidade
+:yellow_square: Criminalidade
 
 meio e – `lde.q644`
 
 vício e – `lde.q645`
 
-##### :yellow_square: Criminoso
+:yellow_square: Criminoso
 
 punição do – `lde.q761`
 
 reabilitação do – `lde.q761`
 
-##### :yellow_square: Cristianismo
+:yellow_square: Cristianismo
 
 escravidão e – `lde.q830`
 
@@ -8834,15 +8834,15 @@ justiça e sublimidade do – `lde.q876`
 
 missão do – `lde.q668`
 
-##### :yellow_square: Cristo
+:yellow_square: Cristo
 
 ver Jesus
 
-##### :yellow_square: Crítica
+:yellow_square: Crítica
 
 imperfeições alheias e – `lde.q903`
 
-##### :yellow_square: Crueldade
+:yellow_square: Crueldade
 
 civilização e – `lde.q755`
 
@@ -8860,13 +8860,13 @@ procedência do sentimento de – `lde.q754`
 
 sociedade e – `lde.q756`
 
-##### :yellow_square: Culpa
+:yellow_square: Culpa
 
 assassinato e – `lde.q747`
 
 mal e – `lde.q639`
 
-##### :yellow_square: Culpado
+:yellow_square: Culpado
 
 insensibilidade ao sofrimento alheio e – `lde.q899`
 
@@ -8876,7 +8876,7 @@ suicídio e – `lde.q947`
 
 tempo para reflexão da falta e – `lde.q952a`
 
-##### :yellow_square: Cura
+:yellow_square: Cura
 
 mediunidade de – `lde.q556`
 
@@ -8886,27 +8886,27 @@ possibilidade de * da desordem e da imprevidência – `lde.q685a`
 
 #### `lde.6.2.04` :card_index_dividers: D
 
-##### :yellow_square: Decálogo
+:yellow_square: Decálogo
 
 Decálogo – `lde.5.8`
 
 sistema de classificação da lei natural e o – `lde.q648`
 
-##### :yellow_square: Decapitação
+:yellow_square: Decapitação
 
 cérebro e – `lde.q162`
 
 consciência e – `lde.q162`
 
-##### :yellow_square: Decepção
+:yellow_square: Decepção
 
 ingratidão e – `lde.q938`
 
-##### :yellow_square: Decisão
+:yellow_square: Decisão
 
 livre-arbítrio e – `lde.q544`
 
-##### :yellow_square: Demônio
+:yellow_square: Demônio
 
 anjo e – `lde.q128`
 
@@ -8916,25 +8916,25 @@ expulsão do – `lde.q480`
 
 maus espíritos e – `lde.5.6`
 
-##### :yellow_square: Desânimo
+:yellow_square: Desânimo
 
 vida e – `lde.q943`
 
-##### :yellow_square: Descanso
+:yellow_square: Descanso
 
 trabalho e – `lde.q682`
 
-##### :yellow_square: Descobrimentos
+:yellow_square: Descobrimentos
 
 obras artísticas e ação dos espíritos nos – `lde.q577`
 
 progresso de povos e – `lde.q584`
 
-##### :yellow_square: Desejo
+:yellow_square: Desejo
 
 influenciação para o mal e – `lde.q467`
 
-##### :yellow_square: Desencarnação
+:yellow_square: Desencarnação
 
 afinidade do Espírito com a matéria e – `lde.q155a`
 
@@ -8962,7 +8962,7 @@ perturbação do Espírito e – `lde.q319`
 
 prematura – `lde.q346a`
 
-##### :yellow_square: Desencarnado
+:yellow_square: Desencarnado
 
 cérebro e – `lde.q378`
 
@@ -8980,33 +8980,33 @@ percepções de – `lde.q547a`
 
 valor da recordação amiga para o – `lde.q320`
 
-##### :yellow_square: Desencarnado
+:yellow_square: Desencarnado
 
 ver também Morto
 
-##### :yellow_square: Desenvolvimento
+:yellow_square: Desenvolvimento
 
 das faculdades existentes no homem – `lde.q754`
 
 do senso moral – `lde.q754`
 
-##### :yellow_square: Desequilíbrio
+:yellow_square: Desequilíbrio
 
 emocional – `lde.0.2.15`
 
-##### :yellow_square: Desespero
+:yellow_square: Desespero
 
 momento derradeiro e – `lde.q708`
 
-##### :yellow_square: Desigualdades
+:yellow_square: Desigualdades
 
 desaparecimento das – `lde.q806a`
 
-##### :yellow_square: Desigualdades sociais
+:yellow_square: Desigualdades sociais
 
 homem e – `lde.q806`
 
-##### :yellow_square: Desmaterialização
+:yellow_square: Desmaterialização
 
 Espírito e – `lde.0.2.12`
 
@@ -9014,13 +9014,13 @@ influência da matéria e – `lde.q318`
 
 ocupações dos espíritos no estado de erraticidade ou de – `lde.q584a`
 
-##### :yellow_square: Despertamento
+:yellow_square: Despertamento
 
 oração e – `lde.q664`
 
 perturbação e – `lde.q319`
 
-##### :yellow_square: Desprendimento
+:yellow_square: Desprendimento
 
 comunicabilidade dos espíritos e – `lde.q455`
 
@@ -9028,15 +9028,15 @@ corpo físico, perispírito e – `lde.q257`
 
 desatamento dos laços do perispírito e – `lde.q155a`
 
-##### :yellow_square: Desprezo
+:yellow_square: Desprezo
 
 desobediência a conselhos e conhecidas verdades e – `lde.q942`
 
-##### :yellow_square: Destino
+:yellow_square: Destino
 
 homem e – `lde.q774`, `lde.q778`
 
-##### :yellow_square: Destruição
+:yellow_square: Destruição
 
 abusiva – `lde.q735`
 
@@ -9048,7 +9048,7 @@ animais e o homem perante a lei de – `lde.q735`
 
 desenvolvimento intelectual e moral e – `lde.q733`
 
-##### :yellow_square: Deus e – `lde.q728a`
+:yellow_square: Deus e – `lde.q728a`
 
 dos animais – `lde.q734`
 
@@ -9074,15 +9074,15 @@ sentimento de repulsa à – `lde.q733`
 
 seres vivos e – `lde.q728`
 
-##### :yellow_square: Destruição
+:yellow_square: Destruição
 
 ver Lei de destruição
 
-##### :yellow_square: Deturpação
+:yellow_square: Deturpação
 
 sentimento de justiça e – `lde.q874`
 
-##### :yellow_square: Deus
+:yellow_square: Deus
 
 amor de – `lde.q126`
 
@@ -9150,41 +9150,41 @@ universalidade de sentimento da existência de – `lde.q6`
 
 Universo e – `lde.q38`
 
-##### :yellow_square: Dever
+:yellow_square: Dever
 
 defesa da mulher como – `lde.q820`
 
 missão e – `lde.q575`
 
-##### :yellow_square: Diabrete
+:yellow_square: Diabrete
 
 Diabrete – `lde.q103`
 
-##### :yellow_square: Dificuldade
+:yellow_square: Dificuldade
 
 passagem pela prova da riqueza com – `lde.q816`
 
 responsabilidade pelo triunfo sobre a – `lde.q850`
 
-##### :yellow_square: Dignidade
+:yellow_square: Dignidade
 
 combate à fascinação e – `lde.q476`
 
-##### :yellow_square: Dilúvio
+:yellow_square: Dilúvio
 
 data provável do – `lde.q59`
 
-##### :yellow_square: Dinheiro
+:yellow_square: Dinheiro
 
 achado na rua – `lde.q472`
 
-##### :yellow_square: Direito
+:yellow_square: Direito
 
 abuso e – `lde.q734`
 
 mais forte e – `lde.q795`
 
-##### :yellow_square: Direitos humanos
+:yellow_square: Direitos humanos
 
 do homem e da mulher – `lde.q817`
 
@@ -9196,43 +9196,43 @@ lei humana, lei natural e formulação dos – `lde.q875a`
 
 primeiro de todos os – `lde.q880`
 
-##### :yellow_square: Dirigente
+:yellow_square: Dirigente
 
 espiritual e coletividades – `lde.q519`
 
-##### :yellow_square: Discórdia
+:yellow_square: Discórdia
 
 concórdia e – `lde.q298`
 
-##### :yellow_square: Discriminação
+:yellow_square: Discriminação
 
 mulher e – `lde.q818`
 
-##### :yellow_square: Divergências
+:yellow_square: Divergências
 
 Espiritismo e – `lde.5.9`
 
-##### :yellow_square: Diversidade
+:yellow_square: Diversidade
 
 procedimento da lei natural na – `lde.q635`
 
-##### :yellow_square: Divindade
+:yellow_square: Divindade
 
 atributos da – `lde.q10` a `lde.q13`
 
-##### :yellow_square: Divórcio
+:yellow_square: Divórcio
 
 indissolubilidade do casamento e – `lde.q697`
 
 leis divinas e – `lde.q940`
 
-##### :yellow_square: Divulgação
+:yellow_square: Divulgação
 
 defeitos da sociedade e – `lde.q904`
 
 ensino e época de – `lde.q581`
 
-##### :yellow_square: Doação
+:yellow_square: Doação
 
 alegria da – `lde.q1001`
 
@@ -9240,15 +9240,15 @@ após a morte – `lde.q1001`
 
 generosidade e – `lde.q1001`
 
-##### :yellow_square: Doença
+:yellow_square: Doença
 
 ver Enfermidade
 
-##### :yellow_square: Doença mental
+:yellow_square: Doença mental
 
 cérebro e – `lde.q375`
 
-##### :yellow_square: Doutrina
+:yellow_square: Doutrina
 
 dos amigos guardiães – `lde.q495`
 
@@ -9256,17 +9256,17 @@ lógica e – `lde.q131`
 
 sinal de pureza em – `lde.q842`
 
-##### :yellow_square: Duelo
+:yellow_square: Duelo
 
 conceito de – `lde.q757`
 
 suicídio e – `lde.q758`
 
-##### :yellow_square: Duende
+:yellow_square: Duende
 
 Duende – `lde.q103`
 
-##### :yellow_square: Dupla vista
+:yellow_square: Dupla vista
 
 aparente hereditariedade na – `lde.q451`
 
@@ -9294,15 +9294,15 @@ variações no poder da – `lde.q455`
 
 #### `lde.6.2.05` :card_index_dividers: E
 
-##### :yellow_square: Eclesiastes
+:yellow_square: Eclesiastes
 
 Eclesiastes – `lde.q560`
 
-##### :yellow_square: Economia
+:yellow_square: Economia
 
 equilíbrio entre produção e consumo – `lde.q685a`
 
-##### :yellow_square: Educação
+:yellow_square: Educação
 
 conceito de – `lde.q685a`
 
@@ -9314,11 +9314,11 @@ instituições humanas e – `lde.q914`
 
 regeneração do homem e – `lde.q796`
 
-##### :yellow_square: Efeitos inteligentes
+:yellow_square: Efeitos inteligentes
 
 causa de – `lde.0.3`, `lde.0.2.05`
 
-##### :yellow_square: Egoísmo
+:yellow_square: Egoísmo
 
 adesão ao – `lde.q917`
 
@@ -9358,25 +9358,25 @@ prática do bem e – `lde.q643`
 
 sentimentos e virtudes incompatíveis com o – `lde.q913`
 
-##### :yellow_square: Elementos orgânicos
+:yellow_square: Elementos orgânicos
 
 formação da Terra e – `lde.q45`
 
 presença da espécie humana entre os – `lde.q47`
 
-##### :yellow_square: Eletricidade
+:yellow_square: Eletricidade
 
 fluido universal e – `lde.q27a`
 
-##### :yellow_square: Elias
+:yellow_square: Elias
 
 João Batista e – `lde.q222`
 
-##### :yellow_square: Emancipação
+:yellow_square: Emancipação
 
 mulher e – `lde.q822a`
 
-##### :yellow_square: Emancipação da alma
+:yellow_square: Emancipação da alma
 
 atuação de encarnado como Espírito e – `lde.q418`
 
@@ -9388,7 +9388,7 @@ segunda vista e – `lde.q455`
 
 visita espiritual e – `lde.q413`
 
-##### :yellow_square: Encarnação
+:yellow_square: Encarnação
 
 caráter e – `lde.q362`
 
@@ -9396,11 +9396,11 @@ diferentes mundos e – `lde.q172` a `lde.q188`
 
 esforço e – `lde.q133`
 
-##### :yellow_square: Espírito bom
+:yellow_square: Espírito bom
 
 e – `lde.q361a`
 
-##### :yellow_square: Espírito mau
+:yellow_square: Espírito mau
 
 e – `lde.q361a`
 
@@ -9434,11 +9434,11 @@ teoria de períodos, na criança, para o término da – `lde.q142`
 
 Terra e – `lde.q176`
 
-##### :yellow_square: Encarnado
+:yellow_square: Encarnado
 
 escolha de provas e – `lde.q267`
 
-##### :yellow_square: Espírito errante
+:yellow_square: Espírito errante
 
 Espírito errante e – `lde.q226`
 
@@ -9450,21 +9450,21 @@ sensações da vida do – `lde.q256`
 
 vivência na erraticidade e condição de – `lde.q175b`
 
-##### :yellow_square: Encontro
+:yellow_square: Encontro
 
 busca recíproca no plano físico e – `lde.q386`
 
 provocação de * no mundo espiritual – `lde.q416`
 
-##### :yellow_square: Enfermidade
+:yellow_square: Enfermidade
 
 morte e – `lde.q68a`
 
-##### :yellow_square: Engano
+:yellow_square: Engano
 
 missão e – `lde.q581`
 
-##### :yellow_square: Ensino
+:yellow_square: Ensino
 
 divulgação de – `lde.q581`
 
@@ -9474,11 +9474,11 @@ espíritos superiores e transmissão do – `lde.0.2.06`
 
 oportunidade favorável ao – `lde.q801`
 
-##### :yellow_square: Entendimento
+:yellow_square: Entendimento
 
 perfeições divinas e * humano – `lde.q12`
 
-##### :yellow_square: Entes queridos
+:yellow_square: Entes queridos
 
 intercâmbio no além-túmulo com – `lde.q934`
 
@@ -9488,25 +9488,25 @@ perda dos – `lde.q934`
 
 proteção por desencarnado a – `lde.q508`
 
-##### :yellow_square: Epilepsia
+:yellow_square: Epilepsia
 
 possessão e – `lde.q474`
 
-##### :yellow_square: Época
+:yellow_square: Época
 
 julgamento do justo e do injusto conforme a – `lde.q763`
 
-##### :yellow_square: Equilíbrio
+:yellow_square: Equilíbrio
 
 forças da natureza e – `lde.q693`
 
 populacional e lei de reprodução – `lde.q687`
 
-##### :yellow_square: Errante
+:yellow_square: Errante
 
 Espírito – `lde.q224`
 
-##### :yellow_square: Erraticidade
+:yellow_square: Erraticidade
 
 conhecimento de vidas passadas e – `lde.q975`
 
@@ -9522,7 +9522,7 @@ prazo no estado de – `lde.q224a`
 
 reencarnação e – `lde.q225`
 
-##### :yellow_square: Erro
+:yellow_square: Erro
 
 acerto e – `lde.q623`, `lde.q715`
 
@@ -9544,7 +9544,7 @@ revelação do – `lde.q977a`
 
 suicídio pelo – `lde.q948`
 
-##### :yellow_square: Escala
+:yellow_square: Escala
 
 ascensão nos graus da – `lde.q561`
 
@@ -9556,17 +9556,17 @@ espírita e idade do corpo físico – `lde.q198`
 
 grau de conhecimento dos espíritos e – `lde.q143`
 
-##### :yellow_square: Escândalo
+:yellow_square: Escândalo
 
 desrespeito à liberdade de pensamento e provocação de – `lde.q839`
 
-##### :yellow_square: Esclarecimento
+:yellow_square: Esclarecimento
 
 teoria inexplicável e – `lde.q222`
 
 utilidade do período da infância e – `lde.q385`
 
-##### :yellow_square: Escolha
+:yellow_square: Escolha
 
 das provas – `lde.q258`, `lde.q266`, `lde.q335`
 
@@ -9574,7 +9574,7 @@ juízo e * das provas – `lde.q269`
 
 moradia do Espírito e – `lde.q184`
 
-##### :yellow_square: Escravidão
+:yellow_square: Escravidão
 
 conceito de – `lde.q829`
 
@@ -9588,17 +9588,17 @@ liberdade e – `lde.q832`
 
 responsabilidade do mal e – `lde.q830`
 
-##### :yellow_square: Escrita
+:yellow_square: Escrita
 
 manifestação inteligente e obtenção de – `lde.0.2.09`
 
 substituição de cesta e prancheta pela * a mão – `lde.0.2.05`
 
-##### :yellow_square: Escritor
+:yellow_square: Escritor
 
 chagas da sociedade e – `lde.q904a`
 
-##### :yellow_square: Esforço
+:yellow_square: Esforço
 
 encarnação e – `lde.q133`
 
@@ -9606,17 +9606,17 @@ evolução com – `lde.q987`
 
 más inclinações e – `lde.q909`
 
-##### :yellow_square: Esmola
+:yellow_square: Esmola
 
 beneficência e – `lde.q888a`
 
 consequências do pedido de – `lde.q888`
 
-##### :yellow_square: Espaço
+:yellow_square: Espaço
 
 universal – `lde.q35`, `lde.q36`
 
-##### :yellow_square: Espiritismo
+:yellow_square: Espiritismo
 
 adepto do – `lde.0.2.01`
 
@@ -9718,11 +9718,11 @@ unidade do – `lde.5.9`
 
 universalidade do – `lde.5.6`
 
-##### :yellow_square: Espírito
+:yellow_square: Espírito
 
 ponto de partida do – `lde.q613`
 
-##### :yellow_square: Espírito bom
+:yellow_square: Espírito bom
 
 Espírito bom – `lde.q107` a `lde.q111`
 
@@ -9748,19 +9748,19 @@ reencarnação de – `lde.q273`
 
 sofrimentos e benevolência de – `lde.q486`
 
-##### :yellow_square: Espírito de Verdade (O)
+:yellow_square: Espírito de Verdade (O)
 
 equipe de – `lde.0.3`
 
-##### :yellow_square: Espírito desencarnado
+:yellow_square: Espírito desencarnado
 
 sonâmbulo e – `lde.q434`
 
-##### :yellow_square: Espírito encarnado
+:yellow_square: Espírito encarnado
 
 missão do – `lde.q573`
 
-##### :yellow_square: Espírito endurecido
+:yellow_square: Espírito endurecido
 
 falta de arrependimento do – `lde.q997`
 
@@ -9768,7 +9768,7 @@ insensibilidade às orações do – `lde.q997`
 
 revolta e orgulho do – `lde.q997`
 
-##### :yellow_square: Espírito errante
+:yellow_square: Espírito errante
 
 aprendizado de – `lde.q227`
 
@@ -9778,11 +9778,11 @@ missão de – `lde.q569`
 
 reencarnação e – `lde.q333`
 
-##### :yellow_square: Espírito familiar
+:yellow_square: Espírito familiar
 
 conceito de – `lde.q514`
 
-##### :yellow_square: Espírito imperfeito
+:yellow_square: Espírito imperfeito
 
 Espírito imperfeito – `lde.q101` a `lde.q106`
 
@@ -9794,13 +9794,13 @@ mal e – `lde.q99`
 
 regiões interditadas a – `lde.q279`
 
-##### :yellow_square: Espírito impuro
+:yellow_square: Espírito impuro
 
 chegada ao plano espiritual de – `lde.q288`
 
 ódio e – `lde.q292`
 
-##### :yellow_square: Espírito inferior
+:yellow_square: Espírito inferior
 
 arrependimento de – `lde.q975`
 
@@ -9826,13 +9826,13 @@ prazeres mundanos e – `lde.q313`
 
 sofrimentos do – `lde.q970`
 
-##### :yellow_square: Espírito leviano
+:yellow_square: Espírito leviano
 
 credulidade e – `lde.q553a`
 
 responsabilidade de – `lde.q530`
 
-##### :yellow_square: Espírito mau
+:yellow_square: Espírito mau
 
 ausência de arrependimento do – `lde.q993`
 
@@ -9846,7 +9846,7 @@ influenciação de – `lde.q474`
 
 sofrimentos do – `lde.q973`
 
-##### :yellow_square: Espírito protetor
+:yellow_square: Espírito protetor
 
 aceitação de missão por – `lde.q493`
 
@@ -9870,7 +9870,7 @@ ser humano e – `lde.q509`
 
 trabalho do – `lde.q497`
 
-##### :yellow_square: Espírito puro
+:yellow_square: Espírito puro
 
 Espírito puro – `lde.q112`, `lde.q113`
 
@@ -9892,21 +9892,21 @@ perispírito e – `lde.q186a`
 
 última encarnação e – `lde.q170`
 
-##### :yellow_square: Espírito simpático
+:yellow_square: Espírito simpático
 
 conceito de – `lde.q514`
 
-##### :yellow_square: Espírito sofredor
+:yellow_square: Espírito sofredor
 
 orações pelo – `lde.q664`
 
 passagem do tempo para o – `lde.q1005`
 
-##### :yellow_square: Espírito superior
+:yellow_square: Espírito superior
 
 reuniões sérias e – `lde.0.2.08`
 
-##### :yellow_square: Espírito(s)
+:yellow_square: Espírito(s)
 
 ação do – `lde.q403`
 
@@ -9958,7 +9958,7 @@ entorpecimento do corpo e – `lde.q409`
 
 escala dos – `lde.q96`
 
-##### :yellow_square: Espiritismo
+:yellow_square: Espiritismo
 
 Espiritismo e existência do – `lde.0.2.17`
 
@@ -10086,23 +10086,23 @@ visão do – `lde.q245`, `lde.q248`, `lde.q429`
 
 vontade do – `lde.q345`
 
-##### :yellow_square: Espíritos batedores e perturbadores
+:yellow_square: Espíritos batedores e perturbadores
 
 características dos – `lde.q106`
 
-##### :yellow_square: Espíritos benévolos
+:yellow_square: Espíritos benévolos
 
 caraterísticas dos – `lde.q108`
 
-##### :yellow_square: Espíritos sábios
+:yellow_square: Espíritos sábios
 
 características dos – `lde.q110`
 
-##### :yellow_square: Espíritos encarnados
+:yellow_square: Espíritos encarnados
 
 assembleias de – `lde.q417`
 
-##### :yellow_square: Espíritos imperfeitos
+:yellow_square: Espíritos imperfeitos
 
 características dos – `lde.q101`
 
@@ -10110,47 +10110,47 @@ exaltação do fanatismo e – `lde.q481a`
 
 influência de – `lde.q122a`
 
-##### :yellow_square: Espíritos impuros
+:yellow_square: Espíritos impuros
 
 características dos – `lde.q102`
 
-##### :yellow_square: Espíritos inferiores
+:yellow_square: Espíritos inferiores
 
 rejeição à influência de – `lde.q469`
 
-##### :yellow_square: Espíritos levianos
+:yellow_square: Espíritos levianos
 
 características dos – `lde.q103`
 
-##### :yellow_square: Espíritos neutros
+:yellow_square: Espíritos neutros
 
 características dos – `lde.q105`
 
-##### :yellow_square: Espíritos protetores
+:yellow_square: Espíritos protetores
 
 coletividades e grau de adiantamento de – `lde.q520`
 
 personificação alegórica de – `lde.q521`
 
-##### :yellow_square: Espíritos pseudossábios
+:yellow_square: Espíritos pseudossábios
 
 características dos – `lde.q104`
 
-##### :yellow_square: Espíritos puros
+:yellow_square: Espíritos puros
 
 características dos – `lde.q112`, `lde.q113`
 
 união de – `lde.q300`
 
-##### :yellow_square: Espíritos sábios
+:yellow_square: Espíritos sábios
 
 características dos – `lde.q109`
 
-##### :yellow_square: Espíritos simpáticos
+:yellow_square: Espíritos simpáticos
 
 atração ou repulsão de – `lde.q518`
 
-##### :yellow_square: Espíritos superiores
+:yellow_square: Espíritos superiores
 
 características dos – `lde.q111`
 
@@ -10158,17 +10158,17 @@ encarnação de – `lde.q402`
 
 local de reunião dos – `lde.q188`
 
-##### :yellow_square: Espiritualismo
+:yellow_square: Espiritualismo
 
 adepto do – `lde.0.2.01`
 
 conceito de alma e – `lde.0.2.02`
 
-##### :yellow_square: Espiritismo
+:yellow_square: Espiritismo
 
 e – `lde.0.2.01`
 
-##### :yellow_square: Esquecimento
+:yellow_square: Esquecimento
 
 maus instintos e – `lde.q620`
 
@@ -10176,7 +10176,7 @@ passado e – `lde.q392`
 
 primeiras existências e – `lde.q308`
 
-##### :yellow_square: Estado de natureza
+:yellow_square: Estado de natureza
 
 conceito de – `lde.q776`
 
@@ -10186,21 +10186,21 @@ lei do progresso e volta ao – `lde.q778`
 
 progresso e – `lde.q776`
 
-##### :yellow_square: Esterilidade
+:yellow_square: Esterilidade
 
 mundos transitórios e – `lde.q236b`
 
-##### :yellow_square: Estudo
+:yellow_square: Estudo
 
 Espiritismo e seriedade no – `lde.0.2.08`
 
 procedência da sugestão e – `lde.q464`
 
-##### :yellow_square: Estudo Sistematizado da Doutrina Espírita
+:yellow_square: Estudo Sistematizado da Doutrina Espírita
 
 aprendizado pelo – `lde.0.2.08`
 
-##### :yellow_square: Eternidade
+:yellow_square: Eternidade
 
 conceito de – `lde.q125`
 
@@ -10210,7 +10210,7 @@ linguagem figurada e – `lde.q1009`
 
 vida presente e – `lde.q222`
 
-##### :yellow_square: Eutanásia
+:yellow_square: Eutanásia
 
 consequências da – `lde.q953b`
 
@@ -10220,19 +10220,19 @@ socorro inesperado e – `lde.q953`
 
 suicídio e – `lde.q953`
 
-##### :yellow_square: Evangelho
+:yellow_square: Evangelho
 
-##### :yellow_square: Espiritismo e
+:yellow_square: Espiritismo e
 
 Evangelho – `lde.5.8`
 
 expulsão dos demônios e – `lde.q480`
 
-##### :yellow_square: Evocação
+:yellow_square: Evocação
 
 aproximação de espíritos por – `lde.q934`
 
-##### :yellow_square: Evolução
+:yellow_square: Evolução
 
 aprimoramento contínuo e – `lde.q898`
 
@@ -10250,7 +10250,7 @@ erraticidade e – `lde.q230`
 
 escala e gradação na – `lde.q100`
 
-##### :yellow_square: Espírito e
+:yellow_square: Espírito e
 
 Espírito e – `lde.q114`
 
@@ -10282,19 +10282,19 @@ reencarnação e – `lde.q612`
 
 vidas sucessivas e – `lde.q787b`
 
-##### :yellow_square: Excessos
+:yellow_square: Excessos
 
 consequências de – `lde.q714a`
 
-##### :yellow_square: Exemplo
+:yellow_square: Exemplo
 
 direcionamento da censura e – `lde.q904a`
 
-##### :yellow_square: Exílio
+:yellow_square: Exílio
 
 saída da vida espiritual e chegada ao – `lde.q340`
 
-##### :yellow_square: Existência
+:yellow_square: Existência
 
 condições de – `lde.q732`
 
@@ -10304,21 +10304,21 @@ lembrança da * corpórea – `lde.q304`
 
 recomeço da mesma – `lde.q178b`
 
-##### :yellow_square: Exorcismo
+:yellow_square: Exorcismo
 
 epilepsia, loucura e – `lde.q474`
 
 ineficácia do – `lde.q477`
 
-##### :yellow_square: Experiência
+:yellow_square: Experiência
 
 missão e – `lde.q580`
 
-##### :yellow_square: Experimentação
+:yellow_square: Experimentação
 
 reprodução idêntica de fenômeno na – `lde.0.2.03`
 
-##### :yellow_square: Expiação
+:yellow_square: Expiação
 
 animais e – `lde.q602`
 
@@ -10346,7 +10346,7 @@ vida espiritual e – `lde.q998`
 
 vontade divina e – `lde.q262a`
 
-##### :yellow_square: Êxtase
+:yellow_square: Êxtase
 
 características do estado de – `lde.q455`
 
@@ -10360,17 +10360,17 @@ sonambulismo e – `lde.q439`
 
 #### `lde.6.2.06` :card_index_dividers: F
 
-##### :yellow_square: Falibilidade
+:yellow_square: Falibilidade
 
 ciência e – `lde.0.2.07`
 
 humana e Espírito superior – `lde.q578`
 
-##### :yellow_square: Falsidade
+:yellow_square: Falsidade
 
 conhecimento da verdade e uso da – `lde.q654`
 
-##### :yellow_square: Falta
+:yellow_square: Falta
 
 cometimento de – `lde.q398`, `lde.q398a`, `lde.q852`, `lde.q872`, `lde.q919a`
 
@@ -10378,7 +10378,7 @@ expiação e – `lde.q957`
 
 suicídio e – `lde.q948`
 
-##### :yellow_square: Família
+:yellow_square: Família
 
 espíritos e – `lde.0.2.12`
 
@@ -10398,15 +10398,15 @@ sociedade e – `lde.q775`
 
 suicídio e – `lde.q949`
 
-##### :yellow_square: Fanatismo
+:yellow_square: Fanatismo
 
 exaltação do – `lde.q483`
 
-##### :yellow_square: Fascinação
+:yellow_square: Fascinação
 
 luta contra a – `lde.q476`
 
-##### :yellow_square: Fatalidade
+:yellow_square: Fatalidade
 
 consequências das próprias faltas e – `lde.q852`
 
@@ -10424,11 +10424,11 @@ livre-arbítrio e – `lde.q866`, `lde.q872`
 
 morte e – `lde.q853a`, `lde.q872`
 
-##### :yellow_square: Fato
+:yellow_square: Fato
 
 novo e ciência conhecida – `lde.0.2.07`
 
-##### :yellow_square: Fé
+:yellow_square: Fé
 
 falta de – `lde.q943`
 
@@ -10438,17 +10438,17 @@ no futuro – `lde.q922`
 
 prática do bem e – `lde.q838`
 
-##### :yellow_square: Feitiçaria
+:yellow_square: Feitiçaria
 
 magnetismo e – `lde.q552`
 
 conceito de – `lde.q555`
 
-##### :yellow_square: Feiticeiro
+:yellow_square: Feiticeiro
 
 talismã e – `lde.q554`
 
-##### :yellow_square: Felicidade
+:yellow_square: Felicidade
 
 afeição e – `lde.q980`
 
@@ -10494,13 +10494,13 @@ terrestre e moral – `lde.q922`
 
 vida e – `lde.q942`
 
-##### :yellow_square: Fenômeno
+:yellow_square: Fenômeno
 
 causa inteligente do – `lde.0.2.04`
 
 das mesas girantes – `lde.0.2.03`
 
-##### :yellow_square: Fenômeno espírita
+:yellow_square: Fenômeno espírita
 
 ação inteligente – `lde.0.2.07`
 
@@ -10516,7 +10516,7 @@ politeísmo e – `lde.q668`
 
 sonambulismo, influenciação e – `lde.0.2.16`
 
-##### :yellow_square: Fenômeno mediúnico
+:yellow_square: Fenômeno mediúnico
 
 espontâneo – `lde.q408`
 
@@ -10526,11 +10526,11 @@ mediunidade e – `lde.q409`
 
 revelado – `lde.5.6`
 
-##### :yellow_square: Fenomenologia
+:yellow_square: Fenomenologia
 
 conhecimento de novas leis e – `lde.0.2.03`
 
-##### :yellow_square: Fenômenos
+:yellow_square: Fenômenos
 
 ação dos espíritos nos * da natureza – `lde.q536b`
 
@@ -10538,17 +10538,17 @@ do sonambulismo, do êxtase e consequências – `lde.q445`
 
 produção de – `lde.q539`
 
-##### :yellow_square: Feto
+:yellow_square: Feto
 
 Espírito e – `lde.q353`
 
 respeito ao – `lde.q360`
 
-##### :yellow_square: Filantropia
+:yellow_square: Filantropia
 
 condição material do homem e – `lde.q707`
 
-##### :yellow_square: Filho
+:yellow_square: Filho
 
 amor materno e de – `lde.q892`
 
@@ -10556,17 +10556,17 @@ reencarnação de protetor e prosseguimento de amparo a – `lde.q510`
 
 transmissão de parecença moral de pais ao – `lde.q207a`
 
-##### :yellow_square: Filosofia
+:yellow_square: Filosofia
 
 Espiritismo e – `lde.5.5`
 
 racional e estabelecimento de fundamentos – `lde.0.3`
 
-##### :yellow_square: Finados
+:yellow_square: Finados
 
 comemoração do dia de – `lde.q321`
 
-##### :yellow_square: Flagelos
+:yellow_square: Flagelos
 
 agravo de – `lde.q741`
 
@@ -10584,7 +10584,7 @@ necessidade regenerativa e – `lde.q737`
 
 prevenção de – `lde.q741`
 
-##### :yellow_square: Fluido universal
+:yellow_square: Fluido universal
 
 eletricidade e – `lde.q27a`
 
@@ -10596,7 +10596,7 @@ indispensabilidade do – `lde.q27`
 
 princípio vital e – `lde.q65`
 
-##### :yellow_square: Fluido vital
+:yellow_square: Fluido vital
 
 centros de força e – `lde.q140a`
 
@@ -10612,13 +10612,13 @@ teoria da alma subdividida e – `lde.q140`
 
 transmissão do – `lde.q70`
 
-##### :yellow_square: Fogo
+:yellow_square: Fogo
 
 imagem do – `lde.q974`
 
 linguagem figurada e – `lde.q1009`
 
-##### :yellow_square: Fome
+:yellow_square: Fome
 
 antropofagia e – `lde.q709`
 
@@ -10634,41 +10634,41 @@ sociedade e – `lde.q930`
 
 suicídio e – `lde.q947`
 
-##### :yellow_square: Força
+:yellow_square: Força
 
 movimento de objetos por * mecânica cega – `lde.0.2.04`
 
-##### :yellow_square: Fortalecimento
+:yellow_square: Fortalecimento
 
 tentações do mal e – `lde.q660`
 
-##### :yellow_square: Fracasso
+:yellow_square: Fracasso
 
 consequências do – `lde.q578a`
 
 pretensão de igualdade de riquezas e – `lde.q811a`
 
-##### :yellow_square: Fraqueza
+:yellow_square: Fraqueza
 
 adoração e sentimento de – `lde.q650`
 
-##### :yellow_square: Fraude
+:yellow_square: Fraude
 
 explicação ignorada de fenômeno e – `lde.0.2.03`
 
 rejeição de – `lde.0.2.09`
 
-##### :yellow_square: Fuga
+:yellow_square: Fuga
 
 contratempos da vida e – `lde.q770`
 
-##### :yellow_square: Funeral
+:yellow_square: Funeral
 
 comemoração dos mortos e – `lde.q320`
 
 pompas e – `lde.q824`
 
-##### :yellow_square: Futuro
+:yellow_square: Futuro
 
 certeza do – `lde.q919a`, `lde.q941`
 
@@ -10686,41 +10686,41 @@ vida corpórea e certeza do – `lde.q921`
 
 #### `lde.6.2.07` :card_index_dividers: G
 
-##### :yellow_square: Gêmeos
+:yellow_square: Gêmeos
 
 encarnação de – `lde.q213`
 
-##### :yellow_square: Genealogia
+:yellow_square: Genealogia
 
 orgulho pela – `lde.q205a`
 
 reencarnação e – `lde.q205a`
 
-##### :yellow_square: Gênio
+:yellow_square: Gênio
 
 idiotia e – `lde.q373a`
 
-##### :yellow_square: Geração espontânea
+:yellow_square: Geração espontânea
 
 espécie humana e – `lde.q49`
 
 seres vivos e – `lde.q44`
 
-##### :yellow_square: Gerações
+:yellow_square: Gerações
 
 substituição de – `lde.q786`
 
-##### :yellow_square: Gestação
+:yellow_square: Gestação
 
 aborto e – `lde.q358`
 
 reencarnação e – `lde.q214`
 
-##### :yellow_square: Gnomo
+:yellow_square: Gnomo
 
 Gnomo – `lde.q103`
 
-##### :yellow_square: Gozo
+:yellow_square: Gozo
 
 excessos de todo gênero e – `lde.q714`
 
@@ -10728,7 +10728,7 @@ homem espiritualizado e – `lde.q941`
 
 limite do necessário e – `lde.q713`
 
-##### :yellow_square: Guerra
+:yellow_square: Guerra
 
 ambição e – `lde.q745`
 
@@ -10750,7 +10750,7 @@ santa – `lde.q671`
 
 #### `lde.6.2.08` :card_index_dividers: H
 
-##### :yellow_square: Harmonia
+:yellow_square: Harmonia
 
 lei humana e lei divina em – `lde.q788`
 
@@ -10758,15 +10758,15 @@ leis da natureza e – `lde.q604`
 
 Universo e – `lde.q8`, `lde.q607a`
 
-##### :yellow_square: Herança
+:yellow_square: Herança
 
 desencarnado e – `lde.q328`
 
-##### :yellow_square: Hereditariedade
+:yellow_square: Hereditariedade
 
 física – `lde.q207`
 
-##### :yellow_square: Hierarquia
+:yellow_square: Hierarquia
 
 atribuições na – `lde.q538a`
 
@@ -10774,13 +10774,13 @@ escala espiritual e – `lde.q97`, `lde.q114`
 
 espíritos e – `lde.q274`
 
-##### :yellow_square: Hipocrisia
+:yellow_square: Hipocrisia
 
 atos exteriores de adoração e – `lde.q654`
 
 vontade inflexível de enriquecimento e – `lde.q902`
 
-##### :yellow_square: Homem
+:yellow_square: Homem
 
 animais e – `lde.q592`
 
@@ -10852,13 +10852,13 @@ sentimento de perpetuação da memória e o – `lde.q823`
 
 universalidade de gozos para o – `lde.q938a`
 
-##### :yellow_square: Homenagem
+:yellow_square: Homenagem
 
 comparecimento de espírito a – `lde.q324`
 
 desencarnado e – `lde.q326`
 
-##### :yellow_square: Humanidade
+:yellow_square: Humanidade
 
 conservação no Espírito do estado precedente ao período de – `lde.q609`
 
@@ -10882,11 +10882,11 @@ sacrifício pessoal para o bem da – `lde.q699`
 
 transformação da – `lde.q1019`
 
-##### :yellow_square: Humanização
+:yellow_square: Humanização
 
 período de – `lde.q607b`
 
-##### :yellow_square: Humildade
+:yellow_square: Humildade
 
 desinteresse e – `lde.0.3`
 
@@ -10894,7 +10894,7 @@ desinteresse e – `lde.0.3`
 
 #### `lde.6.2.09` :card_index_dividers: I
 
-##### :yellow_square: Ideia
+:yellow_square: Ideia
 
 forma e – `lde.0.2.14`
 
@@ -10906,11 +10906,11 @@ nova e oposição – `lde.0.2.07`
 
 terrena, conforme ponto de vista do extático – `lde.q443`
 
-##### :yellow_square: Ideia religiosa
+:yellow_square: Ideia religiosa
 
 paganismo e gerações na substituição da – `lde.q798`
 
-##### :yellow_square: Ideias inatas
+:yellow_square: Ideias inatas
 
 ideias inatas – `lde.q218` a `lde.q221`
 
@@ -10920,7 +10920,7 @@ sonâmbulos e – `lde.q431`
 
 teoria das – `lde.q218a`
 
-##### :yellow_square: Identidade
+:yellow_square: Identidade
 
 adoção de – `lde.q505`
 
@@ -10930,7 +10930,7 @@ linguagem, caráter e – `lde.0.2.12`
 
 revelação de – `lde.q504a`
 
-##### :yellow_square: Identificação
+:yellow_square: Identificação
 
 Espírito antes da desmaterialização e – `lde.0.2.12`
 
@@ -10938,27 +10938,27 @@ indagação sobre a autoria de fatos extraordinários e – `lde.0.2.04`
 
 indícios de – `lde.0.2.12`
 
-##### :yellow_square: Idiota
+:yellow_square: Idiota
 
 estado mental e – `lde.q374`
 
-##### :yellow_square: Idiotia
+:yellow_square: Idiotia
 
 faculdades morais e intelectuais na – `lde.q373a`
 
 gênio e – `lde.q373a`
 
-##### :yellow_square: Idiotismo
+:yellow_square: Idiotismo
 
 manifestações anímicas e – `lde.q372a`
 
-##### :yellow_square: Ignorância
+:yellow_square: Ignorância
 
 mal e – `lde.q120`
 
 tratamento do vício e da – `lde.q888a`
 
-##### :yellow_square: Igualdade
+:yellow_square: Igualdade
 
 absoluta das riquezas – `lde.q811`
 
@@ -10968,15 +10968,15 @@ natural – `lde.q803`
 
 túmulo e – `lde.q823`
 
-##### :yellow_square: Ilusão
+:yellow_square: Ilusão
 
 vítimas de – `lde.0.2.09`
 
-##### :yellow_square: Imaginação
+:yellow_square: Imaginação
 
 lendas e – `lde.q529`
 
-##### :yellow_square: Imortalidade
+:yellow_square: Imortalidade
 
 alma e – `lde.q222`
 
@@ -10984,19 +10984,19 @@ consolo pela – `lde.5.3`
 
 Espírito e – `lde.q83`
 
-##### :yellow_square: Impedimento
+:yellow_square: Impedimento
 
 direito à liberdade de consciência e – `lde.q836`
 
 igualdade absoluta das riquezas e – `lde.q811`
 
-##### :yellow_square: Imperfeição
+:yellow_square: Imperfeição
 
 reforma íntima e – `lde.q14`
 
 sofrimentos e – `lde.q133a`
 
-##### :yellow_square: Individualidade
+:yellow_square: Individualidade
 
 alma e – `lde.q150`
 
@@ -11008,7 +11008,7 @@ perispírito e – `lde.q284`
 
 retorno à vida espiritual e – `lde.q151`
 
-##### :yellow_square: Indivíduo
+:yellow_square: Indivíduo
 
 conhecimento de si mesmo pelo – `lde.q919`
 
@@ -11016,11 +11016,11 @@ faculdades extraordinárias do – `lde.q219`
 
 posição e caráter do – `lde.q534`
 
-##### :yellow_square: Indução
+:yellow_square: Indução
 
 suicídio e – `lde.q946a`
 
-##### :yellow_square: Indulgência
+:yellow_square: Indulgência
 
 caridade e – `lde.q888a`
 
@@ -11030,7 +11030,7 @@ Espiritismo e – `lde.5.7`
 
 homem de bem e – `lde.q918`
 
-##### :yellow_square: Infância
+:yellow_square: Infância
 
 desencarnação na – `lde.q197`, `lde.q381`
 
@@ -11040,13 +11040,13 @@ período da – `lde.q183`, `lde.q379`, `lde.q385`
 
 período de repouso do Espírito e – `lde.q382`
 
-##### :yellow_square: Infanticídio
+:yellow_square: Infanticídio
 
 parricídio e – `lde.q750`
 
 prática de – `lde.q751`
 
-##### :yellow_square: Infelicidade
+:yellow_square: Infelicidade
 
 ambição e – `lde.q933`
 
@@ -11056,11 +11056,11 @@ orgulho e – `lde.q933`
 
 provocada nos outros – `lde.q989`
 
-##### :yellow_square: Inferior
+:yellow_square: Inferior
 
 superior e – `lde.q277`
 
-##### :yellow_square: Inferioridade
+:yellow_square: Inferioridade
 
 apego aos bens terrenos e – `lde.q895`
 
@@ -11070,7 +11070,7 @@ oportunidade para a reabilitação e – `lde.q171`
 
 predomínio das más paixões e – `lde.q911`
 
-##### :yellow_square: Inferno
+:yellow_square: Inferno
 
 alegoria do – `lde.q1012`
 
@@ -11082,19 +11082,19 @@ localização do – `lde.q1017`
 
 paraíso e – `lde.q1012`
 
-##### :yellow_square: Infinito
+:yellow_square: Infinito
 
 conceito de – `lde.q2`
 
 Deus e – `lde.q3`
 
-##### :yellow_square: Influência
+:yellow_square: Influência
 
 do organismo – `lde.q367` a `lde.q370`
 
 pais e – `lde.q208`
 
-##### :yellow_square: Influenciação
+:yellow_square: Influenciação
 
 bem-estar das pessoas sob – `lde.q989`
 
@@ -11122,7 +11122,7 @@ pensamentos e formas de – `lde.q525a`
 
 pensamentos em geral sob – `lde.q543`
 
-##### :yellow_square: Ingratidão
+:yellow_square: Ingratidão
 
 amizade e – `lde.q937`
 
@@ -11142,27 +11142,27 @@ remorso do ingrato e – `lde.q938`
 
 sensibilidade e – `lde.q938a`
 
-##### :yellow_square: Inimigo
+:yellow_square: Inimigo
 
 amor ao – `lde.q887`
 
 perdão ao – `lde.q764`
 
-##### :yellow_square: Inimizade
+:yellow_square: Inimizade
 
 perdão e – `lde.q887`
 
-##### :yellow_square: Inocência
+:yellow_square: Inocência
 
 infância e – `lde.q199a`, `lde.q385`
 
-##### :yellow_square: Inspiração
+:yellow_square: Inspiração
 
 encarnado e – `lde.q463`
 
 influenciação e – `lde.q545`
 
-##### :yellow_square: Instinto
+:yellow_square: Instinto
 
 animais e – `lde.q593`
 
@@ -11184,11 +11184,11 @@ raciocínio e – `lde.q75a`
 
 selvagens e – `lde.q849`
 
-##### :yellow_square: Instrução
+:yellow_square: Instrução
 
 leis morais e falseamento de – `lde.q625`
 
-##### :yellow_square: Inteligência
+:yellow_square: Inteligência
 
 aberração da * e materialismo – `lde.q148`
 
@@ -11216,15 +11216,15 @@ princípio vital e – `lde.q71`
 
 superioridade do homem e sua – `lde.q606a`
 
-##### :yellow_square: Intercessão
+:yellow_square: Intercessão
 
 prática do bem e – `lde.q662`
 
-##### :yellow_square: Interesse
+:yellow_square: Interesse
 
 pessoal – `lde.q895`
 
-##### :yellow_square: Intuição
+:yellow_square: Intuição
 
 penas e recompensas futuras por – `lde.q960`
 
@@ -11232,13 +11232,13 @@ tendências instintivas e – `lde.q393`
 
 vida futura e – `lde.q329`
 
-##### :yellow_square: Inutilidade
+:yellow_square: Inutilidade
 
 lembrança do passado e – `lde.q306a`
 
 voluntária – `lde.q574`
 
-##### :yellow_square: Inveja
+:yellow_square: Inveja
 
 ciúme e – `lde.q933`
 
@@ -11248,23 +11248,23 @@ suplícios do ciúme e da – `lde.q933`
 
 tormentos da – `lde.q281`
 
-##### :yellow_square: Investigação
+:yellow_square: Investigação
 
 vida espiritual e – `lde.q257`
 
-##### :yellow_square: Irmãos
+:yellow_square: Irmãos
 
 criação divina e fraternidade entre – `lde.q54`
 
 semelhança de caráter entre – `lde.q211`
 
-##### :yellow_square: Irradiação
+:yellow_square: Irradiação
 
 alma e – `lde.q454`
 
 Espírito e – `lde.q92a`, `lde.q420`
 
-##### :yellow_square: Isolamento
+:yellow_square: Isolamento
 
 sociedade e – `lde.q769`
 
@@ -11272,7 +11272,7 @@ sociedade e – `lde.q769`
 
 #### `lde.6.2.10` :card_index_dividers: J
 
-##### :yellow_square: Jesus
+:yellow_square: Jesus
 
 caridade e – `lde.q886`
 
@@ -11288,15 +11288,15 @@ perfeição de – `lde.q625`
 
 reino de – `lde.q1018`
 
-##### :yellow_square: Juízo
+:yellow_square: Juízo
 
 formação de – `lde.q458`
 
-##### :yellow_square: Juízo final
+:yellow_square: Juízo final
 
 pluralidade dos mundos e – `lde.q1010`
 
-##### :yellow_square: Julgamento
+:yellow_square: Julgamento
 
 escolha de provas e capacidade de – `lde.q269`
 
@@ -11304,11 +11304,11 @@ participação no próprio – `lde.q919a`
 
 superficial e necessidade de observação – `lde.0.2.10`
 
-##### :yellow_square: Júpiter
+:yellow_square: Júpiter
 
 Terra, Marte e – `lde.q188`
 
-##### :yellow_square: Justiça
+:yellow_square: Justiça
 
 compreensão da – `lde.q795`
 
@@ -11330,7 +11330,7 @@ regra da verdadeira – `lde.q876`
 
 revelação do caráter pela prática da – `lde.q879`
 
-##### :yellow_square: Justiça divina
+:yellow_square: Justiça divina
 
 doutrina da reencarnação e – `lde.q171`
 
@@ -11344,7 +11344,7 @@ passado e – `lde.q393`
 
 vida futura e – `lde.q962`
 
-##### :yellow_square: Justo
+:yellow_square: Justo
 
 consolo do – `lde.q926`
 
@@ -11352,15 +11352,15 @@ consolo do – `lde.q926`
 
 #### `lde.6.2.11` :card_index_dividers: L
 
-##### :yellow_square: Laços de família
+:yellow_square: Laços de família
 
 lei da natureza e – `lde.q774`
 
-##### :yellow_square: Lamennais
+:yellow_square: Lamennais
 
 eternidade das penas – `lde.q1009`
 
-##### :yellow_square: Legislação
+:yellow_square: Legislação
 
 direitos da mulher e equidade na – `lde.q822a`
 
@@ -11372,7 +11372,7 @@ progresso da – `lde.q794`
 
 progresso da humanidade e – `lde.q760`
 
-##### :yellow_square: Legítima defesa
+:yellow_square: Legítima defesa
 
 crime de – `lde.q638`
 
@@ -11380,31 +11380,31 @@ culpa de assassínio e arguição de – `lde.q748`
 
 duelo e – `lde.q757`
 
-##### :yellow_square: Lei de atração
+:yellow_square: Lei de atração
 
 aplicação da – `lde.q60`
 
-##### :yellow_square: Lei de causa e efeito
+:yellow_square: Lei de causa e efeito
 
 aplicação da – `lde.q399`
 
 opressão aos fracos e – `lde.q807`
 
-##### :yellow_square: Lei de destruição
+:yellow_square: Lei de destruição
 
 renovação e – `lde.q41`, `lde.q728`
 
-##### :yellow_square: Lei de destruição
+:yellow_square: Lei de destruição
 
 ver Destruição
 
-##### :yellow_square: Lei de progresso
+:yellow_square: Lei de progresso
 
 evolução moral e – `lde.5.4`
 
 força da – `lde.5.4`
 
-##### :yellow_square: Lei divina
+:yellow_square: Lei divina
 
 abrangência da – `lde.q618`
 
@@ -11472,7 +11472,7 @@ suporte da lei humana – `lde.q789`
 
 violação da – `lde.q758a`
 
-##### :yellow_square: Lei humana
+:yellow_square: Lei humana
 
 instabilidade da – `lde.q795`
 
@@ -11480,13 +11480,13 @@ mutabilidade da – `lde.q616`
 
 princípio de justiça e – `lde.q822`
 
-##### :yellow_square: Lei natural
+:yellow_square: Lei natural
 
 caracteres da – `lde.q614`
 
 lei divina e – `lde.q614`
 
-##### :yellow_square: Lembrança
+:yellow_square: Lembrança
 
 resgate dos erros e sua – `lde.q978`
 
@@ -11494,17 +11494,17 @@ vida corpórea e – `lde.q304`, `lde.q306`, `lde.q306a`
 
 vidas passadas – `lde.q386a`, `lde.q393`, `lde.q397`
 
-##### :yellow_square: Letargia
+:yellow_square: Letargia
 
 catalepsia e – `lde.q424`
 
 morte e – `lde.q423`
 
-##### :yellow_square: Leviandade
+:yellow_square: Leviandade
 
 ser humano e – `lde.0.2.03`
 
-##### :yellow_square: Liberdade
+:yellow_square: Liberdade
 
 abuso da – `lde.q735`
 
@@ -11516,7 +11516,7 @@ natural – `lde.q825`
 
 pensamento e – `lde.q833`
 
-##### :yellow_square: Liberdade de consciência
+:yellow_square: Liberdade de consciência
 
 conceito de – `lde.q837`
 
@@ -11528,13 +11528,13 @@ repressão a atos de efeitos danosos e – `lde.q840`
 
 transviamento do caminho da verdade e – `lde.q841`
 
-##### :yellow_square: Libertação
+:yellow_square: Libertação
 
 desencarnação e – `lde.q936`
 
 egoísmo e – `lde.q936`
 
-##### :yellow_square: Linguagem
+:yellow_square: Linguagem
 
 adequação de – `lde.q28`
 
@@ -11558,7 +11558,7 @@ palavra “alma” e a humana – `lde.0.2.02`
 
 palavra e – `lde.q594a`
 
-##### :yellow_square: Livre-arbítrio
+:yellow_square: Livre-arbítrio
 
 ação dos espíritos protetores e – `lde.q501`
 
@@ -11624,7 +11624,7 @@ responsabilidade pela prática do mal e – `lde.q872`
 
 sabedoria divina e – `lde.q123`
 
-##### :yellow_square: Livro dos Espíritos (O)
+:yellow_square: Livro dos Espíritos (O)
 
 autoria de – `lde.0.3`
 
@@ -11632,17 +11632,17 @@ Espiritismo e – `lde.0.3`
 
 filosofia espiritualista e – `lde.0.2.01`
 
-##### :yellow_square: Locomoção
+:yellow_square: Locomoção
 
 Espírito e – `lde.q89`, `lde.q247`
 
-##### :yellow_square: Lógica
+:yellow_square: Lógica
 
 doutrina e – `lde.q131`
 
 reencarnação e – `lde.q222`
 
-##### :yellow_square: Loucura
+:yellow_square: Loucura
 
 causas da – `lde.0.2.15`
 
@@ -11658,11 +11658,11 @@ preservativo contra a – `lde.0.2.15`
 
 suicídio e – `lde.q376`
 
-##### :yellow_square: Lucidez sonambúlica
+:yellow_square: Lucidez sonambúlica
 
 limitações à – `lde.q455`
 
-##### :yellow_square: Luís (São)
+:yellow_square: Luís (São)
 
 duração das penas futuras – `lde.q1004`, `lde.q1006` a `lde.q1008`
 
@@ -11670,11 +11670,11 @@ ressurreição e reencarnação – `lde.q1010`
 
 transformação da humanidade e pecado original – `lde.q1019`
 
-##### :yellow_square: Luís (São) e Agostinho (Santo)
+:yellow_square: Luís (São) e Agostinho (Santo)
 
 abandono do protegido pelo protetor conforme elucidações de – `lde.q495`
 
-##### :yellow_square: Luta
+:yellow_square: Luta
 
 chegada ao progresso e – `lde.q894`
 
@@ -11682,13 +11682,13 @@ chegada ao progresso e – `lde.q894`
 
 #### `lde.6.2.12` :card_index_dividers: M
 
-##### :yellow_square: Mãe
+:yellow_square: Mãe
 
 aborto de risco de vida da – `lde.q359`
 
 amor filial e – `lde.q891`
 
-##### :yellow_square: Magnetismo
+:yellow_square: Magnetismo
 
 ação do – `lde.q482`
 
@@ -11700,7 +11700,7 @@ exercício inconsciente do – `lde.q482`
 
 simpatia e – `lde.q388`
 
-##### :yellow_square: Mal
+:yellow_square: Mal
 
 antropofagia e – `lde.q637`
 
@@ -11740,25 +11740,25 @@ resistência ao – `lde.q641`
 
 transviamento para o – `lde.q583`
 
-##### :yellow_square: Maldição
+:yellow_square: Maldição
 
 bênção e – `lde.q557`
 
-##### :yellow_square: Mandamento
+:yellow_square: Mandamento
 
 amor ao próximo e extensão do – `lde.q665`
 
-##### :yellow_square: Manifestação
+:yellow_square: Manifestação
 
 espírita e liberdade da – `lde.5.6`
 
 inteligente por meio de mesas – `lde.0.2.04`
 
-##### :yellow_square: Marte
+:yellow_square: Marte
 
 Terra, Júpiter e – `lde.q188`
 
-##### :yellow_square: Matéria
+:yellow_square: Matéria
 
 atuação recíproca do espírito sobre a – `lde.q135a`
 
@@ -11794,7 +11794,7 @@ seres vivos e – `lde.q61`
 
 tangibilidade da – `lde.q91`
 
-##### :yellow_square: Materialismo
+:yellow_square: Materialismo
 
 Materialismo – `lde.q147`
 
@@ -11814,11 +11814,11 @@ oposição ao – `lde.0.2.01`
 
 orgulho e – `lde.q147`
 
-##### :yellow_square: Maternidade
+:yellow_square: Maternidade
 
 risco de aborto e – `lde.q359`
 
-##### :yellow_square: Mau
+:yellow_square: Mau
 
 características do bom e do – `lde.q932`
 
@@ -11826,7 +11826,7 @@ influência do – `lde.q932`
 
 prosperidade do – `lde.q926`
 
-##### :yellow_square: Médium
+:yellow_square: Médium
 
 comunicabilidade dos espíritos e – `lde.0.2.04`
 
@@ -11836,7 +11836,7 @@ participação de – `lde.0.2.05`
 
 teoria espírita e contribuição do – `lde.0.2.16`
 
-##### :yellow_square: Mediunidade
+:yellow_square: Mediunidade
 
 afloramento sutil da – `lde.q409`
 
@@ -11844,7 +11844,7 @@ gêneros de – `lde.0.2.05`
 
 proibição da – `lde.5.6`
 
-##### :yellow_square: Medo
+:yellow_square: Medo
 
 desencarnação e – `lde.q941`
 
@@ -11852,19 +11852,19 @@ inferno e – `lde.q974`
 
 morte e – `lde.q730`, `lde.q941`
 
-##### :yellow_square: Memória
+:yellow_square: Memória
 
 vidas passadas e – `lde.q307`
 
-##### :yellow_square: Mendicância
+:yellow_square: Mendicância
 
 educação moral e – `lde.q889`
 
-##### :yellow_square: Merecimento
+:yellow_square: Merecimento
 
 ver Mérito
 
-##### :yellow_square: Mérito
+:yellow_square: Mérito
 
 conquista de – `lde.q133`
 
@@ -11880,7 +11880,7 @@ progresso e – `lde.q692a`
 
 submissão a provas e – `lde.q708`
 
-##### :yellow_square: Mesas girantes
+:yellow_square: Mesas girantes
 
 Espiritismo e – `lde.5.1`
 
@@ -11890,21 +11890,21 @@ manifestações inteligentes e – `lde.0.2.04`
 
 tiptologia e – `lde.0.2.04`
 
-##### :yellow_square: Metempsicose
+:yellow_square: Metempsicose
 
 reencarnação e – `lde.q611`
 
-##### :yellow_square: Milagre
+:yellow_square: Milagre
 
 ciência e – `lde.5.2`
 
 desejo por – `lde.q802`
 
-##### :yellow_square: Minerais
+:yellow_square: Minerais
 
 vegetais e – `lde.q585`
 
-##### :yellow_square: Miséria
+:yellow_square: Miséria
 
 opulência e – `lde.q707`
 
@@ -11912,7 +11912,7 @@ prova da – `lde.q815`
 
 riqueza e – `lde.q814`
 
-##### :yellow_square: Missão
+:yellow_square: Missão
 
 candidatos a uma mesma – `lde.q572a`
 
@@ -11948,7 +11948,7 @@ resistência ao mal e – `lde.q645`
 
 tentação e cumprimento de – `lde.q712`
 
-##### :yellow_square: Mistério
+:yellow_square: Mistério
 
 ciência e – `lde.q19`
 
@@ -11956,37 +11956,37 @@ conhecimento e – `lde.q18`
 
 criação do Espírito e – `lde.q78`
 
-##### :yellow_square: Mistificação
+:yellow_square: Mistificação
 
 incerteza sobre – `lde.0.2.09`
 
-##### :yellow_square: Mitologia
+:yellow_square: Mitologia
 
 combates e – `lde.q541`
 
 ideia espírita e – `lde.q537`
 
-##### :yellow_square: Moisés
+:yellow_square: Moisés
 
 Moisés – `lde.5.8`
 
-##### :yellow_square: Molécula
+:yellow_square: Molécula
 
 forma da – `lde.q34a`
 
 matéria e – `lde.q34`
 
-##### :yellow_square: Monogamia
+:yellow_square: Monogamia
 
 poligamia e – `lde.q701`
 
-##### :yellow_square: Moradia
+:yellow_square: Moradia
 
 escolha pelo Espírito de – `lde.q184`
 
 graus de adiantamento moral e – `lde.q188`
 
-##### :yellow_square: Moral
+:yellow_square: Moral
 
 ciência e – `lde.q192`
 
@@ -11996,7 +11996,7 @@ inteligência – `lde.q365`
 
 progresso – `lde.5.5`
 
-##### :yellow_square: Morte
+:yellow_square: Morte
 
 agonia e – `lde.q156`
 
@@ -12050,23 +12050,23 @@ violenta e reação do Espírito – `lde.q546`
 
 visão do Espírito após a – `lde.q257`
 
-##### :yellow_square: Morte
+:yellow_square: Morte
 
 ver Desencarnação
 
-##### :yellow_square: Mortificação
+:yellow_square: Mortificação
 
 alimentação e – `lde.q724`
 
 exemplo de verdadeira – `lde.q721`
 
-##### :yellow_square: Morto
+:yellow_square: Morto
 
 oração pelo – `lde.q323`, `lde.q664`, `lde.q665`
 
 respeito ao – `lde.q329`
 
-##### :yellow_square: Mulher
+:yellow_square: Mulher
 
 direitos do homem e da – `lde.q817`
 
@@ -12074,15 +12074,15 @@ discriminação à – `lde.q818`
 
 funções do corpo físico da – `lde.q819`
 
-##### :yellow_square: Mundo
+:yellow_square: Mundo
 
 criação em seis dias do – `lde.q59`
 
-##### :yellow_square: Mundo de expiação e provas
+:yellow_square: Mundo de expiação e provas
 
 predominância de espíritos maus em – `lde.q872`
 
-##### :yellow_square: Mundo espiritual
+:yellow_square: Mundo espiritual
 
 mundo espiritual – `lde.q84` a `lde.q87`
 
@@ -12124,11 +12124,11 @@ revelação dos erros no – `lde.q977a`
 
 vida no – `lde.q150b`, `lde.q159`
 
-##### :yellow_square: Mundo físico
+:yellow_square: Mundo físico
 
 ver Plano físico
 
-##### :yellow_square: Mundos
+:yellow_square: Mundos
 
 formação dos – `lde.q37` a `lde.q42`
 
@@ -12138,7 +12138,7 @@ superior e inferior – `lde.q805`
 
 transitórios – `lde.q234`
 
-##### :yellow_square: Mundos evoluídos
+:yellow_square: Mundos evoluídos
 
 animais em – `lde.q601`
 
@@ -12156,7 +12156,7 @@ reminiscência do passado em – `lde.q394`
 
 vida em – `lde.q985`
 
-##### :yellow_square: Mundos habitados
+:yellow_square: Mundos habitados
 
 encarnação nos – `lde.q172`
 
@@ -12166,7 +12166,7 @@ pluralidade dos – `lde.q55` a `lde.q58`
 
 vida nos diferentes – `lde.q57`, `lde.q58`
 
-##### :yellow_square: Mundos transitórios
+:yellow_square: Mundos transitórios
 
 destinação dos – `lde.q236`
 
@@ -12178,7 +12178,7 @@ Terra e – `lde.q236d`
 
 topografia de – `lde.q236a`
 
-##### :yellow_square: Música
+:yellow_square: Música
 
 sensibilidade dos espíritos para a – `lde.q251`
 
@@ -12186,7 +12186,7 @@ sensibilidade dos espíritos para a – `lde.q251`
 
 #### `lde.6.2.13` :card_index_dividers: N
 
-##### :yellow_square: Nação
+:yellow_square: Nação
 
 amor à * após a desencarnação – `lde.q317`
 
@@ -12196,7 +12196,7 @@ faculdades morais em uma – `lde.q793`
 
 única – `lde.q789`
 
-##### :yellow_square: Nada
+:yellow_square: Nada
 
 entendimento dos Espíritos sobre o – `lde.q23a`
 
@@ -12206,11 +12206,11 @@ linguagem humana e o – `lde.q23a`
 
 vida futura e o – `lde.q148`
 
-##### :yellow_square: Namoro
+:yellow_square: Namoro
 
 vivência comum e – `lde.q939`
 
-##### :yellow_square: Nascimento
+:yellow_square: Nascimento
 
 alma e – `lde.q336`
 
@@ -12240,13 +12240,13 @@ perturbação e – `lde.q351`
 
 união do Espírito ao corpo e – `lde.q337`
 
-##### :yellow_square: Natimorto
+:yellow_square: Natimorto
 
 Espírito e – `lde.q356`
 
 nascimento e – `lde.q356a`
 
-##### :yellow_square: Natureza
+:yellow_square: Natureza
 
 ação dos espíritos na – `lde.q536`
 
@@ -12266,7 +12266,7 @@ universalidade da criação e – `lde.q573`, `lde.q607a`
 
 vazio e – `lde.q236e`
 
-##### :yellow_square: Necessário
+:yellow_square: Necessário
 
 felicidade e – `lde.q922`, `lde.q927`
 
@@ -12286,17 +12286,17 @@ supérfluo e – `lde.q704`
 
 superstição e – `lde.q736`
 
-##### :yellow_square: Necessidade
+:yellow_square: Necessidade
 
 equívocos no entendimento sobre – `lde.q762`
 
 paixões e – `lde.q792a`
 
-##### :yellow_square: Negação
+:yellow_square: Negação
 
 evidência e – `lde.q802`
 
-##### :yellow_square: Nome
+:yellow_square: Nome
 
 importância espiritual do – `lde.0.2.12`
 
@@ -12304,7 +12304,7 @@ importância espiritual do – `lde.0.2.12`
 
 #### `lde.6.2.14` :card_index_dividers: O
 
-##### :yellow_square: Obsessão
+:yellow_square: Obsessão
 
 cura da – `lde.q475`
 
@@ -12318,11 +12318,11 @@ requisitos para ocorrência de – `lde.q474`
 
 tratamento da – `lde.q478`
 
-##### :yellow_square: Obstáculos
+:yellow_square: Obstáculos
 
 enfrentamento de – `lde.q707`
 
-##### :yellow_square: Ociosidade
+:yellow_square: Ociosidade
 
 consequências da – `lde.q678`
 
@@ -12336,7 +12336,7 @@ inconveniência da – `lde.q574a`
 
 trabalho e – `lde.q943`
 
-##### :yellow_square: Ocupação
+:yellow_square: Ocupação
 
 demonstração de progresso em – `lde.q566`
 
@@ -12346,29 +12346,29 @@ incessante dos espíritos – `lde.q563`
 
 trabalho e – `lde.q675`
 
-##### :yellow_square: Ódio
+:yellow_square: Ódio
 
 dificuldade para libertação do – `lde.q547`
 
 Espírito impuro e – `lde.q292`
 
-##### :yellow_square: Ofensa
+:yellow_square: Ofensa
 
 homem de bem e – `lde.q918`
 
 reparação de – `lde.q759a`
 
-##### :yellow_square: Oferenda
+:yellow_square: Oferenda
 
 prática do bem e – `lde.q673`
 
 sacrifício animal e – `lde.q672`
 
-##### :yellow_square: Opinião
+:yellow_square: Opinião
 
 sábios e – `lde.0.2.07`
 
-##### :yellow_square: Oposição
+:yellow_square: Oposição
 
 Espiritismo e – `lde.q798`
 
@@ -12376,7 +12376,7 @@ ideias novas e – `lde.0.2.07`
 
 liberdade de consciência e – `lde.q837`
 
-##### :yellow_square: Oração
+:yellow_square: Oração
 
 conceito de – `lde.q659`
 
@@ -12408,13 +12408,13 @@ poder da – `lde.q663`
 
 suavização de sofrimento e – `lde.q665`
 
-##### :yellow_square: Organismo
+:yellow_square: Organismo
 
 alma e – `lde.q369`
 
 reencarnação e influência do – `lde.q369`
 
-##### :yellow_square: Orgulho
+:yellow_square: Orgulho
 
 demonstrações de – `lde.q823a`
 
@@ -12432,15 +12432,15 @@ retratação e – `lde.q1000`
 
 suicídio e – `lde.q947`
 
-##### :yellow_square: Orientação
+:yellow_square: Orientação
 
 mundos inferiores e – `lde.q233`
 
-##### :yellow_square: Oriente
+:yellow_square: Oriente
 
 estilo alegórico na literatura do – `lde.q59`
 
-##### :yellow_square: Ostentação
+:yellow_square: Ostentação
 
 benefício e – `lde.q888a`
 
@@ -12448,11 +12448,11 @@ benefício e – `lde.q888a`
 
 #### `lde.6.2.15` :card_index_dividers: P
 
-##### :yellow_square: Pactos
+:yellow_square: Pactos
 
 maus espíritos e – `lde.q549`
 
-##### :yellow_square: Pais
+:yellow_square: Pais
 
 influência dos – `lde.q208`
 
@@ -12460,7 +12460,7 @@ provação ou expiação para os – `lde.q199`
 
 provas e – `lde.q355`
 
-##### :yellow_square: Paixão
+:yellow_square: Paixão
 
 conceitos de – `lde.q908`
 
@@ -12482,11 +12482,11 @@ prazo de sofrimento das provas e – `lde.q265`
 
 vontade e – `lde.q907`
 
-##### :yellow_square: Palavra
+:yellow_square: Palavra
 
 faculdade da – `lde.q772`
 
-##### :yellow_square: Panteísmo
+:yellow_square: Panteísmo
 
 Panteísmo – `lde.q14`,15`
 
@@ -12494,7 +12494,7 @@ conceito de alma e – `lde.0.2.02`
 
 refutações ao – `lde.q16`
 
-##### :yellow_square: Paraíso
+:yellow_square: Paraíso
 
 alegoria do – `lde.q1012`
 
@@ -12502,23 +12502,23 @@ inferno e – `lde.q1012`
 
 perdido – `lde.q1019`
 
-##### :yellow_square: Parasitose espiritual
+:yellow_square: Parasitose espiritual
 
 privações de mal assalariado e – `lde.q717`
 
 supérfluo e – `lde.q717`
 
-##### :yellow_square: Parentela
+:yellow_square: Parentela
 
 filiação e – `lde.q203` a `lde.q206`
 
 física e espiritual – `lde.q204`
 
-##### :yellow_square: Parricídio
+:yellow_square: Parricídio
 
 infanticídio e – `lde.q750`
 
-##### :yellow_square: Passado
+:yellow_square: Passado
 
 conhecimento do – `lde.q242`, `lde.q399`
 
@@ -12526,31 +12526,31 @@ esquecimento do – `lde.q392`
 
 lembrança do – `lde.q219`, `lde.q397`, `lde.q285a`, `lde.q393`
 
-##### :yellow_square: Paternidade
+:yellow_square: Paternidade
 
 responsabilidade pela – `lde.q582`
 
-##### :yellow_square: Paulo (apóstolo)
+:yellow_square: Paulo (apóstolo)
 
 castigo eterno e inferno – `lde.q1009`
 
-##### :yellow_square: Pecado
+:yellow_square: Pecado
 
 original – `lde.q1019`
 
-##### :yellow_square: Pena de morte
+:yellow_square: Pena de morte
 
 crime e – `lde.q760`
 
 desaparecimento da – `lde.q760`, `lde.q762`
 
-##### :yellow_square: Pena de talião
+:yellow_square: Pena de talião
 
 conceito de – `lde.q764`
 
 execução do assassino e – `lde.q764`
 
-##### :yellow_square: Penas eternas
+:yellow_square: Penas eternas
 
 arrependimento e – `lde.q1006`
 
@@ -12558,13 +12558,13 @@ condenação a – `lde.q171`, `lde.q222`
 
 Deus e – `lde.q1009`
 
-##### :yellow_square: Penas futuras
+:yellow_square: Penas futuras
 
 crença nas – `lde.q960`
 
 recompensas futuras e – `lde.q960`
 
-##### :yellow_square: Pensamento
+:yellow_square: Pensamento
 
 alma e – `lde.q89a`
 
@@ -12602,7 +12602,7 @@ transmissão oculta do – `lde.q419`
 
 velocidade do Espírito e do – `lde.q89`
 
-##### :yellow_square: Percepção
+:yellow_square: Percepção
 
 espíritos e – `lde.q25a`, `lde.q237`, `lde.q246`, `lde.q547a`
 
@@ -12614,7 +12614,7 @@ pensamento e – `lde.q26`
 
 vegetais e – `lde.q587`
 
-##### :yellow_square: Perdão
+:yellow_square: Perdão
 
 Deus e – `lde.q1009`
 
@@ -12622,7 +12622,7 @@ faltas e – `lde.q661`
 
 inimigos e – `lde.q764`
 
-##### :yellow_square: Perfeição
+:yellow_square: Perfeição
 
 anjo e – `lde.q129`
 
@@ -12664,15 +12664,15 @@ sabedoria e – `lde.q238`
 
 união e – `lde.q298`
 
-##### :yellow_square: Perfeição moral
+:yellow_square: Perfeição moral
 
 aproximação da – `lde.q913`
 
-##### :yellow_square: Perguntas
+:yellow_square: Perguntas
 
 respostas e – `lde.q613`
 
-##### :yellow_square: Perispírito
+:yellow_square: Perispírito
 
 perispírito – `lde.q93` a `lde.q95`
 
@@ -12714,11 +12714,11 @@ substância do * em diversos mundos – `lde.q187`
 
 troca de – `lde.q94a`
 
-##### :yellow_square: Perseverança
+:yellow_square: Perseverança
 
 consequências da – `lde.0.3`
 
-##### :yellow_square: Personalidade
+:yellow_square: Personalidade
 
 egoísmo e sentimento da – `lde.q917`
 
@@ -12726,7 +12726,7 @@ identidade digna de confiança e – `lde.q505`
 
 manifestações frequentes de * ilustre – `lde.0.2.11`
 
-##### :yellow_square: Perturbação
+:yellow_square: Perturbação
 
 desencarnação e – `lde.q319`
 
@@ -12748,15 +12748,15 @@ reencarnação e – `lde.q339`
 
 separação da alma e do corpo e – `lde.q164`
 
-##### :yellow_square: Planetas
+:yellow_square: Planetas
 
 formação dos – `lde.q56`
 
-##### :yellow_square: Plano espiritual
+:yellow_square: Plano espiritual
 
 ver Mundo espiritual
 
-##### :yellow_square: Plano físico
+:yellow_square: Plano físico
 
 apoio a Espírito na partida para o – `lde.q342`
 
@@ -12766,23 +12766,23 @@ mundo corporal e – `lde.0.2.06`
 
 reencontro no – `lde.q386`
 
-##### :yellow_square: Platão
+:yellow_square: Platão
 
 eternidade das penas – `lde.q1009`
 
-##### :yellow_square: Pluralidade dos mundos habitados
+:yellow_square: Pluralidade dos mundos habitados
 
 homem e – `lde.q55`
 
-##### :yellow_square: Pluralidade dos mundos habitados
+:yellow_square: Pluralidade dos mundos habitados
 
 ver também Mundos habitados
 
-##### :yellow_square: Pobreza
+:yellow_square: Pobreza
 
 predominância da – `lde.q931`
 
-##### :yellow_square: Poder
+:yellow_square: Poder
 
 homem de bem e o exercício do – `lde.q918`
 
@@ -12790,11 +12790,11 @@ honrarias terrenas e – `lde.q275`
 
 prova do – `lde.q816`
 
-##### :yellow_square: Poesia
+:yellow_square: Poesia
 
 médium versejador e – `lde.0.2.14`
 
-##### :yellow_square: Poligamia
+:yellow_square: Poligamia
 
 aperfeiçoamento social e – `lde.q701`
 
@@ -12802,27 +12802,27 @@ monogamia e – `lde.q701`
 
 sensualidade e – `lde.q701`
 
-##### :yellow_square: Politeísmo
+:yellow_square: Politeísmo
 
 crença na – `lde.q667`
 
 fenômeno espírita e – `lde.q668`
 
-##### :yellow_square: População
+:yellow_square: População
 
 do globo – `lde.q686`, `lde.q687`
 
-##### :yellow_square: Posse
+:yellow_square: Posse
 
 aquisição de bens e – `lde.q883a`
 
 faculdades do Espírito e – `lde.q189`
 
-##### :yellow_square: Possesso
+:yellow_square: Possesso
 
 uso do vocábulo – `lde.q474`
 
-##### :yellow_square: Povoamento
+:yellow_square: Povoamento
 
 Adão, Terra e – `lde.q51`
 
@@ -12836,7 +12836,7 @@ sucessão de raças e – `lde.q688`
 
 Terra e – `lde.q50`, `lde.q51`, `lde.q59`
 
-##### :yellow_square: Povos
+:yellow_square: Povos
 
 atração de espíritos protetores e – `lde.q521`
 
@@ -12850,53 +12850,53 @@ marcha de progresso em diferentes – `lde.q780b`
 
 períodos de vida dos – `lde.q788`
 
-##### :yellow_square: Prece
+:yellow_square: Prece
 
 ver Oração
 
-##### :yellow_square: Preconceito
+:yellow_square: Preconceito
 
 obediência a – `lde.q955`
 
-##### :yellow_square: Precursor
+:yellow_square: Precursor
 
 Doutrina Espírita e – `lde.q145`
 
-##### :yellow_square: Predestinação
+:yellow_square: Predestinação
 
 possibilidade de – `lde.q576`
 
-##### :yellow_square: Predição
+:yellow_square: Predição
 
 futuro e – `lde.q399`
 
-##### :yellow_square: Pregação
+:yellow_square: Pregação
 
 autor e – `lde.q905`
 
 da solidariedade – `lde.q799`
 
-##### :yellow_square: Preguiça
+:yellow_square: Preguiça
 
 conformismo e – `lde.q995a`
 
-##### :yellow_square: Presciência
+:yellow_square: Presciência
 
 divina – `lde.q579`
 
 esquecimento humano das leis divinas e * divina – `lde.q621a`
 
-##### :yellow_square: Presença
+:yellow_square: Presença
 
 anjo guardião e – `lde.q495`
 
 cemitério no dia de finados e – `lde.q321a`
 
-##### :yellow_square: Presente
+:yellow_square: Presente
 
 percepção do – `lde.q241`
 
-##### :yellow_square: Pressentimento
+:yellow_square: Pressentimento
 
 conceito de – `lde.q522`
 
@@ -12910,7 +12910,7 @@ sonho e – `lde.q405`
 
 volta do Espírito ao corpo e – `lde.q330`
 
-##### :yellow_square: Prevenção
+:yellow_square: Prevenção
 
 flagelos e – `lde.q741`
 
@@ -12920,17 +12920,17 @@ promoção de perturbações e medidas de – `lde.q840`
 
 recordação do passado e – `lde.q396`
 
-##### :yellow_square: Previdência
+:yellow_square: Previdência
 
 crenças como motivo de perturbações sociais e – `lde.q840`
 
 direito à vida e – `lde.q881`
 
-##### :yellow_square: Princípio espiritual
+:yellow_square: Princípio espiritual
 
 evolução e – `lde.q607a`
 
-##### :yellow_square: Princípio inteligente
+:yellow_square: Princípio inteligente
 
 alma dos animais e – `lde.q606`
 
@@ -12950,7 +12950,7 @@ seres vivos e – `lde.q611`
 
 transformação do – `lde.q607a`
 
-##### :yellow_square: Princípio vital
+:yellow_square: Princípio vital
 
 alma e – `lde.q136`
 
@@ -12974,11 +12974,11 @@ seres orgânicos e – `lde.q67a`
 
 vida e – `lde.q63`
 
-##### :yellow_square: Princípios básicos
+:yellow_square: Princípios básicos
 
 Espiritismo e – `lde.0.2.06`
 
-##### :yellow_square: Privação
+:yellow_square: Privação
 
 culpa pela – `lde.q927`
 
@@ -12988,25 +12988,25 @@ reparação das faltas e – `lde.q1000`
 
 voluntária – `lde.q720`
 
-##### :yellow_square: Prodigalidade
+:yellow_square: Prodigalidade
 
 desinteresse e – `lde.q896`
 
 esbanjamento, mau uso da riqueza e – `lde.q896`
 
-##### :yellow_square: Prodígio
+:yellow_square: Prodígio
 
 providência divina e – `lde.q802`
 
-##### :yellow_square: Profeta
+:yellow_square: Profeta
 
 verdadeiro – `lde.q624`
 
-##### :yellow_square: Profissão
+:yellow_square: Profissão
 
 felicidade e – `lde.q928`
 
-##### :yellow_square: Progresso
+:yellow_square: Progresso
 
 acordo da lei humana com o – `lde.q781a`
 
@@ -13070,21 +13070,21 @@ substituição de gerações e – `lde.q786`
 
 virtude e – `lde.q893`
 
-##### :yellow_square: Proibição
+:yellow_square: Proibição
 
 manifestação espírita e sua – `lde.5.6`
 
-##### :yellow_square: Propriedade
+:yellow_square: Propriedade
 
 direito de – `lde.q882`, `lde.q885`
 
 legítima – `lde.q884`
 
-##### :yellow_square: Prosperidade
+:yellow_square: Prosperidade
 
 pessoa má e – `lde.q926`
 
-##### :yellow_square: Provação
+:yellow_square: Provação
 
 ambiente para – `lde.q260a`
 
@@ -13098,7 +13098,7 @@ resistência e – `lde.q946`
 
 tendências do Espírito e – `lde.q261`
 
-##### :yellow_square: Provas
+:yellow_square: Provas
 
 altruísmo ante a – `lde.q740`
 
@@ -13134,11 +13134,11 @@ resistência do mal e – `lde.q498`
 
 revelação do futuro com experimentação de – `lde.q870`
 
-##### :yellow_square: Provas e expiações
+:yellow_square: Provas e expiações
 
 resistência a – `lde.q946`
 
-##### :yellow_square: Providência divina
+:yellow_square: Providência divina
 
 agradecimento à – `lde.q535`
 
@@ -13156,17 +13156,17 @@ sofredor e – `lde.q946`
 
 solicitude da – `lde.q495`
 
-##### :yellow_square: Próximo
+:yellow_square: Próximo
 
 ações contrárias a si mesmo e ao – `lde.q919a`
 
 caridade e – `lde.q770a`, `lde.q903`
 
-##### :yellow_square: Psicologia
+:yellow_square: Psicologia
 
 Espiritismo e – `lde.5.8`
 
-##### :yellow_square: Punição
+:yellow_square: Punição
 
 após a morte – `lde.q973`
 
@@ -13178,7 +13178,7 @@ reencarnação e – `lde.q372`
 
 tipos de – `lde.q973`
 
-##### :yellow_square: Purgatório
+:yellow_square: Purgatório
 
 alegoria do – `lde.q1013`
 
@@ -13188,7 +13188,7 @@ expiação e – `lde.q1013`
 
 local do – `lde.q1013`
 
-##### :yellow_square: Purificação
+:yellow_square: Purificação
 
 aperfeiçoamento moral do Espírito e – `lde.q182`
 
@@ -13196,7 +13196,7 @@ aperfeiçoamento moral do Espírito e – `lde.q182`
 
 #### `lde.6.2.16` :card_index_dividers: Q
 
-##### :yellow_square: Queda
+:yellow_square: Queda
 
 homem, livre-arbítrio e – `lde.q262`
 
@@ -13204,7 +13204,7 @@ homem, livre-arbítrio e – `lde.q262`
 
 #### `lde.6.2.17` :card_index_dividers: R
 
-##### :yellow_square: Raças
+:yellow_square: Raças
 
 cruzamento de – `lde.q59`
 
@@ -13222,17 +13222,17 @@ relevância no caráter das * primitivas – `lde.q691`
 
 renovação de povos na Terra e de – `lde.q688`
 
-##### :yellow_square: Raciocínio
+:yellow_square: Raciocínio
 
 evidências e – `lde.q59`
 
 lógico e argumentação sobre reencarnação – `lde.q222`
 
-##### :yellow_square: Racismo
+:yellow_square: Racismo
 
 espíritos inferiores e – `lde.q222`
 
-##### :yellow_square: Razão
+:yellow_square: Razão
 
 instinto e – `lde.q75`
 
@@ -13244,29 +13244,29 @@ reflexão e – `lde.q16`
 
 tentação e – `lde.q712a`
 
-##### :yellow_square: Reabilitação
+:yellow_square: Reabilitação
 
 arrependimento e – `lde.q1002`
 
-##### :yellow_square: Realidade
+:yellow_square: Realidade
 
 alegoria e – `lde.q480`
 
-##### :yellow_square: Realização
+:yellow_square: Realização
 
 encargo e – `lde.q575`
 
 missão e – `lde.q575`
 
-##### :yellow_square: Rebeldia
+:yellow_square: Rebeldia
 
 resistência ao progresso e consequências da – `lde.q787`
 
-##### :yellow_square: Receituário
+:yellow_square: Receituário
 
 orientação em – `lde.q431`
 
-##### :yellow_square: Reconhecimento
+:yellow_square: Reconhecimento
 
 manifestação de – `lde.q488a`
 
@@ -13274,11 +13274,11 @@ marcas de civilização perfeita e – `lde.q793`
 
 pais, filhos, amigos e – `lde.q285`
 
-##### :yellow_square: Recordação
+:yellow_square: Recordação
 
 ver Lembrança
 
-##### :yellow_square: Reencarnação
+:yellow_square: Reencarnação
 
 reencarnação – `lde.q166` a `lde.q170`
 
@@ -13454,15 +13454,15 @@ Universo e – `lde.q173b`
 
 vidas passadas e – `lde.q166b`
 
-##### :yellow_square: Reencontro
+:yellow_square: Reencontro
 
 afeições e – `lde.q160`
 
-##### :yellow_square: Reforma
+:yellow_square: Reforma
 
 legislação e fatores influentes para – `lde.q797`
 
-##### :yellow_square: Reforma íntima
+:yellow_square: Reforma íntima
 
 exame da própria individualidade e – `lde.q919a`
 
@@ -13470,21 +13470,21 @@ imperfeições e – `lde.q14`
 
 influenciação perniciosa e – `lde.q122b`
 
-##### :yellow_square: Regeneração
+:yellow_square: Regeneração
 
 destruição e – `lde.q729`
 
 nova era para – `lde.0.3`
 
-##### :yellow_square: Regulamento
+:yellow_square: Regulamento
 
 trabalho e – `lde.q683`
 
-##### :yellow_square: Reinos
+:yellow_square: Reinos
 
 três – `lde.q585`
 
-##### :yellow_square: Relacionamento
+:yellow_square: Relacionamento
 
 Deus, homem e – `lde.q836`
 
@@ -13498,11 +13498,11 @@ homem e – `lde.q768`
 
 no mundo espiritual – `lde.q274`
 
-##### :yellow_square: Relações
+:yellow_square: Relações
 
 de simpatia e de antipatia entre os espíritos – `lde.q291`
 
-##### :yellow_square: Religião
+:yellow_square: Religião
 
 adoração e – `lde.q654`
 
@@ -13514,15 +13514,15 @@ penas eternas e – `lde.q1009`
 
 respeito a crenças alheias e – `lde.q655`
 
-##### :yellow_square: Religiosidade
+:yellow_square: Religiosidade
 
 Espiritismo e – `lde.5.7`
 
-##### :yellow_square: Remorso
+:yellow_square: Remorso
 
 culpado e – `lde.q977a`
 
-##### :yellow_square: Reparação
+:yellow_square: Reparação
 
 boas ações na * do mal – `lde.q1000`
 
@@ -13534,7 +13534,7 @@ ofensas e – `lde.q759a`
 
 orgulho e – `lde.q1000`
 
-##### :yellow_square: Repouso
+:yellow_square: Repouso
 
 objetivo do – `lde.q682`
 
@@ -13542,7 +13542,7 @@ trabalho do Espírito e – `lde.q254`
 
 velhice e – `lde.q685`
 
-##### :yellow_square: Reprodução
+:yellow_square: Reprodução
 
 controle e – `lde.q693`
 
@@ -13558,17 +13558,17 @@ primitivas raças e – `lde.q690`
 
 seres vivos e – `lde.q686`
 
-##### :yellow_square: Resgate
+:yellow_square: Resgate
 
 reparação das faltas pelo – `lde.q1000`
 
-##### :yellow_square: Resignação
+:yellow_square: Resignação
 
 Espiritismo e – `lde.5.7`
 
 sofrimento e – `lde.q924`
 
-##### :yellow_square: Respeito
+:yellow_square: Respeito
 
 direito alheio e – `lde.q827`, `lde.q877`
 
@@ -13578,7 +13578,7 @@ livre-arbítrio e – `lde.q495`
 
 opinião sincera e – `lde.q838`
 
-##### :yellow_square: Responsabilidade
+:yellow_square: Responsabilidade
 
 conhecimento e – `lde.q535b`
 
@@ -13596,11 +13596,11 @@ proporcionalidade de compreensão e – `lde.q637`
 
 sociedade e – `lde.q813`
 
-##### :yellow_square: Resposta
+:yellow_square: Resposta
 
 participação de médium e – `lde.0.2.05`
 
-##### :yellow_square: Ressurreição
+:yellow_square: Ressurreição
 
 ciência e – `lde.q1010`
 
@@ -13608,7 +13608,7 @@ Espiritismo e – `lde.q1010`
 
 reencarnação e – `lde.q1010`
 
-##### :yellow_square: Reunião
+:yellow_square: Reunião
 
 instrutiva – `lde.0.2.08`
 
@@ -13616,7 +13616,7 @@ no espaço com revelação pelo sonho – `lde.q406`
 
 parentes e amigos, após a morte, em – `lde.q290`
 
-##### :yellow_square: Revelação
+:yellow_square: Revelação
 
 ciência e – `lde.q20`
 
@@ -13634,7 +13634,7 @@ verdade e – `lde.q628`, `lde.5.8`
 
 vidas anteriores e – `lde.q395`
 
-##### :yellow_square: Riqueza
+:yellow_square: Riqueza
 
 boa utilização da – `lde.q809`
 
@@ -13656,7 +13656,7 @@ ostentação de – `lde.q823a`
 
 prova da – `lde.q533`, `lde.q815`, `lde.q925`
 
-##### :yellow_square: Ritual
+:yellow_square: Ritual
 
 adoração e – `lde.q654`
 
@@ -13664,11 +13664,11 @@ adoração e – `lde.q654`
 
 #### `lde.6.2.18` :card_index_dividers: S
 
-##### :yellow_square: Sabedoria
+:yellow_square: Sabedoria
 
 perfeição e – `lde.q238`
 
-##### :yellow_square: Sacrifício
+:yellow_square: Sacrifício
 
 animal e adoração – `lde.q669a`
 
@@ -13682,7 +13682,7 @@ humano e adoração – `lde.q669`, `lde.q669b`
 
 morte e – `lde.q951`
 
-##### :yellow_square: Satanás
+:yellow_square: Satanás
 
 alegoria com atributos da animalidade e – `lde.q131`
 
@@ -13690,11 +13690,11 @@ forma alegórica do mal e – `lde.q131`
 
 venda da alma a – `lde.q550`
 
-##### :yellow_square: Saúde
+:yellow_square: Saúde
 
 alimento e – `lde.q722`
 
-##### :yellow_square: Selvagem
+:yellow_square: Selvagem
 
 alma do – `lde.q191`
 
@@ -13704,11 +13704,11 @@ diferença entre o civilizado e o – `lde.q933`
 
 instinto – `lde.q849`
 
-##### :yellow_square: Semelhança
+:yellow_square: Semelhança
 
 física e moral – `lde.q207` a `lde.q217`
 
-##### :yellow_square: Sensação
+:yellow_square: Sensação
 
 belezas naturais e – `lde.q252`
 
@@ -13722,7 +13722,7 @@ sonambulismo e – `lde.q437`
 
 vegetal e – `lde.q587`
 
-##### :yellow_square: Sensibilidade
+:yellow_square: Sensibilidade
 
 convulsionários e – `lde.q483`
 
@@ -13734,15 +13734,15 @@ ingratidão e – `lde.q938a`
 
 vulnerabilidade e – `lde.q938a`
 
-##### :yellow_square: Sensualidade
+:yellow_square: Sensualidade
 
 poligamia e – `lde.q701`
 
-##### :yellow_square: Sentido
+:yellow_square: Sentido
 
 alegórico e interpretação da Bíblia – `lde.q59`
 
-##### :yellow_square: Sentimento
+:yellow_square: Sentimento
 
 adoração e – `lde.q653`
 
@@ -13754,7 +13754,7 @@ instintivo – `lde.q5`
 
 razão e – `lde.q898`
 
-##### :yellow_square: Separação
+:yellow_square: Separação
 
 morte violenta, cessação da vida e * da alma – `lde.q161`
 
@@ -13762,7 +13762,7 @@ parcial da alma e do corpo físico – `lde.q455`
 
 responsabilidade pela – `lde.q940a`
 
-##### :yellow_square: Sepultamento
+:yellow_square: Sepultamento
 
 comparecimento numeroso a – `lde.q327a`
 
@@ -13772,15 +13772,15 @@ funeral e – `lde.q327`
 
 presença de desencarnado em – `lde.q327`
 
-##### :yellow_square: Ser humano
+:yellow_square: Ser humano
 
 ver Homem
 
-##### :yellow_square: Seres inorgânicos
+:yellow_square: Seres inorgânicos
 
 seres vivos e – `lde.q585`
 
-##### :yellow_square: Seres vivos
+:yellow_square: Seres vivos
 
 aparecimento dos – `lde.q59`
 
@@ -13810,11 +13810,11 @@ seres inorgânicos e – `lde.q585`
 
 vida material e – `lde.0.2.02`
 
-##### :yellow_square: Seriedade
+:yellow_square: Seriedade
 
 estudo do Espiritismo com – `lde.0.2.08`
 
-##### :yellow_square: Sexo
+:yellow_square: Sexo
 
 espíritos e – `lde.q200` a `lde.q202`
 
@@ -13822,25 +13822,25 @@ nos espíritos – `lde.q200`
 
 reencarnação e – `lde.q201`
 
-##### :yellow_square: Sexos
+:yellow_square: Sexos
 
 encarnação e – `lde.q822a`
 
 união dos – `lde.q700`
 
-##### :yellow_square: Silêncio
+:yellow_square: Silêncio
 
 sociedade e – `lde.q772`
 
 utilidade do – `lde.q772`
 
-##### :yellow_square: Símbolo
+:yellow_square: Símbolo
 
 desenho da cepa pelos espíritos e representação de – `lde.0.3`
 
 representação do Espírito por cor, alegoria e – `lde.q88a`
 
-##### :yellow_square: Simpatia
+:yellow_square: Simpatia
 
 antipatia e – `lde.q293`
 
@@ -13868,21 +13868,21 @@ promoção da – `lde.q303`
 
 próximo e – `lde.q303a`
 
-##### :yellow_square: Simplicidade
+:yellow_square: Simplicidade
 
 preferência pela – `lde.q673`
 
-##### :yellow_square: Sinceridade
+:yellow_square: Sinceridade
 
 adoração com – `lde.q654`
 
-##### :yellow_square: Sintonia
+:yellow_square: Sintonia
 
 faixas inferiores e – `lde.q402`
 
 tendências humanas e – `lde.q518`
 
-##### :yellow_square: Sistema
+:yellow_square: Sistema
 
 antirreencarnacionista – `lde.q789`
 
@@ -13892,17 +13892,17 @@ passagem do Espírito pela fieira animal e – `lde.q613`
 
 planetário e a Terra – `lde.q188`
 
-##### :yellow_square: Sobrenatural
+:yellow_square: Sobrenatural
 
 Espiritismo e o – `lde.5.2`
 
 religião e o – `lde.5.2`
 
-##### :yellow_square: Sobrevivência
+:yellow_square: Sobrevivência
 
 probabilidades de – `lde.q348`
 
-##### :yellow_square: Sociedade
+:yellow_square: Sociedade
 
 casamento e – `lde.q696`
 
@@ -13928,7 +13928,7 @@ severidade das leis e – `lde.q796`
 
 vida em – `lde.q768`
 
-##### :yellow_square: Sofrimento
+:yellow_square: Sofrimento
 
 aplicação do – `lde.q1003`
 
@@ -14004,11 +14004,11 @@ vida futura e – `lde.q1003`
 
 voluntário – `lde.q727`
 
-##### :yellow_square: Sol
+:yellow_square: Sol
 
 ser humano e direito de lugar ao – `lde.q707`
 
-##### :yellow_square: Solidariedade
+:yellow_square: Solidariedade
 
 caridade e – `lde.q805`
 
@@ -14022,11 +14022,11 @@ isenção do trabalho e – `lde.q679`
 
 mundos e – `lde.q804`
 
-##### :yellow_square: Som
+:yellow_square: Som
 
 percepção do – `lde.q249`
 
-##### :yellow_square: Sonambulismo
+:yellow_square: Sonambulismo
 
 características do – `lde.q455`
 
@@ -14048,7 +14048,7 @@ sensações e – `lde.q437`
 
 sonho e – `lde.q425`
 
-##### :yellow_square: Sonâmbulo
+:yellow_square: Sonâmbulo
 
 alma e – `lde.q436`
 
@@ -14064,7 +14064,7 @@ percepção visual do – `lde.q435`
 
 visão à distância do – `lde.q432`, `lde.q455`
 
-##### :yellow_square: Sonho
+:yellow_square: Sonho
 
 comunicação com visita de encarnados no – `lde.q406`
 
@@ -14082,7 +14082,7 @@ veracidade do – `lde.q404`
 
 visitação e – `lde.q343`
 
-##### :yellow_square: Sono
+:yellow_square: Sono
 
 alma durante o – `lde.q401`
 
@@ -14092,27 +14092,27 @@ relacionamento com espíritos e – `lde.q401`
 
 sonho – `lde.q400` a `lde.q412`
 
-##### :yellow_square: Sorte
+:yellow_square: Sorte
 
 gênero de prova com rótulo de – `lde.q864`
 
-##### :yellow_square: Submissão
+:yellow_square: Submissão
 
 costumes sociais e consequências de – `lde.q863`
 
 leis divinas e – `lde.q725`
 
-##### :yellow_square: Substância
+:yellow_square: Substância
 
 sentidos e – `lde.q32`
 
-##### :yellow_square: Sugestão
+:yellow_square: Sugestão
 
 pensamento e – `lde.q461`
 
 pensamento próprio e – `lde.q460`
 
-##### :yellow_square: Suicídio
+:yellow_square: Suicídio
 
 antagonismo das leis da natureza e – `lde.q957`
 
@@ -14194,23 +14194,23 @@ vício e – `lde.q952`
 
 voluntário e loucura – `lde.q944a`
 
-##### :yellow_square: Supérfluo
+:yellow_square: Supérfluo
 
 ambição e – `lde.q717`
 
 necessário e – `lde.q704`, `lde.q923`
 
-##### :yellow_square: Superior
+:yellow_square: Superior
 
 dependência do Espírito, reencarnado ou na erraticidade, a – `lde.q888a`
 
 inferior e – `lde.q277`
 
-##### :yellow_square: Superioridade
+:yellow_square: Superioridade
 
 autoridade e – `lde.q274a`
 
-##### :yellow_square: Superstição
+:yellow_square: Superstição
 
 alegorias e – `lde.q867`
 
@@ -14220,15 +14220,15 @@ utilização do necessário e – `lde.q736`
 
 #### `lde.6.2.19` :card_index_dividers: T
 
-##### :yellow_square: Talismã
+:yellow_square: Talismã
 
 feiticeiro e – `lde.q554`
 
-##### :yellow_square: Temor
+:yellow_square: Temor
 
 ver Medo
 
-##### :yellow_square: Tempo
+:yellow_square: Tempo
 
 espíritos e compreensão do – `lde.q240`
 
@@ -14240,7 +14240,7 @@ personificação do – `lde.q131`
 
 predito – `lde.q1019`, `lde.5.8`
 
-##### :yellow_square: Tentação
+:yellow_square: Tentação
 
 conduta diante da – `lde.q472`
 
@@ -14252,11 +14252,11 @@ prova da riqueza e – `lde.q865`
 
 razão e – `lde.q712a`
 
-##### :yellow_square: Teologia
+:yellow_square: Teologia
 
 fogo moral e – `lde.q1009`
 
-##### :yellow_square: Teoria
+:yellow_square: Teoria
 
 alma subdividida e – `lde.q140`
 
@@ -14266,7 +14266,7 @@ metades eternas e – `lde.q303a`
 
 panteísta – `lde.q14`
 
-##### :yellow_square: Terra
+:yellow_square: Terra
 
 bens da – `lde.q706`
 
@@ -14310,17 +14310,17 @@ sistema planetário e – `lde.q188`
 
 vontade divina e governo da – `lde.q529a`
 
-##### :yellow_square: Timidez
+:yellow_square: Timidez
 
 mal e * dos bons – `lde.q932`
 
-##### :yellow_square: Tiptologia
+:yellow_square: Tiptologia
 
 mesas girantes e – `lde.0.2.04`
 
 sematologia e – `lde.0.2.04`
 
-##### :yellow_square: Trabalho
+:yellow_square: Trabalho
 
 bases fundamentais para o – `lde.q718`
 
@@ -14360,7 +14360,7 @@ resignação contra as vicissitudes e – `lde.q943`
 
 satisfação do necessário e – `lde.q930`
 
-##### :yellow_square: Transformação
+:yellow_square: Transformação
 
 destruição e – `lde.q728`
 
@@ -14368,7 +14368,7 @@ morte e – `lde.q997`
 
 progressiva – `lde.q997`
 
-##### :yellow_square: Transição
+:yellow_square: Transição
 
 colônia de – `lde.q234`
 
@@ -14378,15 +14378,15 @@ instinto em fase de – `lde.q589`
 
 ordem espiritual e – `lde.q100`
 
-##### :yellow_square: Transmigração
+:yellow_square: Transmigração
 
 progressiva – `lde.q189` a `lde.q196`
 
-##### :yellow_square: Trasgo
+:yellow_square: Trasgo
 
 Trasgo – `lde.q103`
 
-##### :yellow_square: Túmulo
+:yellow_square: Túmulo
 
 igualdade e – `lde.q823`
 
@@ -14398,11 +14398,11 @@ visitação a – `lde.q322`
 
 #### `lde.6.2.20` :card_index_dividers: U
 
-##### :yellow_square: Ubiquidade
+:yellow_square: Ubiquidade
 
 Espírito e – `lde.q92`
 
-##### :yellow_square: União
+:yellow_square: União
 
 almas sem afinidade na – `lde.q939`
 
@@ -14420,11 +14420,11 @@ momento da * da alma ao corpo – `lde.q344`
 
 perfeição e – `lde.q298`
 
-##### :yellow_square: Universalidade
+:yellow_square: Universalidade
 
 existência de Deus e * de sentimento instintivo – `lde.q6`
 
-##### :yellow_square: Universo
+:yellow_square: Universo
 
 criação do – `lde.q37`
 
@@ -14440,11 +14440,11 @@ reencarnação e – `lde.q173b`
 
 #### `lde.6.2.21` :card_index_dividers: V
 
-##### :yellow_square: Vácuo
+:yellow_square: Vácuo
 
 espaço universal e – `lde.q36`
 
-##### :yellow_square: Valor
+:yellow_square: Valor
 
 da intenção – `lde.q670`, `lde.q672`
 
@@ -14454,7 +14454,7 @@ intrínseco das funções da mulher – `lde.q821`
 
 prece ao Espírito bom e – `lde.q666`
 
-##### :yellow_square: Vegetal
+:yellow_square: Vegetal
 
 mineral e – `lde.q585`
 
@@ -14468,27 +14468,27 @@ sensações e – `lde.q587`
 
 vida do – `lde.q586`
 
-##### :yellow_square: Velhice
+:yellow_square: Velhice
 
 repouso na – `lde.q685`
 
-##### :yellow_square: Velocidade
+:yellow_square: Velocidade
 
 transporte do Espírito de um lugar para outro e – `lde.q89`
 
-##### :yellow_square: Verdade
+:yellow_square: Verdade
 
 revelação da – `lde.q628`
 
-##### :yellow_square: Vergonha
+:yellow_square: Vergonha
 
 suicídio e – `lde.q948`
 
-##### :yellow_square: Vicente de Paulo (São)
+:yellow_square: Vicente de Paulo (São)
 
 esmola e – `lde.q888a`
 
-##### :yellow_square: Vício
+:yellow_square: Vício
 
 banimento de – `lde.q793`
 
@@ -14502,7 +14502,7 @@ suicídio e – `lde.q952`
 
 virtude e – `lde.q893` a `lde.q906`
 
-##### :yellow_square: Vida
+:yellow_square: Vida
 
 comprometimento da – `lde.q954`
 
@@ -14538,7 +14538,7 @@ sacrifício da – `lde.q947`
 
 uso dos bens terrenos e – `lde.q711`
 
-##### :yellow_square: Vida corpórea
+:yellow_square: Vida corpórea
 
 acompanhamento na – `lde.q516`
 
@@ -14548,7 +14548,7 @@ homem de bem e – `lde.q918`
 
 vida espiritual e apego à – `lde.q941`
 
-##### :yellow_square: Vida espiritual
+:yellow_square: Vida espiritual
 
 fases da – `lde.q191a`
 
@@ -14570,7 +14570,7 @@ vida corpórea e – `lde.q266`
 
 vida social e – `lde.q119`
 
-##### :yellow_square: Vida futura
+:yellow_square: Vida futura
 
 ausência de – `lde.q959`
 
@@ -14598,17 +14598,17 @@ vida presente e – `lde.q192a`
 
 vítimas e – `lde.q738b`
 
-##### :yellow_square: Vida social
+:yellow_square: Vida social
 
 necessidade da – `lde.q766`
 
-##### :yellow_square: Vida terrena
+:yellow_square: Vida terrena
 
 Espírito e objetivo da – `lde.q306b`
 
 recordação de várias presenças na Terra e – `lde.q304`
 
-##### :yellow_square: Vidas passadas
+:yellow_square: Vidas passadas
 
 adversários de – `lde.q530a`
 
@@ -14622,17 +14622,17 @@ recordação de – `lde.q386a`
 
 sabedoria divina e esquecimento de – `lde.q394`
 
-##### :yellow_square: Vingança
+:yellow_square: Vingança
 
 Espírito e – `lde.q531a`
 
-##### :yellow_square: Virtude
+:yellow_square: Virtude
 
 sublimidade da – `lde.q893`
 
 vícios e – `lde.q893` a `lde.q906`
 
-##### :yellow_square: Visão
+:yellow_square: Visão
 
 de Deus pelos espíritos – `lde.q244`
 
@@ -14642,7 +14642,7 @@ faculdade da – `lde.q247`
 
 limitação da – `lde.q247`
 
-##### :yellow_square: Visita
+:yellow_square: Visita
 
 comunicação, em sonho, entre encarnados e ocorrência de – `lde.q406`
 
@@ -14654,11 +14654,11 @@ imposição de – `lde.q416`
 
 sonho e – `lde.q343`
 
-##### :yellow_square: Vista
+:yellow_square: Vista
 
 da alma – `lde.q455`
 
-##### 🟨 Vocação
+:yellow_square:  Vocação
 
 desvio da – `lde.q928`
 
@@ -14672,7 +14672,7 @@ progresso em experiência corporal e – `lde.q270`
 
 seguir a – `lde.q928`
 
-##### 🟨 Vontade
+:yellow_square:  Vontade
 
 crença em Deus e – `lde.q631`
 
@@ -14682,7 +14682,7 @@ paixão e – `lde.q907`
 
 poder da – `lde.q872`
 
-##### 🟨 Voto de silêncio
+:yellow_square:  Voto de silêncio
 
 relações sociais e – `lde.q772`
 
@@ -14692,7 +14692,7 @@ sociedade e – `lde.q772`
 
 #### `lde.6.2.22` 🗂️ Z
 
-##### 🟨 Zelo
+:yellow_square:  Zelo
 
 excesso de – `lde.q736`
  
