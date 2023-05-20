@@ -3,13 +3,10 @@
 
 ## `lde.1` :card_index_dividers: Parte 1. Das causas primárias
 
-
 ### `lde.1.1` :bookmark_tabs: 1. De Deus
 ---
-
 #### `lde.1.1.1` :page_with_curl: Deus e o infinito
 ---
-
 ##### <code>lde.q1</code> :hash: 1
 <details><summary> O que é Deus?</summary>
 
@@ -17,6 +14,7 @@
 
 :yellow_square: <code>Deus, conceito de</code>
 </details>
+<hr />
 
 ##### <code>lde.q2</code> :hash: 2
 <details><summary> O que se deve entender por infinito?</summary>
@@ -25,18 +23,17 @@
 
 :yellow_square: <code>Deus, conceito de</code>
 </details>
+<hr />
 
 ##### <code>lde.q3</code> :hash: 3
 <details><summary> Poder-se-ia dizer que Deus é o infinito? </summary>
 
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
->
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 
 :yellow_square: <code>Deus, infinito e</code>
 </details>
-
----
+<hr />
 
 E disse Jesus: 
 
@@ -48,6 +45,7 @@ E disse Jesus:
 
 ---
 <details><summary>:yellow_square:  Índice 1</summary>
+<br />
 
 amor de – `lde.q126`
 
@@ -117,9 +115,11 @@ Universo e – `lde.q38`
 </details>
 
 <details><summary>:yellow_square:  Índice 2</summary>
-niverso e – `lde.q38`
+<br />
+  niverso e – `lde.q38`
 </details>
 
 <details><summary>:yellow_square: Índice 3</summary>
+  <br />
 niverso e – `lde.q38`
 </details>
