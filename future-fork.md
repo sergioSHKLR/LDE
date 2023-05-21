@@ -1,5 +1,7 @@
-<details><summary>Breadcrumbs</summary>
+<details><summary> Breadcrumbs</summary>
+
 <code>lde</code>:notebook_with_decorative_cover: O Livro dos Espíritos
+
 
 <code>lde.1</code> :card_index_dividers: Parte 1. Das causas primárias
 
