@@ -17,7 +17,7 @@
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
-:label: Deus, conceito de
+:label: <sub>Deus, conceito de</sub>
 </details>
 <hr />
 
