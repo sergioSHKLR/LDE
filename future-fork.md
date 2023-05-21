@@ -107,14 +107,14 @@ percepção, pelos espíritos, de – `lde.q244`
 posição dos homens perante – `lde.q654`
 :label: Deus, presciência de – `lde.q579`
 
-:label: Deus, provas da existência de – `lde.q4` a `lde.q9`
+:label: Deus, provas da existência de – `lde.q4` :leftwards_arrow_with_hook: a `lde.q9 :leftwards_arrow_with_hook:`
 
-:label: Deus, sentimento da existência de – `lde.q221`
+:label: Deus, sentimento da existência de – `lde.q221` :leftwards_arrow_with_hook:
 
-:label: Deus, trabalho de – `lde.q21`
+:label: Deus, trabalho de – `lde.q21` :leftwards_arrow_with_hook:
 
-:label: Deus, universalidade de sentimento da existência de – `lde.q6`
+:leftwards_arrow_with_hook: Deus, universalidade de sentimento da existência de – `lde.q6` :leftwards_arrow_with_hook:
 
-:label: Deus, Universo e – `lde.q38`
+Deus, Universo e – `lde.q38` :leftwards_arrow_with_hook:
 
 </details>
