@@ -50,6 +50,8 @@ E disse Jesus:
 
 :fleur_de_lis:
 
+<a href="#top">back to top</a>
+
 ---
 
 Separate page
@@ -73,5 +75,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </sub>
 </details>
-
-<a href="#top">back to top</a>
