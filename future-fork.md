@@ -52,70 +52,8 @@ E disse Jesus:
 <details><summary>:package:  Deus,</summary>
 <br />
 <sub>
-
-:label: amor de – `lde.q126`
-
-:label: atos humanos e – `lde.q964`
-:label: 
-atributos de – `lde.q13`, `lde.q16`
-:label: 
-auxílio de – `lde.q964`
-:label: 
-bondade e – `lde.q1009`
-:label: 
-cada pessoa e – `lde.q963`
-:label: 
-cepa como emblema do trabalho de – 
-:label: 
-conceito de – [`lde.q1`](#ldeq1-hash-1), `lde.q668`
-:label: 
-criação de espíritos e – `lde.q115`
-:label: 
-criação de espíritos e atributos de – `lde.q131`
-:label: 
-Espírito e – `lde.q77`
-:label: 
-ideias humanas de – `lde.q13`
-:label: 
-igualdade de direitos perante – `lde.q878a`
-:label: 
-infinito e – [`lde.q3`](#ldeq3-hash-3)
-:label: 
-intervenção de – `lde.q963`
-:label: 
-julgamento de – `lde.q670`, `lde.q672`
-:label: 
-justiça divina e – `lde.q964`
-:label: 
-lacuna entre o homem e – `lde.0.2.17`
-:label: 
-leis de – `lde.q964`, [`lde.q2`](#ldeq2-hash-2)
-:label: 
-mensageiros de – `lde.q562a`
-:label: 
-missão dos espíritos e – `lde.q569`
-:label: 
-natureza íntima de – `lde.q10`, `lde.q11`
-:label: 
-onisciência de – `lde.q616`
-:label: 
-oração sincera e – `lde.q672`
-:label: 
-penas eternas e – `lde.q1009`
-:label: 
-percepção, pelos espíritos, de – `lde.q244`
-:label: 
-posição dos homens perante – `lde.q654`
-:label: Deus, presciência de – `lde.q579`
-
-:label: Deus, provas da existência de – `lde.q4` :leftwards_arrow_with_hook: a `lde.q9 :leftwards_arrow_with_hook:`
-
-:label: Deus, sentimento da existência de – `lde.q221` :leftwards_arrow_with_hook:
-
-:label: Deus, trabalho de – `lde.q21` :leftwards_arrow_with_hook:
-
-:label: Deus, universalidade de sentimento da existência de – `lde.q6` :leftwards_arrow_with_hook:
-
-:label: Deus, Universo e – `lde.q38` :leftwards_arrow_with_hook:
+:label: Deus, conceito de :leftwards_arrow_with_hook:
+:label: Deus, infinito e :leftwards_arrow_with_hook:
+:label: Deus, outro termo é :leftwards_arrow_with_hook:
 </sub>
 </details>
