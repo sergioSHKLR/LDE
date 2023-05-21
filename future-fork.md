@@ -113,8 +113,8 @@ posição dos homens perante – `lde.q654`
 
 :label: Deus, trabalho de – `lde.q21` :leftwards_arrow_with_hook:
 
-:leftwards_arrow_with_hook: Deus, universalidade de sentimento da existência de – `lde.q6` :leftwards_arrow_with_hook:
+:label: Deus, universalidade de sentimento da existência de – `lde.q6` :leftwards_arrow_with_hook:
 
-Deus, Universo e – `lde.q38` :leftwards_arrow_with_hook:
+:label: Deus, Universo e – `lde.q38` :leftwards_arrow_with_hook:
 
 </details>
