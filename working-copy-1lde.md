@@ -450,36 +450,42 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.2` 📃 Provas da existência de Deus
 
-##### `lde.q4` :hash: 4. Onde se pode encontrar a prova da existência de Deus?
+##### `lde.q4` :hash: 4
+4. Onde se pode encontrar a prova da existência de Deus?
 
 > “_Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá._”
 >
 > > Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação. O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 
-##### `lde.q5` :hash: 5. Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
+##### `lde.q5` :hash: 5
+5. Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
 
 > “_A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa._”
 
-##### `lde.q6` :hash: 6. O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
+##### `lde.q6` :hash: 6
+6. O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
 
 > “_Se assim fosse, por que existiria nos vossos selvagens esse sentimento?_”
 >
 > > Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 
-##### `lde.q7` :hash: 7. Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
+##### `lde.q7` :hash: 7
+7. Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
 
 > “_Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária._”
 >
 > > Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 
-##### `lde.q8` :hash: 8. Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
+##### `lde.q8` :hash: 8
+8. Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
 
 > “_Outro absurdo! Que homem de bom senso pode considerar o acaso um ser inteligente? E, demais, que é o acaso? Nada._”
 >
 > > A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz.
 > > Um acaso inteligente já não seria acaso.
 
-##### `lde.q9` :hash: 9. Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
+##### `lde.q9` :hash: 9
+9. Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
 
 > “_Tendes um provérbio que diz: ‘Pela obra se reconhece o autor.’ Pois bem! Vede a obra e procurai o autor. O orgulho é que gera a incredulidade. O homem orgulhoso nada admite acima de si. Por isso é que ele denomina a si mesmo de espírito forte. Pobre ser, que um sopro de Deus pode abater!_”
 >
@@ -492,21 +498,25 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.3` 📃 Atributos da Divindade
 
-##### `lde.q10` :hash: 10. Pode o homem compreender a natureza íntima de Deus?
+##### `lde.q10` :hash: 10
+10. Pode o homem compreender a natureza íntima de Deus?
 
 > “_Não; falta-lhe para isso o sentido._”
 
-##### `lde.q11` :hash: 11. Será dado um dia ao homem compreender o mistério da Divindade?
+##### `lde.q11` :hash: 11
+11. Será dado um dia ao homem compreender o mistério da Divindade?
 
 > “_Quando não mais tiver o espírito obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e compreenderá._”
 >
 > > A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
 
-##### `lde.q12` :hash: 12. Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
+##### `lde.q12` :hash: 12
+12. Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
 
 > “_De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento._”
 
-##### `lde.q13` :hash: 13. Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
+##### `lde.q13` :hash: 13
+13. Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
 
 > “_Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber._”
 >
@@ -527,15 +537,18 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.4` 📃 Panteísmo
 
-##### `lde.q14` :hash: 14. Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
+##### `lde.q14` :hash: 14
+14. Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
 > “_Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável._”
 
-##### `lde.q15` :hash: 15. Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
+##### `lde.q15` :hash: 15
+15. Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
 
 > “_Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus._”
 
-##### `lde.q16` :hash: 16. Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
+##### `lde.q16` :hash: 16
+16. Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
 
 > “_A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo._”
 >
@@ -552,20 +565,24 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.2.1` 📃 Conhecimento do princípio das coisas
 
-##### `lde.q17` :hash: 17. É dado ao homem conhecer o princípio das coisas?
+##### `lde.q17` :hash: 17
+17. É dado ao homem conhecer o princípio das coisas?
 
 > “_Não, Deus não permite que ao homem tudo seja revelado neste mundo._”
 
-##### `lde.q18` :hash: 18. Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
+##### `lde.q18` :hash: 18
+18. Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
 > “_O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui._”
 
-##### `lde.q19` :hash: 19. Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
+##### `lde.q19` :hash: 19
+19. Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
 
 > “_A Ciência lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que Deus estabeleceu._”
 > > Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador. Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 
-##### `lde.q20` :hash: 20. Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
+##### `lde.q20` :hash: 20
+20. Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
 > “_Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender._”
 > > Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
@@ -575,53 +592,65 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.2.2` 📃 Espírito e matéria
 
-##### `lde.q21` :hash: 21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
+##### `lde.q21` :hash: 21
+21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
 > “_Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?_”
 
-##### `lde.q22` :hash: 22. Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
+##### `lde.q22` :hash: 22
+22. Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
 > “_Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria._”
 
-##### `lde.q22a` :hash: 22. a) Que definição podeis dar da matéria?
+##### `lde.q22a` :hash: 22a
+22a. Que definição podeis dar da matéria?
 
 > “_A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação._”
 >
 > > Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 
-##### `lde.q23` :hash: 23. Que é o espírito?
+##### `lde.q23` :hash: 23
+23. Que é o espírito?
 
 > “_O princípio inteligente do Universo._”
 
-##### `lde.q23a` :hash: 23a. Qual a natureza íntima do espírito?
+##### `lde.q23a` :hash: 23a
+23a. Qual a natureza íntima do espírito?
 
 > “_Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe._”
 
-##### `lde.q24` :hash: 24. É o espírito sinônimo de inteligência?
+##### `lde.q24` :hash: 24
+24. É o espírito sinônimo de inteligência?
 
 > “_A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa._”
 
-##### `lde.q25` :hash: 25. O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
+##### `lde.q25` :hash: 25
+25. O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
 > “_São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria._”
 
-##### `lde.q25a` :hash: 25a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
+##### `lde.q25a` :hash: 25a
+25a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
 
 > “_É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos._”
 
-##### `lde.q26` :hash: 26. Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
+##### `lde.q26` :hash: 26
+26. Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 
 > “_Pode-se, é fora de dúvida, pelo pensamento._”
 
-##### `lde.q27` :hash: 27. Há então dois elementos gerais do Universo: a matéria e o espírito?
+##### `lde.q27` :hash: 27
+27. Há então dois elementos gerais do Universo: a matéria e o espírito?
 
 > “_Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá._”
 
-##### `lde.q27a` :hash: 27. a) Esse fluido será o que designamos pelo nome de eletricidade?
+##### `lde.q27a` :hash: 27a
+27a. Esse fluido será o que designamos pelo nome de eletricidade?
 
 > “_Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente._”
 
-##### `lde.q28` :hash: 28. Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
+##### `lde.q28` :hash: 28
+28. Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
 
 > “_As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos._”
 > > Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
@@ -631,41 +660,49 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.2.3` 📃 Propriedades da matéria
 
-##### `lde.q29` :hash: 29. A ponderabilidade é um atributo essencial da matéria?
+##### `lde.q29` :hash: 29
+29. A ponderabilidade é um atributo essencial da matéria?
 
 > “_Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria etérea e sutil que constitui esse fluido vos é imponderável. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada._”
 >
 > > A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo
 
-##### `lde.q30` :hash: 30. A matéria é formada de um só ou de muitos elementos?
+##### `lde.q30` :hash: 30
+30. A matéria é formada de um só ou de muitos elementos?
 
 > “_De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva._”
 
-##### `lde.q31` :hash: 31. Donde se originam as diversas propriedades da matéria?
+##### `lde.q31` :hash: 31
+31. Donde se originam as diversas propriedades da matéria?
 
 > “_São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias._”
 
-##### `lde.q32` :hash: 32. De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
+##### `lde.q32` :hash: 32
+32. De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
 
 > “_Sem dúvida e que só existem devido à disposição dos órgãos destinados a percebê-las._”
 >
 > > A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
 
-##### `lde.q33` :hash: 33. A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
+##### `lde.q33` :hash: 33
+33. A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
 
 > “_Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo!_”[^6]
 >
 > > O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
-##### `lde.q33a` :hash: 33. a) Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
+##### `lde.q33a` :hash: 33a
+33a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
 > “_É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa._”
 
-##### `lde.q34` :hash: 34. As moléculas têm forma determinada?
+##### `lde.q34` :hash: 34
+34. As moléculas têm forma determinada?
 
 > “_Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la._”
 
-##### `lde.q34a` :hash: 34. a) Essa forma é constante ou variável?
+##### `lde.q34a` :hash: 34a
+34a. Essa forma é constante ou variável?
 
 > “_Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar._” 
 
@@ -673,12 +710,14 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.2.4` 📃 Espaço universal
 
-##### `lde.q35` :hash: 35. O Espaço universal é infinito ou limitado?
+##### `lde.q35` :hash: 35
+35. O Espaço universal é infinito ou limitado?
 
 > “_Infinito. Supõe-no limitado: que haverá para lá de seus limites? Isto te confunde a razão, bem o sei; no entanto, a razão te diz que não pode ser de outro modo. O mesmo se dá com o infinito em todas as coisas. Não é na pequenina esfera em que vos achais que podereis compreendê-lo._”
 > > Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a razão diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
 
-##### `lde.q36` :hash: 36. O vácuo absoluto existe em alguma parte no Espaço universal?
+##### `lde.q36` :hash: 36
+36. O vácuo absoluto existe em alguma parte no Espaço universal?
 
 > “_Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos._” 
 
@@ -692,13 +731,15 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 *O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
 
-##### `lde.q37` :hash: 37. O Universo foi criado, ou existe de toda a eternidade, como Deus?
+##### `lde.q37` :hash: 37
+37. O Universo foi criado, ou existe de toda a eternidade, como Deus?
 
 > “_É fora de dúvida que ele não pode ter-se feito a si mesmo. Se existisse, como Deus, de toda a eternidade, não seria obra de Deus._”
 >
 > > Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de Deus.
 
-##### `lde.q38` :hash: 38. Como criou Deus o Universo?
+##### `lde.q38` :hash: 38
+38. Como criou Deus o Universo?
 
 > “_Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras
 >
@@ -706,19 +747,23 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > ✝️ Gênesis, cap. 1, vers. 3
 
-##### `lde.q39` :hash: 39. Poderemos conhecer o modo de formação dos mundos?
+##### `lde.q39` :hash: 39
+39. Poderemos conhecer o modo de formação dos mundos?
 
 > “_Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço._”
 
-##### `lde.q40` :hash: 40. Serão os cometas, como agora se pensa, um começo de condensação da matéria, mundos em via de formação?
+##### `lde.q40` :hash: 40
+40. Serão os cometas, como agora se pensa, um começo de condensação da matéria, mundos em via de formação?
 
 > “_Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos fenômenos físicos._”
 
-##### `lde.q41` :hash: 41. Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espaço a matéria que o compõe?
+##### `lde.q41` :hash: 41
+41. Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espaço a matéria que o compõe?
 
 > “_Sim, Deus renova os mundos, como renova os seres vivos._”
 
-##### `lde.q42` :hash: 42. Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
+##### `lde.q42` :hash: 42
+42. Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
 > “_Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação._” 
 
@@ -726,33 +771,40 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.3.2` 📃 Formação dos seres vivos
 
-##### `lde.q43` :hash: 43. Quando começou a Terra a ser povoada?
+##### `lde.q43` :hash: 43
+43. Quando começou a Terra a ser povoada?
 
 > “_No começo tudo era caos; os elementos estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo._”
 
-##### `lde.q44` :hash: 44. Donde vieram para a Terra os seres vivos?
+##### `lde.q44` :hash: 44
+44. Donde vieram para a Terra os seres vivos?
 
 > “_A Terra lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram._”
 
-##### `lde.q45` :hash: 45. Onde estavam os elementos orgânicos, antes da formação da Terra?
+##### `lde.q45` :hash: 45
+45. Onde estavam os elementos orgânicos, antes da formação da Terra?
 
 > “_Achavam-se, por assim dizer, em estado de fluido no Espaço, no meio dos Espíritos, ou em outros planetas, à espera da criação da Terra para começarem existência nova em novo globo.
 >
 > > A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio latente de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de Deus? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações.
 
-##### `lde.q46` :hash: 46. Ainda há seres que nasçam espontaneamente?
+##### `lde.q46` :hash: 46
+46. Ainda há seres que nasçam espontaneamente?
 
 > “_Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria._”
 
-##### `lde.q47` :hash: 47. A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
+##### `lde.q47` :hash: 47
+47. A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
 
 > “_Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra._”
 
-##### `lde.q48` :hash: 48. Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
+##### `lde.q48` :hash: 48
+48. Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
 
 > “_Não; todos os vossos cálculos são quiméricos._”
 
-##### `lde.q49` :hash: 49. Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
+##### `lde.q49` :hash: 49
+49. Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
 
 > “_O princípio das coisas está nos segredos de Deus. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos._” 
 
@@ -760,11 +812,13 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.3.3` 📃 Povoamento da Terra. Adão
 
-##### `lde.q50` :hash: 50. A espécie humana começou por um único homem?
+##### `lde.q50` :hash: 50
+50. A espécie humana começou por um único homem?
 
 > “_Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra._”
 
-##### `lde.q51` :hash: 51. Poderemos saber em que época viveu Adão?
+##### `lde.q51` :hash: 51
+51. Poderemos saber em que época viveu Adão?
 
 > “_Mais ou menos na que lhe assinais: cerca de 4.000 anos antes do Cristo._”
 >
@@ -774,19 +828,23 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.3.4` 📃 Diversidade das raças humanas
 
-##### `lde.q52` :hash: 52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
+##### `lde.q52` :hash: 52
+52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 
 > “_Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral._”
 
-##### `lde.q53` :hash: 53. O homem surgiu em muitos pontos do globo?
+##### `lde.q53` :hash: 53
+53. O homem surgiu em muitos pontos do globo?
 
 > “_Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram._”
 
-##### `lde.q53a` :hash: 53. a) Estas diferenças constituem espécies distintas?
+##### `lde.q53a` :hash: 53a
+53a. Estas diferenças constituem espécies distintas?
 
 > “_Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?_”
 
-##### `lde.q54` :hash: 54. Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
+##### `lde.q54` :hash: 54
+54. Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
 
 > “_Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal._” 
 
@@ -794,21 +852,25 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.3.5` 📃 Pluralidade dos mundos
 
-##### `lde.q55` :hash: 55. São habitados todos os globos que se movem no Espaço?
+##### `lde.q55` :hash: 55
+55. São habitados todos os globos que se movem no Espaço?
 
 > “_Sim e o homem terreno está longe de ser, como supõe, o primeiro em inteligência, em bondade e em perfeição. Entretanto, há homens que se têm por espíritos muito fortes e que imaginam pertencer a este pequenino globo o privilégio de conter seres racionais. Orgulho e vaidade! Julgam que só para eles criou Deus o Universo._”
 >
 > > Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 
-##### `lde.q56` :hash: 56. É a mesma a constituição física dos diferentes globos?
+##### `lde.q56` :hash: 56
+56. É a mesma a constituição física dos diferentes globos?
 
 > “_Não; de modo algum se assemelham._”
 
-##### `lde.q57` :hash: 57. Não sendo uma só para todos a constituição física dos mundos, seguir-se-á tenham organizações diferentes os seres que os habitam?
+##### `lde.q57` :hash: 57
+57. Não sendo uma só para todos a constituição física dos mundos, seguir-se-á tenham organizações diferentes os seres que os habitam?
 
 > “_Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar._”
 
-##### `lde.q58` :hash: 58. Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma estrela?
+##### `lde.q58` :hash: 58
+58. Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma estrela?
 
 > “_Pensais então que não há outras fontes de luz e calor além do Sol e em nenhuma conta tendes a eletricidade que, em certos mundos, desempenha um papel que desconheceis e bem mais importante do que o que lhe cabe desempenhar na Terra? Demais, não dissemos que todos os seres são feitos da mesma matéria que vós outros e com órgãos de conformação idêntica à dos vossos.
 >
@@ -818,7 +880,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.3.6` 📃 Considerações e concordâncias bíblicas concernentes à Criação
 
-##### `lde.q59` :hash: 59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
+##### `lde.q59` :hash: 59
+59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 
 A objeção que se lhe pode fazer é a de estar em contradição com o texto dos livros sagrados. Mas um exame sério mostrará que essa contradição é mais aparente do que real e que decorre da interpretação dada ao que muitas vezes só tinha sentido alegórico. A questão de ter sido Adão, como primeiro homem, a origem exclusiva da Humanidade, não é a única a cujo respeito as crenças religiosas tiveram que se modificar. O movimento da Terra pareceu, em determinada época, tão em oposição às letras sagradas, que não houve gênero de perseguições a que essa teoria não tivesse servido de pretexto, e, no entanto, a Terra gira, malgrado os anátemas, não podendo ninguém hoje contestá-lo, sem agravo à sua própria razão.
 
@@ -844,43 +907,53 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 *Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.*
 
-##### `lde.q60` :hash: 60. É a mesma a força que une os elementos da matéria nos corpos orgânicos e nos inorgânicos?
+##### `lde.q60` :hash: 60
+60. É a mesma a força que une os elementos da matéria nos corpos orgânicos e nos inorgânicos?
 
 > “_Sim, a lei de atração é a mesma para todos._”
 
-##### `lde.q61` :hash: 61. Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
+##### `lde.q61` :hash: 61
+61. Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 
 > “_A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada._”
 
-##### `lde.q62` :hash: 62. Qual a causa da animalização da matéria?
+##### `lde.q62` :hash: 62
+62. Qual a causa da animalização da matéria?
 
 > “_Sua união com o princípio vital._”
 
-##### `lde.q63` :hash: 63. O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou causa?
+##### `lde.q63` :hash: 63
+63. O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou causa?
 
 > “_Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam._”
 
-##### `lde.q64` :hash: 64. Vimos que o espírito e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
+##### `lde.q64` :hash: 64
+64. Vimos que o espírito e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
 
 > “_É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio._”
 
-##### `lde.q64a` :hash: 64. a) Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
+##### `lde.q64a` :hash: 64a
+64a. Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
 
 > “_Isto é consequência do que dissemos._”
 
-##### `lde.q65` :hash: 65. O princípio vital reside em algum dos corpos que conhecemos?
+##### `lde.q65` :hash: 65
+65. O princípio vital reside em algum dos corpos que conhecemos?
 
 > “_Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o espírito e a matéria._”
 
-##### `lde.q66` :hash: 66. O princípio vital é um só para todos os seres orgânicos?
+##### `lde.q66` :hash: 66
+66. O princípio vital é um só para todos os seres orgânicos?
 
 > “_Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá._”
 
-##### `lde.q67` :hash: 67. A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
+##### `lde.q67` :hash: 67
+67. A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
 
 > “_Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida._”
 
-##### `lde.q67a` :hash: 67. a) Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
+##### `lde.q67a` :hash: 67a
+67a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
 
 > “_Sim, é isso._”
 >
@@ -890,19 +963,23 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### `lde.1.4.2` 📃 A vida e a morte
 
-##### `lde.q68` :hash: 68. Qual a causa da morte dos seres orgânicos?
+##### `lde.q68` :hash: 68
+68. Qual a causa da morte dos seres orgânicos?
 
 > “_Esgotamento dos órgãos._”
 
-##### `lde.q68a` :hash: 68. a) Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
+##### `lde.q68a` :hash: 68a
+68a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
 
 > “_Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue._”
 
-##### `lde.q69` :hash: 69. Por que uma lesão do coração mais depressa causa a morte do que as de outros órgãos?
+##### `lde.q69` :hash: 69
+69. Por que uma lesão do coração mais depressa causa a morte do que as de outros órgãos?
 
 > “_O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais._”
 
-##### `lde.q70` :hash: 70. Que é feito da matéria e do princípio vital dos seres orgânicos, quando estes morrem?
+##### `lde.q70` :hash: 70
+70. Que é feito da matéria e do princípio vital dos seres orgânicos, quando estes morrem?
 
 > “_A matéria inerte se decompõe e vai formar novos organismos. O princípio vital volta à massa donde saiu. 
 >
@@ -924,7 +1001,8 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### `lde.1.4.3` 📃 Inteligência e instinto
 
-##### `lde.q71` :hash: 71. A inteligência é atributo do princípio vital?
+##### `lde.q71` :hash: 71
+71. A inteligência é atributo do princípio vital?
 
 > “_Não, pois que as plantas vivem e não pensam: só têm vida orgânica. A inteligência e a matéria são independentes, porquanto um corpo pode viver sem a inteligência. Mas a inteligência só por meio dos órgãos materiais pode manifestar-se. Necessário é que o espírito se una à matéria animalizada para intelectualizá-la._”
 >
@@ -938,27 +1016,33 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 > >
 > > 3º - os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
 
-##### `lde.q72` :hash: 72. Qual a fonte da inteligência?
+##### `lde.q72` :hash: 72
+72. Qual a fonte da inteligência?
 
 > “_Já o dissemos; a inteligência universal._”
 
-##### `lde.q72a` :hash: 72. a) Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
+##### `lde.q72a` :hash: 72a
+72a. Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
 
 > “_Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número._”
 
-##### `lde.q73` :hash: 73. O instinto independe da inteligência?
+##### `lde.q73` :hash: 73
+73. O instinto independe da inteligência?
 
 > “_Precisamente, não, por isso que o instinto é uma espécie de inteligência. É uma inteligência sem raciocínio. Por ele é que todos os seres proveem às suas necessidades._”
 
-##### `lde.q74` :hash: 74. Pode estabelecer-se uma linha de separação entre instinto e a inteligência, isto é, precisar onde um acaba e começa a outra?
+##### `lde.q74` :hash: 74
+74. Pode estabelecer-se uma linha de separação entre instinto e a inteligência, isto é, precisar onde um acaba e começa a outra?
 
 > “_Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da inteligência._”
 
-##### `lde.q75` :hash: 75. É acertado dizer-se que as faculdades instintivas diminuem à medida que crescem as intelectuais?
+##### `lde.q75` :hash: 75
+75. É acertado dizer-se que as faculdades instintivas diminuem à medida que crescem as intelectuais?
 
 > “_Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia._”
 
-##### `lde.q75a` :hash: 75. a) Por que nem sempre é guia infalível a razão?
+##### `lde.q75a` :hash: 75a
+75a. Por que nem sempre é guia infalível a razão?
 
 > “_Seria infalível, se não fosse falseada pela má educação, pelo orgulho e pelo egoísmo. O instinto não raciocina; a razão permite a escolha e dá ao homem o livre-arbítrio._” 
 >
