@@ -49,10 +49,10 @@ E disse Jesus:
 :fleur_de_lis:
 
 ---
-<details><summary>:label:  Tag 1. </summary>
+<details><summary>:package:  Deus,</summary>
 <br />
 
-amor de – `lde.q126`
+:label: amor de – `lde.q126`
 
 atos humanos e – `lde.q964`
 
