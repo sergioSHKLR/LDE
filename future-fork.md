@@ -52,10 +52,12 @@ E disse Jesus:
 <details><summary>:package:  Deus,</summary>
 <br />
 <sub>
+
 :label: Deus, conceito de :leftwards_arrow_with_hook:
 
 :label: Deus, infinito e :leftwards_arrow_with_hook:
 
 :label: Deus, outro termo é :leftwards_arrow_with_hook:
+
 </sub>
 </details>
