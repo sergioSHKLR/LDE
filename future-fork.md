@@ -26,7 +26,7 @@
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
-:label: Deus, conceito de
+:label: <sub>Deus, conceito de</sub>
 </details>
 <hr />
 
@@ -36,7 +36,7 @@
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 
-:label: Deus, infinito e
+:label: <sub>Deus, infinito e</sub>
 </details>
 <hr />
 
