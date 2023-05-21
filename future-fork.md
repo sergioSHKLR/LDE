@@ -1,4 +1,4 @@
-<details><summary> Breadcrumbs</summary>
+<details><summary> Breadcrumbs</summary><br />
 
 <code>lde</code>:notebook_with_decorative_cover: O Livro dos Espíritos
 
