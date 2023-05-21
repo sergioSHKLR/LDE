@@ -106,9 +106,15 @@ percepção, pelos espíritos, de – `lde.q244`
 :label: 
 posição dos homens perante – `lde.q654`
 :label: presciência de – `lde.q579`
+
 :label: provas da existência de – `lde.q4` a `lde.q9`
+
 :label: sentimento da existência de – `lde.q221`
+
 :label: trabalho de – `lde.q21`
+
 :label: universalidade de sentimento da existência de – `lde.q6`
+
 :label: Universo e – `lde.q38`
+
 </details>
