@@ -51,6 +51,7 @@ E disse Jesus:
 ---
 <details><summary>:package:  Deus,</summary>
 <br />
+<sub>
 
 :label: amor de – `lde.q126`
 
@@ -116,5 +117,5 @@ posição dos homens perante – `lde.q654`
 :label: Deus, universalidade de sentimento da existência de – `lde.q6` :leftwards_arrow_with_hook:
 
 :label: Deus, Universo e – `lde.q38` :leftwards_arrow_with_hook:
-
+</sub>
 </details>
