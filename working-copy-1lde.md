@@ -424,9 +424,15 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ## `lde.1` 🗂️ Parte 1. Das causas primárias
 
+---
+
 ### `lde.1.1` 📑 1. De Deus
 
+---
+
 #### `lde.1.1.1` 📃 Deus e o infinito
+
+---
 
 ##### `lde.q1` #️⃣ 1
 1. O que é Deus?
