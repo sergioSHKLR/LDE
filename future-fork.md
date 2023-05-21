@@ -49,7 +49,7 @@ E disse Jesus:
 :fleur_de_lis:
 
 ---
-<details><summary>:label:  Índice 1</summary>
+<details><summary>:label:  Tag 1. </summary>
 <br />
 
 amor de – `lde.q126`
