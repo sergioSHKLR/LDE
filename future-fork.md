@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-bogus [^1] [^2] [^3]
+[^1] [^2] [^3]
 
 <details><summary> :bookmark: Marcador</summary><br />
 
@@ -53,6 +53,10 @@ E disse Jesus:
 :fleur_de_lis:
 
 <a href="#top">back to top</a>
+
+[^1]: 
+[^2]: 
+[^3]:
 
 [^4]: A.K.: O texto colocado entre aspas, em seguida às perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
 
