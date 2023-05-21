@@ -53,7 +53,7 @@ E disse Jesus:
 <br />
 <sub>
 
-:label: Deus, conceito de :leftwards_arrow_with_hook:
+:label: <a name="deus-conceito-de"></a>Deus, conceito de :leftwards_arrow_with_hook:
 
 :label: Deus, infinito e :leftwards_arrow_with_hook:
 
