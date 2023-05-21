@@ -1,7 +1,10 @@
 <details><summary>Breadcrumbs</summary>
 <code>lde</code>:notebook_with_decorative_cover: O Livro dos Espíritos
+
 <code>lde.1</code> :card_index_dividers: Parte 1. Das causas primárias
+
 <code>lde.1.1</code> :bookmark_tabs: 1. De Deus
+
 <code>lde.1.1.1</code> :page_with_curl: Deus e o infinito
 </details>
 
