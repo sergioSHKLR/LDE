@@ -64,9 +64,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 :label: Deus, conceito de [:leftwards_arrow_with_hook:](#ldeq1-hash-1)
 
-:label: Deus, infinito e :leftwards_arrow_with_hook:
+:label: Deus, infinito e [:leftwards_arrow_with_hook:](#ldeq1-hash-2)
 
-:label: Deus, outro termo é :leftwards_arrow_with_hook:
+:label: Deus, outro termo é [:leftwards_arrow_with_hook:](#ldeq1-hash-3)
 
 </sub>
 </details>
