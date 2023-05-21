@@ -1,4 +1,4 @@
-<details><summary> :info: Cabeçalho</summary><br />
+<details><summary> : information: Cabeçalho</summary><br />
 
 <code>lde</code>:notebook_with_decorative_cover: O Livro dos Espíritos
 
