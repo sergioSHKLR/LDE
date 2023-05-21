@@ -428,17 +428,17 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.1` 📃 Deus e o infinito
 
-##### `lde.q1 ` #️⃣ 1
+##### `lde.q0001` #️⃣ 1
 1. O que é Deus?
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
-##### `lde.q2 ` #️⃣ 2
+##### `lde.q0002` #️⃣ 2
 2. Que se deve entender por infinito?
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
-##### `lde.q3 ` #️⃣ 3
+##### `lde.q3` #️⃣ 3
 3. Poder-se-ia dizer que Deus é o infinito?
 
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
@@ -450,33 +450,33 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.2` 📃 Provas da existência de Deus
 
-##### `lde.q4 ` #️⃣ 4
+##### `lde.q0004` #️⃣ 4
 4. Onde se pode encontrar a prova da existência de Deus?
 
 > “_Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá._”
 >
 > > Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação. O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 
-##### `lde.q5 ` #️⃣ 5
+##### `lde.q0005` #️⃣ 5
 5. Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
 
 > “_A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa._”
 
-##### `lde.q6 ` #️⃣ 6
+##### `lde.q0006` #️⃣ 6
 6. O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
 
 > “_Se assim fosse, por que existiria nos vossos selvagens esse sentimento?_”
 >
 > > Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 
-##### `lde.q7 ` #️⃣ 7
+##### `lde.q0007` #️⃣ 7
 7. Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
 
 > “_Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária._”
 >
 > > Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 
-##### `lde.q8 ` #️⃣ 8
+##### `lde.q0008` #️⃣ 8
 8. Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
 
 > “_Outro absurdo! Que homem de bom senso pode considerar o acaso um ser inteligente? E, demais, que é o acaso? Nada._”
@@ -484,7 +484,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > > A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz.
 > > Um acaso inteligente já não seria acaso.
 
-##### `lde.q9 ` #️⃣ 9
+##### `lde.q0009` #️⃣ 9
 9. Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
 
 > “_Tendes um provérbio que diz: ‘Pela obra se reconhece o autor.’ Pois bem! Vede a obra e procurai o autor. O orgulho é que gera a incredulidade. O homem orgulhoso nada admite acima de si. Por isso é que ele denomina a si mesmo de espírito forte. Pobre ser, que um sopro de Deus pode abater!_”
@@ -498,24 +498,24 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.3` 📃 Atributos da Divindade
 
-##### `lde.q10 ` #️⃣ 10
+##### `lde.q0010` #️⃣ 10
 10. Pode o homem compreender a natureza íntima de Deus?
 
 > “_Não; falta-lhe para isso o sentido._”
 
-##### `lde.q11 ` #️⃣ 11
+##### `lde.q0011` #️⃣ 11
 11. Será dado um dia ao homem compreender o mistério da Divindade?
 
 > “_Quando não mais tiver o espírito obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e compreenderá._”
 >
 > > A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
 
-##### `lde.q12 ` #️⃣ 12
+##### `lde.q0012` #️⃣ 12
 12. Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
 
 > “_De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento._”
 
-##### `lde.q13 ` #️⃣ 13
+##### `lde.q0013` #️⃣ 13
 13. Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
 
 > “_Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber._”
@@ -537,17 +537,17 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.4` 📃 Panteísmo
 
-##### `lde.q14 ` #️⃣ 14
+##### `lde.q0014` #️⃣ 14
 14. Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
 > “_Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável._”
 
-##### `lde.q15 ` #️⃣ 15
+##### `lde.q0015` #️⃣ 15
 15. Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
 
 > “_Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus._”
 
-##### `lde.q16 ` #️⃣ 16
+##### `lde.q0016` #️⃣ 16
 16. Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenômenos da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
 
 > “_A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo._”
@@ -565,23 +565,23 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.2.1` 📃 Conhecimento do princípio das coisas
 
-##### `lde.q17 ` #️⃣ 17
+##### `lde.q0017` #️⃣ 17
 17. É dado ao homem conhecer o princípio das coisas?
 
 > “_Não, Deus não permite que ao homem tudo seja revelado neste mundo._”
 
-##### `lde.q18 ` #️⃣ 18
+##### `lde.q0018` #️⃣ 18
 18. Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
 > “_O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui._”
 
-##### `lde.q19 ` #️⃣ 19
+##### `lde.q0019` #️⃣ 19
 19. Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
 
 > “_A Ciência lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que Deus estabeleceu._”
 > > Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador. Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 
-##### `lde.q20 ` #️⃣ 20
+##### `lde.q0020` #️⃣ 20
 20. Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
 > “_Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender._”
@@ -592,12 +592,12 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.2.2` 📃 Espírito e matéria
 
-##### `lde.q21 ` #️⃣ 21
+##### `lde.q0021` #️⃣ 21
 21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
 > “_Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?_”
 
-##### `lde.q22 ` #️⃣ 22
+##### `lde.q0022` #️⃣ 22
 22. Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
 > “_Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria._”
@@ -609,12 +609,12 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > > Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 
-##### `lde.q23` #️⃣ 23
+##### `lde.q0023` #️⃣ 23
 23. Que é o espírito?
 
 > “_O princípio inteligente do Universo._”
 
-##### `lde.q23a` #️⃣ 23a
+##### `lde.q0023a` #️⃣ 23a
 23a. Qual a natureza íntima do espírito?
 
 > “_Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe._”
