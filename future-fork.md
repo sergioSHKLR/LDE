@@ -118,13 +118,3 @@ universalidade de sentimento da existência de – `lde.q6`
 
 Universo e – `lde.q38`
 </details>
-
-<details><summary>:yellow_square:  Índice 2</summary>
-<br />
-  niverso e – `lde.q38`
-</details>
-
-<details><summary>:yellow_square: Índice 3</summary>
-  <br />
-niverso e – `lde.q38`
-</details>
