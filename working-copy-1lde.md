@@ -6323,7 +6323,8 @@ a. Que se deve pensar dos que tentam deter a marcha do progresso e fazer que a H
 
 #### `lde.3.08.3` 📃 Povos degenerados
 
-##### `lde.q786` #️⃣ 786. Mostra-nos a História que muitos povos, depois de abalos que os revolveram profundamente, recaíram na barbaria. Onde, neste caso, o progresso?
+##### `lde.q786` #️⃣ 786
+786. Mostra-nos a História que muitos povos, depois de abalos que os revolveram profundamente, recaíram na barbaria. Onde, neste caso, o progresso?
 
 >“_Quando tua casa ameaça ruína, mandas demoli-la e constróis outra mais sólida e mais cômoda. Mas, enquanto esta não se apronta, há perturbação e confusão na tua morada.
 >
