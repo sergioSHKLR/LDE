@@ -420,11 +420,9 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > **João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito de Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
  
 </details>
----
 
-## <details><summary><code>lde.1</code> 🗂️ Parte 1. Das causas primárias</summary>
-
----
+## `lde.1` 🗂️ Parte 1. Das causas primárias
+<details><summary></summary>
 
 ### `lde.1.1` 📑 1. De Deus
 
@@ -1312,11 +1310,8 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 </details>
 <hr />
 
----
-
 ## `lde.2` 🗂️ Parte 2. Do mundo espírita
-
----
+<details><summary></summary>
 
 ### `lde.2.01` 📑 01. Dos Espíritos
 
@@ -6968,11 +6963,10 @@ b. Esse período de humanização principia na Terra?
 > >
 > > Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos. 
 
----
+</details>
 
 ## `lde.3` 🗂️ Parte 3. Das Leis morais
-
----
+<details><summary></summary>
 
 ### `lde.3.01` 📑 01. Da lei divina ou natural
 
@@ -10148,9 +10142,10 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 >
 > > Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós. 
 
----
+</details>
 
 ## `lde.4` 🗂️ Parte 4. Das esperanças e consolações
+<details><summary></summary>
 
 ### `lde.4.1` 📑 1. Das penas e gozos terrestres
 
@@ -11233,9 +11228,10 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 >
 > **São Luís** 
 
----
+</details>
 
 ## `lde.5` 🗂️ Parte 5. Conclusão
+<details><summary></summary>
 
 ### `lde.5.1` 📃 Conclusão 01
 
@@ -11334,11 +11330,11 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 “_Por bem largo tempo, os homens se têm estraçalhado e anatematizado mutuamente em nome de um Deus de paz e misericórdia, ofendendo-o com semelhante sacrilégio. O Espiritismo é o laço que um dia os unirá, porque lhes mostrará onde está a verdade, onde o erro. Durante muito tempo, porém, ainda haverá escribas e fariseus que o negarão, como negaram o Cristo. Quereis saber sob a influência de que Espíritos estão as diversas seitas que entre si fizeram partilha do mundo? Julgai-o pelas suas obras e pelos seus princípios. Jamais os bons Espíritos foram os instigadores do mal; jamais aconselharam ou legitimaram o assassínio e a violência; jamais estimularam os ódios dos partidos, nem a sede das riquezas e das honras, nem a avidez dos bens da Terra. Os que são bons, humanitários e benevolentes para com todos, esses os seus prediletos e prediletos de Jesus, porque seguem a estrada que este lhes indicou para chegarem até Ele._”
 
 **Santo Agostinho**
- ⚜️
 
----
+</details>
 
 ## `lde.6` 🗂️ Parte 6. Pós-textual
+<details><summary></summary>
 
 ### `lde.6.1` 📃 1. Nota explicativa [^27]
 
