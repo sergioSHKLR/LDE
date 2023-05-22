@@ -378,7 +378,6 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 **Allan Kardec**
  
-</details>
 ---
 
 ### `lde.0.3` 📃 Prolegômenos
@@ -419,7 +418,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > **João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito de Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
  
-
+</details>
 ---
 
 ## `lde.1` 🗂️ Parte 1. Das causas primárias
