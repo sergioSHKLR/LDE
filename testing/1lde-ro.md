@@ -519,7 +519,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 </details>
 </details>
 </details>
-</details>
 
 ### `lde.1.2` 📑 2. Dos elementos gerais do Universo
 
