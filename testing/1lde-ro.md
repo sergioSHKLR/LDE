@@ -459,7 +459,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <sub>🏷️ <code>tag</code></sub>
 </details>
-<hr />
 
 ---
 
@@ -530,7 +529,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
  
 <sub>🏷️ <code>tag</code></sub>
 </details>
-<hr />
 
 ---
 
@@ -584,7 +582,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <sub>🏷️ <code>tag</code></sub>
 </details>
-<hr />
+
 ---
 
 #### `lde.1.1.4` 📃 Panteísmo
@@ -618,7 +616,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <sub>🏷️ <code>tag</code></sub>
 </details>
-<hr />
+
 ---
 
 ### `lde.1.2` 📑 2. Dos elementos gerais do Universo
@@ -663,7 +661,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <sub>🏷️ <code>tag</code></sub>
 </details>
-<hr />
+
 ---
 
 #### `lde.1.2.2` 📃 Espírito e matéria
@@ -682,7 +680,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >“_Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria._”
 
-<details><summary> a. Que definição podeis dar da matéria?</summary>
+<summary> a. Que definição podeis dar da matéria?</summary>
 
 >“_A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação._”
 >
@@ -690,7 +688,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <sub>🏷️ <code>tag</code></sub>
 </details>
-</details>
+
 <hr />
 
 ##### `lde.q23` #️⃣ 23
