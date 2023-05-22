@@ -139,8 +139,9 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
                 |     
                 └── #️⃣ questão
 
-🏷️ ─ assunto
 ✝️ ─ trecho bíblico
+🗃️ ─ Índice Geral
+🏷️ ─ assunto
 ```
 
 ### 6.4. Código mestre
