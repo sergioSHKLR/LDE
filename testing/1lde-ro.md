@@ -1,4 +1,4 @@
-# `lde` 👻 O LIVRO DOS ESPÍRITOS (working copy)
+# `lde` 👻 O LIVRO DOS ESPÍRITOS (1lde-ro)
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
 
