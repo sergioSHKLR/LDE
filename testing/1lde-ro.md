@@ -696,7 +696,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >“_O princípio inteligente do Universo._”
 
-<details><summary> a. Qual a natureza íntima do espírito?</summary>
+<summary> a. Qual a natureza íntima do espírito?</summary>
 >“_Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe._”
 
 <sub>🏷️ <code>tag</code></sub>
@@ -717,7 +717,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >“_São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria._”
 
-<details><summary> a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)</summary>
+<summary> a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)</summary>
 
 >“_É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos._”
 
@@ -739,7 +739,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >“_Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá._”
 
-<details><summary> a. Esse fluido será o que designamos pelo nome de eletricidade?</summary>
+<summary> a. Esse fluido será o que designamos pelo nome de eletricidade?</summary>
 
 >“_Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente._”
 
@@ -807,7 +807,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > > O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
-<details><summary> a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?</summary>
+<summary> a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?</summary>
 
 >“_É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa._”
 
@@ -820,7 +820,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >“_Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la._”
 
-<details><summary> a. Essa forma é constante ou variável?</summary>
+<summary> a. Essa forma é constante ou variável?</summary>
 
 >“_Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar._” 
 
@@ -1026,7 +1026,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >“_Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram._”
 
-<details><summary> a. Estas diferenças constituem espécies distintas?</summary>
+<summary> a. Estas diferenças constituem espécies distintas?</summary>
 
 >“_Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?_”
 <sub>🏷️ <code>tag</code></sub>
@@ -1157,7 +1157,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 >“_É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio._”
 
-<details><summary> a. Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.</summary>
+<summary> a. Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.</summary>
 
 >“_Isto é consequência do que dissemos._”
 
@@ -1188,7 +1188,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 >“_Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida._”
 
-<details><summary> a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
+<summary> a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
 
 >“_Sim, é isso._”
 >
@@ -1203,7 +1203,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 >“_Esgotamento dos órgãos._”
 
-<details><summary> a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
+<summary> a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
 
 >“_Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue._”
 
@@ -1267,7 +1267,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 >“_Já o dissemos; a inteligência universal._”
 
-<details><summary> a. Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?</summary>
+<summary> a. Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?</summary>
 
 >“_Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número._”
 
@@ -1298,7 +1298,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 >“_Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia._”
 
-<details><summary> a. Por que nem sempre é guia infalível a razão?</summary>
+<summary> a. Por que nem sempre é guia infalível a razão?</summary>
 
 >“_Seria infalível, se não fosse falseada pela má educação, pelo orgulho e pelo egoísmo. O instinto não raciocina; a razão permite a escolha e dá ao homem o livre-arbítrio._” 
 >
