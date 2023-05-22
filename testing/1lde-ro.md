@@ -522,7 +522,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ### `lde.1.2` 📑 2. Dos elementos gerais do Universo
 
-
 #### `lde.1.2.1` 📃 Conhecimento do princípio das coisas
 
 ##### `lde.q17` #️⃣ 17
@@ -677,7 +676,8 @@ a. Essa forma é constante ou variável?
 
 
 ### `lde.1.3` 📑 3. Da Criação
-<details><summary></summary>
+
+
 
 #### `lde.1.3.1` 📃 Formação dos mundos
 
@@ -851,7 +851,8 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 
 ### `lde.1.4` 📑 4. Do princípio vital
-<details><summary></summary>
+
+
 
 #### `lde.1.4.1` 📃 Seres orgânicos e inorgânicos
 
