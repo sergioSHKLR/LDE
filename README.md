@@ -138,7 +138,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
                 |     
                 └── #️⃣ questão
 
-🟨 ─ assunto
+🏷️ ─ assunto
 ✝️ ─ trecho bíblico
 ```
 
