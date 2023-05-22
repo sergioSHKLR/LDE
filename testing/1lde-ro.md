@@ -669,9 +669,7 @@ a. Essa forma é constante ou variável?
 36. O vácuo absoluto existe em alguma parte no Espaço universal?
 
 >“_Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos._” 
-</details>
-</details>
-</details>
+
 
 ### `lde.1.3` 📑 3. Da Criação
 <details><summary></summary>
