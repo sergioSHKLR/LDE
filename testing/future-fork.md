@@ -22,7 +22,7 @@
 
 > “_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
-<sub>:label: Deus, conceito de</sub>
+<sub>🏷️ <code>Deus</code></sub>
 </details>
 <hr />
 
@@ -31,7 +31,7 @@
 
 > “_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
-<sub>:label: Deus, conceito de</sub>
+<sub>🏷️ <code>Deus</code></sub>
 </details>
 <hr />
 
@@ -41,7 +41,7 @@
 > “_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 
-<sub>:label: Deus, infinito e</sub>
+<sub>🏷️ <code>Deus</code>, <code>infinito</code></sub>
 </details>
 <hr />
 
