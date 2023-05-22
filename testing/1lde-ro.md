@@ -386,21 +386,21 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### `lde.1.1.1` 📃 Deus e o infinito
 
-##### `lde.q1` #️⃣ 
+##### `lde.q1` #️⃣ 1
 <details><summary>O que é Deus?</summary>
 
 >“_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
 </details>
 
-##### `lde.q2` #️⃣ 
+##### `lde.q2` #️⃣ 2
 <details><summary>Que se deve entender por infinito?</summary>
 
 >“_O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito._”
 
 </details>
 
-##### `lde.q3` #️⃣ 
+##### `lde.q3` #️⃣ 3
 <details><summary>Poder-se-ia dizer que Deus é o infinito?</summary>
 
 >“_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
