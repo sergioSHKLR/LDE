@@ -26,7 +26,7 @@ ISBN 978-85-7328-728-8
 
 ### `lde.0.2` 📑 Introdução
 
-
+<details><summary></summary>
 
 #### `lde.0.2.01` 📃 Introdução 01
 
@@ -380,8 +380,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 **Allan Kardec**
  
-
-
+</details>
 
 ### `lde.0.3` 📃 Prolegômenos
 
