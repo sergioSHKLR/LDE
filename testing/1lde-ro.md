@@ -1,6 +1,6 @@
 # `lde` 👻 O LIVRO DOS ESPÍRITOS (1lde-ro)
 
-## <details><summary>`lde.0` 🗂️ Parte 0. Pré-textual</summary>
+## <details><summary><code>lde.0</code> 🗂️ Parte 0. Pré-textual</summary>
 
 ### `lde.0.1` 📃 Folha de rosto
 
