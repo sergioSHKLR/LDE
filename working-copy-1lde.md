@@ -609,6 +609,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > “_Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria._”
 
   `lde.q22a` #️⃣ 22a
+
   22a. Que definição podeis dar da matéria?
 
   > “_A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação._”
@@ -620,10 +621,11 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 > “_O princípio inteligente do Universo._”
 
-##### `lde.q23a` #️⃣ 23a
-23a. Qual a natureza íntima do espírito?
+  `lde.q23a` #️⃣ 23a
 
-> “_Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe._”
+  23a. Qual a natureza íntima do espírito?
+
+  > “_Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe._”
 
 ##### `lde.q24` #️⃣ 24
 24. É o espírito sinônimo de inteligência?
@@ -635,10 +637,11 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 > “_São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria._”
 
-##### `lde.q25a` #️⃣ 25a
-25a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
+   `lde.q25a` #️⃣ 25a
 
-> “_É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos._”
+  25a. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
+
+  > “_É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos._”
 
 ##### `lde.q26` #️⃣ 26
 26. Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
@@ -650,10 +653,11 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 > “_Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá._”
 
-##### `lde.q27a` #️⃣ 27a
-27a. Esse fluido será o que designamos pelo nome de eletricidade?
+   `lde.q27a` #️⃣ 27a
 
-> “_Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente._”
+  27a. Esse fluido será o que designamos pelo nome de eletricidade?
+
+  > “_Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente._”
 
 ##### `lde.q28` #️⃣ 28
 28. Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
@@ -697,20 +701,22 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > > O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
-##### `lde.q33a` #️⃣ 33a
-33a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
+   `lde.q33a` #️⃣ 33a
 
-> “_É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa._”
+  33a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
+
+  > “_É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa._”
 
 ##### `lde.q34` #️⃣ 34
 34. As moléculas têm forma determinada?
 
 > “_Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la._”
 
-##### `lde.q34a` #️⃣ 34a
-34a. Essa forma é constante ou variável?
+   `lde.q34a` #️⃣ 34a
 
-> “_Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar._” 
+  34a. Essa forma é constante ou variável?
+
+  > “_Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar._” 
 
 ---
 
@@ -844,10 +850,11 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 > “_Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram._”
 
-##### `lde.q53a` #️⃣ 53a
-53a. Estas diferenças constituem espécies distintas?
+   `lde.q53a` #️⃣ 53a
 
-> “_Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?_”
+  53a. Estas diferenças constituem espécies distintas?
+
+  > “_Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?_”
 
 ##### `lde.q54` #️⃣ 54
 54. Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
@@ -938,10 +945,11 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 > “_É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio._”
 
-##### `lde.q64a` #️⃣ 64a
-64a. Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
+   `lde.q64a` #️⃣ 64a
 
-> “_Isto é consequência do que dissemos._”
+  64a. Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
+
+  > “_Isto é consequência do que dissemos._”
 
 ##### `lde.q65` #️⃣ 65
 65. O princípio vital reside em algum dos corpos que conhecemos?
@@ -958,12 +966,13 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 > “_Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida._”
 
-##### `lde.q67a` #️⃣ 67a
-67a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
+   `lde.q67a` #️⃣ 67a
 
-> “_Sim, é isso._”
->
-> > O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor. 
+  67a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
+
+  > “_Sim, é isso._”
+  >
+  > > O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor. 
 
 ---
 
@@ -974,10 +983,11 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 > “_Esgotamento dos órgãos._”
 
-##### `lde.q68a` #️⃣ 68a
-68a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
+   `lde.q68a` #️⃣ 68a
 
-> “_Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue._”
+  68a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
+
+  > “_Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue._”
 
 ##### `lde.q69` #️⃣ 69
 69. Por que uma lesão do coração mais depressa causa a morte do que as de outros órgãos?
@@ -1027,10 +1037,11 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 > “_Já o dissemos; a inteligência universal._”
 
-##### `lde.q72a` #️⃣ 72a
-72a. Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
+   `lde.q72a` #️⃣ 72a
 
-> “_Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número._”
+  72a. Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
+
+  > “_Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número._”
 
 ##### `lde.q73` #️⃣ 73
 73. O instinto independe da inteligência?
@@ -1047,14 +1058,15 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 > “_Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia._”
 
-##### `lde.q75a` #️⃣ 75a
-75a. Por que nem sempre é guia infalível a razão?
+   `lde.q75a` #️⃣ 75a
 
-> “_Seria infalível, se não fosse falseada pela má educação, pelo orgulho e pelo egoísmo. O instinto não raciocina; a razão permite a escolha e dá ao homem o livre-arbítrio._” 
->
-> > O instinto é uma inteligência rudimentar, que difere da inteligência propriamente dita, em que suas manifestações são quase sempre espontâneas, ao passo que as da inteligência resultam de uma combinação e de um ato deliberado.
-> >
-> > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. 
+  75a. Por que nem sempre é guia infalível a razão?
+
+  > “_Seria infalível, se não fosse falseada pela má educação, pelo orgulho e pelo egoísmo. O instinto não raciocina; a razão permite a escolha e dá ao homem o livre-arbítrio._” 
+  >
+  > > O instinto é uma inteligência rudimentar, que difere da inteligência propriamente dita, em que suas manifestações são quase sempre espontâneas, ao passo que as da inteligência resultam de uma combinação e de um ato deliberado.
+  > >
+  > > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. 
 
 ---
 
