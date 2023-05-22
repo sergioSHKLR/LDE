@@ -28,7 +28,7 @@ Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição 
 
 Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-### 4.1 Formatação de texto (livro impresso)
+### 4.1. Formatação de texto (livro impresso)
 
 Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não são separados ou atribuídos por livro, capítulo e versículo.
 
@@ -69,7 +69,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ---
 
-#### 6.1.1 Respostas à mostra
+#### 6.1.1. Respostas à mostra
 
 `lde.q3` #️⃣ 3
 
@@ -80,7 +80,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ---
 
-#### 6.1.2 Respostas ocultas
+#### 6.1.2⃣. Respostas ocultas
 
 `lde.q3` #️⃣ 3
 <details><summary>3. Poder-se-ia dizer que <b>Deus</b> é o infinito?</summary>
@@ -93,7 +93,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ---
 
-#### 6.1.3 Trechos bíblicos
+#### 6.1.3. Trechos bíblicos
 
 E disse Jesus:
 
