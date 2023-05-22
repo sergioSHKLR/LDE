@@ -1072,45 +1072,57 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ## `lde.2` 🗂️ Parte 2. Do mundo espírita
 
+---
+
 ### `lde.2.01` 📑 01. Dos Espíritos
 
 ---
 
 #### `lde.2.01.01` 📃 Origem e natureza dos Espíritos
 
-##### `lde.q76` #️⃣ 76. Que definição se pode dar dos Espíritos?
+---
+
+##### `lde.q76` #️⃣ 76
+76. Que definição se pode dar dos Espíritos?
 
 > “_Pode dizer-se que os Espíritos são os seres inteligentes da criação. Povoam o Universo, fora do mundo material._”
 >
 > > Nota – A palavra **Espírito** é empregada aqui para designar as individualidades dos seres extracorpóreos e não mais o elemento inteligente do Universo.
 
-##### `lde.q77` #️⃣ 77. Os Espíritos são seres distintos da Divindade ou serão simples emanações ou porções desta e, por isto, denominados filhos de Deus?
+##### `lde.q77` #️⃣ 77
+77. Os Espíritos são seres distintos da Divindade ou serão simples emanações ou porções desta e, por isto, denominados filhos de Deus?
 
 > “_Meu Deus! São obra de Deus, exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem. Sabes que, quando faz alguma coisa bela, útil, o homem lhe chama sua filha, criação sua. Pois bem! O mesmo se dá com relação a Deus: somos seus filhos, pois que somos obra sua._”
 
-##### `lde.q78` #️⃣ 78. Os Espíritos tiveram princípio ou existem, como Deus, de toda a eternidade?
+##### `lde.q78` #️⃣ 78
+78. Os Espíritos tiveram princípio ou existem, como Deus, de toda a eternidade?
 
 > “_Se não tivessem tido princípio, seriam iguais a Deus, quando, ao invés, são criação sua e se acham submetidos à sua vontade. Deus existe de toda a eternidade, é incontestável. Quanto, porém, ao modo por que nos criou e em que momento o fez, nada sabemos. Podes dizer que não tivemos princípio, se quiseres com isso significar que, sendo eterno, Deus há de ter sempre criado ininterruptamente. Mas quando e como cada um de nós foi feito, repito-te, nenhum o sabe: aí é que está o mistério._”
 
-##### `lde.q79` #️⃣ 79. Pois que há dois elementos gerais no Universo: o elemento inteligente e o elemento material, poder-se-á dizer que os Espíritos são formados do elemento inteligente, como os corpos inertes o são do elemento material?
+##### `lde.q79` #️⃣ 79
+79. Pois que há dois elementos gerais no Universo: o elemento inteligente e o elemento material, poder-se-á dizer que os Espíritos são formados do elemento inteligente, como os corpos inertes o são do elemento material?
 
 > “_Evidentemente. Os Espíritos são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desconhecidos._”
 
-##### `lde.q80` #️⃣ 80. A criação dos Espíritos é permanente ou só se deu na origem dos tempos?
+##### `lde.q80` #️⃣ 80
+80. A criação dos Espíritos é permanente ou só se deu na origem dos tempos?
 
 > “_É permanente. Quer dizer: Deus jamais deixou de criar._”
 
-##### `lde.q81` #️⃣ 81. Os Espíritos se formam espontaneamente ou procedem uns dos outros?
+##### `lde.q81` #️⃣ 81
+81. Os Espíritos se formam espontaneamente ou procedem uns dos outros?
 
 > “_Deus os cria, como a todas as outras criaturas, pela sua vontade. Mas repito ainda uma vez, a origem deles é mistério._”
 
-##### `lde.q82` #️⃣ 82. Será certo dizer-se que os Espíritos são imateriais?
+##### `lde.q82` #️⃣ 82
+82. Será certo dizer-se que os Espíritos são imateriais?
 
 > “_Como se pode definir uma coisa, quando faltam termos de comparação e com uma linguagem deficiente? Pode um cego de nascença definir a luz? Imaterial não é bem o termo; incorpóreo seria mais exato, pois deves compreender que, sendo uma criação, o Espírito há de ser alguma coisa. É a matéria quintessenciada, mas sem analogia para vós outros, e tão etérea que escapa inteiramente ao alcance dos vossos sentidos._”
 >
 > > Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação.
 
-##### `lde.q83` #️⃣ 83. Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
+##### `lde.q83` #️⃣ 83
+83. Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
 
 > “_Há muitas coisas que não compreendeis, porque tendes limitada a inteligência. Isso, porém, não é razão para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos Espíritos não tem fim. É tudo o que podemos, por agora, dizer._” 
 
@@ -1118,19 +1130,25 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### `lde.2.01.02` 📃 Mundo normal primitivo
 
-##### `lde.q84` #️⃣ 84. Os Espíritos constituem um mundo à parte, fora daquele que vemos?
+---
+
+##### `lde.q84` #️⃣ 84
+84. Os Espíritos constituem um mundo à parte, fora daquele que vemos?
 
 > “_Sim, o mundo dos Espíritos ou das inteligências incorpóreas._”
 
-##### `lde.q85` #️⃣ 85. Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem das coisas?
+##### `lde.q85` #️⃣ 85
+85. Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem das coisas?
 
 > “_O mundo espírita, que preexiste e sobrevive a tudo._”
 
-##### `lde.q86` #️⃣ 86. O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso alterasse a essência do mundo espírita?
+##### `lde.q86` #️⃣ 86
+86. O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso alterasse a essência do mundo espírita?
 
 > “_Decerto. Eles são independentes; contudo, é incessante a correlação entre ambos, porquanto um sobre o outro incessantemente reagem._”
 
-##### `lde.q87` #️⃣ 87. Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
+##### `lde.q87` #️⃣ 87
+87. Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 
 > “_Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os Espíritos são uma das potências da natureza e os instrumentos de que Deus se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados._” 
 
@@ -1138,61 +1156,78 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### `lde.2.01.03` 📃 Forma e ubiquidade dos Espíritos
 
-##### `lde.q88` #️⃣ 88. Os Espíritos têm forma determinada, limitada e constante?
+---
+
+##### `lde.q88` #️⃣ 88
+88. Os Espíritos têm forma determinada, limitada e constante?
 
 > “_Para vós, não; para nós, sim. O Espírito é, se quiserdes, uma chama, um clarão, ou uma centelha etérea._”
 
-##### `lde.q88a` #️⃣ 88. a) Essa chama ou centelha tem cor?
+   `lde.q88a` #️⃣ 88a
+  88a. Essa chama ou centelha tem cor?
 
-> “_Tem uma cor que, para vós, vai do escuro ao brilho do rubi, conforme o Espírito é mais ou menos puro._”
->
-> > Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É uma alegoria, que lembra a natureza essencial dos Espíritos. Colocam-na no alto da cabeça, porque aí está a sede da inteligência.
+  > “_Tem uma cor que, para vós, vai do escuro ao brilho do rubi, conforme o Espírito é mais ou menos puro._”
+  >
+  > > Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É uma alegoria, que lembra a natureza essencial dos Espíritos. Colocam-na no alto da cabeça, porque aí está a sede da inteligência.
 
-##### `lde.q89` #️⃣ 89. Os Espíritos gastam algum tempo para percorrer o Espaço?
+##### `lde.q89` #️⃣ 89
+89. Os Espíritos gastam algum tempo para percorrer o Espaço?
 
 > “_Sim, mas fazem-no com a rapidez do pensamento._”
 
-##### `lde.q89a` #️⃣ 89. a) O pensamento não é a própria alma que se transporta?
+   `lde.q89a` #️⃣ 89a
 
-> “_Quando o pensamento está em alguma parte, a alma também aí está, pois que é a alma que pensa. O pensamento é um atributo._”
+  89a. O pensamento não é a própria alma que se transporta?
 
-##### `lde.q90` #️⃣ 90. O Espírito que se transporta de um lugar a outro tem consciência da distância que percorre e dos espaços que atravessa ou é subitamente transportado ao lugar aonde quer ir?
+  > “_Quando o pensamento está em alguma parte, a alma também aí está, pois que é a alma que pensa. O pensamento é um atributo._”
+
+##### `lde.q90` #️⃣ 90
+90. O Espírito que se transporta de um lugar a outro tem consciência da distância que percorre e dos espaços que atravessa ou é subitamente transportado ao lugar aonde quer ir?
 
 > “_Dá-se uma e outra coisa. O Espírito pode perfeitamente, se o quiser, inteirar-se da distância que percorre, mas também essa distância pode desaparecer completamente, dependendo isso da sua vontade, bem como da sua natureza mais ou menos depurada._”
 
-##### `lde.q91` #️⃣ 91. A matéria opõe obstáculo aos Espíritos?
+##### `lde.q91` #️⃣ 91
+91. A matéria opõe obstáculo aos Espíritos?
 
 > “_Nenhum; eles passam através de tudo. O ar, a terra, as águas e até mesmo o fogo lhes são igualmente acessíveis._”
 
-##### `lde.q92` #️⃣ 92. Têm os Espíritos o dom da ubiquidade? Por outras palavras: um Espírito pode dividir-se, ou existir em muitos pontos ao mesmo tempo?
+##### `lde.q92` #️⃣ 92
+92. Têm os Espíritos o dom da ubiquidade? Por outras palavras: um Espírito pode dividir-se, ou existir em muitos pontos ao mesmo tempo?
 
 > “_Não pode haver divisão de um mesmo Espírito, mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um Espírito em muitos lugares ao mesmo tempo. Vês o Sol? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide._”
 
-##### `lde.q92a` #️⃣ 92. a) Todos os Espíritos irradiam com igual força?
+   `lde.q92a` #️⃣ 92a
 
-> “_Longe disso. Essa força depende do grau de pureza de cada um._”
->
-> > Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos. 
+  92a. Todos os Espíritos irradiam com igual força?
+
+  > “_Longe disso. Essa força depende do grau de pureza de cada um._”
+  >
+  > > Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos. 
 
 ---
 
 #### `lde.2.01.04` 📃 Perispírito
 
-##### `lde.q93` #️⃣ 93. O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
+##### `lde.q93` #️⃣ 93
+93. O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
 
 > “_Envolve-o uma substância, vaporosa para os teus olhos, mas ainda bastante grosseira para nós; assaz vaporosa, entretanto, para poder elevar-se na atmosfera e transportar-se aonde queira._”
 >
 > > Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar perispírito, serve de envoltório ao Espírito propriamente dito.
 
-##### `lde.q94` #️⃣ 94. De onde tira o Espírito o seu invólucro semimaterial?
+##### `lde.q94` #️⃣ 94
+94. De onde tira o Espírito o seu invólucro semimaterial?
 
 > “_Do fluido universal de cada globo, razão por que não é idêntico em todos os mundos. Passando de um mundo a outro, o Espírito muda de envoltório, como mudais de roupa._”
 
-##### `lde.q94a` #️⃣ 94. a) Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio, tomam um perispírito mais grosseiro?
+   `lde.q94a` #️⃣ 94a
 
-> “_É necessário que se revistam da vossa matéria, já o dissemos._”
+  94a. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio, tomam um perispírito mais grosseiro?
 
-##### `lde.q95` #️⃣ 95. O invólucro semimaterial do Espírito tem formas determinadas e pode ser perceptível?
+  > “_É necessário que se revistam da vossa matéria, já o dissemos._”
+
+##### `lde.q95` #️⃣ 95
+95. O invólucro semimaterial do Espírito tem formas determinadas e pode ser perceptível?
 
 > “_Tem a forma que o Espírito queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável._” 
 
@@ -1200,19 +1235,23 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### `lde.2.01.05` 📃 Diferentes ordens de Espíritos
 
-##### `lde.q96` #️⃣ 96. São iguais os Espíritos, ou há entre eles qualquer hierarquia?
+##### `lde.q96` #️⃣ 96
+96. São iguais os Espíritos, ou há entre eles qualquer hierarquia?
 
 > “_São de diferentes ordens, conforme o grau de perfeição que tenham alcançado._”
 
-##### `lde.q97` #️⃣ 97. As ordens ou graus de perfeição dos Espíritos são em número determinado?
+##### `lde.q97` #️⃣ 97
+97. As ordens ou graus de perfeição dos Espíritos são em número determinado?
 
 > “_São ilimitadas em número, porque entre elas não há linhas de demarcação traçadas como barreiras, de sorte que as divisões podem ser multiplicadas ou restringidas livremente. Todavia, considerando-se os caracteres gerais dos Espíritos, elas podem reduzir-se a três principais. Na primeira, colocar-se-ão os que atingiram a perfeição máxima: os puros Espíritos. Formam a segunda os que chegaram ao meio da escala: o desejo do bem é o que neles predomina. Pertencerão à terceira os que ainda se acham na parte inferior da escala: os Espíritos imperfeitos. A ignorância, o desejo do mal e todas as paixões más que lhes retardam o progresso, eis o que os caracteriza._”
 
-##### `lde.q98` #️⃣ 98. Os Espíritos da segunda ordem, para os quais o bem constitui a preocupação dominante, têm o poder de praticá-lo?
+##### `lde.q98` #️⃣ 98
+98. Os Espíritos da segunda ordem, para os quais o bem constitui a preocupação dominante, têm o poder de praticá-lo?
 
 > “_Cada um deles dispõe desse poder, de acordo com o grau de perfeição a que chegou. Assim, uns possuem a ciência, outros a sabedoria e a bondade. Todos, porém, ainda têm que sofrer provas._”
 
-##### `lde.q99` #️⃣ 99. Os da terceira ordem são todos essencialmente maus?
+##### `lde.q99` #️⃣ 99
+99. Os da terceira ordem são todos essencialmente maus?
 
 > “_Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os levianos ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na malícia do que na malvadez e cujo prazer consiste em mistificar e causar pequenas contrariedades, de que se riem._” 
 
@@ -1220,7 +1259,10 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### `lde.2.01.06` 📃 Escala espírita
 
-##### `lde.q100` #️⃣ 100. Observações preliminares. — A classificação dos Espíritos se baseia no grau de adiantamento deles, nas qualidades que já adquiriram e nas imperfeições de que ainda terão de despojar-se. Esta classificação, aliás, nada tem de absoluta. Apenas no seu conjunto cada categoria apresenta caráter definido.
+---
+
+##### `lde.q100` #️⃣ 100
+100. Observações preliminares. — A classificação dos Espíritos se baseia no grau de adiantamento deles, nas qualidades que já adquiriram e nas imperfeições de que ainda terão de despojar-se. Esta classificação, aliás, nada tem de absoluta. Apenas no seu conjunto cada categoria apresenta caráter definido.
 
 De um grau a outro a transição é insensível e, nos limites extremos, os matizes se apagam, como nos reinos da natureza, como nas cores do arco-íris, ou, também, como nos diferentes períodos da vida do homem. Podem, pois, formar-se maior ou menor número de classes, conforme o ponto de vista donde se considere a questão. Dá-se aqui o que se dá com todos os sistemas de classificação científica, que podem ser mais ou menos completos, mais ou menos racionais, mais ou menos cômodos para a inteligência. Sejam, porém, quais forem, em nada alteram as bases da ciência. Assim, é natural que inquiridos sobre este ponto, hajam os Espíritos divergido quanto ao número das categorias, sem que isto tenha valor algum. Entretanto, não faltou quem se agarrasse a esta contradição aparente, sem refletir que os Espíritos nenhuma importância ligam ao que é puramente convencional. Para eles, o pensamento é tudo. Deixam-nos a forma, a escolha dos termos, as classificações, numa palavra, os sistemas.
 
@@ -1236,7 +1278,10 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 
 #### `lde.2.01.07` 📃 3ª ordem – Espíritos imperfeitos
 
-##### `lde.q101` #️⃣ 101. Caracteres gerais. — Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
+---
+
+##### `lde.q101` #️⃣ 101
+101. Caracteres gerais. — Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
 
 Têm a intuição de Deus, mas não o compreendem.
 
@@ -1252,7 +1297,8 @@ Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa 
 
 Podem compor cinco classes principais.
 
-##### `lde.q102` #️⃣ 102. Décima classe. Espíritos impuros. — São inclinados ao mal, de que fazem o objeto de suas preocupações.
+##### `lde.q102` #️⃣ 102
+102. Décima classe. Espíritos impuros. — São inclinados ao mal, de que fazem o objeto de suas preocupações.
 
 Como Espíritos, dão conselhos pérfidos, sopram a discórdia e a desconfiança e se mascaram de todas as maneiras para melhor enganar. Ligam-se aos homens de caráter bastante fraco para cederem às suas sugestões, a fim de induzi-los à perdição, satisfeitos com o conseguirem retardar-lhes o adiantamento, fazendo-os sucumbir nas provas por que passam.
 
@@ -1262,15 +1308,19 @@ Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nom
 
 Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
 
-##### `lde.q103` #️⃣ 103. Nona classe. Espíritos levianos. — São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a verdade. Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os Espíritos vulgarmente tratados de **duendes**, **trasgos**, **gnomos**, **diabretes**. Acham-se sob a dependência dos Espíritos superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
+##### `lde.q103` #️⃣ 103
+103. Nona classe. Espíritos levianos. — São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a verdade. Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os Espíritos vulgarmente tratados de **duendes**, **trasgos**, **gnomos**, **diabretes**. Acham-se sob a dependência dos Espíritos superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
 
 Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
 
-##### `lde.q104` #️⃣ 104. Oitava classe. Espíritos pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
+##### `lde.q104` #️⃣ 104
+104. Oitava classe. Espíritos pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
 
-##### `lde.q105` #️⃣ 105. Sétima classe. Espíritos neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
+##### `lde.q105` #️⃣ 105
+105. Sétima classe. Espíritos neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
 
-##### `lde.q106` #️⃣ 106. Sexta classe. Espíritos batedores e perturbadores. — Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente.
+##### `lde.q106` #️⃣ 106
+106. Sexta classe. Espíritos batedores e perturbadores. — Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente.
 
 Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. 
 
@@ -1278,7 +1328,10 @@ Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os d
 
 #### `lde.2.01.08` 📃 2ª ordem – Bons Espíritos
 
-##### `lde.q107` #️⃣ 107. Caracteres gerais. — Predominância do Espírito sobre a matéria; desejo do bem. Suas qualidades e poderes para o bem estão em relação com o grau de adiantamento que hajam alcançado; uns têm a ciência, outros a sabedoria e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam Espíritos perfeitos.
+---
+
+##### `lde.q107` #️⃣ 107
+107. Caracteres gerais. — Predominância do Espírito sobre a matéria; desejo do bem. Suas qualidades e poderes para o bem estão em relação com o grau de adiantamento que hajam alcançado; uns têm a ciência, outros a sabedoria e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam Espíritos perfeitos.
 
 Compreendem Deus e o infinito e já gozam da felicidade dos bons. São felizes pelo bem que fazem e pelo mal que impedem. O amor que os une lhes é fonte de inefável ventura, que não tem a perturbá-la nem a inveja, nem os remorsos, nem nenhuma das más paixões que constituem o tormento dos Espíritos imperfeitos. Todos, entretanto, ainda têm que passar por provas, até que atinjam a perfeição.
 
@@ -1290,13 +1343,17 @@ A esta ordem pertencem os Espíritos designados, nas crenças vulgares, pelos no
 
 Podem ser divididos em quatro grupos principais:
 
-##### `lde.q108` #️⃣ 108. Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
+##### `lde.q108` #️⃣ 108
+108. Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 
-##### `lde.q109` #️⃣ 109. Quarta classe. Espíritos sábios. — Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
+##### `lde.q109` #️⃣ 109
+109. Quarta classe. Espíritos sábios. — Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
 
-##### `lde.q110` #️⃣ 110. Terceira classe. Espíritos de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
+##### `lde.q110` #️⃣ 110
+110. Terceira classe. Espíritos de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
 
-##### `lde.q111` #️⃣ 111. Segunda classe. Espíritos superiores. — Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
+##### `lde.q111` #️⃣ 111
+111. Segunda classe. Espíritos superiores. — Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
 
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo. 
 
@@ -1304,9 +1361,13 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 #### `lde.2.01.09` 📃 1ª ordem – Espíritos puros
 
-##### `lde.q112` #️⃣ 112. Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
+---
 
-##### `lde.q113` #️⃣ 113. Primeira classe. Classe única. — Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
+##### `lde.q112` #️⃣ 112
+112. Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
+
+##### `lde.q113` #️⃣ 113
+113. Primeira classe. Classe única. — Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
 
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens. 
 
@@ -1314,75 +1375,97 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.01.10` 📃 Progressão dos Espíritos
 
-##### `lde.q114` #️⃣ 114. Os Espíritos são bons ou maus por natureza, ou são eles mesmos que se melhoram?
+---
+
+##### `lde.q114` #️⃣ 114
+114. Os Espíritos são bons ou maus por natureza, ou são eles mesmos que se melhoram?
 
 > “_São os próprios Espíritos que se melhoram e, melhorando-se, passam de uma ordem inferior para outra mais elevada._”
 
-##### `lde.q115` #️⃣ 115. Dos Espíritos, uns terão sido criados bons e outros maus?
+##### `lde.q115` #️⃣ 115
+115. Dos Espíritos, uns terão sido criados bons e outros maus?
 
 > “_Deus criou todos os Espíritos simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à perfeição, pelo conhecimento da verdade, para aproximá-los de si. Nesta perfeição é que eles encontram a pura e eterna felicidade. Passando pelas provas que Deus lhes impõe é que os Espíritos adquirem aquele conhecimento. Uns aceitam submissos essas provas e chegam mais depressa à meta que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da perfeição e da prometida felicidade._”
 
-##### `lde.q115a` #️⃣ 115. a) Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as crianças, ignorantes e inexperientes, só adquirindo pouco a pouco os conhecimentos de que carecem com o percorrerem as diferentes fases da vida?
+   `lde.q115a` #️⃣ 115a
 
-> “_Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor docilidade. Mas a vida do homem tem termo, ao passo que a dos Espíritos se prolonga ao infinito._”
+  115a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as crianças, ignorantes e inexperientes, só adquirindo pouco a pouco os conhecimentos de que carecem com o percorrerem as diferentes fases da vida?
 
-##### `lde.q116` #️⃣ 116. Haverá Espíritos que se conservem eternamente nas ordens inferiores?
+  > “_Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor docilidade. Mas a vida do homem tem termo, ao passo que a dos Espíritos se prolonga ao infinito._”
+
+##### `lde.q116` #️⃣ 116
+116. Haverá Espíritos que se conservem eternamente nas ordens inferiores?
 
 > “_Não; todos se tornarão perfeitos. Mudam de ordem, mas demoradamente, porquanto, como já doutra vez dissemos, um pai justo e misericordioso não pode banir seus filhos para sempre. Pretenderias que Deus, tão grande, tão bom, tão justo, fosse pior do que vós mesmos?_”
 
-##### `lde.q117` #️⃣ 117. Depende dos Espíritos o progredirem mais ou menos rapidamente para a perfeição?
+##### `lde.q117` #️⃣ 117
+117. Depende dos Espíritos o progredirem mais ou menos rapidamente para a perfeição?
 
 > “_Certamente. Eles a alcançam mais ou menos rápido, conforme o desejo que têm de alcançá-la e a submissão que testemunham à vontade de Deus. Uma criança dócil não se instrui mais depressa do que outra recalcitrante?_”
 
-##### `lde.q118` #️⃣ 118. Podem os Espíritos degenerar?
+##### `lde.q118` #️⃣ 118
+118. Podem os Espíritos degenerar?
 
 > “_Não; à medida que avançam, compreendem o que os distanciava da perfeição. Concluindo uma prova, o Espírito fica com a ciência que daí lhe veio e não a esquece. Pode permanecer estacionário, mas não retrograda._”
 
-##### `lde.q119` #️⃣ 119. Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para chegarem à primeira ordem?
+##### `lde.q119` #️⃣ 119
+119. Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para chegarem à primeira ordem?
 
 > “_Se Deus os houvesse criado perfeitos, nenhum mérito teriam para gozar dos benefícios dessa perfeição. Onde estaria o merecimento sem a luta? Demais, a desigualdade entre eles existente é necessária às suas personalidades. Acresce ainda que as missões que desempenham nos diferentes graus da escala estão nos desígnios da Providência, para a harmonia do Universo._”
 >
 > > Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados subalternos não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo.
 
-##### `lde.q120` #️⃣ 120. Todos os Espíritos passam pela fieira do mal para chegar ao bem?
+##### `lde.q120` #️⃣ 120
+120. Todos os Espíritos passam pela fieira do mal para chegar ao bem?
 
 > “_Pela fieira do mal, não; pela fieira da ignorância._”
 
-##### `lde.q121` #️⃣ 121. Por que alguns Espíritos seguiram o caminho do bem e outros o do mal?
+##### `lde.q121` #️⃣ 121
+121. Por que alguns Espíritos seguiram o caminho do bem e outros o do mal?
 
 > “_Não têm eles o livre-arbítrio? Deus não os criou maus; criou-os simples e ignorantes, isto é, tendo tanta aptidão para o bem quanta para o mal. Os que são maus, assim se tornaram por vontade própria._”
 
-##### `lde.q122` #️⃣ 122. Como podem os Espíritos, em sua origem, quando ainda não têm consciência de si mesmos, gozar da liberdade de escolha entre o bem e o mal? Há neles algum princípio, qualquer tendência que os encaminhe para uma senda de preferência a outra?
+##### `lde.q122` #️⃣ 122
+122. Como podem os Espíritos, em sua origem, quando ainda não têm consciência de si mesmos, gozar da liberdade de escolha entre o bem e o mal? Há neles algum princípio, qualquer tendência que os encaminhe para uma senda de preferência a outra?
 
 > “_O livre-arbítrio se desenvolve à medida que o Espírito adquire a consciência de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma causa independente da vontade do Espírito. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram._”
 
-##### `lde.q122a` #️⃣ 122. a) Donde vêm as influências que sobre ele se exercem?
+   `lde.q122a` #️⃣ 122a
 
-> “_Dos Espíritos imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás._”
+  122a. Donde vêm as influências que sobre ele se exercem?
 
-##### `lde.q122b` #️⃣ 122. b) Tal influência só se exerce sobre o Espírito em sua origem?
+  > “_Dos Espíritos imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás._”
 
-> “_Acompanha-o na sua vida de Espírito, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo._”
+   `lde.q122b` #️⃣ 122b
 
-##### `lde.q123` #️⃣ 123. Por que há Deus permitido que os Espíritos possam tomar o caminho do mal?
+  122b. Tal influência só se exerce sobre o Espírito em sua origem?
+
+  > “_Acompanha-o na sua vida de Espírito, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo._”
+
+##### `lde.q123` #️⃣ 123
+123. Por que há Deus permitido que os Espíritos possam tomar o caminho do mal?
 
 > “_Como ousais pedir a Deus contas de seus atos? Supondes poder penetrar-lhe os desígnios? Podeis, todavia, dizer o seguinte: A sabedoria de Deus está na liberdade de escolher que Ele deixa a cada um, porquanto, assim, cada um tem o mérito de suas obras._”
 
-##### `lde.q124` #️⃣ 124. Pois que há Espíritos que desde o princípio seguem o caminho do bem absoluto e outros o do mal absoluto, deve haver, sem dúvida, gradações entre esses dois extremos. Não?
+##### `lde.q124` #️⃣ 124
+124. Pois que há Espíritos que desde o princípio seguem o caminho do bem absoluto e outros o do mal absoluto, deve haver, sem dúvida, gradações entre esses dois extremos. Não?
 
 > “_Sim, certamente, e os que se acham nos graus intermédios constituem a maioria._”
 
-##### `lde.q125` #️⃣ 125. Os Espíritos que enveredaram pela senda do mal poderão chegar ao mesmo grau de superioridade que os outros?
+##### `lde.q125` #️⃣ 125
+125. Os Espíritos que enveredaram pela senda do mal poderão chegar ao mesmo grau de superioridade que os outros?
 
 > “_Sim; mas **as eternidades** lhes serão mais longas._”
 >
 > > Por estas palavras – **as eternidades** – se deve entender a ideia que os Espíritos inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova.
 
-##### `lde.q126` #️⃣ 126. Chegados ao grau supremo da perfeição, os Espíritos que andaram pelo caminho do mal têm, aos olhos de Deus, menos mérito do que os outros?
+##### `lde.q126` #️⃣ 126
+126. Chegados ao grau supremo da perfeição, os Espíritos que andaram pelo caminho do mal têm, aos olhos de Deus, menos mérito do que os outros?
 
 > “_Deus olha de igual maneira para os que se transviaram e para os outros e a todos ama com o mesmo coração. Aqueles são chamados maus, porque sucumbiram. Antes, não eram mais que simples Espíritos._”
 
-##### `lde.q127` #️⃣ 127. Os Espíritos são criados iguais quanto às faculdades intelectuais?
+##### `lde.q127` #️⃣ 127
+127. Os Espíritos são criados iguais quanto às faculdades intelectuais?
 
 > “_São criados iguais, porém, não sabendo donde vêm, preciso é que o livre-arbítrio siga seu curso. Eles progridem mais ou menos rapidamente em inteligência como em moralidade._”
 >
@@ -1392,21 +1475,27 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.01.11` 📃 Anjos e demônios
 
-##### `lde.q128` #️⃣ 128. Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros Espíritos?
+---
+
+##### `lde.q128` #️⃣ 128
+128. Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros Espíritos?
 
 > “_Não; são os Espíritos puros: os que se acham no mais alto grau da escala e reúnem todas as perfeições._”
 >
 > > A palavra **anjo** desperta geralmente a ideia de perfeição moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o anjo bom e o anjo mau; o anjo de luz e o anjo das trevas. Neste caso, o termo é sinônimo de **Espírito** ou de **gênio**. Tomamo-lo aqui na sua melhor acepção.
 
-##### `lde.q129` #️⃣ 129. Os anjos hão percorrido todos os graus da escala?
+##### `lde.q129` #️⃣ 129
+129. Os anjos hão percorrido todos os graus da escala?
 
 > “_Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à perfeição._”
 
-##### `lde.q130` #️⃣ 130. Sendo errônea a opinião dos que admitem a existência de seres criados perfeitos e superiores a todas as outras criaturas, como se explica que essa crença esteja na tradição de quase todos os povos?
+##### `lde.q130` #️⃣ 130
+130. Sendo errônea a opinião dos que admitem a existência de seres criados perfeitos e superiores a todas as outras criaturas, como se explica que essa crença esteja na tradição de quase todos os povos?
 
 > “_Fica sabendo que o mundo onde te achas não existe de toda a eternidade e que, muito tempo antes que ele existisse, já havia Espíritos que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos._”
 
-##### `lde.q131` #️⃣ 131. Há demônios, no sentido que se dá a esta palavra?
+##### `lde.q131` #️⃣ 131
+131. Há demônios, no sentido que se dá a esta palavra?
 
 > “_Se houvesse demônios, seriam obra de Deus. Mas, porventura, Deus seria justo e bom se houvera criado seres destinados eternamente ao mal e a permanecerem eternamente desgraçados? Se há demônios, eles se encontram no mundo inferior em que habitais e em outros semelhantes. São esses homens hipócritas que fazem de um Deus justo um Deus mau e vingativo e que julgam agradá-lo por meio das abominações que praticam em seu nome._”
 >
@@ -1434,126 +1523,163 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.02.01` 📃 Objetivo da encarnação
 
-##### `lde.q132` #️⃣ 132. Qual o objetivo da encarnação dos Espíritos?
+---
+
+##### `lde.q132` #️⃣ 132
+132. Qual o objetivo da encarnação dos Espíritos?
 
 > “_Deus lhes impõe a encarnação com o fim de fazê-los chegar à perfeição. Para uns, é expiação; para outros, missão. Mas, para alcançarem essa perfeição, **têm que sofrer todas as vicissitudes da existência corporal**: nisso é que está a expiação. Visa ainda outro fim a encarnação: o de pôr o Espírito em condições de suportar a parte que lhe toca na obra da Criação. Para executá-la é que, em cada mundo, toma o Espírito um instrumento, de harmonia com a matéria essencial desse mundo, a fim de aí cumprir, daquele ponto de vista, as ordens de Deus. É assim que, concorrendo para a obra geral, ele próprio se adianta._”
 >
 > > A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na Natureza.
 
-##### `lde.q133` #️⃣ 133. Têm necessidade de encarnação os Espíritos que, desde o princípio, seguiram o caminho do bem?
+##### `lde.q133` #️⃣ 133
+133. Têm necessidade de encarnação os Espíritos que, desde o princípio, seguiram o caminho do bem?
 
 > “_Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. Deus, que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem mérito._”
 
-##### `lde.q133a` #️⃣ 133. a) Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
+   `lde.q133a` #️⃣ 133a
 
-> “_Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos._” 
+  133a. Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
+
+  > “_Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos._” 
 
 ---
 
 #### `lde.2.02.02` 📃 A alma
 
-##### `lde.q134` #️⃣ 134. Que é a alma?
+---
+
+##### `lde.q134` #️⃣ 134
+134. Que é a alma?
 
 > “_Um Espírito encarnado._”
 
-##### `lde.q134a` #️⃣ 134. a) Que era a alma antes de se unir ao corpo?
+   `lde.q134a` #️⃣ 134a
 
-> “_Espírito._”
+  134a. Que era a alma antes de se unir ao corpo?
 
-##### `lde.q134b` #️⃣ 134. b) As almas e os Espíritos são, portanto, idênticos, a mesma coisa?
+  > “_Espírito._”
 
-> “_Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a alma é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem._”
+   `lde.q134b` #️⃣ 134b
+   134b. As almas e os Espíritos são, portanto, idênticos, a mesma coisa?
 
-##### `lde.q135` #️⃣ 135. Há no homem alguma outra coisa além da alma e do corpo?
+  > “_Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a alma é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem._”
+
+##### `lde.q135` #️⃣ 135
+135. Há no homem alguma outra coisa além da alma e do corpo?
 
 > “_Há o laço que liga a alma ao corpo._”
 
-##### `lde.q135a` #️⃣ 135. a) De que natureza é esse laço?
+   `lde.q135a` #️⃣ 135a
 
-> “_Semimaterial, isto é, de natureza intermédia entre o Espírito e o corpo. É preciso que seja assim para que os dois possam comunicar-se um com o outro. Por meio desse laço é que o Espírito atua sobre a matéria e reciprocamente._”
->
-> > O homem é, portanto, formado de três partes essenciais:
-> >
-> > 1º - o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital;
-> >
-> > 2º - a alma, Espírito encarnado que tem no corpo a sua habitação;
-> >
-> > 3º - o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
+  135a. De que natureza é esse laço?
 
-##### `lde.q136` #️⃣ 136. A alma independe do princípio vital?
+  > “_Semimaterial, isto é, de natureza intermédia entre o Espírito e o corpo. É preciso que seja assim para que os dois possam comunicar-se um com o outro. Por meio desse laço é que o Espírito atua sobre a matéria e reciprocamente._”
+  >
+  > > O homem é, portanto, formado de três partes essenciais:
+  > >
+  > > 1º - o corpo ou ser material, análogo ao dos animais e animado pelo mesmo princípio vital;
+  > >
+  > > 2º - a alma, Espírito encarnado que tem no corpo a sua habitação;
+  > >
+  > > 3º - o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
+
+##### `lde.q136` #️⃣ 136
+136. A alma independe do princípio vital?
 
 > “_O corpo não é mais do que envoltório, repetimo-lo constantemente._”
 
-##### `lde.q136a` #️⃣ 136. a) Pode o corpo existir sem a alma?
+   `lde.q136a` #️⃣ 136a
 
-> “_Pode; entretanto, desde que cessa a vida do corpo, a alma o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a morte do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica._”
+  136a. Pode o corpo existir sem a alma?
 
-##### `lde.q136b` #️⃣ 136. b) Que seria o nosso corpo, se não tivesse alma?
+  > “_Pode; entretanto, desde que cessa a vida do corpo, a alma o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a morte do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica._”
 
-> “_Simples massa de carne sem inteligência, tudo o que quiserdes, exceto um homem._”
+   `lde.q136b` #️⃣ 136b
 
-##### `lde.q137` #️⃣ 137. Um Espírito pode encarnar a um tempo em dois corpos diferentes?
+   136b. Que seria o nosso corpo, se não tivesse alma?
+
+  > “_Simples massa de carne sem inteligência, tudo o que quiserdes, exceto um homem._”
+
+##### `lde.q137` #️⃣ 137
+137. Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
 > “_Não, o Espírito é indivisível e não pode animar simultaneamente dois seres distintos._”
 >
 > > (Ver, em **O Livro dos Médiuns** (LDM), cap. VII, Da bicorporeidade e da transfiguração.)
 
-##### `lde.q138` #️⃣ 138. Que se deve pensar da opinião dos que consideram a alma o princípio da vida material?
+##### `lde.q138` #️⃣ 138
+138. Que se deve pensar da opinião dos que consideram a alma o princípio da vida material?
 
 > “_É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente._”
 
-##### `lde.q139` #️⃣ 139. Alguns Espíritos e, antes deles, alguns filósofos definiram a alma como: uma centelha anímica emanada do grande Todo. Por que essa contradição?
+##### `lde.q139` #️⃣ 139
+139. Alguns Espíritos e, antes deles, alguns filósofos definiram a alma como: uma centelha anímica emanada do grande Todo. Por que essa contradição?
 
 > “_Não há contradição. Tudo depende das acepções das palavras. Por que não tendes uma palavra para cada coisa?_”
 >
 > > O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam alma ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a alma é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de alma e nesta acepção é que se pode dizer que a alma é um Espírito encarnado. Dando da alma definições diversas, os Espíritos falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os Espíritos superiores nos dizem que primeiro nos entendamos acerca das palavras.[^8]
 
-##### `lde.q140` #️⃣ 140. Que se deve pensar da teoria da alma subdividida em tantas partes quantos são os músculos e presidindo assim a cada uma das funções do corpo?
+##### `lde.q140` #️⃣ 140
+140. Que se deve pensar da teoria da alma subdividida em tantas partes quantos são os músculos e presidindo assim a cada uma das funções do corpo?
 
 > “_Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por alma o fluido vital, essa teoria tem razão de ser; se se entende por alma o Espírito encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida._”
 
-##### `lde.q140a` #️⃣ 140. a) Entretanto, alguns Espíritos deram essa definição.
+   `lde.q140a` #️⃣ 140a
 
-> “_Os Espíritos ignorantes podem tomar o efeito pela causa._”
-> A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
+  140a. Entretanto, alguns Espíritos deram essa definição.
 
-##### `lde.q141` #️⃣ 141. Há alguma coisa de verdadeiro na opinião dos que pretendem que a alma seja exterior ao corpo e o circunvolve?
+  > “_Os Espíritos ignorantes podem tomar o efeito pela causa._”
+  > A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
+
+##### `lde.q141` #️⃣ 141
+141. Há alguma coisa de verdadeiro na opinião dos que pretendem que a alma seja exterior ao corpo e o circunvolve?
 
 > “_A alma não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a alma é exterior, sem que por isso constitua o envoltório do corpo. A alma tem dois invólucros: um, sutil e leve, é o primeiro, ao qual chamas perispírito; outro, grosseiro, material e pesado, o corpo. A alma é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito._”
 
-##### `lde.q142` #️⃣ 142. Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai completando a cada período da vida?
+##### `lde.q142` #️⃣ 142
+142. Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai completando a cada período da vida?
 
 > “_O Espírito é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela causa._”
 
-##### `lde.q143` #️⃣ 143. Por que todos os Espíritos não definem do mesmo modo a alma?
+##### `lde.q143` #️⃣ 143
+143. Por que todos os Espíritos não definem do mesmo modo a alma?
 
 > “_Os Espíritos não se acham todos esclarecidos igualmente sobre estes assuntos. Há Espíritos de inteligência ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há Espíritos pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios Espíritos esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade._”
 
-##### `lde.q144` #️⃣ 144. Que se deve entender por alma do mundo?
+##### `lde.q144` #️⃣ 144
+144. Que se deve entender por alma do mundo?
 
 > “_O princípio universal da vida e da inteligência, do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo alma é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à Terra hão atribuído uma alma. Por alma da Terra se deve entender o conjunto dos Espíritos abnegados, que dirigem para o bem as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de Deus com relação ao vosso planeta._”
 
-##### `lde.q145` #️⃣ 145. Como se explica que tantos filósofos antigos e modernos, durante tão longo tempo, hajam discutido sobre a ciência psicológica e não tenham chegado ao conhecimento da verdade?
+##### `lde.q145` #️⃣ 145
+145. Como se explica que tantos filósofos antigos e modernos, durante tão longo tempo, hajam discutido sobre a ciência psicológica e não tenham chegado ao conhecimento da verdade?
 
 > “_Esses homens eram os precursores da eterna Doutrina Espírita, prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a verdade, mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis._”
 
-##### `lde.q146` #️⃣ 146. A alma tem, no corpo, sede determinada e circunscrita?
+##### `lde.q146` #️⃣ 146
+146. A alma tem, no corpo, sede determinada e circunscrita?
 
 > “_Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade._”
 
-##### `lde.q146a` #️⃣ 146. a) Que se deve pensar da opinião dos que situam a alma num centro vital?
+   `lde.q146a` #️⃣ 146a
+  146a. Que se deve pensar da opinião dos que situam a alma num centro vital?
 
-> “_Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais._” 
+  > “_Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais._” 
 
 ---
 
 #### `lde.2.02.03` 📃 Materialismo
 
-##### `lde.q147` #️⃣ 147. Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a ciência da Natureza, são, com tanta frequência, levados ao materialismo?
+---
+
+##### `lde.q147` #️⃣ 147
+147. Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a ciência da Natureza, são, com tanta frequência, levados ao materialismo?
 
 > “_O fisiologista refere tudo ao que vê. Orgulho dos homens, que julgam saber tudo e não admitem haja coisa alguma que lhes esteja acima do entendimento. A própria ciência que cultivam os enche de presunção. Pensam que a Natureza nada lhes pode conservar oculto._”
 
-##### `lde.q148` #️⃣ 148. Não é de lastimar que o materialismo seja uma consequência de estudos que deveriam, contrariamente, mostrar ao homem a superioridade da inteligência que governa o mundo? Deve-se daí concluir que são perigosos?
+##### `lde.q148` #️⃣ 148
+148. Não é de lastimar que o materialismo seja uma consequência de estudos que deveriam, contrariamente, mostrar ao homem a superioridade da inteligência que governa o mundo? Deve-se daí concluir que são perigosos?
 
 > “_Não é exato que o materialismo seja uma consequência desses estudos. O homem é que deles tira uma consequência falsa, pela razão de lhe ser dado abusar de tudo, mesmo das melhores coisas. Acresce que o **nada** os amedronta mais do que eles quereriam que parecesse, e os Espíritos fortes, quase sempre, são antes fanfarrões do que bravos. Na sua maioria, só são materialistas porque não têm com que encher o vazio do abismo que diante deles se abre. Mostrai-lhes uma âncora de salvação e a ela se agarrarão pressurosamente._”
 >
@@ -1573,27 +1699,37 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.03.01` 📃 A alma após a morte. Vida eterna.
 
-##### `lde.q149` #️⃣ 149. Que sucede à alma no instante da morte?
+---
+
+##### `lde.q149` #️⃣ 149
+149. Que sucede à alma no instante da morte?
 
 > “_Volta a ser Espírito, isto é, volve ao mundo dos Espíritos, donde se apartara momentaneamente._”
 
-##### `lde.q150` #️⃣ 150. A alma, após a morte, conserva a sua individualidade?
+##### `lde.q150` #️⃣ 150
+150. A alma, após a morte, conserva a sua individualidade?
 
 > “_Sim; jamais a perde. Que seria ela, se não a conservasse?_”
 
-##### `lde.q150a` #️⃣ 150. a) Como comprova a alma a sua individualidade, uma vez que não tem mais corpo material?
+   `lde.q150a` #️⃣ 150a
 
-> “_Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito._”
+  150a. Como comprova a alma a sua individualidade, uma vez que não tem mais corpo material?
 
-##### `lde.q150b` #️⃣ 150. b) A alma nada leva consigo deste mundo?
+  > “_Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito._”
 
-> “_Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra._”
+   `lde.q150b` #️⃣ 150b
 
-##### `lde.q151` #️⃣ 151. Que pensar da opinião dos que dizem que após a morte a alma retorna ao todo universal?
+   150b. A alma nada leva consigo deste mundo?
+
+  > “_Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra._”
+
+##### `lde.q151` #️⃣ 151
+151. Que pensar da opinião dos que dizem que após a morte a alma retorna ao todo universal?
 
 > “_O conjunto dos Espíritos não forma um todo? não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade._”
 
-##### `lde.q152` #️⃣ 152. Que prova podemos ter da individualidade da alma depois da morte?
+##### `lde.q152` #️⃣ 152
+152. Que prova podemos ter da individualidade da alma depois da morte?
 
 > “_Não tendes essa prova nas comunicações que recebeis? Se não fôsseis cegos, veríeis; se não fôsseis surdos, ouviríeis; pois que muito amiúde uma voz vos fala, reveladora da existência de um ser que está fora de vós._”
 >
@@ -1602,75 +1738,94 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 > > Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, nada as distinguiria umas das outras. Careceriam de inteligência e de qualidades pessoais quando, ao contrário, em tºodas as comunicações, denotam ter consciência do seu eu e vontade própria.
 > > A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da alma nos era ensinada em teoria, como artigo de fé. O Espiritismo a torna manifesta e, de certo modo, material.
 
-##### `lde.q153` #️⃣ 153. Em que sentido se deve entender a vida eterna?
+##### `lde.q153` #️⃣ 153
+153. Em que sentido se deve entender a vida eterna?
 
 > “_A vida do Espírito é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a alma retoma a vida eterna._”
 
-##### `lde.q153a` #️⃣ 153. a) Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo atingido a perfeição, não estão sujeitos a sofrer mais prova alguma?
+   `lde.q153a` #️⃣ 153a
 
-> “_Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais._” 
+  153a. Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo atingido a perfeição, não estão sujeitos a sofrer mais prova alguma?
+
+  > “_Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais._” 
 
 ---
 
 #### `lde.2.03.02` 📃 Separação da alma e do corpo
 
-##### `lde.q154` #️⃣ 154. É dolorosa a separação da alma e do corpo?
+---
+
+##### `lde.q154` #️⃣ 154
+154. É dolorosa a separação da alma e do corpo?
 
 > “_Não; o corpo quase sempre sofre mais durante a vida do que no momento da morte; a alma nenhuma parte toma nisso. Os sofrimentos que algumas vezes se experimentam no instante da morte são um gozo para o Espírito, que vê chegar o termo do seu exílio._”
 >
 > > Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
-##### `lde.q155` #️⃣ 155. Como se opera a separação da alma e do corpo?
+##### `lde.q155` #️⃣ 155
+155. Como se opera a separação da alma e do corpo?
 
 > “_Rotos os laços que a retinham, ela se desprende._”
 
-##### `lde.q155a` #️⃣ 155. a) A separação se dá instantaneamente por brusca transição? Haverá alguma linha de demarcação nitidamente traçada entre a vida e a morte?
+   `lde.q155a` #️⃣ 155a
+
+  155a. A separação se dá instantaneamente por brusca transição? Haverá alguma linha de demarcação nitidamente traçada entre a vida e a morte?
 
 > “_Não; a alma se desprende gradualmente, não se escapa como um pássaro cativo a que se restitua subitamente a liberdade. Aqueles dois estados se tocam e confundem, de sorte que o Espírito se solta pouco a pouco dos laços que o prendiam. **Estes laços se desatam, não se quebram**._”
 >
 > > Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-material ou perispírito. A morte é a destruição do corpo somente, não a desse outro invólucro, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do perispírito não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da morte é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi toda material e sensual, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor vitalidade, nem a possibilidade de volver à vida, mas uma simples afinidade com o Espírito, afinidade que guarda sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria. É, com efeito, racional conceber-se que, quanto mais o Espírito se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a alma e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o Espírito pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas.
 
-##### `lde.q156` #️⃣ 156. A separação definitiva da alma e do corpo pode ocorrer antes da cessação completa da vida orgânica?
+##### `lde.q156` #️⃣ 156
+156. A separação definitiva da alma e do corpo pode ocorrer antes da cessação completa da vida orgânica?
 
 > “_Na agonia, a alma, algumas vezes, já tem deixado o corpo; nada mais há que a vida orgânica. O homem já não tem consciência de si mesmo; entretanto, ainda lhe resta um sopro de vida orgânica. O corpo é a máquina que o coração põe em movimento. Existe, enquanto o coração faz circular nas veias o sangue, para o que não necessita da alma._”
 
-##### `lde.q157` #️⃣ 157. No momento da morte, a alma sente, alguma vez, qualquer aspiração ou êxtase que lhe faça entrever o mundo onde vai de novo entrar?
+##### `lde.q157` #️⃣ 157
+157. No momento da morte, a alma sente, alguma vez, qualquer aspiração ou êxtase que lhe faça entrever o mundo onde vai de novo entrar?
 
 > “_Muitas vezes a alma sente que se desfazem os laços que a prendem ao corpo. **Emprega então todos os esforços para desfazê-los inteiramente**. Já em parte desprendida da matéria, vê o futuro desdobrar-se diante de si e goza, por antecipação, do estado de Espírito._”
 
-##### `lde.q158` #️⃣ 158. O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra na sua crisálida em estado de morte aparente, para enfim renascer com uma existência brilhante, pode dar-nos ideia da vida terrestre, do túmulo e, finalmente, da nossa nova existência?
+##### `lde.q158` #️⃣ 158
+158. O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra na sua crisálida em estado de morte aparente, para enfim renascer com uma existência brilhante, pode dar-nos ideia da vida terrestre, do túmulo e, finalmente, da nossa nova existência?
 
 > “_Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao pé da letra, como frequentemente vos sucede._”
 
-##### `lde.q159` #️⃣ 159. Que sensação experimenta a alma no momento em que reconhece estar no mundo dos Espíritos?
+##### `lde.q159` #️⃣ 159
+159. Que sensação experimenta a alma no momento em que reconhece estar no mundo dos Espíritos?
 
 > “_Depende. Se praticaste o mal, impelido pelo desejo de o praticar, no primeiro momento te sentirás envergonhado de o haveres praticado. Com a alma do justo as coisas se passam de modo bem diferente. Ela se sente como que aliviada de grande peso, pois que não teme nenhum olhar perscrutador._”
 
-##### `lde.q160` #️⃣ 160. O Espírito se encontra imediatamente com os que conheceu na Terra e que morreram antes dele?
+##### `lde.q160` #️⃣ 160
+160. O Espírito se encontra imediatamente com os que conheceu na Terra e que morreram antes dele?
 
 > “_Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos Espíritos e o **ajudam a desligar-se das faixas da matéria**. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na erraticidade, como vê os encarnados e os vai visitar._”
 
-##### `lde.q161` #️⃣ 161. Em caso de morte violenta e acidental, quando os órgãos ainda não se enfraqueceram em consequência da idade ou das moléstias, a separação da alma e a cessação da vida ocorrem simultaneamente?
+##### `lde.q161` #️⃣ 161
+161. Em caso de morte violenta e acidental, quando os órgãos ainda não se enfraqueceram em consequência da idade ou das moléstias, a separação da alma e a cessação da vida ocorrem simultaneamente?
 
 >Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra._”
 
-##### `lde.q162` #️⃣ 162. Após a decapitação, por exemplo, conserva o homem por alguns instantes a consciência de si mesmo?
+##### `lde.q162` #️⃣ 162
+162. Após a decapitação, por exemplo, conserva o homem por alguns instantes a consciência de si mesmo?
 
 > “_Não raro a conserva durante alguns minutos, até que a vida orgânica se tenha extinguido completamente. Mas, também, quase sempre a apreensão da morte lhe faz perder aquela consciência antes do momento do suplício._” 
 
 ---
 
-##### `lde.q163` #️⃣ 163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
+##### `lde.q163` #️⃣ 163
+163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
 
 > “_Imediatamente não é bem o termo. A alma passa algum tempo em estado de perturbação._”
 >
 > > Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
-##### `lde.q164` #️⃣ 164. A perturbação que se segue à separação da alma e do corpo é do mesmo grau e da mesma duração para todos os Espíritos?
+##### `lde.q164` #️⃣ 164
+164. A perturbação que se segue à separação da alma e do corpo é do mesmo grau e da mesma duração para todos os Espíritos?
 
 > “_Não; depende da elevação de cada um. Aquele que já está purificado, se reconhece quase imediatamente, pois que se libertou da matéria antes que cessasse a vida do corpo, enquanto o homem carnal, aquele cuja consciência ainda não está pura, guarda por muito mais tempo a impressão da matéria._”
 
-##### `lde.q165` #️⃣ 165. O conhecimento do Espiritismo exerce alguma influência sobre a duração, mais ou menos longa, da perturbação?
+##### `lde.q165` #️⃣ 165
+165. O conhecimento do Espiritismo exerce alguma influência sobre a duração, mais ou menos longa, da perturbação?
 
 > “_Influência muito grande, por isso que o Espírito já antecipadamente compreendia a sua situação; mas a prática do bem e a consciência pura são o que maior influência exercem._”
 >
@@ -1692,35 +1847,48 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.04.01` 📃 A reencarnação
 
-##### `lde.q166` #️⃣ 166. Como pode a alma, que não alcançou a perfeição durante a vida corpórea, acabar de depurar-se?
+---
+
+##### `lde.q166` #️⃣ 166
+166. Como pode a alma, que não alcançou a perfeição durante a vida corpórea, acabar de depurar-se?
 
 > “_Sofrendo a prova de uma nova existência._”
 
-##### `lde.q166a` #️⃣ 166. a) Como realiza essa nova existência? Será pela sua transformação como Espírito?
+   `lde.q166a` #️⃣ 166a
 
-> “_Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal._”
+  166a. Como realiza essa nova existência? Será pela sua transformação como Espírito?
 
-##### `lde.q166b` #️⃣ 166. b) A alma passa então por muitas existências corporais?
+  > “_Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal._”
 
-> “_Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles._”
+   `lde.q166b` #️⃣ 166b
 
-##### `lde.q166c` #️⃣ 166. c) Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
+  166b. A alma passa então por muitas existências corporais?
 
-> “_Evidentemente._”
+  > “_Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles._”
 
-##### `lde.q167` #️⃣ 167. Qual o fim objetivado com a reencarnação?
+   `lde.q166c` #️⃣ 166c
+
+  166c. Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
+
+  > “_Evidentemente._”
+
+##### `lde.q167` #️⃣ 167
+167. Qual o fim objetivado com a reencarnação?
 
 > “_Expiação, melhoramento progressivo da Humanidade. Sem isto, onde a justiça?_”
 
-##### `lde.q168` #️⃣ 168. É limitado o número das existências corporais, ou o Espírito reencarna perpetuamente?
+##### `lde.q168` #️⃣ 168
+168. É limitado o número das existências corporais, ou o Espírito reencarna perpetuamente?
 
 > “_A cada nova existência, o Espírito dá um passo para diante na senda do progresso. Desde que se ache limpo de todas as impurezas, não tem mais necessidade das provas da vida corporal._”
 
-##### `lde.q169` #️⃣ 169. É invariável o número das encarnações para todos os Espíritos?
+##### `lde.q169` #️⃣ 169
+169. É invariável o número das encarnações para todos os Espíritos?
 
 > “_Não; aquele que caminha depressa, a muitas provas se forra. Todavia, as encarnações sucessivas são sempre muito numerosas, porquanto o progresso é quase infinito._”
 
-##### `lde.q170` #️⃣ 170. O que fica sendo o Espírito depois da sua última encarnação?
+##### `lde.q170` #️⃣ 170
+170. O que fica sendo o Espírito depois da sua última encarnação?
 
 > “_Espírito bem-aventurado; puro Espírito._” 
 
@@ -1728,7 +1896,10 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.04.02` 📃 Justiça da reencarnação
 
-##### `lde.q171` #️⃣ 171. Em que se funda o dogma da reencarnação?
+---
+
+##### `lde.q171` #️⃣ 171
+171. Em que se funda o dogma da reencarnação?
 
 > “_Na Justiça de Deus e na revelação, pois incessantemente repetimos: o bom pai deixa sempre aberta a seus filhos uma porta para o arrependimento. Não te diz a razão que seria injusto privar para sempre da felicidade eterna todos aqueles de quem não dependeu o melhorarem-se? Não são filhos de Deus todos os homens? Só entre os egoístas se encontram a iniquidade, o ódio implacável e os castigos sem remissão._”
 >
@@ -1744,79 +1915,108 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.04.03` 📃 Encarnação nos diferentes mundos
 
-##### `lde.q172` #️⃣ 172. As nossas diversas existências corporais se verificam todas na Terra?
+---
+
+##### `lde.q172` #️⃣ 172
+172. As nossas diversas existências corporais se verificam todas na Terra?
 
 > “_Não; vivemo-las em diferentes mundos. As que aqui passamos não são as primeiras, nem as últimas; são, porém, das mais materiais e das mais distantes da perfeição._”
 
-##### `lde.q173` #️⃣ 173. A cada nova existência corporal a alma passa de um mundo para outro, ou pode ter muitas no mesmo globo?
+##### `lde.q173` #️⃣ 173
+173. A cada nova existência corporal a alma passa de um mundo para outro, ou pode ter muitas no mesmo globo?
 
 > “_Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior._”
 
-##### `lde.q173a` #️⃣ 173. a) Podemos então reaparecer muitas vezes na Terra?
+   `lde.q173a` #️⃣ 173a
 
-> “_Certamente._”
+  173a. Podemos então reaparecer muitas vezes na Terra?
 
-##### `lde.q173b` #️⃣ 173. b) Podemos voltar a este, depois de termos vivido em outros mundos?
+  > “_Certamente._”
 
-> “_Sem dúvida. É possível que já tenhais vivido algures e na Terra._”
+   `lde.q173b` #️⃣ 173b
 
-##### `lde.q174` #️⃣ 174. Tornar a viver na Terra constitui uma necessidade?
+  173b. Podemos voltar a este, depois de termos vivido em outros mundos?
+
+  > “_Sem dúvida. É possível que já tenhais vivido algures e na Terra._”
+
+##### `lde.q174` #️⃣ 174
+174. Tornar a viver na Terra constitui uma necessidade?
 
 > “_Não; mas, se não progredistes, podereis ir para outro mundo que não valha mais do que a Terra e que talvez até seja pior do que ela._”
 
-##### `lde.q175` #️⃣ 175. Haverá alguma vantagem em voltar-se a habitar a Terra?
+##### `lde.q175` #️⃣ 175
+175. Haverá alguma vantagem em voltar-se a habitar a Terra?
 
 > “_Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta._”
 
-##### `lde.q175a` #️⃣ 175. a) Não se seria mais feliz permanecendo na condição de Espírito?
+   `lde.q175a` #️⃣ 175a
 
-> “_Não, não; estacionar-se-ia e o que se quer é caminhar para Deus._”
+  175a. Não se seria mais feliz permanecendo na condição de Espírito?
 
-##### `lde.q176` #️⃣ 176. Depois de haverem encarnado noutros mundos, podem os Espíritos encarnar neste, sem que jamais aí tenham estado?
+  > “_Não, não; estacionar-se-ia e o que se quer é caminhar para Deus._”
+
+##### `lde.q176` #️⃣ 176
+176. Depois de haverem encarnado noutros mundos, podem os Espíritos encarnar neste, sem que jamais aí tenham estado?
 
 > “_Sim, do mesmo modo que vós em outros. Todos os mundos são solidários: o que não se faz num faz-se noutro._”
 
-##### `lde.q176a` #️⃣ 176. a) Assim, homens há que estão na Terra pela primeira vez?
+   `lde.q176a` #️⃣ 176a
 
-> “_Muitos, e em graus diversos de adiantamento._”
+  176a. Assim, homens há que estão na Terra pela primeira vez?
 
-##### `lde.q176b` #️⃣ 176. b) Pode-se reconhecer, por um indício qualquer, que um Espírito está pela primeira vez na Terra?
+  > “_Muitos, e em graus diversos de adiantamento._”
 
-> “_Nenhuma utilidade teria isso._”
+   `lde.q176b` #️⃣ 176b
 
-##### `lde.q177` #️⃣ 177. Para chegar à perfeição e à suprema felicidade, destino final de todos os homens, tem o Espírito que passar pela fieira de todos os mundos existentes no Universo?
+  176b. Pode-se reconhecer, por um indício qualquer, que um Espírito está pela primeira vez na Terra?
+
+  > “_Nenhuma utilidade teria isso._”
+
+##### `lde.q177` #️⃣ 177
+177. Para chegar à perfeição e à suprema felicidade, destino final de todos os homens, tem o Espírito que passar pela fieira de todos os mundos existentes no Universo?
 
 > “_Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o Espírito, saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau._”
 
-##### `lde.q177a` #️⃣ 177. a) Como se explica então a pluralidade de suas existências em um mesmo globo?
+   `lde.q177a` #️⃣ 177a
 
-> “_De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência._”
+  177a. Como se explica então a pluralidade de suas existências em um mesmo globo?
 
-##### `lde.q178` #️⃣ 178. Podem os Espíritos encarnar em um mundo relativamente inferior a outro onde já viveram?
+  > “_De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência._”
+
+##### `lde.q178` #️⃣ 178
+178. Podem os Espíritos encarnar em um mundo relativamente inferior a outro onde já viveram?
 
 > “_Sim, quando em missão, com o objetivo de auxiliarem o progresso, caso em que aceitam alegres as tribulações de tal existência, por lhes proporcionar meio de se adiantarem._”
 
-##### `lde.q178a` #️⃣ 178. a) Mas não pode dar-se também por expiação? Não pode Deus degredar para mundos inferiores Espíritos rebeldes?
+   `lde.q178a` #️⃣ 178a
+
+  178a. Mas não pode dar-se também por expiação? Não pode Deus degredar para mundos inferiores Espíritos rebeldes?
 
 > “_Os Espíritos podem conservar-se estacionários, mas não retrogradam. Em caso de estacionamento, a punição deles consiste em não avançarem, em recomeçarem, no meio conveniente à sua natureza, as existências mal-empregadas._”
 
-##### `lde.q178b` #️⃣ 178. b) Quais os que têm de recomeçar a mesma existência?
+   `lde.q178b` #️⃣ 178b
+
+  178b. Quais os que têm de recomeçar a mesma existência?
 
 > “_Os que faliram em suas missões ou em suas provas._”
 
-##### `lde.q179` #️⃣ 179. Os seres que habitam cada mundo hão todos alcançado o mesmo nível de perfeição?
+##### `lde.q179` #️⃣ 179
+179. Os seres que habitam cada mundo hão todos alcançado o mesmo nível de perfeição?
 
 > “_Não; dá-se em cada um o que ocorre na Terra: uns Espíritos são mais adiantados do que outros._”
 
-##### `lde.q180` #️⃣ 180. Passando deste planeta para outro, conserva o Espírito a inteligência que aqui tinha?
+##### `lde.q180` #️⃣ 180
+180. Passando deste planeta para outro, conserva o Espírito a inteligência que aqui tinha?
 
 > “_Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar._” (lde.2.07.04)
 
-##### `lde.q181` #️⃣ 181. Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
+##### `lde.q181` #️⃣ 181
+181. Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 > “_É fora de dúvida que têm corpos, porque o Espírito precisa estar revestido de matéria para atuar sobre a matéria. Esse envoltório, porém, é mais ou menos material, conforme o grau de pureza a que chegaram os Espíritos. É isso o que assinala a diferença entre os mundos que temos de percorrer, porquanto muitas moradas há na casa de nosso Pai, sendo, conseguintemente, de muitos graus essas moradas. Alguns o sabem e desse fato têm consciência na Terra; com outros, no entanto, o mesmo não se dá._”
 
-##### `lde.q182` #️⃣ 182. É-nos possível conhecer exatamente o estado físico e moral dos diferentes mundos?
+##### `lde.q182` #️⃣ 182
+182. É-nos possível conhecer exatamente o estado físico e moral dos diferentes mundos?
 
 > “_Nós, Espíritos, só podemos responder de acordo com o grau de adiantamento em que vos achais. Quer dizer que não devemos revelar estas coisas a todos, porque nem todos estão em estado de compreendê-las **e semelhante revelação os perturbaria**._”
 >
@@ -1826,19 +2026,24 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 > >
 > > A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o Espírito, menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos.
 
-##### `lde.q183` #️⃣ 183. Indo de um mundo para outro, o Espírito passa por nova infância?
+##### `lde.q183` #️⃣ 183
+183. Indo de um mundo para outro, o Espírito passa por nova infância?
 
 > “_Em toda parte a infância é uma transição necessária, mas não é, em toda parte, tão obtusa como no vosso mundo._”
 
-##### `lde.q184` #️⃣ 184. Tem o Espírito a faculdade de escolher o mundo em que passe a habitar?
+##### `lde.q184` #️⃣ 184
+184. Tem o Espírito a faculdade de escolher o mundo em que passe a habitar?
 
 > “_Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os Espíritos, depende do grau da elevação destes._”
 
-##### `lde.q184a` #️⃣ 184. a) Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnará?
+   `lde.q184a` #️⃣ 184a
 
-> “_O grau da sua elevação._”
+  184a. Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnará?
 
-##### `lde.q185` #️⃣ 185. O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? [^9]
+  > “_O grau da sua elevação._”
+
+##### `lde.q185` #️⃣ 185
+185. O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? [^9]
 
 > “_Não; os mundos também estão sujeitos à lei do progresso. Todos começaram, como o vosso, por um estado inferior e a própria Terra sofrerá idêntica transformação. Tornar-se-á um paraíso, quando os homens se houverem tornado bons._”
 
@@ -1848,15 +2053,19 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 > “_Há e mesmo esse envoltório se torna tão etéreo que para vós é como se não existisse. Esse o estado dos Espíritos puros._”
 
-##### `lde.q186a` #️⃣ 186. a) Parece resultar daí que, entre o estado correspondente às últimas encarnações e o de Espírito puro, não há linha divisória perfeitamente demarcada; não?
+   `lde.q186a` #️⃣ 186a
 
-> “_Semelhante demarcação não existe. A diferença entre um e outro estado se vai apagando pouco a pouco e acaba por ser imperceptível, tal qual se dá com a noite às primeiras claridades do alvorecer._”
+  186a. Parece resultar daí que, entre o estado correspondente às últimas encarnações e o de Espírito puro, não há linha divisória perfeitamente demarcada; não?
 
-##### `lde.q187` #️⃣ 187. A substância do perispírito é a mesma em todos os mundos?
+  > “_Semelhante demarcação não existe. A diferença entre um e outro estado se vai apagando pouco a pouco e acaba por ser imperceptível, tal qual se dá com a noite às primeiras claridades do alvorecer._”
+
+##### `lde.q187` #️⃣ 187
+187. A substância do perispírito é a mesma em todos os mundos?
 
 > “_Não; é mais ou menos etérea. Passando de um mundo a outro, o Espírito se reveste da matéria própria desse outro, operando-se, porém, essa mudança com a rapidez do relâmpago._”
 
-##### `lde.q188` #️⃣ 188. Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, sem estarem mais ligados a um mundo do que a outros?
+##### `lde.q188` #️⃣ 188
+188. Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, sem estarem mais ligados a um mundo do que a outros?
 
 > “_Habitam certos mundos, mas não lhes ficam presos, como os homens à Terra; podem, melhor do que os outros, estar em toda parte._”[^10]
 
@@ -1864,105 +2073,136 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.04.04` 📃 Transmigrações progressivas
 
-##### `lde.q189` #️⃣ 189. Desde o início de sua formação, goza o Espírito da plenitude de suas faculdades?
+---
+
+##### `lde.q189` #️⃣ 189
+189. Desde o início de sua formação, goza o Espírito da plenitude de suas faculdades?
 
 > “_Não, pois que para o Espírito, como para o homem, também há infância. Em sua origem, a vida do Espírito é apenas instintiva. Ele mal tem consciência de si mesmo e de seus atos. A inteligência só pouco a pouco se desenvolve._”
 
-##### `lde.q190` #️⃣ 190. Qual o estado da alma na sua primeira encarnação?
+##### `lde.q190` #️⃣ 190
+190. Qual o estado da alma na sua primeira encarnação?
 
 > “_O da infância na vida corporal. A inteligência então apenas desabrocha: a alma se ensaia para a vida._”
 
-##### `lde.q191` #️⃣ 191. As dos nossos selvagens são almas no estado de infância?
+##### `lde.q191` #️⃣ 191
+191. As dos nossos selvagens são almas no estado de infância?
 
 > “_De infância relativa, pois já são almas desenvolvidas, visto que já nutrem paixões._”
 
-##### `lde.q191a` #️⃣ 191. a) Então, as paixões são um sinal de desenvolvimento?
+   `lde.q191a` #️⃣ 191a
 
-> “_De desenvolvimento, sim; de perfeição, porém, não. São sinal de atividade e de consciência do **eu**, porquanto, na alma primitiva, a inteligência e a vida se acham no estado de germe._”
->
-> > A vida do Espírito, em seu conjunto, apresenta as mesmas fases que observamos na vida corporal. Ele passa gradualmente do estado de embrião ao de infância, para chegar, percorrendo sucessivos períodos, ao de adulto, que é o da perfeição, com a diferença de que para o Espírito não há declínio, nem decrepitude, como na vida corporal; que a sua vida, que teve começo, não terá fim; que imenso tempo lhe é necessário, do nosso ponto de vista, para passar da infância espírita ao completo desenvolvimento; e que o seu progresso se realiza, não num único mundo, mas vivendo ele em mundos diversos. A vida do Espírito, pois, se compõe de uma série de existências corpóreas, cada uma das quais representa para ele uma ocasião de progredir, do mesmo modo que cada existência corporal se compõe de uma série de dias, em cada um dos quais o homem obtém um acréscimo de experiência e de instrução. Mas, assim como, na vida do homem, há dias que nenhum fruto produzem, na do Espírito, há existências corporais de que ele nenhum resultado colhe, porque não as soube aproveitar.
+  191a. Então, as paixões são um sinal de desenvolvimento?
 
-##### `lde.q192` #️⃣ 192. Pode alguém, por um proceder impecável na vida atual, transpor todos os graus da escala do aperfeiçoamento e tornar-se Espírito puro, sem passar por outros graus intermédios?
+  > “_De desenvolvimento, sim; de perfeição, porém, não. São sinal de atividade e de consciência do **eu**, porquanto, na alma primitiva, a inteligência e a vida se acham no estado de germe._”
+  >
+  > > A vida do Espírito, em seu conjunto, apresenta as mesmas fases que observamos na vida corporal. Ele passa gradualmente do estado de embrião ao de infância, para chegar, percorrendo sucessivos períodos, ao de adulto, que é o da perfeição, com a diferença de que para o Espírito não há declínio, nem decrepitude, como na vida corporal; que a sua vida, que teve começo, não terá fim; que imenso tempo lhe é necessário, do nosso ponto de vista, para passar da infância espírita ao completo desenvolvimento; e que o seu progresso se realiza, não num único mundo, mas vivendo ele em mundos diversos. A vida do Espírito, pois, se compõe de uma série de existências corpóreas, cada uma das quais representa para ele uma ocasião de progredir, do mesmo modo que cada existência corporal se compõe de uma série de dias, em cada um dos quais o homem obtém um acréscimo de experiência e de instrução. Mas, assim como, na vida do homem, há dias que nenhum fruto produzem, na do Espírito, há existências corporais de que ele nenhum resultado colhe, porque não as soube aproveitar.
+
+##### `lde.q192` #️⃣ 192
+192. Pode alguém, por um proceder impecável na vida atual, transpor todos os graus da escala do aperfeiçoamento e tornar-se Espírito puro, sem passar por outros graus intermédios?
 
 > “_Não, pois o que o homem julga perfeito longe está da perfeição. Há qualidades que lhe são desconhecidas e incompreensíveis. Poderá ser tão perfeito quanto o comporte a sua natureza terrena, mas isso não é a perfeição absoluta. Dá-se com o Espírito o que se verifica com a criança que, por mais precoce que seja, tem de passar pela juventude, antes de chegar à idade da madureza; e também com o enfermo que, para recobrar a saúde, tem que passar pela convalescença. Demais, ao Espírito cumpre progredir em ciência e em moral. Se somente se adiantou num sentido, importa se adiante no outro, para atingir o extremo superior da escala. Contudo, quanto mais o homem se adiantar na sua vida atual, tanto menos longas e penosas lhe serão as provas que se seguirem._”
 
-##### `lde.q192a` #️⃣ 192. a) Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
+   `lde.q192a` #️⃣ 192a
+  192a. Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
 
-> “_Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. **Só o descuidoso permanece sempre no mesmo ponto**._”
+  > “_Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. **Só o descuidoso permanece sempre no mesmo ponto**._”
 
-##### `lde.q193` #️⃣ 193. Pode um homem, nas suas novas existências, descer mais baixo do que esteja na atual?
+##### `lde.q193` #️⃣ 193
+193. Pode um homem, nas suas novas existências, descer mais baixo do que esteja na atual?
 
 > “_Com relação à **posição social**, sim; como Espírito, não._”
 
-##### `lde.q194` #️⃣ 194. É possível que, em nova encarnação, a alma de um homem de bem anime o corpo de um celerado?
+##### `lde.q194` #️⃣ 194
+194. É possível que, em nova encarnação, a alma de um homem de bem anime o corpo de um celerado?
 
 > “_Não, visto que não pode degenerar._”
 
-##### `lde.q194a` #️⃣ 194. a) A alma de um homem perverso pode tornar-se a de um homem de bem?
+   `lde.q194a` #️⃣ 194a
 
-> “_Sim, se se arrependeu. Isso constitui então uma recompensa._”
->
-> > A marcha dos Espíritos é progressiva, jamais retrógrada. Eles se elevam gradualmente na hierarquia e não descem da categoria a que ascenderam. Em suas diferentes existências corporais, podem descer como homens, não como Espíritos. Assim, a alma de um potentado da Terra pode mais tarde animar o mais humilde obreiro e vice-versa, por isso que, entre os homens, as categorias estão, frequentemente, na razão inversa da elevação das qualidades morais. Herodes era rei e Jesus, carpinteiro.
+  194a. A alma de um homem perverso pode tornar-se a de um homem de bem?
 
-##### `lde.q195` #️⃣ 195. A possibilidade de se melhorarem noutra existência não será de molde a fazer que certas pessoas perseverem no mau caminho, dominadas pela ideia de que poderão corrigir-se mais tarde?
+  > “_Sim, se se arrependeu. Isso constitui então uma recompensa._”
+  >
+  > > A marcha dos Espíritos é progressiva, jamais retrógrada. Eles se elevam gradualmente na hierarquia e não descem da categoria a que ascenderam. Em suas diferentes existências corporais, podem descer como homens, não como Espíritos. Assim, a alma de um potentado da Terra pode mais tarde animar o mais humilde obreiro e vice-versa, por isso que, entre os homens, as categorias estão, frequentemente, na razão inversa da elevação das qualidades morais. Herodes era rei e Jesus, carpinteiro.
+
+##### `lde.q195` #️⃣ 195
+195. A possibilidade de se melhorarem noutra existência não será de molde a fazer que certas pessoas perseverem no mau caminho, dominadas pela ideia de que poderão corrigir-se mais tarde?
 
 > “_Aquele que assim pensa em nada crê e a ideia de um castigo eterno não o refrearia mais do que qualquer outra, porque sua razão a repele, e semelhante ideia induz à incredulidade a respeito de tudo. Se unicamente meios racionais se tivessem empregado para guiar os homens, não haveria tantos céticos. De fato, um Espírito imperfeito poderá, durante a vida corporal, pensar como dizes; mas, liberto que se veja da matéria, pensará de outro modo, pois logo verificará que fez cálculo errado e, **então, sentimento oposto a esse trará ele para a sua nova existência**. É assim que se efetua o progresso e essa a razão por que, na Terra, os homens são desigualmente adiantados. Uns já dispõem de experiência que a outros falta, mas que adquirirão pouco a pouco. Deles depende o acelerar-se-lhes o progresso ou retardar-se indefinidamente._”
 >
 > > O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível. Aquele, que se acha persuadido de que as tribulações da vida terrena são consequência de suas imperfeições, procurará garantir para si uma nova existência menos penosa e esta ideia o desviará mais depressa da senda do mal do que a do fogo eterno, em que não acredita.
 
-##### `lde.q196` #️⃣ 196. Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulações da existência corpórea, segue-se que a vida material seja uma espécie de **crisol** ou de **depurador**, por onde têm que passar todos os seres do mundo espírita para alcançarem a perfeição?
+##### `lde.q196` #️⃣ 196
+196. Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulações da existência corpórea, segue-se que a vida material seja uma espécie de **crisol** ou de **depurador**, por onde têm que passar todos os seres do mundo espírita para alcançarem a perfeição?
 
 > “_Sim, é exatamente isso. Eles se melhoram nessas provas, evitando o mal e praticando o bem; porém, somente ao cabo de mais ou menos longo tempo, conforme os esforços que empreguem; somente após muitas encarnações ou depurações sucessivas, atingem a finalidade para que tendem._”
 
-##### `lde.q196a` #️⃣ 196. a) É o corpo que influi sobre o Espírito para que este se melhore, ou o Espírito que influi sobre o corpo?
+   `lde.q196a` #️⃣ 196a
 
-> “_Teu Espírito é tudo; teu corpo é simples veste que apodrece: eis tudo._”
->
-> > O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama espírito ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a alma tem que entrar para se purificar. Às matérias estranhas se assemelha o perispírito, que também se depura, à medida que o Espírito se aproxima da perfeição. 
+  196a. É o corpo que influi sobre o Espírito para que este se melhore, ou o Espírito que influi sobre o corpo?
+
+  > “_Teu Espírito é tudo; teu corpo é simples veste que apodrece: eis tudo._”
+  >
+  > > O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama espírito ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a alma tem que entrar para se purificar. Às matérias estranhas se assemelha o perispírito, que também se depura, à medida que o Espírito se aproxima da perfeição. 
 
 ---
 
 #### `lde.2.04.05` 📃 Sorte das crianças depois da morte
 
-##### `lde.q197` #️⃣ 197. Poderá ser tão adiantado quanto o de um adulto o Espírito de uma criança que morreu em tenra idade?
+---
+
+##### `lde.q197` #️⃣ 197
+197. Poderá ser tão adiantado quanto o de um adulto o Espírito de uma criança que morreu em tenra idade?
 
 > “_Algumas vezes o é muito mais, porquanto pode dar-se que muito mais já tenha vivido e adquirido maior soma de experiência, sobretudo se progrediu._”
 
-##### `lde.q197a` #️⃣ 197. a) Pode então o Espírito de uma criança ser mais adiantado que o de seu pai?
+   `lde.q197a` #️⃣ 197a
 
-> “_Isso é muito frequente. Não o vedes vós mesmos tão amiudadas vezes na Terra?_”
+  197a. Pode então o Espírito de uma criança ser mais adiantado que o de seu pai?
 
-##### `lde.q198` #️⃣ 198. Não tendo podido praticar o mal, o Espírito de uma criança que morreu em tenra idade pertence a alguma das categorias superiores?
+  > “_Isso é muito frequente. Não o vedes vós mesmos tão amiudadas vezes na Terra?_”
+
+##### `lde.q198` #️⃣ 198
+198. Não tendo podido praticar o mal, o Espírito de uma criança que morreu em tenra idade pertence a alguma das categorias superiores?
 
 > “_Se não fez o mal, igualmente não fez o bem e Deus não o isenta das provas que tenha de padecer. Se for um Espírito puro, não o é pelo fato de ter animado apenas uma criança, mas porque já progredira até à pureza._”
 
-##### `lde.q199` #️⃣ 199. Por que tão frequentemente a vida se interrompe na infância?
+##### `lde.q199` #️⃣ 199
+199. Por que tão frequentemente a vida se interrompe na infância?
 
 > “_A curta duração da vida da criança pode representar, para o Espírito que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui **provação ou expiação para os pais**._”
 
-##### `lde.q199a` #️⃣ 199. a) Que sucede ao Espírito de uma criança que morre pequenina?
+   `lde.q199a` #️⃣ 199a
 
-> “_Recomeça outra existência._”
->
-> > Se uma única existência tivesse o homem e se, extinguindo-se-lhe ela, sua sorte ficasse decidida para a eternidade, qual seria o mérito de metade do gênero humano, da que morre na infância, para gozar, sem esforços, da felicidade eterna e com que direito se acharia isenta das condições, às vezes tão duras, a que se vê submetida a outra metade?
-> >
-> > Semelhante ordem de coisas não corresponderia à Justiça de Deus. Com a reencarnação, a igualdade é real para todos. O futuro a todos toca sem exceção e sem favor para quem quer que seja. Os retardatários só de si mesmos se podem queixar. Forçoso é que o homem tenha o merecimento de seus atos, como tem deles a responsabilidade.
-> >
-> > Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem razão a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do Espírito, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus Espíritos muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de Deus. 
+  199a. Que sucede ao Espírito de uma criança que morre pequenina?
+
+  > “_Recomeça outra existência._”
+  >
+  > > Se uma única existência tivesse o homem e se, extinguindo-se-lhe ela, sua sorte ficasse decidida para a eternidade, qual seria o mérito de metade do gênero humano, da que morre na infância, para gozar, sem esforços, da felicidade eterna e com que direito se acharia isenta das condições, às vezes tão duras, a que se vê submetida a outra metade?
+  > >
+  > > Semelhante ordem de coisas não corresponderia à Justiça de Deus. Com a reencarnação, a igualdade é real para todos. O futuro a todos toca sem exceção e sem favor para quem quer que seja. Os retardatários só de si mesmos se podem queixar. Forçoso é que o homem tenha o merecimento de seus atos, como tem deles a responsabilidade.
+  > >
+  > > Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem razão a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do Espírito, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus Espíritos muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de Deus. 
 
 ---
 
 #### `lde.2.04.06` 📃 Sexos nos Espíritos
 
-##### `lde.q200` #️⃣ 200. Têm sexos os Espíritos?
+---
+
+##### `lde.q200` #️⃣ 200
+200. Têm sexos os Espíritos?
 
 > “_Não como o entendeis, pois que os sexos dependem da organização. Há entre eles amor e simpatia, mas baseados na concordância dos sentimentos._”
 
-##### `lde.q201` #️⃣ 201. Em nova existência, pode o Espírito que animou o corpo de um homem animar o de uma mulher e vice-versa?
+##### `lde.q201` #️⃣ 201
+201. Em nova existência, pode o Espírito que animou o corpo de um homem animar o de uma mulher e vice-versa?
 
 > “_Decerto; são os mesmos os Espíritos que animam os homens e as mulheres._”
 
-##### `lde.q202` #️⃣ 202. Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de uma mulher?
+##### `lde.q202` #️⃣ 202
+202. Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de uma mulher?
 
 > “_Isso pouco lhe importa. O que o guia na escolha são as provas por que haja de passar._”
 >
@@ -1972,23 +2212,31 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.04.07` 📃 Parentesco, filiação
 
-##### `lde.q203` #️⃣ 203. Transmitem os pais aos filhos uma parcela de suas almas, ou se limitam a lhes dar a vida animal a que, mais tarde, outra alma vem adicionar a vida moral?
+---
+
+##### `lde.q203` #️⃣ 203
+203. Transmitem os pais aos filhos uma parcela de suas almas, ou se limitam a lhes dar a vida animal a que, mais tarde, outra alma vem adicionar a vida moral?
 
 > “_Dão-lhes apenas a vida animal, pois que a alma **é indivisível**. Um pai obtuso pode ter filhos inteligentes e vice-versa._”
 
-##### `lde.q204` #️⃣ 204. Uma vez que temos tido muitas existências, a nossa parentela vai além da que a existência atual nos criou?
+##### `lde.q204` #️⃣ 204
+204. Uma vez que temos tido muitas existências, a nossa parentela vai além da que a existência atual nos criou?
 
 > “_Não pode ser de outra maneira. A sucessão das existências corporais estabelece entre os Espíritos ligações que remontam às vossas existências anteriores. Daí, muitas vezes, a simpatia que vem a existir entre vós e certos Espíritos que vos parecem estranhos._”
 
-##### `lde.q205` #️⃣ 205. A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
+##### `lde.q205` #️⃣ 205
+205. A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
 
 > “_Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um Espírito a quem tenhais estado presos pelos laços da consanguinidade._”
 
-##### `lde.q205a` #️⃣ 205. a) Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um Espírito que haja pertencido a outra raça, ou que haja vivido em condição muito diversa.[^11]
+   `lde.q205a` #️⃣ 205a
 
-> “_É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que Deus formulou as Leis da Natureza._”
+  205a. Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um Espírito que haja pertencido a outra raça, ou que haja vivido em condição muito diversa.[^11]
 
-##### `lde.q206` #️⃣ 206. Do fato de não haver filiação entre os Espíritos dos descendentes de qualquer família, seguir-se-á que o culto dos avoengos seja ridículo?
+  > “_É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que Deus formulou as Leis da Natureza._”
+
+##### `lde.q206` #️⃣ 206
+206. Do fato de não haver filiação entre os Espíritos dos descendentes de qualquer família, seguir-se-á que o culto dos avoengos seja ridículo?
 
 > “_De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram Espíritos elevados. Se bem os Espíritos não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais._” 
 
@@ -1996,51 +2244,66 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.04.08` 📃 Parecenças físicas e morais
 
-##### `lde.q207` #️⃣ 207. Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
+---
+
+##### `lde.q207` #️⃣ 207
+207. Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
 
 > “_Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade._”
 
-##### `lde.q207a` #️⃣ 207. a) Donde se originam as parecenças morais que costuma haver entre pais e filhos?
+   `lde.q207a` #️⃣ 207a
 
-> “_É que uns e outros são Espíritos simpáticos, que reciprocamente se atraíram pela analogia dos pendores._”
+  207a. Donde se originam as parecenças morais que costuma haver entre pais e filhos?
 
-##### `lde.q208` #️⃣ 208. Nenhuma influência exercem os Espíritos dos pais sobre o filho depois do nascimento deste?
+  > “_É que uns e outros são Espíritos simpáticos, que reciprocamente se atraíram pela analogia dos pendores._”
+
+##### `lde.q208` #️⃣ 208
+208. Nenhuma influência exercem os Espíritos dos pais sobre o filho depois do nascimento deste?
 
 > “_Ao contrário: bem grande influência exercem. Conforme já dissemos, os Espíritos têm que contribuir para o progresso uns dos outros. Pois bem, os Espíritos dos pais têm por missão desenvolver os de seus filhos pela educação. Constitui-lhes isso uma tarefa. **Tornar-se-ão culpados, se vierem a falir no seu desempenho.**_”
 
-##### `lde.q209` #️⃣ 209. Por que de pais bons e virtuosos nascem filhos de natureza perversa? Por outra: por que as boas qualidades dos pais nem sempre atraem, por simpatia, um bom Espírito para lhes animar o filho?
+##### `lde.q209` #️⃣ 209
+209. Por que de pais bons e virtuosos nascem filhos de natureza perversa? Por outra: por que as boas qualidades dos pais nem sempre atraem, por simpatia, um bom Espírito para lhes animar o filho?
 
 > “_Não é raro que um mau Espírito peça lhe sejam dados bons pais, na esperança de que seus conselhos o encaminhem por melhor senda e muitas vezes Deus lhe concede o que deseja._”
 
-##### `lde.q210` #️⃣ 210. Pelos seus pensamentos e preces podem os pais atrair para o corpo, em formação, do filho um bom Espírito, de preferência a um inferior?
+##### `lde.q210` #️⃣ 210
+210. Pelos seus pensamentos e preces podem os pais atrair para o corpo, em formação, do filho um bom Espírito, de preferência a um inferior?
 
 > “_Não, mas podem melhorar o Espírito do filho que lhes nasceu e está confiado. Esse o dever deles. Os maus filhos são uma provação para os pais._”
 
-##### `lde.q211` #️⃣ 211. Donde deriva a semelhança de caráter que muitas vezes existe entre dois irmãos, mormente se gêmeos?
+##### `lde.q211` #️⃣ 211
+211. Donde deriva a semelhança de caráter que muitas vezes existe entre dois irmãos, mormente se gêmeos?
 
 > “_São Espíritos simpáticos que se aproximam por analogia de sentimentos **e se sentem felizes por estar juntos**._”
 
-##### `lde.q212` #️⃣ 212. Há dois Espíritos, ou, por outra, duas almas, nas crianças cujos corpos nascem ligados, tendo comuns alguns órgãos?
+##### `lde.q212` #️⃣ 212
+212. Há dois Espíritos, ou, por outra, duas almas, nas crianças cujos corpos nascem ligados, tendo comuns alguns órgãos?
 
 > “_Sim, mas a semelhança entre elas é tal que faz vos pareçam, em muitos casos, uma só._”
 
-##### `lde.q213` #️⃣ 213. Pois que nos gêmeos os Espíritos encarnam por simpatia, donde provém a aversão que às vezes se nota entre eles?
+##### `lde.q213` #️⃣ 213
+213. Pois que nos gêmeos os Espíritos encarnam por simpatia, donde provém a aversão que às vezes se nota entre eles?
 
 > “_Não é de regra que sejam simpáticos os Espíritos dos gêmeos. Acontece também que Espíritos maus entendam de lutar juntos no palco da vida._”
 
-##### `lde.q214` #️⃣ 214. Que se deve pensar dessas histórias de crianças que lutam no seio materno?
+##### `lde.q214` #️⃣ 214
+214. Que se deve pensar dessas histórias de crianças que lutam no seio materno?
 
 > “_Lendas! Para significarem quão inveterado era o ódio que reciprocamente se votavam, figuram-no a se fazer sentir antes do nascimento delas. Em geral, não levais muito em conta as imagens poéticas._”
 
-##### `lde.q215` #️⃣ 215. O que dá origem ao caráter distintivo que se nota em cada povo?
+##### `lde.q215` #️⃣ 215
+215. O que dá origem ao caráter distintivo que se nota em cada povo?
 
 > “_Também os Espíritos se grupam em famílias, formando-as pela analogia de seus pendores mais ou menos puros, conforme a elevação que tenham alcançado. Pois bem! um povo é uma grande família formada pela reunião de Espíritos simpáticos. Na tendência que apresentam os membros dessas famílias, para se unirem, é que está a origem da semelhança que, existindo entre os indivíduos, constitui o caráter distintivo de cada povo. Julgas que Espíritos bons e humanitários procurem, para nele encarnar, um povo rude e grosseiro? Não. Os Espíritos simpatizam com as coletividades, como simpatizam com os indivíduos. Naquelas em cujo seio se encontrem, eles se acham no meio que lhes é próprio._”
 
-##### `lde.q216` #️⃣ 216. Em suas novas existências conservará o Espírito traços do caráter moral de suas existências anteriores?
+##### `lde.q216` #️⃣ 216
+216. Em suas novas existências conservará o Espírito traços do caráter moral de suas existências anteriores?
 
 > “_Isso pode dar-se. Mas, melhorando-se, ele muda. Pode também acontecer que sua posição social venha a ser outra. Se de senhor passa a escravo, inteiramente diversos serão os seus gostos e dificilmente o reconheceríeis. Sendo o Espírito sempre o mesmo nas diversas encarnações, podem existir certas analogias entre as suas manifestações, se bem que modificadas pelos hábitos da posição que ocupe, até que um aperfeiçoamento notável lhe haja mudado completamente o caráter, porquanto, de orgulhoso e mau, pode tornar-se humilde e bondoso, se se arrependeu._”
 
-##### `lde.q217` #️⃣ 217. E do caráter físico de suas existências pretéritas conserva o Espírito traços nas suas existências posteriores?
+##### `lde.q217` #️⃣ 217
+217. E do caráter físico de suas existências pretéritas conserva o Espírito traços nas suas existências posteriores?
 
 > “_O novo corpo que ele toma nenhuma relação tem com o que foi anteriormente destruído. Entretanto, o Espírito se reflete no corpo. Sem dúvida que este é unicamente matéria, porém, nada obstante, se modela pelas capacidades do Espírito, que lhe imprime certo cunho, sobretudo ao rosto, pelo que é verdadeiro dizer-se que os olhos são o espelho da alma, isto é, que o semblante do indivíduo lhe reflete de modo particular a alma. Assim é que uma pessoa excessivamente feia, quando nela habita um Espírito bom, criterioso, humanitário, tem qualquer coisa que agrada, ao passo que há rostos belíssimos que nenhuma impressão te causam, que até chegam a inspirar-te repulsão. Poderias supor que somente corpos bem moldados servem de envoltório aos mais perfeitos Espíritos, quando o certo é que todos os dias deparas com homens de bem, sob um exterior disforme. Sem que haja pronunciada parecença, a semelhança dos gostos e das inclinações pode, portanto, dar lugar ao que se chama ‘um ar de família’._”
 >
@@ -2050,39 +2313,54 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 #### `lde.2.04.09` 📃 Ideias inatas
 
-##### `lde.q218` #️⃣ 218. Encarnado, conserva o Espírito algum vestígio das percepções que teve e dos conhecimentos que adquiriu nas existências anteriores?
+---
+
+##### `lde.q218` #️⃣ 218
+218. Encarnado, conserva o Espírito algum vestígio das percepções que teve e dos conhecimentos que adquiriu nas existências anteriores?
 
 > “_Guarda vaga lembrança, que lhe dá o que se chama ideias inatas._”
 
-##### `lde.q218a` #️⃣ 218. a) Não é, então, quimérica a teoria das ideias inatas?
+   `lde.q218a` #️⃣ 218a
 
-> “_Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o Espírito sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o Espírito, é o em que, na existência precedente, ele ficou._”
+  218a. Não é, então, quimérica a teoria das ideias inatas?
 
-##### `lde.q218b` #️⃣ 218. b) Grande conexão deve então haver entre duas existências consecutivas?
+  > “_Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o Espírito sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o Espírito, é o em que, na existência precedente, ele ficou._”
 
-> “_Nem sempre, tão grande quanto talvez o suponhas, dado que bem diferentes são, muitas vezes, as posições do Espírito nas duas e que, no intervalo de uma a outra, pode ele ter progredido._” (lde.q216)
+   `lde.q218b` #️⃣ 218b
 
-##### `lde.q219` #️⃣ 219. Qual a origem das faculdades extraordinárias dos indivíduos que, sem estudo prévio, parecem ter a intuição de certos conhecimentos, o das línguas, do cálculo etc.?
+  218b. Grande conexão deve então haver entre duas existências consecutivas?
+
+  > “_Nem sempre, tão grande quanto talvez o suponhas, dado que bem diferentes são, muitas vezes, as posições do Espírito nas duas e que, no intervalo de uma a outra, pode ele ter progredido._” (lde.q216)
+
+##### `lde.q219` #️⃣ 219
+219. Qual a origem das faculdades extraordinárias dos indivíduos que, sem estudo prévio, parecem ter a intuição de certos conhecimentos, o das línguas, do cálculo etc.?
 
 > “_Lembrança do passado; progresso anterior da alma, mas de que ela não tem consciência. Donde queres que venham tais conhecimentos? O corpo muda, o Espírito, porém, não muda, embora troque de roupagem._”
 
-##### `lde.q220` #️⃣ 220. Pode o Espírito, mudando de corpo, perder algumas faculdades intelectuais, deixar de ter, por exemplo, o gosto das artes?
+##### `lde.q220` #️⃣ 220
+220. Pode o Espírito, mudando de corpo, perder algumas faculdades intelectuais, deixar de ter, por exemplo, o gosto das artes?
 
 > “_Sim, desde que conspurcou a sua inteligência ou a utilizou mal. Ademais, uma faculdade qualquer pode permanecer adormecida durante uma existência, por querer o Espírito exercitar outra, que nenhuma relação tem com aquela. Esta, então, fica em estado latente, para reaparecer mais tarde._”
 
-##### `lde.q221` #️⃣ 221. Dever-se-ão atribuir a uma lembrança retrospectiva o sentimento instintivo que o homem, mesmo selvagem, possui da existência de Deus e o pressentimento da vida futura?
+##### `lde.q221` #️⃣ 221
+221. Dever-se-ão atribuir a uma lembrança retrospectiva o sentimento instintivo que o homem, mesmo selvagem, possui da existência de Deus e o pressentimento da vida futura?
 
 > “_É uma lembrança que ele conserva do que sabia como Espírito antes de encarnar, mas o orgulho amiudadamente abafa esse sentimento._”
 
-##### `lde.q221a` #️⃣ 221. a) Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Espírita, que se observam em todos os povos?
+   `lde.q221a` #️⃣ 221a
 
-> “_Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição._” 
+  221a. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Espírita, que se observam em todos os povos?
+
+  > “_Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição._” 
 
 ---
 
 ### `lde.2.05` 📑 05. Considerações sobre a pluralidade das existências
 
-##### `lde.q222` #️⃣ 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
+---
+
+##### `lde.q222` #️⃣ 222
+222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
 Portanto, ensinando o dogma da pluralidade das existências corporais, os Espíritos renovam uma doutrina que teve origem nas primeiras idades do mundo e que se conservou no íntimo de muitas pessoas, até os nossos dias. Simplesmente, eles a apresentam de um ponto de vista mais racional, mais acorde com as leis progressivas da Natureza e mais de conformidade com a sabedoria do Criador, despindo-a de todos os acessórios da superstição. Circunstância digna de nota é que não só neste livro os Espíritos a ensinaram no decurso dos últimos tempos: já antes da sua publicação, numerosas comunicações da mesma natureza se obtiveram em vários países, multiplicando-se depois, consideravelmente. Talvez fosse aqui o caso de examinarmos por que os Espíritos não parecem todos de acordo sobre esta questão. Mais tarde, porém, voltaremos a este assunto.
 
@@ -2118,17 +2396,17 @@ Alguma coisa de pungente há na ideia de que a nossa sorte fique para sempre dec
 
 Se não há reencarnação, só há, evidentemente, uma existência corporal. Se a nossa atual existência corpórea é única, a alma de cada homem foi criada por ocasião do seu nascimento, a menos que se admita a anterioridade da alma, caso em que caberia perguntar o que era ela antes do nascimento e se o estado em que se achava não constituía uma existência sob forma qualquer. Não há meio termo: ou a alma existia, ou não existia antes do corpo. Se existia, qual a sua situação? Tinha, ou não, consciência de si mesma? Se não tinha, é quase como se não existisse. Se tinha individualidade, era progressiva, ou estacionária? Num e noutro caso, a que grau chegara ao tomar o corpo? Admitindo, de acordo com a crença vulgar, que a alma nasce com o corpo, ou, o que vem a ser o mesmo, que, antes de encarnar, só dispõe de faculdades negativas, perguntamos:
 
-1. Por que mostra a alma aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?
+  1. Por que mostra a alma aptidões tão diversas e independentes das ideias que a educação lhe fez adquirir?
 
-2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela ciência, enquanto outras se conservam inferiores ou medíocres durante a vida toda?
+  2. Donde vem a aptidão extranormal que muitas crianças em tenra idade revelam, para esta ou aquela arte, para esta ou aquela ciência, enquanto outras se conservam inferiores ou medíocres durante a vida toda?
 
-3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem?
+  3. Donde, em uns, as ideias inatas ou intuitivas, que noutros não existem?
 
-4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram?
+  4. Donde, em certas crianças, o instinto precoce que revelam para os vícios ou para as virtudes, os sentimentos inatos de dignidade ou de baixeza, contrastando com o meio em que elas nasceram?
 
-5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros?
+  5. Por que, abstraindo-se da educação, uns homens são mais adiantados do que outros?
 
-6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton?
+  6. Por que há selvagens e homens civilizados? Se tomardes de um menino hotentote recém-nascido e o educardes nos nossos melhores liceus, fareis dele algum dia um Laplace ou um Newton?
 
 Qual a filosofia ou a teosofia capaz de resolver estes problemas? É fora de dúvida que, ou as almas são iguais ao nascerem, ou são desiguais. Se são iguais, por que, entre elas, tão grande diversidade de aptidões? Dir-se-á que isso depende do organismo. Mas, então, achamo-nos em presença da mais monstruosa e imoral das doutrinas. O homem seria simples máquina, joguete da matéria; deixaria de ter a responsabilidade de seus atos, pois que poderia atribuir tudo às suas imperfeições físicas. Se as almas são desiguais, é que Deus as criou assim. Nesse caso, porém, por que a inata superioridade concedida a algumas? Corresponderá essa parcialidade à Justiça de Deus e ao amor que Ele consagra igualmente a todas as suas criaturas?
 
@@ -2138,15 +2416,15 @@ Admitamos, ao contrário, uma série de progressivas existências anteriores par
 
 Vimos de apreciar a alma com relação ao seu passado e ao seu presente. Se a considerarmos, tendo em vista o seu futuro, esbarraremos nas mesmas dificuldades.
 
-1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba?
+  1. Se a nossa existência atual é que, só ela, decidirá da nossa sorte vindoura, quais, na vida futura, as posições respectivas do selvagem e do homem civilizado? Estarão no mesmo nível, ou se acharão distanciados um do outro, no tocante à soma de felicidade eterna que lhes caiba?
 
-2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor?
+  2. O homem que trabalhou toda a sua vida por melhorar-se, virá a ocupar a mesma categoria de outro que se conservou em grau inferior de adiantamento, não por culpa sua, mas porque não teve tempo, nem possibilidade de se tornar melhor?
 
-3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele?
+  3. O que praticou o mal, por não ter podido instruir-se, será culpado de um estado de coisas cuja existência em nada dependeu dele?
 
-4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros?
+  4. Trabalha-se continuamente por esclarecer, moralizar, civilizar os homens. Em contraposição a um que fica esclarecido, porém, milhões de outros morrem todos os dias antes que a luz lhes tenha chegado. Qual a sorte destes últimos? Serão tratados como réprobos? No caso contrário, que fizeram para ocupar categoria idêntica à dos outros?
 
-5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida?
+  5. Que sorte aguarda os que morrem na infância, quando ainda não puderam fazer nem o bem, nem o mal? Se vão para o meio dos eleitos, por que esse favor, sem que coisa alguma hajam feito para merecê-lo? Em virtude de que privilégio eles se veem isentos das tribulações da vida?
 
 Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de Deus. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma religião que proclama ser Deus a bondade e a razão por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da ciência, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma religião fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a religião e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da Terra e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
@@ -2201,6 +2479,8 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 ---
 
 #### `lde.2.06.01` 📃 Espíritos errantes
+
+---
 
 ##### `lde.q223` #️⃣ 223. A alma reencarna logo depois de se haver separado do corpo?
 
