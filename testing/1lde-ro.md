@@ -521,10 +521,9 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 </details>
 
 ### `lde.1.2` 📑 2. Dos elementos gerais do Universo
-<details><summary></summary>
+
 
 #### `lde.1.2.1` 📃 Conhecimento do princípio das coisas
-<details><summary></summary>
 
 ##### `lde.q17` #️⃣ 17
 17. É dado ao homem conhecer o princípio das coisas?
@@ -548,8 +547,10 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >“_Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender._”
 > > Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
  
+
+
+
 #### `lde.1.2.2` 📃 Espírito e matéria
-<details><summary></summary>
 
 ##### `lde.q21` #️⃣ 21
 21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
@@ -608,9 +609,11 @@ a. Esse fluido será o que designamos pelo nome de eletricidade?
 
 >“_As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos._”
 > > Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
+ 
+
+
 
 #### `lde.1.2.3` 📃 Propriedades da matéria
-<details><summary></summary>
 
 ##### `lde.q29` #️⃣ 29
 29. A ponderabilidade é um atributo essencial da matéria?
@@ -656,8 +659,9 @@ a. Essa forma é constante ou variável?
 
 >“_Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar._” 
 
+
+
 #### `lde.1.2.4` 📃 Espaço universal
-<details><summary></summary>
 
 ##### `lde.q35` #️⃣ 35
 35. O Espaço universal é infinito ou limitado?
@@ -669,6 +673,7 @@ a. Essa forma é constante ou variável?
 36. O vácuo absoluto existe em alguma parte no Espaço universal?
 
 >“_Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos._” 
+
 
 
 ### `lde.1.3` 📑 3. Da Criação
