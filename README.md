@@ -9,8 +9,8 @@ O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 | --- | --- |
 | sem Índice Geral ou tags; respostas à mostra | [1lde-05.23b2.md](./1lde-05.23b2.md) | 
 | sem Índice Geral ou tags; respostas ocultas | 1lde-ro-(versão).md | 
-| com Índice Geral ou tags; respostas à mostra | 1lde-ig-(versão).md | 
-| com Índice Geral ou tags; respostas ocultas | 1lde-ro-ig-(versão).md | 
+| com Índice Geral e tags; respostas à mostra | 1lde-ig-(versão).md | 
+| com Índice Geral e tags; respostas ocultas | 1lde-ro-ig-(versão).md | 
 
 ## 1. Objetivo
 
