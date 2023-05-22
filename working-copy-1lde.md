@@ -3377,7 +3377,7 @@ a. Pode assim o corpo de um idiota conter um Espírito que tenha animado um home
 
 >“_O Espírito, quando em liberdade, recebe diretamente suas impressões e diretamente exerce sua ação sobre a matéria. Encarnado, porém, ele se encontra em condições muito diversas e na contingência de só o fazer com o auxílio de órgãos especiais. Altere-se uma parte ou o conjunto de tais órgãos e eis que se lhe interrompem, no que destes dependam, sua ação ou suas impressões. Se perde os olhos, fica cego; se o ouvido, torna-se surdo etc. Imagina agora que seja o órgão que preside às manifestações da inteligência o atacado ou modificado, parcial ou inteiramente, e fácil te será compreender que, só tendo o Espírito a seu serviço órgãos incompletos ou alterados, uma perturbação resultará de que ele, por si mesmo e no seu foro íntimo, tem perfeita consciência, mas cujo curso não lhe está nas mãos deter._”
 
-##### `lde.q375a` #️⃣ 375. a) Então, o desorganizado é sempre o corpo e não o Espírito?
+a. Então, o desorganizado é sempre o corpo e não o Espírito?
 
 >“_Exatamente, mas convém não perder de vista que, assim como o Espírito atua sobre a matéria, também esta reage sobre ele, dentro de certos limites, e que pode acontecer impressionar-se o Espírito temporariamente com a alteração dos órgãos pelos quais se manifesta e recebe as impressões. Pode mesmo suceder que, com a continuação, durando longo tempo a loucura, a repetição dos mesmos atos acabe por exercer sobre o Espírito uma influência, de que ele não se libertará senão depois de se haver libertado de toda impressão material._”
 
@@ -3902,7 +3902,7 @@ a. Esta faculdade tem qualquer ligação com a organização física?
 
 >“_É sempre a alma a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria._”
 
-##### `lde.q454a` #️⃣ 454. a) Pode esta faculdade, em alguns casos, dar a presciência das coisas?
+a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 >“_Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente._” 
 
@@ -4844,7 +4844,7 @@ a. Que consequências lhe advirão da sua falência?
 
 >“_Não; porém, quanto piores forem as propensões do filho, tanto mais pesada é a tarefa e tanto maior o mérito dos pais, se conseguirem desviá-lo do mau caminho._”
 
-##### `lde.q583a` #️⃣ 583. a) Se um filho se torna homem de bem, não obstante a negligência ou os maus exemplos de seus pais, tiram estes daí algum proveito?
+a. Se um filho se torna homem de bem, não obstante a negligência ou os maus exemplos de seus pais, tiram estes daí algum proveito?
 
 >“_Deus é justo._”
 
@@ -5471,7 +5471,8 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 >“_A concepção de um Deus único não poderia existir no homem, senão como resultado do desenvolvimento de suas ideias. Incapaz, pela sua ignorância, de conceber um ser imaterial, sem forma determinada, atuando sobre a matéria, conferiu-lhe o homem atributos da natureza corpórea, isto é, uma forma e um aspecto e, desde então, tudo o que parecia ultrapassar os limites da inteligência comum era, para ele, uma divindade. Tudo o que não compreendia devia ser obra de uma potência sobrenatural. Daí a crer em tantas potências distintas quantos os efeitos que observava, não havia mais que um passo. Em todos os tempos, porém, houve homens instruídos, que compreenderam ser impossível a existência desses poderes múltiplos a governarem o mundo, sem uma direção superior, e que, em consequência, se elevaram à concepção de um Deus único._”
 
-##### `lde.q668` #️⃣ 668. Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idades do mundo, não haverão os fenômenos espíritas contribuído para a difusão da crença na pluralidade dos deuses?
+##### `lde.q668` #️⃣ 668
+668. Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idades do mundo, não haverão os fenômenos espíritas contribuído para a difusão da crença na pluralidade dos deuses?
 
 >“_Sem dúvida, porquanto, chamando **deus** a tudo o que era sobre-humano, os homens tinham por deuses os Espíritos. Daí veio que, quando um homem, pelas suas ações, pelo seu gênio, ou por um poder oculto que o vulgo não lograva compreender, se distinguia dos demais, faziam dele um deus e, por sua morte, lhe rendiam culto._” (lde.q603)
 >
