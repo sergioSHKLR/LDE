@@ -606,24 +606,19 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 > “_Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria._”
 
-  `lde.q22a` #️⃣ 22a
+a. Que definição podeis dar da matéria?
 
-  22a. Que definição podeis dar da matéria?
-
-  > “_A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação._”
-  >
-  > > Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
+> “_A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação._”
+>
+> > Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 
 ##### `lde.q23` #️⃣ 23
 23. Que é o espírito?
 
 > “_O princípio inteligente do Universo._”
 
-  `lde.q23a` #️⃣ 23a
-
-  23a. Qual a natureza íntima do espírito?
-
-  > “_Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe._”
+a. Qual a natureza íntima do espírito?
+> “_Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe._”
 
 ##### `lde.q24` #️⃣ 24
 24. É o espírito sinônimo de inteligência?
