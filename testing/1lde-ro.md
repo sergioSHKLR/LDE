@@ -420,7 +420,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > **João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito de Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
  
-
+</details>
 ---
 
 ## `lde.1` 🗂️ Parte 1. Das causas primárias
@@ -1041,6 +1041,7 @@ a. Por que nem sempre é guia infalível a razão?
 > >
 > > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. 
 
+</details>
 ---
 
 ## `lde.2` 🗂️ Parte 2. Do mundo espírita
@@ -5082,6 +5083,7 @@ b. Esse período de humanização principia na Terra?
 > >
 > > Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos. 
 
+</details>
 ---
 
 ## `lde.3` 🗂️ Parte 3. Das Leis morais
