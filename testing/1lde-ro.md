@@ -8314,6 +8314,8 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 **A Editora**
 
+</details>
+
 📑 Notas de rodapé
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
@@ -8369,5 +8371,3 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 [^26]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
 [^27]: N.E.: Esta nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
-
-</details>
