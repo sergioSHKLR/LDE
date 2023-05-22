@@ -2,7 +2,7 @@
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 ### `lde.0.1` 📃 Folha de rosto
 
@@ -26,7 +26,7 @@ ISBN 978-85-7328-728-8
 
 ### `lde.0.2` 📑 Introdução
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 #### `lde.0.2.01` 📃 Introdução 01
 
@@ -425,7 +425,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ## `lde.1` 🗂️ Parte 1. Das causas primárias
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 ### `lde.1.1` 📑 1. De Deus
 
@@ -1045,7 +1045,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 ## `lde.2` 🗂️ Parte 2. Do mundo espírita
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 ### `lde.2.01` 📑 01. Dos Espíritos
 
@@ -5087,7 +5087,7 @@ b. Esse período de humanização principia na Terra?
 
 ## `lde.3` 🗂️ Parte 3. Das Leis morais
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 ### `lde.3.01` 📑 01. Da lei divina ou natural
 
@@ -7352,7 +7352,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 ## `lde.4` 🗂️ Parte 4. Das esperanças e consolações
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 ### `lde.4.1` 📑 1. Das penas e gozos terrestres
 
@@ -8139,7 +8139,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 ## `lde.5` 🗂️ Parte 5. Conclusão
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 ### `lde.5.1` 📃 Conclusão 01
 
@@ -8243,7 +8243,7 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 ## `lde.6` 🗂️ Parte 6. Pós-textual
 
-<details><summary></summary>
+<details><summary>expandir</summary>
 
 ### `lde.6.1` 📃 1. Nota explicativa [^27]
 
