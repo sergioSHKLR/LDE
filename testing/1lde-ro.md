@@ -674,7 +674,7 @@ a. Essa forma é constante ou variável?
 
 >“_Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos._” 
 
-
+</details>
 
 ### `lde.1.3` 📑 3. Da Criação
 <details><summary></summary>
@@ -848,7 +848,7 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo. 
 
-
+</details>
 
 ### `lde.1.4` 📑 4. Do princípio vital
 <details><summary></summary>
