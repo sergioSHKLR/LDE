@@ -122,7 +122,8 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
-| 🏷️ | tag | agrupa #️⃣ questões e/ou 📃 seções por assunto | label |
+| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ | :card_file_box: |
+| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto | label |
 <!-- | ⚜️ | fim | término de um elemento | fleur_de_lis | -->
 
 ### 6.3. Hierarquia 
