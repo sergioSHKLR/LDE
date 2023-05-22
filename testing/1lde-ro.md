@@ -450,7 +450,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >“_Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens._”
 >
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
- 
 
 ---
 
