@@ -3233,11 +3233,11 @@ a. Qual a utilidade dessas mortes prematuras?
 
 >“_Alguns há, efetivamente, a cujos corpos nunca nenhum Espírito esteve destinado. Nada tinha que se efetuar para eles. Tais crianças então só vêm por seus pais._”
 
-##### `lde.q356a` #️⃣ 356. a) Pode chegar a termo de nascimento um ser dessa natureza?
+a. Pode chegar a termo de nascimento um ser dessa natureza?
 
 >“_Algumas vezes; mas não vive._”
 
-a. Segue-se daí que toda criança que vive após o nascimento tem forçosamente encarnado em si um Espírito?
+b. Segue-se daí que toda criança que vive após o nascimento tem forçosamente encarnado em si um Espírito?
 
 >“_Que seria ela, se assim não acontecesse? Não seria um ser humano._”
 
