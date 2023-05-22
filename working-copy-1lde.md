@@ -152,7 +152,7 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 
 9. há no homem três coisas:
 
-​   a. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
+   a. o corpo ou ser material análogo aos animais e animado pelo mesmo princípio vital;
 
 ​   b. a alma ou ser imaterial, Espírito encarnado no corpo;
 
@@ -431,8 +431,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 #### `lde.1.1.1` 📃 Deus e o infinito
-
----
 
 ##### `lde.q1` #️⃣ 1
 1. O que é Deus?
