@@ -1,6 +1,6 @@
 # `lde` 👻 O LIVRO DOS ESPÍRITOS (1lde-ro)
 
-## `lde.0` 🗂️ Parte 0. Pré-textual
+## <details><summary>`lde.0` 🗂️ Parte 0. Pré-textual</summary>
 
 ### `lde.0.1` 📃 Folha de rosto
 
@@ -378,7 +378,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 **Allan Kardec**
  
-
+</details>
 ---
 
 ### `lde.0.3` 📃 Prolegômenos
