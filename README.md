@@ -80,7 +80,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ---
 
-#### 6.1.2⃣. Respostas ocultas
+#### 6.1.2. Respostas ocultas
 
 `lde.q3` #️⃣ 3
 <details><summary>3. Poder-se-ia dizer que <b>Deus</b> é o infinito?</summary>
