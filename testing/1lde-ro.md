@@ -421,7 +421,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 </details>
 ---
 
-## `lde.1` 🗂️ Parte 1. Das causas primárias
+## <details><summary><code>lde.1</code> 🗂️ Parte 1. Das causas primárias</summary>
 
 ---
 
@@ -1306,6 +1306,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 > > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade.
 
 <sub>🏷️ <code>tag</code></sub>
+</details>
 </details>
 </details>
 <hr />
