@@ -1,6 +1,7 @@
 # `lde` 👻 O LIVRO DOS ESPÍRITOS (working copy)
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
+
 <details><summary></summary>
 
 ### `lde.0.1` 📃 Folha de rosto
@@ -424,6 +425,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 ## `lde.1` 🗂️ Parte 1. Das causas primárias
+
 <details><summary></summary>
 
 ### `lde.1.1` 📑 1. De Deus
@@ -1042,9 +1044,9 @@ a. Por que nem sempre é guia infalível a razão?
 > > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. 
 
 </details>
----
 
 ## `lde.2` 🗂️ Parte 2. Do mundo espírita
+
 <details><summary></summary>
 
 ### `lde.2.01` 📑 01. Dos Espíritos
@@ -5084,9 +5086,9 @@ b. Esse período de humanização principia na Terra?
 > > Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos. 
 
 </details>
----
 
 ## `lde.3` 🗂️ Parte 3. Das Leis morais
+
 <details><summary></summary>
 
 ### `lde.3.01` 📑 01. Da lei divina ou natural
@@ -7348,9 +7350,10 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 >
 > > Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós. 
 
----
+</details>
 
 ## `lde.4` 🗂️ Parte 4. Das esperanças e consolações
+
 <details><summary></summary>
 
 ### `lde.4.1` 📑 1. Das penas e gozos terrestres
@@ -8134,9 +8137,10 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 >
 > **São Luís** 
 
----
+</details>
 
 ## `lde.5` 🗂️ Parte 5. Conclusão
+
 <details><summary></summary>
 
 ### `lde.5.1` 📃 Conclusão 01
@@ -8240,6 +8244,7 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 </details>
 
 ## `lde.6` 🗂️ Parte 6. Pós-textual
+
 <details><summary></summary>
 
 ### `lde.6.1` 📃 1. Nota explicativa [^27]
@@ -8310,7 +8315,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 **A Editora**
 
-<details><summary>📑 Notas de rodapé</summary>
+📑 Notas de rodapé
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 
