@@ -673,6 +673,7 @@ a. Essa forma é constante ou variável?
 </details>
 </details>
 </details>
+</details>
 
 ### `lde.1.3` 📑 3. Da Criação
 <details><summary></summary>
