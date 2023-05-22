@@ -255,7 +255,7 @@ vida material e – `lde.q138`
 
 vista da – `lde.q455`
 
-🏷️ <code>Ambição
+🏷️ <code>Ambição</code>
 
 culpa por guerras e – `lde.q745`
 
@@ -263,19 +263,19 @@ privação alheia e – `lde.q717`
 
 supérfluo e – `lde.q717`
 
-🏷️ <code>Ambiente
+🏷️ <code>Ambiente</code>
 
 criminalidade e – `lde.q644`
 
 provas e – `lde.q260a`
 
-🏷️ <code>Amizade
+🏷️ <code>Amizade</code>
 
 além-túmulo e – `lde.q488`
 
 ingratidão e – `lde.q937`, `lde.q938a`
 
-🏷️ <code>Amor
+🏷️ <code>Amor</code>
 
 conceito de – `lde.q888a`
 
@@ -295,11 +295,11 @@ necessidade do – `lde.q938a`
 
 reciprocidade no – `lde.q939`
 
-🏷️ <code>Ancianidade
+🏷️ <code>Ancianidade</code>
 
 Espiritismo e – `lde.q221a`
 
-🏷️ <code>Animais
+🏷️ <code>Animais</code>
 
 alma dos – `lde.q600`
 
@@ -341,7 +341,7 @@ trabalho dos – `lde.q677`
 
 vida dos – `lde.q773`
 
-🏷️ <code>Anjo
+🏷️ <code>Anjo</code>
 
 alegoria representativa de – `lde.q131`
 
@@ -349,7 +349,7 @@ demônio e – `lde.q128` a `lde.q131`
 
 perfeição e – `lde.q129`
 
-🏷️ <code>Anjo da guarda
+🏷️ <code>Anjo da guarda</code>
 
 anjo da guarda – `lde.q489` a `lde.q514`
 
@@ -363,15 +363,15 @@ identidade civil de – `lde.q504`
 
 proteção de – `lde.q489`
 
-🏷️ <code>Antepassados
+🏷️ <code>Antepassados</code>
 
 culto aos – `lde.q206`
 
-🏷️ <code>Antiguidade
+🏷️ <code>Antiguidade</code>
 
 teor das comunicações mediúnicas na – `lde.q628`
 
-🏷️ <code>Antipatia
+🏷️ <code>Antipatia</code>
 
 casamento e – `lde.q940`
 
@@ -385,7 +385,7 @@ simpatia e – `lde.q293`
 
 união e – `lde.q939`
 
-🏷️ <code>Antropofagia
+🏷️ <code>Antropofagia</code>
 
 fome e – `lde.q709`
 
@@ -395,13 +395,13 @@ mal e – `lde.q637`
 
 selvagem e – `lde.q637`
 
-🏷️ <code>Apego
+🏷️ <code>Apego</code>
 
 bens terrenos e – `lde.q895`
 
 produção intelectual e – `lde.q315`
 
-🏷️ <code>Aperfeiçoamento
+🏷️ <code>Aperfeiçoamento</code>
 
 esforço e – `lde.q988`
 
@@ -411,11 +411,11 @@ reprovação aos sacrifícios e – `lde.q670`
 
 seres vivos e – `lde.q703`
 
-🏷️ <code>Aposentadoria
+🏷️ <code>Aposentadoria</code>
 
 idoso e – `lde.q685a`
 
-🏷️ <code>Aptidão
+🏷️ <code>Aptidão</code>
 
 aquisições de – `lde.q366`, `lde.q804`
 
@@ -431,7 +431,7 @@ nascimento e desenvolvimento de – `lde.q352`
 
 trabalho conforme a – `lde.q680`
 
-🏷️ <code>Arrependimento
+🏷️ <code>Arrependimento</code>
 
 demora para o – `lde.q993`
 
@@ -455,11 +455,11 @@ tardio – `lde.q1007`
 
 última hora para o – `lde.q1002`
 
-🏷️ <code>Arte
+🏷️ <code>Arte</code>
 
 assistência espiritual e – `lde.q521`
 
-🏷️ <code>Assassinato
+🏷️ <code>Assassinato</code>
 
 culpa e – `lde.q747`
 
@@ -471,13 +471,13 @@ responsabilidade decorrente do – `lde.q746`
 
 suicídio e – `lde.q758a`
 
-🏷️ <code>Assembleia
+🏷️ <code>Assembleia</code>
 
 espíritos encarnados em – `lde.q417`
 
-🏷️ <code>Assistência espiritual
+🏷️ <code>Assistência espiritual</code>
 
-🏷️ <code>Allan Kardec
+🏷️ <code>Allan Kardec</code>
 
 Allan Kardec e – `lde.0.3`
 
@@ -495,25 +495,25 @@ pedidos de – `lde.q910`
 
 ser humano e – `lde.q512`
 
-🏷️ <code>Assistência social
+🏷️ <code>Assistência social</code>
 
 previdência e – `lde.q685a`
 
-🏷️ <code>Ateísmo
+🏷️ <code>Ateísmo</code>
 
 sentimento de adoração e – `lde.q651`
 
-🏷️ <code>Atração
+🏷️ <code>Atração</code>
 
 minerais e – `lde.q888a`
 
-🏷️ <code>Autenticidade
+🏷️ <code>Autenticidade</code>
 
 autoconhecimento e – `lde.q919`
 
 fenômeno espírita e – `lde.0.2.09`
 
-🏷️ <code>Automatismo
+🏷️ <code>Automatismo</code>
 
 conveniência e – `lde.q590`
 
@@ -523,25 +523,25 @@ rejeição e – `lde.q589`
 
 transição e – `lde.q589`
 
-🏷️ <code>Autor
+🏷️ <code>Autor</code>
 
 pregação e – `lde.q905`
 
-🏷️ <code>Autoridade
+🏷️ <code>Autoridade</code>
 
 providências para o bem público e – `lde.q483`
 
 superioridade e – `lde.q274a`
 
-🏷️ <code>Avaliação
+🏷️ <code>Avaliação</code>
 
 ações e atitudes do cotidiano em constante – `lde.q919a`
 
-🏷️ <code>Avareza
+🏷️ <code>Avareza</code>
 
 demonstrações da – `lde.q901`
 
-🏷️ <code>Avoengos
+🏷️ <code>Avoengos</code>
 
 ver Antepassados
 
