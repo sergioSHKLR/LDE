@@ -521,6 +521,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 </details>
 
 ### `lde.1.2` 📑 2. Dos elementos gerais do Universo
+<details><summary></summary>
 
 #### `lde.1.2.1` 📃 Conhecimento do princípio das coisas
 
@@ -676,8 +677,7 @@ a. Essa forma é constante ou variável?
 
 
 ### `lde.1.3` 📑 3. Da Criação
-
-
+<details><summary></summary>
 
 #### `lde.1.3.1` 📃 Formação dos mundos
 
@@ -851,8 +851,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 
 ### `lde.1.4` 📑 4. Do princípio vital
-
-
+<details><summary></summary>
 
 #### `lde.1.4.1` 📃 Seres orgânicos e inorgânicos
 
@@ -996,6 +995,7 @@ a. Por que nem sempre é guia infalível a razão?
 > >
 > > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. 
 
+</details>
 </details>
 
 ## `lde.2` 🗂️ Parte 2. Do mundo espírita
