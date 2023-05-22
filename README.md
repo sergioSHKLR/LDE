@@ -5,7 +5,12 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
-Em desenvolvimento semanal, *release* mais recente - [05.23b](/1lde-05.23b.md)
+| Descrição | arquivo |
+| --- | --- |
+| sem Índice Geral ou tags; respostas à mostra | [1lde-05.23b2.md](./1lde-05.23b2.md) | 
+| sem Índice Geral ou tags; respostas ocultas | 1lde-ro-(versão).md | 
+| com Índice Geral ou tags; respostas à mostra | 1lde-ig-(versão).md | 
+| com Índice Geral ou tags; respostas ocultas | 1lde-ro-ig-(versão).md | 
 
 ## 1. Objetivo
 
@@ -60,18 +65,39 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
-### 6.1. Formatação de texto (1lde.md)
+### 6.1. Formatação de texto (1lde)
 
-`lde.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
+---
+
+#### 6.1.1 Respostas à mostra
+
+`lde.q3` #️⃣ 3
+
+3. Poder-se-ia dizer que **Deus** é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
 >> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
 
-⚜️
+---
 
-E disse Jesus: 
+#### 6.1.2 Respostas ocultas
 
-“A cada um, de acordo com suas obras.”
+`lde.q3` #️⃣ 3
+<details><summary>3. Poder-se-ia dizer que <b>Deus</b> é o infinito?</summary>
+
+> “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
+>> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
+ 
+🏷️ <code>Deus, infinito e</code>
+</details>
+
+---
+
+#### 6.1.3 Trechos bíblicos
+
+E disse Jesus:
+
+“_A cada um, de acordo com suas obras._”
 
 ✝️ Romanos, cap. 2, vers. 6
 
@@ -97,7 +123,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
 | 🟨 | assunto | agrupa #️⃣ questões e/ou 📃 seções | yellow_square |
-| ⚜️ | fim | término de um elemento | fleur_de_lis |
+<!-- | ⚜️ | fim | término de um elemento | fleur_de_lis | -->
 
 ### 6.3. Hierarquia 
 
