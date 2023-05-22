@@ -30,7 +30,7 @@ Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec
 
 ### 4.1. Formatação de texto (livro impresso)
 
-Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não são separados ou atribuídos por livro, capítulo e versículo.
+Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, capítulo e versículo.
 
 ---
 
