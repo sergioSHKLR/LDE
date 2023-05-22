@@ -1,3 +1,8 @@
+[TOC]
+
+[TOCM]
+
+
 # `lde` 📔 O LIVRO DOS ESPÍRITOS (working copy)
 
 ## `lde.0` 🗂️ Parte 0. Pré-textual
