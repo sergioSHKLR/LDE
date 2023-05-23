@@ -10668,6 +10668,9 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 > >
 > > Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados.
 
+<sub>🏷️ <code>tag</code></sub>
+
+</details>
 
 #### `lde.3.12.5` 📃 Conhecimento de si mesmo
 
