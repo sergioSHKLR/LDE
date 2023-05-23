@@ -9672,6 +9672,9 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 >“_Quanto mais inteligência tem o homem para compreender um princípio, tanto menos escusável é de o não aplicar a si mesmo. Em verdade vos digo que o homem simples, porém sincero, está mais adiantado no caminho de Deus, do que um que pretenda parecer o que não é._”
 
+<sub>🏷️ <code>tag</code></sub>
+
+</details>
 
 #### `lde.3.10.2` 📃 Escravidão
 
