@@ -2196,9 +2196,9 @@ a. A separação se dá instantaneamente por brusca transição? Haverá alguma 
 </details>
 
 ##### `lde.q161` #️⃣ 
-<details><summary>Em caso de morte violenta e acidental, quando os órgãos ainda não se enfraqueceram em consequência da idade ou das moléstias, a separação da alma e a cessação da vida ocorrem simultaneamente?
+<details><summary>Em caso de morte violenta e acidental, quando os órgãos ainda não se enfraqueceram em consequência da idade ou das moléstias, a separação da alma e a cessação da vida ocorrem simultaneamente?</summary>
 
->Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra._”
+>“_Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra._”
 
 <sub>🏷️ <code>tag</code></sub>
 
@@ -2499,7 +2499,7 @@ a. Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarn
 </details>
 
 ##### `lde.q185` #️⃣ 
-<details><summary>O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? [^9]
+<details><summary>O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo? [^9]</summary>
 
 >“_Não; os mundos também estão sujeitos à lei do progresso. Todos começaram, como o vosso, por um estado inferior e a própria Terra sofrerá idêntica transformação. Tornar-se-á um paraíso, quando os homens se houverem tornado bons._”
 
@@ -2625,7 +2625,7 @@ a. A alma de um homem perverso pode tornar-se a de um homem de bem?</summary>
 </details>
 
 ##### `lde.q196` #️⃣ 
-<details><summary>Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulações da existência corpórea, segue-se que a vida material seja uma espécie de **crisol** ou de **depurador**, por onde têm que passar todos os seres do mundo espírita para alcançarem a perfeição?</summary>
+<details><summary>Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulações da existência corpórea, segue-se que a vida material seja uma espécie de <b>crisol</b> ou de <b>depurador</b>, por onde têm que passar todos os seres do mundo espírita para alcançarem a perfeição?</summary>
 
 >“_Sim, é exatamente isso. Eles se melhoram nessas provas, evitando o mal e praticando o bem; porém, somente ao cabo de mais ou menos longo tempo, conforme os esforços que empreguem; somente após muitas encarnações ou depurações sucessivas, atingem a finalidade para que tendem._”
 
@@ -2737,7 +2737,7 @@ a. Que sucede ao Espírito de uma criança que morre pequenina?</summary>
 </details>
 
 ##### `lde.q205` #️⃣ 
-<details><summary>A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
+<details><summary>A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.</summary>
 
 >“_Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um Espírito a quem tenhais estado presos pelos laços da consanguinidade._”
 
@@ -2762,7 +2762,7 @@ a. Ela, no entanto, diminui a importância que alguns dão à genealogia, visto 
 </details>
 
 ##### `lde.q207` #️⃣ 
-<details><summary>Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
+<details><summary>Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]</summary>
 
 >“_Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade._”
 
@@ -2921,7 +2921,7 @@ a. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina 
 </details>
 
 ##### `lde.q222` #️⃣ 
-<details><summary>Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
+Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
 Portanto, ensinando o dogma da pluralidade das existências corporais, os Espíritos renovam uma doutrina que teve origem nas primeiras idades do mundo e que se conservou no íntimo de muitas pessoas, até os nossos dias. Simplesmente, eles a apresentam de um ponto de vista mais racional, mais acorde com as leis progressivas da Natureza e mais de conformidade com a sabedoria do Criador, despindo-a de todos os acessórios da superstição. Circunstância digna de nota é que não só neste livro os Espíritos a ensinaram no decurso dos últimos tempos: já antes da sua publicação, numerosas comunicações da mesma natureza se obtiveram em vários países, multiplicando-se depois, consideravelmente. Talvez fosse aqui o caso de examinarmos por que os Espíritos não parecem todos de acordo sobre esta questão. Mais tarde, porém, voltaremos a este assunto.
 
@@ -3038,10 +3038,6 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 
 #### `lde.2.06.01` 📃 Espíritos errantes
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q223` #️⃣ 
 <details><summary>A alma reencarna logo depois de se haver separado do corpo?</summary>
@@ -3222,9 +3218,9 @@ e. Em que época?</summary>
 </details>
 
 ##### `lde.q238` #️⃣ 
-<details><summary>São ilimitadas as percepções e os conhecimentos dos Espíritos? Numa palavra: eles sabem tudo?
+<details><summary>São ilimitadas as percepções e os conhecimentos dos Espíritos? Numa palavra: eles sabem tudo?</summary>
 
->palavra: eles sabem tudo? “_Quanto mais se aproximam da perfeição, tanto mais sabem. Se são Espíritos superiores, sabem muito. Os Espíritos inferiores são mais ou menos ignorantes acerca de tudo._”
+>“_Quanto mais se aproximam da perfeição, tanto mais sabem. Se são Espíritos superiores, sabem muito. Os Espíritos inferiores são mais ou menos ignorantes acerca de tudo._”
 
 <sub>🏷️ <code>tag</code></sub>
 
@@ -3411,12 +3407,8 @@ a. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?</summary
 
 #### `lde.2.06.04` 📃 Ensaio teórico da sensação nos Espíritos
 
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
-
 ##### `lde.q257` #️⃣ 
-<details><summary>O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenômenos espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
+O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenômenos espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
 
 O perispírito é o laço que à matéria do corpo prende o Espírito, que o tira do meio ambiente, do fluido universal. Participa ao mesmo tempo da eletricidade, do fluido magnético e, até certo ponto, da matéria inerte. Poder-se-ia dizer que é a quintessência da matéria. É o princípio da vida orgânica, porém, não o da vida intelectual, que reside no Espírito. É, além disso, o agente das sensações exteriores. No corpo, os órgãos, servindo-lhes de condutos, localizam essas sensações. Destruído o corpo, elas se tornam gerais. Daí o Espírito não dizer que sofre mais da cabeça do que dos pés, ou vice-versa. Não se confundam, porém, as sensações do perispírito, que se tornou independente, com as do corpo. Estas últimas só por termo de comparação as podemos tomar e não por analogia. Liberto do corpo, o Espírito pode sofrer, mas esse sofrimento não é corporal, embora não seja exclusivamente moral, como o remorso, pois que ele se queixa de frio e calor. Também não sofre mais no inverno do que no verão: temo-los visto atravessar chamas, sem experimentarem qualquer dor.
 
@@ -3446,12 +3438,7 @@ Os sofrimentos deste mundo independem, algumas vezes, de nós; muito mais vezes,
 
 Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste. 
 
-
 #### `lde.2.06.05` 📃 Escolha das provas
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q258` #️⃣ 
 <details><summary>Quando na erraticidade, antes de começar nova existência corporal, tem o Espírito consciência e previsão do que lhe sucederá no curso da vida terrena?</summary>
@@ -3625,10 +3612,6 @@ a. Não é decerto como expiação, ou como prova, que muita gente deseja as gra
 
 
 #### `lde.2.06.06` 📃 As relações no além-túmulo
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q274` #️⃣ 
 <details><summary>Da existência de diferentes ordens de Espíritos, resulta para estes alguma hierarquia de poderes? Há entre eles subordinação e autoridade?</summary>
@@ -4221,8 +4204,9 @@ a. Então, a reencarnação é uma necessidade da vida espírita, como a morte o
 </details>
 
 ##### `lde.q331` #️⃣ 
-<details><summary>Todos os Espíritos se preocupam com a sua reencarnação?
-“_Muitos há que em tal coisa não pensam, que nem sequer a compreendem. Depende de estarem mais ou menos adiantados. Para alguns, a incerteza em que se acham do futuro que os aguarda constitui punição._”
+<details><summary>Todos os Espíritos se preocupam com a sua reencarnação?</summary>
+
+>“_Muitos há que em tal coisa não pensam, que nem sequer a compreendem. Depende de estarem mais ou menos adiantados. Para alguns, a incerteza em que se acham do futuro que os aguarda constitui punição._”
 
 <sub>🏷️ <code>tag</code></sub>
 
@@ -4536,7 +4520,8 @@ a. Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e 
 
 </details>
 
-##### `lde.q363` #️⃣ 363. Têm os Espíritos paixões de que não partilhe a Humanidade?</summary>
+##### `lde.q363` #️⃣ 363
+<details><summary>Têm os Espíritos paixões de que não partilhe a Humanidade?</summary>
 
 >“_Não, que, de outro modo, vo-las teriam comunicado._”
 
@@ -5416,9 +5401,9 @@ a. Por quê?</summary>
 </details>
 
 ##### `lde.q445` #️⃣ 
-<details><summary>Que deduções se podem tirar dos fenômenos do sonambulismo e do êxtase? Não constituirão uma espécie de iniciação na vida futura?
+<details><summary>Que deduções se podem tirar dos fenômenos do sonambulismo e do êxtase? Não constituirão uma espécie de iniciação na vida futura?<details><summary>
 
->A bem dizer, mediante esses fenômenos, o homem entrevê a vida passada e a vida futura. Estude-os e achará o aclaramento de mais de um mistério, que a sua razão inutilmente procura devassar._”
+>“_A bem dizer, mediante esses fenômenos, o homem entrevê a vida passada e a vida futura. Estude-os e achará o aclaramento de mais de um mistério, que a sua razão inutilmente procura devassar._”
 
 <sub>🏷️ <code>tag</code></sub>
 
@@ -5517,12 +5502,8 @@ a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?</summary
 
 #### `lde.2.08.8` 📃 Resumo teórico do sonambulismo, do êxtase e da dupla vista
 
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
-
 ##### `lde.q455` #️⃣ 
-<details><summary>Os fenômenos do sonambulismo natural se produzem espontaneamente e independem de qualquer causa exterior conhecida. Em certas pessoas dotadas de especial organização, porém, podem ser provocados artificialmente, pela ação do agente magnético.
+Os fenômenos do sonambulismo natural se produzem espontaneamente e independem de qualquer causa exterior conhecida. Em certas pessoas dotadas de especial organização, porém, podem ser provocados artificialmente, pela ação do agente magnético.
 
 O estado que se designa pelo nome de **sonambulismo magnético** apenas difere do sonambulismo natural em que um é provocado, enquanto o outro é espontâneo.
 
@@ -5573,10 +5554,6 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 
 #### `lde.2.09.01` 📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q456` #️⃣ 
 <details><summary>Veem os Espíritos tudo o que fazemos?</summary>
@@ -5796,7 +5773,7 @@ b. De que natureza é o sofrimento que procuram infligir aos outros?</summary>
 </details>
 
 ##### `lde.q477` #️⃣ 
-<details><summary>As fórmulas de exorcismo têm qualquer eficácia sobre os maus Espíritos?
+<details><summary>As fórmulas de exorcismo têm qualquer eficácia sobre os maus Espíritos?</summary>
 
 >Não. Estes últimos riem e se obstinam, quando veem alguém tomar isso a sério._”
 
@@ -6188,7 +6165,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 </details>
 
 ##### `lde.q514` #️⃣ 
-<details><summary>Os Espíritos familiares são os mesmos a quem chamamos Espíritos simpáticos ou Espíritos protetores?
+<details><summary>Os Espíritos familiares são os mesmos a quem chamamos Espíritos simpáticos ou Espíritos protetores?</summary>
 
 >Há gradações na proteção e na simpatia. Dai-lhes os nomes que quiserdes. O Espírito familiar é antes o amigo da casa._”
 >
@@ -6225,7 +6202,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 </details>
 
 ##### `lde.q517` #️⃣ 
-<details><summary>Haverá Espíritos que se liguem a uma família inteira para protegê-la? [^14]
+<details><summary>Haverá Espíritos que se liguem a uma família inteira para protegê-la? [^14]</summary>
 
 >“_Alguns Espíritos se ligam aos membros de uma determinada família, que vivem juntos e unidos pela afeição; mas não acrediteis em Espíritos protetores do orgulho das raças._”
 
@@ -6523,7 +6500,7 @@ a. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarq
 </details>
 
 ##### `lde.q542` #️⃣ 
-<details><summary>Estando, numa guerra, a justiça sempre de um dos lados, como pode haver Espíritos que tomem o partido dos que se batem por uma causa injusta?
+<details><summary>Estando, numa guerra, a justiça sempre de um dos lados, como pode haver Espíritos que tomem o partido dos que se batem por uma causa injusta?</summary>
 
 >_”Bem sabeis haver Espíritos que só se comprazem na discórdia e na destruição. Para esses, a guerra é a guerra. A justiça da causa pouco os preocupa._”
 
@@ -6828,7 +6805,7 @@ a. Concebemos que seja assim, em se tratando de Espíritos muito adiantados. Ref
 </details>
 
 ##### `lde.q571` #️⃣ 
-<details><summary>Só os Espíritos elevados desempenham missões?
+<details><summary>Só os Espíritos elevados desempenham missões?</summary>
 
 >A importância das missões corresponde às capacidades e à elevação do Espírito. O estafeta que leva um telegrama ao seu destinatário também desempenha uma missão, se bem que diversa da de um general._”
 
@@ -7188,7 +7165,7 @@ a. Será esse princípio uma alma semelhante à do homem?</summary>
 </details>
 
 ##### `lde.q604` #️⃣ 
-<details><summary>Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, são sempre inferiores ao homem, segue-se que Deus criou seres intelectuais perpetuamente destinados à inferioridade, o que parece em desacordo com a unidade de vistas e de progresso que todas as suas obras revelam.
+<details><summary>Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, são sempre inferiores ao homem, segue-se que Deus criou seres intelectuais perpetuamente destinados à inferioridade, o que parece em desacordo com a unidade de vistas e de progresso que todas as suas obras revelam.</summary>
 
 >“_Tudo na Natureza se encadeia por elos que ainda não podeis apreender. Assim, as coisas aparentemente mais díspares têm pontos de contato que o homem, no seu estado atual, nunca chegará a compreender. Por um esforço da inteligência poderá entrevê-los, mas, somente quando essa inteligência estiver no máximo grau de desenvolvimento e liberta dos preconceitos do orgulho e da ignorância, logrará ver claro na obra de Deus. Até lá, suas muito restritas ideias lhe farão observar as coisas por um mesquinho e acanhado prisma. Sabei não ser possível que Deus se contradiga e que, na Natureza, tudo se harmoniza mediante leis gerais, que por nenhum de seus pontos deixam de corresponder à sublime sabedoria do Criador._”
 
@@ -7296,7 +7273,7 @@ b. Esse período de humanização principia na Terra?</summary>
 </details>
 
 ##### `lde.q613` #️⃣ 
-<details><summary>Embora de todo errônea, a ideia ligada à metempsicose não terá resultado do sentimento intuitivo que o homem possui de suas diferentes existências?[^15]
+<details><summary>Embora de todo errônea, a ideia ligada à metempsicose não terá resultado do sentimento intuitivo que o homem possui de suas diferentes existências?[^15]</summary>
 
 >“_Nessa, como em muitas outras crenças, se depara esse sentimento intuitivo. O homem, porém, o desnaturou, como costuma fazer com a maioria de suas ideias intuitivas._”
 >
@@ -7320,10 +7297,6 @@ b. Esse período de humanização principia na Terra?</summary>
 
 
 #### `lde.3.01.1` 📃 Caracteres da lei natural
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q614` #️⃣ 
 <details><summary>Que se deve entender por lei natural?</summary>
@@ -7914,13 +7887,8 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 #### `lde.3.02.6` 📃 Sacrifícios
 
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
-
 ##### `lde.q669` #️⃣ 669
-
-669. Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica que o homem tenha sido levado a crer que tais coisas pudessem agradar a Deus?</summary>
+<details><summary>Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica que o homem tenha sido levado a crer que tais coisas pudessem agradar a Deus?</summary>
 
 >“_Primeiramente, porque não compreendia Deus como a fonte da bondade. Nos povos primitivos, a matéria sobrepuja o espírito; eles se entregam aos instintos do animal selvagem. Por isso é que, em geral, são cruéis; é que neles o senso moral ainda não se acha desenvolvido. Em segundo lugar, é natural que os homens primitivos acreditassem ter uma criatura animada muito mais valor, aos olhos de Deus, do que um corpo material. Foi isto que os levou a imolarem, primeiro, animais e, mais tarde, homens. De conformidade com a falsa crença que possuíam, pensavam que o valor do sacrifício era proporcional à importância da vítima. Na vida material, como geralmente a praticais, se houverdes de oferecer a alguém um presente, escolhê-lo-eis sempre de tanto maior valor quanto mais afeto e consideração quiserdes testemunhar a esse alguém. Assim tinha que ser, com relação a Deus, entre homens ignorantes._”
 
@@ -8098,10 +8066,6 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 #### `lde.3.04.1` 📃 População do globo
 
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
-
 ##### `lde.q686` #️⃣ 
 <details><summary>É Lei da Natureza a reprodução dos seres vivos?</summary>
 
@@ -8124,7 +8088,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 </details>
 
 ##### `lde.q688` #️⃣ 
-<details><summary>Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em que terão desaparecido da Terra? [^17]
+<details><summary>Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em que terão desaparecido da Terra? [^17]</summary>
 
 >“_Assim acontecerá, de fato. É que outras lhes terão tomado o lugar, como outras um dia tomarão o da vossa._”
 
@@ -8133,7 +8097,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 </details>
 
 ##### `lde.q689` #️⃣ 
-<details><summary>Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados dos seres primitivos?[^18]
+<details><summary>Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados dos seres primitivos?[^18]</summary>
 
 >“_São os mesmos Espíritos que **voltaram**, para se aperfeiçoar em novos corpos, mas que ainda estão longe da perfeição. Assim, a atual raça humana, que, pelo seu crescimento, tende a invadir toda a Terra e a substituir as raças que se extinguem, terá sua fase de decrescimento e de desaparição. Substituí-la-ão outras raças mais aperfeiçoadas, que descenderão da atual, como os homens civilizados de hoje descendem dos seres brutos e selvagens dos tempos primitivos._”
 
@@ -8142,7 +8106,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 </details>
 
 ##### `lde.q690` #️⃣ 
-<details><summary>Do ponto de vista físico, são de criação especial os corpos da raça atual, ou procedem dos corpos primitivos, mediante reprodução? [^19]
+<details><summary>Do ponto de vista físico, são de criação especial os corpos da raça atual, ou procedem dos corpos primitivos, mediante reprodução? [^19]</summary>
 
 >“_A origem das raças se perde na noite dos tempos. Como todas pertencem, porém, à grande família humana, qualquer que tenha sido o tronco de cada uma, elas puderam aliar-se entre si e produzir tipos novos._”
 
@@ -8151,7 +8115,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 </details>
 
 ##### `lde.q691` #️⃣ 
-<details><summary>Qual, do ponto de vista físico, o caráter distintivo e dominante das raças primitivas? [^20] 
+<details><summary>Qual, do ponto de vista físico, o caráter distintivo e dominante das raças primitivas? [^20]</summary>
 
 >“_Desenvolvimento da força bruta, à custa da força intelectual. Agora, dá-se o contrário: o homem faz mais pela inteligência do que pela força do corpo. Todavia, faz cem vezes mais, porque soube tirar proveito das forças da Natureza, o que não conseguem os animais._”
 
@@ -9339,12 +9303,8 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 #### `lde.3.08.6` 📃 Influência do Espiritismo no progresso
 
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
-
 ##### `lde.q798` #️⃣ 
-<details><summary>O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como crença, apenas por algumas pessoas? [^21]
+<details><summary>O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como crença, apenas por algumas pessoas? [^21]</summary>
 
 >“_Certamente que se tornará crença geral e marcará nova era na história da Humanidade, porque está na natureza e chegou o tempo em que ocupará lugar entre os conhecimentos humanos. Terá, no entanto, que sustentar grandes lutas, mais contra o interesse, do que contra a convicção, porquanto não há como dissimular a existência de pessoas interessadas em combatê-lo, umas por amor-próprio, outras por causas inteiramente materiais. Porém, como virão a ficar insulados, seus contraditores se sentirão forçados a pensar como os demais, sob pena de se tornarem ridículos._”
 >
@@ -9696,10 +9656,6 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 #### `lde.3.10.2` 📃 Escravidão
 
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
-
 ##### `lde.q829` #️⃣ 
 <details><summary>Haverá homens que estejam, por natureza, destinados a ser propriedades de outros homens?</summary>
 
@@ -9721,7 +9677,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 </details>
 
 ##### `lde.q831` #️⃣ 
-<details><summary>A desigualdade natural das aptidões não coloca certas raças humanas sob a dependência das raças mais inteligentes? [^22]
+<details><summary>A desigualdade natural das aptidões não coloca certas raças humanas sob a dependência das raças mais inteligentes? [^22]</summary>
 
 >“_Sim, mas para que estas as elevem, não para embrutecê-las ainda mais pela escravização. Durante longo tempo, os homens consideraram certas raças humanas como animais de trabalho, munidos de braços e mãos, e se julgaram com o direito de vender os dessas raças como bestas de carga. Consideram-se de sangue mais puro os que assim procedem. Insensatos! nada veem senão a matéria. Mais ou menos puro não é o sangue, porém o Espírito._” (lde.q361 a lde.q803)
 
@@ -10126,7 +10082,7 @@ a. Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam 
 </details>
 
 ##### `lde.q872` #️⃣ 
-<details><summary>A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
+A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
 
 Desprendido da matéria e no estado de erraticidade, o Espírito procede à escolha de suas futuras existências corporais, de acordo com o grau de perfeição a que haja chegado e é nisto, como temos dito, que consiste sobretudo o seu livre-arbítrio. Esta liberdade, a encarnação não a anula. Se ele cede à influência da matéria, é que sucumbe nas provas que por si mesmo escolheu. Para ter quem o ajude a vencê-las, concedido lhe é invocar a assistência de Deus e dos bons Espíritos. (lde.q337)
 
@@ -10153,10 +10109,6 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 
 #### `lde.3.11.1` 📃 Justiça e direitos naturais
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q873` #️⃣ 
 <details><summary>O sentimento da justiça está na natureza, ou é resultado de ideias adquiridas?</summary>
@@ -10327,7 +10279,7 @@ a. Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que
 </details>
 
 ##### `lde.q887` #️⃣ 
-<details><summary>Jesus também disse: Amai mesmo os vossos inimigos. Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos? (✝️ Mateus, cap. 5, vers. 44)
+<details><summary>Jesus também disse: Amai mesmo os vossos inimigos. Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos? (✝️ Mateus, cap. 5, vers. 44)</summary>
 
 >“_Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança._”
 
@@ -10670,12 +10622,8 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 #### `lde.3.12.4` 📃 Caracteres do homem de bem
 
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
-
 ##### `lde.q918` #️⃣ 
-<details><summary>Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? [^23]
+<details><summary>Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? [^23]</summary>
 
 >“_O Espírito prova a sua elevação, quando todos os atos de sua vida corporal representam a prática da Lei de Deus e quando antecipadamente compreende a vida espiritual._”
 >
@@ -10697,10 +10645,6 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 
 #### `lde.3.12.5` 📃 Conhecimento de si mesmo
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q919` #️⃣ 
 <details><summary>Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal?</summary>
@@ -11786,7 +11730,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 </details>
 
 ##### `lde.q1011` #️⃣ 
-<details><summary>Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrina da reencarnação? [^25]
+<details><summary>Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrina da reencarnação? [^25]</summary>
 
 >“_É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o Espiritismo ressalta a cada passo do texto mesmo das Escrituras sagradas. Os Espíritos, portanto, não vêm subverter a religião, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes._”
 >
@@ -11798,10 +11742,6 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 
 #### `lde.4.2.9` 📃 Paraíso, inferno e purgatório
-
-<sub>🏷️ <code>tag</code></sub>
-
-</details>
 
 ##### `lde.q1012` #️⃣ 
 <details><summary>Haverá no Universo lugares circunscritos para as penas e gozos dos Espíritos, segundo seus merecimentos?</summary>
@@ -11889,7 +11829,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 >“_Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias._”
 >
 > **São Luís** 
-
+</details>
 
 ## `lde.5` 🗂️ Parte 5. Conclusão
 
