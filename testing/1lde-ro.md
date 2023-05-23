@@ -7296,6 +7296,9 @@ b. Esse período de humanização principia na Terra?</summary>
 > >
 > > Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos. 
 
+<sub>🏷️ <code>tag</code></sub>
+
+</details>
 
 ## `lde.3` 🗂️ Parte 3. Das Leis morais
 
