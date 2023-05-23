@@ -12060,11 +12060,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 [^15]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
-[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, <sub>🏷️ <code>tag</code></sub>
-
-</details>
-
-##### `lde.q664`, é do Espírito **São Luís**.
+[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, `lde.q664`, é do Espírito **São Luís**.
 
 [^17]: N.E.: Ver `lde.6.1` 📄 1. Nota explicativa.
 
