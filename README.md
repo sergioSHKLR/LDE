@@ -5,12 +5,7 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
-| Descrição | arquivo |
-| --- | --- |
-| sem Índice Geral ou tags; respostas à mostra | [**1lde**-05.23b2.md](./1lde-05.23b2.md) | 
-| sem Índice Geral ou tags; respostas ocultas | **1lde-ro**-(versão).md | 
-| com Índice Geral e tags; respostas à mostra | **1lde-ig**-(versão).md | 
-| com Índice Geral e tags; respostas ocultas | **1lde-ro-ig**-(versão).md | 
+[**1lde**-05.23b2.md](./1lde-05.23b2.md)
 
 ## 1. Objetivo
 
@@ -67,9 +62,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ### 6.1. Formatação de texto (1lde)
 
----
-
-#### 6.1.1. Respostas à mostra
+#### 6.1.1 Questões
 
 `lde.q3` #️⃣ 3
 
@@ -80,20 +73,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ---
 
-#### 6.1.2. Respostas ocultas
-
-`lde.q3` #️⃣ 3
-<details><summary>3. Poder-se-ia dizer que <b>Deus</b> é o infinito?</summary>
-
-> “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
->> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
- 
- 🏷️ <code>Deus</code>, <code>Infinito</code>
-</details>
-
----
-
-#### 6.1.3. Trechos bíblicos
+#### 6.1.2 Trechos bíblicos
 
 E disse Jesus:
 
@@ -122,9 +102,10 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
+<!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ | :card_file_box: |
 | 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto | label |
-<!-- | ⚜️ | fim | término de um elemento | fleur_de_lis | -->
+| ⚜️ | fim | término de um elemento | fleur_de_lis | -->
 
 ### 6.3. Hierarquia 
 
@@ -140,8 +121,6 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
                 └── #️⃣ questão
 
 ✝️ ─ trecho bíblico
-🗃️ ─ Índice Geral
-🏷️ ─ assunto
 ```
 
 ### 6.4. Código mestre
