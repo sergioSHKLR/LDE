@@ -391,6 +391,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >“_Deus é a inteligência suprema, causa primária de todas as coisas._” [^4], [^5]
 
+<sub>🏷️ <code>tag</code></sub>
+
 </details>
 
 ##### `lde.q2` #️⃣ 2
