@@ -1339,7 +1339,7 @@ a. Por que nem sempre é guia infalível a razão?</summary>
 </details>
 
 ##### `lde.q83` #️⃣ 
-<details><summary>Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
+<details><summary>Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.</summary>
 
 >“_Há muitas coisas que não compreendeis, porque tendes limitada a inteligência. Isso, porém, não é razão para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos Espíritos não tem fim. É tudo o que podemos, por agora, dizer._” 
 
@@ -3404,6 +3404,7 @@ a. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?</summary
 
 >“_É reminiscência do que padecem durante a vida, reminiscência não raro tão aflitiva quanto a realidade. Muitas vezes, no que eles assim dizem apenas há uma comparação mediante a qual, em falta de coisa melhor, procuram exprimir a situação em que se acham. Quando se lembram do corpo que revestiram, têm impressão semelhante à de uma pessoa que, havendo tirado o manto que a envolvia, julga, passado algum tempo, que ainda o traz sobre os ombros._” 
 
+</details>
 
 #### `lde.2.06.04` 📃 Ensaio teórico da sensação nos Espíritos
 
