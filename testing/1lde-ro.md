@@ -10641,6 +10641,9 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 > >
 > > O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.
 
+<sub>🏷️ <code>tag</code></sub>
+
+</details>
 
 #### `lde.3.12.4` 📃 Caracteres do homem de bem
 
