@@ -3404,7 +3404,7 @@ a. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?</summary
 
 >“_É reminiscência do que padecem durante a vida, reminiscência não raro tão aflitiva quanto a realidade. Muitas vezes, no que eles assim dizem apenas há uma comparação mediante a qual, em falta de coisa melhor, procuram exprimir a situação em que se acham. Quando se lembram do corpo que revestiram, têm impressão semelhante à de uma pessoa que, havendo tirado o manto que a envolvia, julga, passado algum tempo, que ainda o traz sobre os ombros._” 
 
-
+</details>
 
 #### `lde.2.06.04` 📃 Ensaio teórico da sensação nos Espíritos
 
