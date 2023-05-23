@@ -5505,7 +5505,7 @@ a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 <sub>🏷️ <code>tag</code></sub>
 
-
+</details>
 
 #### `lde.2.08.8` 📃 Resumo teórico do sonambulismo, do êxtase e da dupla vista
 
