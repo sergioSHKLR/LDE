@@ -9316,6 +9316,9 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 >“_Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera!_” 
 
+<sub>🏷️ <code>tag</code></sub>
+
+</details>
 
 #### `lde.3.08.6` 📃 Influência do Espiritismo no progresso
 
