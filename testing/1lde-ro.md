@@ -5405,7 +5405,7 @@ a. Por quê?</summary>
 </details>
 
 ##### `lde.q445` #️⃣ 
-<details><summary>Que deduções se podem tirar dos fenômenos do sonambulismo e do êxtase? Não constituirão uma espécie de iniciação na vida futura?<details><summary>
+<details><summary>Que deduções se podem tirar dos fenômenos do sonambulismo e do êxtase? Não constituirão uma espécie de iniciação na vida futura?</summary>
 
 >“_A bem dizer, mediante esses fenômenos, o homem entrevê a vida passada e a vida futura. Estude-os e achará o aclaramento de mais de um mistério, que a sua razão inutilmente procura devassar._”
 
