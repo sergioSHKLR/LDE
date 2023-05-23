@@ -1,4 +1,4 @@
-# 👻 O LIVRO DOS ESPÍRITOS
+# O LIVRO DOS ESPÍRITOS
 Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 ## 0. Direto ao ponto                       
