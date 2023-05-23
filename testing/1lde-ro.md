@@ -5499,10 +5499,13 @@ a. Esta faculdade tem qualquer ligação com a organização física?</summary>
 
 >“_É sempre a alma a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria._”
 
-a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?</summary>
+a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 >“_Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente._” 
 
+<sub>🏷️ <code>tag</code></sub>
+
+</details>
 
 #### `lde.2.08.8` 📃 Resumo teórico do sonambulismo, do êxtase e da dupla vista
 
