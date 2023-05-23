@@ -699,7 +699,7 @@ a. Esse fluido será o que designamos pelo nome de eletricidade?</summary>
 </details>
 
 ##### `lde.q28` #️⃣ 
-<details><summary>Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?</summary>
+<details><summary>Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — <b>matéria inerte</b> e <b>matéria inteligente</b>?</summary>
 
 >“_As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos._”
 > > Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
