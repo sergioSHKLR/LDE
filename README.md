@@ -84,7 +84,7 @@ E disse Jesus:
 ---
 
 ### 6.2. Legenda
-
+<!--
 Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
 | **Livro** | **Abreviação** | **emoji** | **GFM** |
@@ -94,6 +94,7 @@ Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Indi
 | O Evangelho segundo o Espiritismo | ESE | 🕊️ | dove |
 | O Céu e o Inferno | CEU | 🔥 | fire |
 | A Gênese | GEN | 🌱 | seedling |
+-->
 
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
