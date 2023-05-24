@@ -85,9 +85,19 @@ E disse Jesus:
 
 ### 6.2. Legenda
 
-Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou grupamento.
+Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
-| **Icone** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
+| **Livro** | **Abreviação** | **emoji** | **GFM** |
+|---|---|---|---|
+| O Livro dos Espíritos | LDE | 👻 | ghost |
+| O Livro dos Médiuns | LDM | ✒️ | black_nib |
+| O Evangelho segundo o Espiritismo | ESE | 🕊️ | dove |
+| O Céu e o Inferno | CEU | 🔥 | fire |
+| A Gênese | GEN | 🌱 | seedling |
+
+Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
+
+| **emoji** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
 |---|---|---|---|---|---|---|
 | 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `lde` | notebook_with_decorative_cover |
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `lde.X` | card_index_dividers |
