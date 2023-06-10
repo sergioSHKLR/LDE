@@ -45,8 +45,6 @@ Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição 
 
 Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
-
 ### 4.1. Formatação de texto (livro impresso)
 
 Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, capítulo e versículo.
@@ -87,8 +85,6 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 - trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
-
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
 
 ### 6.1. Formatação de texto (1lde)
 
@@ -191,6 +187,8 @@ lde.qXa
 ```
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
+
+[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
 
 ## 7. Controle de Qualidade
 
