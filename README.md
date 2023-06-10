@@ -1,6 +1,20 @@
 # 👻 O LIVRO DOS ESPÍRITOS
 Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
+**Sumário**
+
+  - [0. Direto ao ponto](#0-direto-ao-ponto)
+  - [1. Objetivo](#1-objetivo)
+  - [2. Análise](#2-anlise)
+  - [3. Formato de arquivo](#3-formato-de-arquivo)
+  - [4. Obra original](#4-obra-original)
+  - [5. Método](#5-mtodo)
+  - [6. Padronização](#6-padronizao)
+  - [7. Controle de Qualidade](#7-controle-de-qualidade)
+  - [8. Autor](#8-autor)
+  - [9. Agradecimentos](#9-agradecimentos)
+  - [10. Notas](#10-notas)
+
 ## 0. Direto ao ponto                       
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
