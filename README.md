@@ -9,7 +9,7 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
   - [3. Formato de arquivo](#3-formato-de-arquivo)
   - [4. Obra original](#4-obra-original)
   - [5. Método](#5-m%C3%A9todo)
-  - [6. Padronização](#6-padronizao)
+  - [6. Padronização](#6-padroniza%C3%A7%C3%A3o)
   - [7. Controle de Qualidade](#7-controle-de-qualidade)
   - [8. Autor](#8-autor)
   - [9. Agradecimentos](#9-agradecimentos)
