@@ -19,9 +19,9 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
-
 [**1lde**-2023-06-05-b1.md](./releases/1lde-2023-06-05-b1.md)
+
+[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
 
 ## 1. Objetivo
 
