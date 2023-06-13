@@ -1,1 +1,13 @@
+############################
+# --- Required options --- #
+############################
+
+# Name of website
+title: My Website
+
+# Your name to show in the footer
+author: Some Person
+
+# Add a search button to the navbar
+post_search: true;
 theme: slate
