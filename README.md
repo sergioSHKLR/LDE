@@ -5,11 +5,11 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
   - [0. Direto ao ponto](#0-direto-ao-ponto)
   - [1. Objetivo](#1-objetivo)
-  - [2. Análise](#2-an%C3%A1lise)
+  - [2. Análise](#2-análise)
   - [3. Formato de arquivo](#3-formato-de-arquivo)
   - [4. Obra original](#4-obra-original)
-  - [5. Método](#5-m%C3%A9todo)
-  - [6. Padronização](#6-padroniza%C3%A7%C3%A3o)
+  - [5. Método](#5-método)
+  - [6. Padronização](#6-padronização)
   - [7. Controle de Qualidade](#7-controle-de-qualidade)
   - [8. Autor](#8-autor)
   - [9. Agradecimentos](#9-agradecimentos)
@@ -21,25 +21,25 @@ O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
 [**1lde**-2023-06-10-b1.md](./releases/1lde-2023-06-10-b1.md)
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 1. Objetivo
 
 Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 2. Análise
 
 Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso que um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 3. Formato de arquivo
 
 Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 4. Obra original
 
@@ -65,7 +65,7 @@ Como se vê, na pergunta, a palavra 'Deus' foi realçada em estilo normal, visto
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 5. Método
 
@@ -73,7 +73,7 @@ Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto q
 
 Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `lde.1` 🗂️ Parte 1 - título como `lde.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `lde.5` 🗂️ Parte 5 - Conclusão, decidimos por dar-lhes o nome de `lde.6` 🗂️ Parte 6 e o título de Pós-textual.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 6. Padronização
 
@@ -188,7 +188,7 @@ lde.qXa
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 7. Controle de Qualidade
 
@@ -196,13 +196,13 @@ Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no 
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 8. Autor
 
 Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 9. Agradecimentos
 
@@ -210,14 +210,13 @@ Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar a
 
 Deus abençoa, sempre!
 
-![Sergio SHKLR](./images/sign-dark.png#gh-dark-mode-only)
-![Sergio SHKLR](./images/sign-light.png#gh-light-mode-only)
+![Sergio SHKLR](./images/sign.png)
 
 | cargo | organização | website | email |
 | --- | --- | --- | --- |
 | 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde) |
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
 
 ## 10. Notas
 
@@ -239,4 +238,4 @@ Deus abençoa, sempre!
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
-[topo ⤴️](#-o-livro-dos-esp%C3%ADritos)
+[topo ⤴️](#-o-livro-dos-espíritos)
