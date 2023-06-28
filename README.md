@@ -19,7 +19,7 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
 
-📔 [**1lde**-2023-06-13.md](./releases/1lde-2023-06-13.md)
+📔 [**1lde**-2023-06-28.md](./releases/1lde-2023-06-28.md)
 
 [topo ⤴️](#-o-livro-dos-espíritos)
 
@@ -71,7 +71,7 @@ Consideramos estas escolhas de formatações demasiada sutis (não chamam a aten
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `lde.1` 🗂️ Parte 1 - título como `lde.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `lde.5` 🗂️ Parte 5 - Conclusão, decidimos por dar-lhes o nome de `lde.6` 🗂️ Parte 6 e o título de Pós-textual.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDE.1` 🗂️ Parte 1 - título como `LDE.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDE.5` 🗂️ Parte 5 - Conclusão, decidimos por dar-lhes o nome de `LDE.6` 🗂️ Parte 6 e o título de Pós-textual.
 
 [topo ⤴️](#-o-livro-dos-espíritos)
 
@@ -90,7 +90,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 #### 6.1.1 Questões
 
-`lde.q3` #️⃣ 3
+`LDE.q3` #️⃣ 3
 
 3. Poder-se-ia dizer que **Deus** é o infinito?
 
@@ -124,11 +124,11 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 
 | **emoji** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
 |---|---|---|---|---|---|---|
-| 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `lde` | notebook_with_decorative_cover |
-| 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `lde.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes | 📃 seções | 🗂️ partes | `lde.X.X` | bookmark_tabs |
-| 📃 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `lde.X.X.X` | page_with_curl |
-| #️⃣ | questão | pergunta, reposta e comentário * | - | 📃 seções | `lde.qX` | hash |
+| 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `LDE` | notebook_with_decorative_cover |
+| 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `LDE.X` | card_index_dividers |
+| 📑 | capítulo | subdivisão de partes | 📃 seções | 🗂️ partes | `LDE.X.X` | bookmark_tabs |
+| 📃 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `LDE.X.X.X` | page_with_curl |
+| #️⃣ | questão | pergunta, reposta e comentário * | - | 📃 seções | `LDE.qX` | hash |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
@@ -163,7 +163,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 ```
-lde.X.X.X
+LDE.X.X.X
  |  | | |
  |  | | └── 📃 seção
  |  | | 
@@ -174,10 +174,10 @@ lde.X.X.X
  └── 📔 livro
 ```
 
-E em especial no LDE, o código para questões é modificado de `lde.X.X.X.X` para:
+E em especial no LDE, o código para questões é modificado de `LDE.X.X.X.X` para:
 
 ```
-lde.qXa
+LDE.qXa
  |   ||
  |   |└── sub-questão
  |   |
@@ -186,7 +186,7 @@ lde.qXa
  └── 📔 livro
 ```
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE.q909a`).
 
 [topo ⤴️](#-o-livro-dos-espíritos)
 
@@ -220,7 +220,7 @@ Deus abençoa, sempre!
 
 ## 10. Notas
 
-- **1lde.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+- **1LDE.md** e seus variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
