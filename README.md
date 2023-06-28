@@ -214,7 +214,7 @@ Deus abençoa, sempre!
 
 | cargo | organização | website | email |
 | --- | --- | --- | --- |
-| 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde) |
+| 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=LDE.md) |
 
 [topo ⤴️](#-o-livro-dos-espíritos)
 
