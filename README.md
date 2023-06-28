@@ -112,35 +112,35 @@ E disse Jesus:
 ### 6.2. Legenda
 Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
-**emoji** | **Abreviação** | **Livro** | **GFM** |
+**emoji** | **Abreviação** | **Livro** |
 |---|---|---|---|
-|  👻 | LDE | O Livro dos Espíritos | ghost |
-|  ✒️ | LDM | O Livro dos Médiuns | black_nib |
-|  🕊️ | ESE | O Evangelho segundo o Espiritismo | dove |
-|  🔥 | CEU | O Céu e o Inferno | fire |
-|  🌱 | GEN | A Gênese | seedling |
+|  👻 | LDE | O Livro dos Espíritos |
+|  ✒️ | LDM | O Livro dos Médiuns |
+|  🕊️ | ESE | O Evangelho segundo o Espiritismo |
+|  🔥 | CEU | O Céu e o Inferno |
+|  🌱 | GEN | A Gênese |
 
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
-| **emoji** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
+| **emoji** | **Descrição** | **Conteúdo** | **Parte de** | **Código mestre** |
 |---|---|---|---|---|---|---|
-| 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `LDE` | notebook_with_decorative_cover |
-| 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `LDE.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes | 📃 seções | 🗂️ partes | `LDE.X.X` | bookmark_tabs |
-| 📃 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `LDE.X.X.X` | page_with_curl |
-| #️⃣ | questão | pergunta, reposta e comentário * | - | 📃 seções | `LDE.qX` | hash |
+| 📔 | livro | obra completa | 🗂️ partes | `LDE` |
+| 🗂️ | parte | subdivisão da obra | 📑 capítulos | `LDE.X` |
+| 📑 | capítulo | subdivisão de partes | 📃 seções | `LDE.X.X` |
+| 📃 | seção | subdivisão de capítulos | #️⃣ questões | `LDE.X.X.X` |
+| #️⃣ | questão | pergunta, reposta e comentário * | - | `LDE.qX` |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
 ##### 6.2.1. Adicionais
 
-| **Icone** | **Descrição** | **Conteúdo** | **GFM** |
+| **Icone** | **Descrição** | **Conteúdo** |
 |---|---|---|---|
-| ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
+| ✝️ | trecho bíblico | trecho, livro, capítulo, versículo |
 <!--
-| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ | :card_file_box: |
-| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto | label |
-| ⚜️ | fim | término de um elemento | fleur_de_lis | -->
+| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
+| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
+| ⚜️ | fim | término de um elemento | -->
 
 ### 6.3. Hierarquia 
 
