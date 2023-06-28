@@ -112,13 +112,13 @@ E disse Jesus:
 ### 6.2. Legenda
 Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
-**emoji** | **Livro** | **Abreviação** | **GFM** |
+**emoji** | **Abreviação** | **Livro** | **GFM** |
 |---|---|---|---|
-|  👻 | O Livro dos Espíritos | LDE | ghost |
-|  ✒️ | O Livro dos Médiuns | LDM | black_nib |
-|  🕊️ | O Evangelho segundo o Espiritismo | ESE | dove |
-|  🔥 | O Céu e o Inferno | CEU | fire |
-|  🌱 | A Gênese | GEN | seedling |
+|  👻 | LDE | O Livro dos Espíritos | ghost |
+|  ✒️ | LDM | O Livro dos Médiuns | black_nib |
+|  🕊️ | ESE | O Evangelho segundo o Espiritismo | dove |
+|  🔥 | CEU | O Céu e o Inferno | fire |
+|  🌱 | GEN | A Gênese | seedling |
 
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
