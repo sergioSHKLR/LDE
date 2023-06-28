@@ -86,7 +86,7 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
-### 6.1. Formatação de texto (1lde)
+### 6.1. Formatação de texto (LDE.md)
 
 #### 6.1.1 Questões
 
