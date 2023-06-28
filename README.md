@@ -123,7 +123,7 @@ Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Indi
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
 | **emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
-|---|---|---|---|---|
+|---|---|---|---|
 | 📔 | livro | obra completa | `LDE` |
 | 🗂️ | parte | subdivisão da obra | `LDE.X` |
 | 📑 | capítulo | subdivisão de partes | `LDE.X.X` |
