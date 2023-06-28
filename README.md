@@ -122,13 +122,13 @@ Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Indi
 
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
-| **emoji** | **Descrição** | **Conteúdo** | **Parte de** | **Código mestre** |
+| **emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
 |---|---|---|---|---|
-| 📔 | livro | obra completa | 🗂️ partes | `LDE` |
-| 🗂️ | parte | subdivisão da obra | 📑 capítulos | `LDE.X` |
-| 📑 | capítulo | subdivisão de partes | 📃 seções | `LDE.X.X` |
-| 📃 | seção | subdivisão de capítulos | #️⃣ questões | `LDE.X.X.X` |
-| #️⃣ | questão | pergunta, reposta e comentário * | - | `LDE.qX` |
+| 📔 | livro | obra completa | `LDE` |
+| 🗂️ | parte | subdivisão da obra | `LDE.X` |
+| 📑 | capítulo | subdivisão de partes | `LDE.X.X` |
+| 📃 | seção | subdivisão de capítulos | `LDE.X.X.X` |
+| #️⃣ | questão | pergunta, reposta e comentário * | `LDE.qX` |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
