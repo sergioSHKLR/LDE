@@ -130,7 +130,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 | 📃 | seção | subdivisão de capítulos | `LDE.X.X.X` |
 | #️⃣ | questão | pergunta, reposta e comentário * | `LDE.qX` |
 
-* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
+/* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
 ##### 6.2.1. Adicionais
 
