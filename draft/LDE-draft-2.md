@@ -1,6 +1,4 @@
-# LDE
-👻 O LIVRO DOS ESPÍRITOS
-(draft)
+<h1 name="LDE">👻 O LIVRO DOS ESPÍRITOS (draft2)</h1>
 
 ---
 <!-- 
