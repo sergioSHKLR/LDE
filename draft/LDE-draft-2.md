@@ -1,9 +1,10 @@
-# 👻 O LIVRO DOS ESPÍRITOS (draft2)
+# 👻 O LIVRO DOS ESPÍRITOS (draft-2)
 <p name="LDE"><code>LDE</code></p>
 
 ---
 
-## <h2 name="LDE-0">LDE-0 🗂️ Parte 0. Pré-textual</h2>
+## 🗂️ Parte 0. Pré-textual
+<p name="LDE-0"><code>LDE=0</code></p>
 
 [🔝 topo](#lde)
 
