@@ -399,7 +399,7 @@
 
 ---
 
-<h2 name="LDE-0">🗂️ Parte 0 - Pré-textual</h2>
+<h2 name="LDE-0">LDE-0 🗂️ Parte 0. Pré-textual</h2>
 
 [🔝 topo](#lde)
 
@@ -877,8 +877,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-<a name="LDE-1">
-🗂️ Parte 1. Das causas primárias
+<h2 name="LDE-1">LDE-1 🗂️ Parte 1. Das causas primárias</h2>
 
 [🔝 topo](#lde)
 
