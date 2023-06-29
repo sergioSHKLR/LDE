@@ -401,11 +401,7 @@
 
 ---
 
-[questão 1](#LDE-q1)
----
-
-## LDE-0
-🗂️ Parte 0. Pré-textual
+<h2 name="LDE-0">🗂️ Parte 0 - Pré-textual</a>
 
 [🔝 topo](#lde)
 
@@ -883,7 +879,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-## LDE-1
+<a name="LDE-1">
 🗂️ Parte 1. Das causas primárias
 
 [🔝 topo](#lde)
@@ -1557,7 +1553,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 ---
 
-## LDE-2
+<a name="LDE-2">
 🗂️ Parte 2. Do mundo espírita
 
 [🔝 topo](#lde)
@@ -5717,7 +5713,7 @@ b. Esse período de humanização principia na Terra?
 
 ---
 
-## LDE-3
+<a name="LDE-3">
 🗂️ Parte 3. Das Leis morais
 
 [🔝 topo](#lde)
@@ -8144,7 +8140,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 ---
 
-## LDE-4
+<a name="LDE-4">
 🗂️ Parte 4. Das esperanças e consolações
 
 ### LDE-4-01
@@ -8947,7 +8943,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 ---
 
-## LDE-5
+<a name="LDE-5">
 🗂️ Parte 5. Conclusão
 
 ### LDE-5-01
@@ -9078,7 +9074,7 @@ FIM DA OBRA ORIGINAL
 
 ---
 
-## LDE-6
+<a name="LDE-6">
 🗂️ Parte 6. Pós-textual
 
 ### LDE-6-01
