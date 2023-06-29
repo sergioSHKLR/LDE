@@ -1,7 +1,6 @@
 # 👻 O LIVRO DOS ESPÍRITOS (draft2)
 <code name="LDE"></code>
 
-<!-- 
 <style>
   details>summary {
     list-style: none;
@@ -15,7 +14,7 @@
     content: ' ＋';
   }
   ul, summary, details, p {line-height: 1;}
-</style> -->
+</style> 
 <ul>
   <details>
     <summary><a href="#lde-0">LDE-0</a></summary>
@@ -419,7 +418,7 @@ Filosofia Espiritualista
 
 Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns — recebidos e coordenados
 
-por Allan Kardec. 
+por Allan Kardec.<br />
 Tradução de Guillon Ribeiro
 
 Título do original francês<br />
