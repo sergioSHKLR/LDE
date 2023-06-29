@@ -1,10 +1,10 @@
 # 👻 O LIVRO DOS ESPÍRITOS (draft-2)
-<p name="LDE"><code>LDE</code></p>
+<a name="LDE"><code>LDE</code></a>
 
 ---
 
 ## 🗂️ Parte 0. Pré-textual
-<p name="LDE-0"><code>LDE-0</code></p>
+<a name="LDE-0"><code>LDE-0</code></a>
 
 [🔝 topo](#lde)
 
@@ -483,7 +483,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 ## 🗂️ Parte 1. Das causas primárias
-<p name="LDE-1"><code>LDE-1</code></p>
+<a name="LDE-1"><code>LDE-1</code></a>
 
 [🔝 topo](#lde)
 
@@ -1157,7 +1157,7 @@ a. Por que nem sempre é guia infalível a razão?
 ---
 
 ## 🗂️ Parte 2. Do mundo espírita
-<p name="LDE-2"><code>LDE-2</code></p>
+<a name="LDE-2"><code>LDE-2</code></a>
 
 [🔝 topo](#lde)
 
@@ -5317,7 +5317,7 @@ b. Esse período de humanização principia na Terra?
 ---
 
 ## 🗂️ Parte 3. Das Leis morais
-<p name="LDE-3"><code>LDE-3</code></p>
+<a name="LDE-3"><code>LDE-3</code></a>
 
 [🔝 topo](#lde)
 
@@ -7744,7 +7744,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 ---
 
 ## 🗂️ Parte 4. Das esperanças e consolações
-<p name="LDE-4"><code>LDE-4</code></p>
+<a name="LDE-4"><code>LDE-4</code></a>
 
 ### LDE-4-01
 📑 1. Das penas e gozos terrestres
@@ -8547,7 +8547,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 ---
 
 ## 🗂️ Parte 5. Conclusão
-<p name="LDE-5"><code>LDE-5</code></p>
+<a name="LDE-5"><code>LDE-5</code></a>
 
 ### LDE-5-01
 📃 Conclusão 01
@@ -8678,7 +8678,7 @@ FIM DA OBRA ORIGINAL
 ---
 
 ## 🗂️ Parte 6. Pós-textual
-<p name="LDE-6"><code>LDE-6</code></p>
+<a name="LDE-6"><code>LDE-6</code></a>
 
 ### LDE-6-01
 📃 1. Nota explicativa [^27]
