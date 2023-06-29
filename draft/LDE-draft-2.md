@@ -482,7 +482,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-<h2 name="LDE-1">LDE-1 🗂️ Parte 1. Das causas primárias</h2>
+## 🗂️ Parte 1. Das causas primárias
+<p name="LDE-1"><code>LDE-1</code></p>
 
 [🔝 topo](#lde)
 
