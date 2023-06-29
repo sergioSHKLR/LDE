@@ -6,9 +6,8 @@
 ## 🗂️ Parte 0. Pré-textual
 <a name="LDE-0"><code>LDE-0</code></a>
 
-<p style="text-align: right;">
 [🔝 topo](#LDE)
-</p>
+
 ---
 
 ### LDE-0-01
