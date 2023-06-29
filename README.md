@@ -79,10 +79,10 @@ Analisando a divisão do livro em partes, decidimos nomear a seção anterior à
 
 Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
-- respostas dos Espíritos (entre aspas) serão destacadas em *blockquote* (linha cinza vertical, simples),
-- comentários de Kardec serão *nested blockquotes* (linha cinza vertical, dupla),
-- trechos bíblicos serão identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo,
-- trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
+- respostas dos Espíritos (entre aspas) serão em itálico, destacadas em _blockquote_ (linha cinza vertical, simples).
+- comentários de Kardec serão _nested blockquotes_ (linha cinza vertical, dupla).
+- trechos bíblicos serão em itálico identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo.
+- trechos originalmente realçados em _itálico_ foram mudados para **negrito**.
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
@@ -94,7 +94,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 3. Poder-se-ia dizer que **Deus** é o infinito?
 
-> “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
+> “_Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens._”
 >> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
 
 ---
