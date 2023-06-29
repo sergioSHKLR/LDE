@@ -3,6 +3,7 @@
 (draft)
 
 ---
+<!-- 
 <style>
   details>summary {
     list-style: none;
@@ -15,8 +16,8 @@
   summary::after {
     content: ' ＋';
   }
-  ul, summary, details {line-height: 1;}
-</style>
+  ul, summary, details, p {line-height: 1;}
+</style> -->
 <ul>
 <details>
   <summary><a href="#lde-0">LDE-0</a></summary>
