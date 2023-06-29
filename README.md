@@ -90,8 +90,8 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 #### 6.1.1 Questões
 
-LDE.q3
-#️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
+LDE.q3 #️⃣ 3
+3. Poder-se-ia dizer que **Deus** é o infinito?
 
 > “_Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens._”
 >> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
