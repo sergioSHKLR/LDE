@@ -1,5 +1,5 @@
-# <h1 name="LDE">👻 O LIVRO DOS ESPÍRITOS (draft2)</h1>
-
+# 👻 O LIVRO DOS ESPÍRITOS (draft2)
+<h1 name="LDE"></h1>
 ---
 
 ## <h2 name="LDE-0">LDE-0 🗂️ Parte 0. Pré-textual</h2>
