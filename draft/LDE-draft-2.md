@@ -1153,8 +1153,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 ---
 
-<a name="LDE-2">
-🗂️ Parte 2. Do mundo espírita
+## <a name="LDE-2">LDE-2 🗂️ Parte 2. Do mundo espírita
 
 [🔝 topo](#lde)
 
@@ -5313,8 +5312,7 @@ b. Esse período de humanização principia na Terra?
 
 ---
 
-<a name="LDE-3">
-🗂️ Parte 3. Das Leis morais
+## <a name="LDE-3">LDE-3 🗂️ Parte 3. Das Leis morais
 
 [🔝 topo](#lde)
 
@@ -7740,8 +7738,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 ---
 
-<a name="LDE-4">
-🗂️ Parte 4. Das esperanças e consolações
+## <a name="LDE-4">LDE-4 🗂️ Parte 4. Das esperanças e consolações
 
 ### LDE-4-01
 📑 1. Das penas e gozos terrestres
@@ -8543,8 +8540,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 ---
 
-<a name="LDE-5">
-🗂️ Parte 5. Conclusão
+## <a name="LDE-5">LDE-5 🗂️ Parte 5. Conclusão
 
 ### LDE-5-01
 📃 Conclusão 01
@@ -8674,8 +8670,7 @@ FIM DA OBRA ORIGINAL
 
 ---
 
-<a name="LDE-6">
-🗂️ Parte 6. Pós-textual
+## <a name="LDE-6">LDE-6 🗂️ Parte 6. Pós-textual
 
 ### LDE-6-01
 📃 1. Nota explicativa [^27]
