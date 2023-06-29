@@ -401,7 +401,7 @@
 
 ---
 
-<h2 name="LDE-0">🗂️ Parte 0 - Pré-textual</a>
+<h2 name="LDE-0">🗂️ Parte 0 - Pré-textual</h2>
 
 [🔝 topo](#lde)
 
