@@ -1,6 +1,6 @@
 <style>
   code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
-  blockquote {font-family: 'Georgia'; font-style: normal;}
+  blockquote {font-family: 'Georgia'; font-style: normal; color: black;}
   code > a:hover {font-style: normal;}
 </style>
 
@@ -495,13 +495,19 @@ No número dos Espíritos que concorreram para a execução desta obra, muitos s
 
 Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de escrever este livro:
 >“_Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias._”
->>“_Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou._”
->>“_Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos._”
->>“_Porás no cabeçalho do livro a cepa que te desenhamos [^3], porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos._”
->>“_Não te deixes desanimar pela crítica. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a dúvida por malícia ou ignorância. Prossegue sempre. Crê em Deus e caminha com confiança: aqui estaremos para te amparar e vem próximo o tempo em que a Verdade brilhará de todos os lados._”
->>“_A vaidade de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões dissidentes. Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores._”
->>“_Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado._”
->>“_Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz._”
+>
+>“_Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou._”
+>
+>“_Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos._”
+>“_Porás no cabeçalho do livro a cepa que te desenhamos [^3], porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos._”
+>
+>“_Não te deixes desanimar pela crítica. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a dúvida por malícia ou ignorância. Prossegue sempre. Crê em Deus e caminha com confiança: aqui estaremos para te amparar e vem próximo o tempo em que a Verdade brilhará de todos os lados._”
+>
+>“_A vaidade de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões dissidentes. Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores._”
+>
+>“_Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado._”
+>
+>“_Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz._”
 >
 > **João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito de Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
 
