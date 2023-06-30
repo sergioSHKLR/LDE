@@ -1,5 +1,5 @@
 <style>
-  code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 5px;}
+  code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 5px; font-size: 75%;}
 </style>
 
 <a name="LDE"><code>LDE</code></a>
