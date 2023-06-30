@@ -1,7 +1,7 @@
 <style>
   code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
-  blockquote {font-family: 'Georgia'; font-style: normal; border-left: 2px solid dodgerblue;}
-  blockquote > blockquote {border-left: 2px solid grey; font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 90% }
+  blockquote {font-family: 'Georgia'; font-style: normal; border-left: 2px solid dodgerblue; background-color: azure;}
+  blockquote > blockquote {border-left: 2px solid grey; background-color: whitesmoke; font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 90% }
   code > a:hover {font-style: normal; font-weight: normal;}
 </style>
 
