@@ -500,6 +500,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >“_Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou._”
 >
 >“_Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos._”
+>
 >“_Porás no cabeçalho do livro a cepa que te desenhamos [^3], porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos._”
 >
 >“_Não te deixes desanimar pela crítica. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a dúvida por malícia ou ignorância. Prossegue sempre. Crê em Deus e caminha com confiança: aqui estaremos para te amparar e vem próximo o tempo em que a Verdade brilhará de todos os lados._”
