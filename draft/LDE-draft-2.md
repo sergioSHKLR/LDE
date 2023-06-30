@@ -527,6 +527,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 #### 📃 Deus e o infinito
 
+---
+
 <a name="LDE-q1"><code>LDE-q1</code></a>
 
 #️⃣ 1. O que é Deus?
