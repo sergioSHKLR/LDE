@@ -322,7 +322,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:
 
-> **“_Têm olhos e não veem; têm ouvidos e não ouvem._“** 
+> “_Têm olhos e não veem; têm ouvidos e não ouvem._“
 >
 > ✝️ Mateus, cap. 13, vers. 14
 
@@ -471,7 +471,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ### 📃 Prolegômenos
 
-![Cepa Espírita](./images/vine.png)
+![Cepa Espírita](../images/vine.png)
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
@@ -851,7 +851,7 @@ a. Essa forma é constante ou variável?
 #️⃣ 38. Como criou Deus o Universo?
 >“_Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras_
 >
-> _**‘Deus disse: Faça-se a luz e a luz foi feita’.**_” 
+> _‘Deus disse: Faça-se a luz e a luz foi feita’._” 
 >
 > ✝️ Gênesis, cap. 1, vers. 3
 
