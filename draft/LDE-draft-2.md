@@ -5,13 +5,13 @@
   code > a:hover {font-style: normal; font-weight: normal;}
 </style>
 
-<a name="LDE"><code>LDE-qX</code><code>LDE</code></a>
+<a name="LDE"><code>LDE</code></a>
 
 # 👻 O LIVRO DOS ESPÍRITOS (draft-2)
 
 ---
 
-<a name="LDE-0"><code>LDE-qX</code><code>LDE-0</code></a>
+<a name="LDE-0"><code>LDE-0</code></a>
 
 ## 🗂️ Parte 0. Pré-textual
 
@@ -19,7 +19,7 @@
 
 ---
 
-<a name="LDE-0-01"><code>LDE-qX</code><code>LDE-0-01</code></a>
+<a name="LDE-0-01"><code>LDE-0-01</code></a>
 
 ### 📃 Folha de rosto
 
@@ -47,7 +47,7 @@ ISBN 978-85-7328-728-8
 [🔝 topo](#LDE)
 
 ---
-<a name="LDE-0-02"><code>LDE-qX</code><code>LDE-0-02</code></a>
+<a name="LDE-0-02"><code>LDE-0-02</code></a>
 
 ### 📑 Introdução
 
@@ -55,7 +55,7 @@ ISBN 978-85-7328-728-8
 
 ---
 
-<a name="LDE-0-02-01"><code>LDE-qX</code><code>LDE-0-02-01</code></a>
+<a name="LDE-0-02-01"><code>LDE-0-02-01</code></a>
 
 #### 📃 Introdução 01
 
@@ -67,7 +67,7 @@ Como especialidade, **O Livro dos Espíritos** contém a Doutrina Espírita; com
 
 ---
 
-<a name="LDE-0-02-02"><code>LDE-qX</code><code>LDE-0-02-02</code></a>
+<a name="LDE-0-02-02"><code>LDE-0-02-02</code></a>
 
 #### 📃 Introdução 02
 
@@ -99,7 +99,7 @@ Passemos agora ao objeto principal desta instrução preliminar.
 
 ---
 
-<a name="LDE-0-02-03"><code>LDE-qX</code><code>LDE-0-02-03</code></a>
+<a name="LDE-0-02-03"><code>LDE-0-02-03</code></a>
 
 #### 📃 Introdução 03
 
@@ -131,7 +131,7 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 ---
 
-<a name="LDE-0-02-04"><code>LDE-qX</code><code>LDE-0-02-04</code></a>
+<a name="LDE-0-02-04"><code>LDE-0-02-04</code></a>
 
 #### 📃 Introdução 04
 
@@ -155,7 +155,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 ---
 
-<a name="LDE-0-02-05"><code>LDE-qX</code><code>LDE-0-02-05</code></a>
+<a name="LDE-0-02-05"><code>LDE-0-02-05</code></a>
 
 #### 📃 Introdução 05
 
@@ -175,7 +175,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 
 ---
 
-<a name="LDE-0-02-06"><code>LDE-qX</code><code>LDE-0-02-06</code></a>
+<a name="LDE-0-02-06"><code>LDE-0-02-06</code></a>
 
 #### 📃 Introdução 06
 
@@ -263,7 +263,7 @@ Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos E
 
 ---
 
-<a name="LDE-0-02-07"><code>LDE-qX</code><code>LDE-0-02-07</code></a>
+<a name="LDE-0-02-07"><code>LDE-0-02-07</code></a>
 
 #### 📃 Introdução 07
 
@@ -287,7 +287,7 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 ---
 
-<a name="LDE-0-02-08"><code>LDE-qX</code><code>LDE-0-02-08</code></a>
+<a name="LDE-0-02-08"><code>LDE-0-02-08</code></a>
 
 #### 📃 Introdução 08
 
@@ -301,7 +301,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 
 ---
 
-<a name="LDE-0-02-09"><code>LDE-qX</code><code>LDE-0-02-09</code></a>
+<a name="LDE-0-02-09"><code>LDE-0-02-09</code></a>
 
 #### 📃 Introdução 09
 
@@ -317,7 +317,7 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 
 ---
 
-<a name="LDE-0-02-10"><code>LDE-qX</code><code>LDE-0-02-10</code></a>
+<a name="LDE-0-02-10"><code>LDE-0-02-10</code></a>
 
 #### 📃 Introdução 10
 
@@ -341,7 +341,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ---
 
-<a name="LDE-0-02-11"><code>LDE-qX</code><code>LDE-0-02-11</code></a>
+<a name="LDE-0-02-11"><code>LDE-0-02-11</code></a>
 
 #### 📃 Introdução 11
 
@@ -358,7 +358,7 @@ devendo esta sentença entender-se com relação à categoria em que cada um de 
 
 ---
 
-<a name="LDE-0-02-12"><code>LDE-qX</code><code>LDE-0-02-12</code></a>
+<a name="LDE-0-02-12"><code>LDE-0-02-12</code></a>
 
 #### 📃 Introdução 12
 
@@ -382,7 +382,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ---
 
-<a name="LDE-0-02-13"><code>LDE-qX</code><code>LDE-0-02-13</code></a>
+<a name="LDE-0-02-13"><code>LDE-0-02-13</code></a>
 
 #### 📃 Introdução 13
 
@@ -400,7 +400,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 ---
 
-<a name="LDE-0-02-14"><code>LDE-qX</code><code>LDE-0-02-14</code></a>
+<a name="LDE-0-02-14"><code>LDE-0-02-14</code></a>
 
 #### 📃 Introdução 14
 
@@ -410,7 +410,7 @@ Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito d
 
 ---
 
-<a name="LDE-0-02-15"><code>LDE-qX</code><code>LDE-0-02-15</code></a>
+<a name="LDE-0-02-15"><code>LDE-0-02-15</code></a>
 
 #### 📃 Introdução 15
 
@@ -428,7 +428,7 @@ Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo 
 
 ---
 
-<a name="LDE-0-02-16"><code>LDE-qX</code><code>LDE-0-02-16</code></a>
+<a name="LDE-0-02-16"><code>LDE-0-02-16</code></a>
 
 #### 📃 Introdução 16
 
@@ -458,7 +458,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 ---
 
-<a name="LDE-0-02-17"><code>LDE-qX</code><code>LDE-0-02-17</code></a>
+<a name="LDE-0-02-17"><code>LDE-0-02-17</code></a>
 
 #### 📃 Introdução 17
 
@@ -474,7 +474,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ---
 
-<a name="LDE-0-03"><code>LDE-qX</code><code>LDE-0-03</code></a>
+<a name="LDE-0-03"><code>LDE-0-03</code></a>
 
 ### 📃 Prolegômenos
 
@@ -517,7 +517,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-<a name="LDE-1"><code>LDE-qX</code><code>LDE-1</code></a>
+<a name="LDE-1"><code>LDE-1</code></a>
 
 ## 🗂️ Parte 1. Das causas primárias
 
@@ -1192,7 +1192,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 ---
 
-<a name="LDE-2"><code>LDE-qX</code><code>LDE-2</code></a>
+<a name="LDE-2"><code>LDE-2</code></a>
 
 ## 🗂️ Parte 2. Do mundo espírita
 
@@ -5353,7 +5353,7 @@ b. Esse período de humanização principia na Terra?
 
 ---
 
-<a name="LDE-3"><code>LDE-qX</code><code>LDE-3</code></a>
+<a name="LDE-3"><code>LDE-3</code></a>
 
 ## 🗂️ Parte 3. Das Leis morais
 
@@ -7781,7 +7781,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 ---
 
-<a name="LDE-4"><code>LDE-qX</code><code>LDE-4</code></a>
+<a name="LDE-4"><code>LDE-4</code></a>
 
 ## 🗂️ Parte 4. Das esperanças e consolações
 
@@ -8585,7 +8585,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 ---
 
-<a name="LDE-5"><code>LDE-qX</code><code>LDE-5</code></a>
+<a name="LDE-5"><code>LDE-5</code></a>
 
 ## 🗂️ Parte 5. Conclusão
 
@@ -8719,7 +8719,7 @@ FIM DA OBRA ORIGINAL
 
 ---
 
-<a name="LDE-6"><code>LDE-qX</code><code>LDE-6</code></a>
+<a name="LDE-6"><code>LDE-6</code></a>
 
 ## 🗂️ Parte 6. Pós-textual
 
