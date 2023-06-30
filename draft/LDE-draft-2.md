@@ -1,7 +1,7 @@
 <style>
   code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
-  blockquote {font-family: 'Georgia'; font-style: normal; color: black;}
-  code > a:hover {font-style: normal;}
+  blockquote {font-family: 'Georgia'; font-style: normal; }
+  code > a:hover {font-style: normal; font-weight: normal;}
 </style>
 
 <a name="LDE"><code>LDE</code></a>
