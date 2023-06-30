@@ -15,8 +15,6 @@
 
 ## 🗂️ Parte 0. Pré-textual
 
-[🔝 topo](#LDE)
-
 ---
 
 <a name="LDE-0-01"><code>LDE-0-01</code></a>
