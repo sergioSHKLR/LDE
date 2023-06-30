@@ -1,3 +1,7 @@
+<style>
+  code {background-color: whitesmoke;}
+</style>
+
 <a name="LDE"><code>LDE</code></a>
 
 # 👻 O LIVRO DOS ESPÍRITOS (draft-2)
