@@ -1,5 +1,5 @@
 <style>
-  code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 5px; font-size: 75%;}
+  code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
   blockquote {font-family: 'Georgia'; font-style: normal;}
 </style>
 
