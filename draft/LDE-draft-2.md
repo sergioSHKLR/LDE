@@ -23,10 +23,6 @@
 
 ### 📃 Folha de rosto
 
-[🔝 topo](#LDE)
-
----
-
 Filosofia Espiritualista
 
 **O LIVRO DOS ESPÍRITOS**
@@ -50,8 +46,6 @@ ISBN 978-85-7328-728-8
 <a name="LDE-0-02"><code>LDE-0-02</code></a>
 
 ### 📑 Introdução
-
-[🔝 topo](#LDE)
 
 ---
 
@@ -521,19 +515,17 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ## 🗂️ Parte 1. Das causas primárias
 
-[🔝 topo](#LDE)
+---
+
+<a name="LDE-1-01"><code>LDE-1-01</code></a>
+
+### 📑 1. De Deus
 
 ---
 
-### LDE-1-01
-📑 1. De Deus
+<a name="LDE-1-01-01"><code>LDE-1-01-01</code></a>
 
-[🔝 topo](#LDE)
-
----
-
-#### LDE-1-01-01
-📃 Deus e o infinito
+#### 📃 Deus e o infinito
 
 <a name="LDE-q1"><code>LDE-q1</code></a>
 
@@ -679,8 +671,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ### LDE-1-02
 📑 2. Dos elementos gerais do Universo
-
-[🔝 topo](#LDE)
 
 ---
 
@@ -843,8 +833,6 @@ a. Essa forma é constante ou variável?
 
 ### LDE-1-03
 📑 3. Da Criação
-
-[🔝 topo](#LDE)
 
 ---
 
@@ -1040,8 +1028,6 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 ### LDE-1-04
 📑 4. Do princípio vital
 
-[🔝 topo](#LDE)
-
 ---
 
 #### LDE-1-04-01
@@ -1202,8 +1188,6 @@ a. Por que nem sempre é guia infalível a razão?
 
 ### LDE-2-01
 📑 01. Dos Espíritos
-
-[🔝 topo](#LDE)
 
 ---
 
@@ -1667,8 +1651,6 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 
 ### LDE-2-02
 📑 02. Da encarnação dos espíritos
-
-[🔝 topo](#LDE)
 
 ---
 
