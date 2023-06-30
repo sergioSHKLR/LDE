@@ -1,8 +1,9 @@
 <style>
   code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
-  blockquote {font-family: 'Georgia'; font-style: normal; border-left: 2px solid dodgerblue; background-color: azure;}
-  blockquote > blockquote {border-left: 2px solid grey; background-color: whitesmoke; font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 90% }
+  blockquote {font-family: 'Georgia'; font-style: normal; border-left: 2px solid dodgerblue; }
+  blockquote > blockquote {border-left: 2px solid grey; font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 90% }
   code > a:hover {font-style: normal; font-weight: normal;}
+  .bible {border-left: 2px solid wheat;}
 </style>
 
 <a name="LDE"><code>LDE</code></a>
@@ -321,9 +322,10 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:
 
-> “_Têm olhos e não veem; têm ouvidos e não ouvem._“
->
-> ✝️ Mateus, cap. 13, vers. 14
+<blockquote class="bible">
+<p>“Têm olhos e não veem; têm ouvidos e não ouvem.“<br />
+✝️ Mateus, cap. 13, vers. 14</p>
+</blockquote>
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
