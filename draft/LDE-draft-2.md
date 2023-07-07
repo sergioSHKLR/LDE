@@ -2090,7 +2090,9 @@ b. Quais os que têm de recomeçar a mesma existência?
 <a name="LDE-q180"><code>LDE-qX</code></a>
 
 #️⃣ 180. Passando deste planeta para outro, conserva o Espírito a inteligência que aqui tinha?
->“_Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar._” ([LDE-2-07.04](#lde20704--influência-do-corpo))
+>“_Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar._” 
+
+([LDE-2-07-04](#lde-2-07-04))
 
 <a name="LDE-q181"><code>LDE-qX</code></a>
 
