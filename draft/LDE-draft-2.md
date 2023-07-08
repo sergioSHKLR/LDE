@@ -1853,7 +1853,7 @@ a. Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 ---
 
-<a name="LDE-2-03-04"><code>LDE-2-03-04</code></a>
+<a name="LDE-2-03-01"><code>LDE-2-03-01</code></a>
 
 #### 📃 A alma após a morte. Vida eterna.
 
@@ -1900,7 +1900,7 @@ a. Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, ten
 
 ---
 
-<a name="LDE-2-03-05"><code>LDE-2-03-05</code></a>
+<a name="LDE-2-03-02"><code>LDE-2-03-02</code></a>
 
 #### 📃 Separação da alma e do corpo
 
@@ -1999,7 +1999,7 @@ a. A separação se dá instantaneamente por brusca transição? Haverá alguma 
 
 ---
 
-<a name="LDE-2-04-06"><code>LDE-2-04-06</code></a>
+<a name="LDE-2-04-01"><code>LDE-2-04-01</code></a>
 
 #### 📃 A reencarnação
 
@@ -2041,7 +2041,7 @@ c. Parece resultar desse princípio que a alma, depois de haver deixado um corpo
 
 ---
 
-<a name="LDE-2-04-07"><code>LDE-2-04-07</code></a>
+<a name="LDE-2-04-02"><code>LDE-2-04-02</code></a>
 
 #### 📃 Justiça da reencarnação
 
@@ -2062,7 +2062,7 @@ c. Parece resultar desse princípio que a alma, depois de haver deixado um corpo
 
 ---
 
-<a name="LDE-2-04-08"><code>LDE-2-04-08</code></a>
+<a name="LDE-2-04-03"><code>LDE-2-04-03</code></a>
 
 #### 📃 Encarnação nos diferentes mundos
 
@@ -2195,7 +2195,7 @@ a. Parece resultar daí que, entre o estado correspondente às últimas encarna�
 
 ---
 
-<a name="LDE-2-04-09"><code>LDE-2-04-09</code></a>
+<a name="LDE-2-04-04"><code>LDE-2-04-04</code></a>
 
 #### 📃 Transmigrações progressivas
 
@@ -2263,7 +2263,7 @@ a. É o corpo que influi sobre o Espírito para que este se melhore, ou o Espír
 
 ---
 
-<a name="LDE-2-04-10"><code>LDE-2-04-10</code></a>
+<a name="LDE-2-04-05"><code>LDE-2-04-05</code></a>
 
 #### 📃 Sorte das crianças depois da morte
 
@@ -2298,7 +2298,7 @@ a. Que sucede ao Espírito de uma criança que morre pequenina?
 
 ---
 
-<a name="LDE-2-04-11"><code>LDE-2-04-11</code></a>
+<a name="LDE-2-04-06"><code>LDE-2-04-06</code></a>
 
 #### 📃 Sexos nos Espíritos
 
@@ -2323,7 +2323,7 @@ a. Que sucede ao Espírito de uma criança que morre pequenina?
 
 ---
 
-<a name="LDE-2-04-12"><code>LDE-2-04-12</code></a>
+<a name="LDE-2-04-07><code>LDE-2-04-07</code></a>
 
 #### 📃 Parentesco, filiação
 
@@ -2354,7 +2354,7 @@ a. Ela, no entanto, diminui a importância que alguns dão à genealogia, visto 
 
 ---
 
-<a name="LDE-2-04-13"><code>LDE-2-04-13</code></a>
+<a name="LDE-2-04-08"><code>LDE-2-04-08</code></a>
 
 #### 📃 Parecenças físicas e morais
 
@@ -2422,7 +2422,7 @@ a. Donde se originam as parecenças morais que costuma haver entre pais e filhos
 
 ---
 
-<a name="LDE-2-04-XX"><code>LDE-2-04-XX</code></a>
+<a name="LDE-2-04-09"><code>LDE-2-04-09</code></a>
 
 #### 📃 Ideias inatas
 
