@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Welcome to Jekyll!"
+toc: true
+---
+
 <style>
   code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
   blockquote {font-family: 'Georgia'; font-style: normal; border-left: 2px solid dodgerblue; }
@@ -8,6 +14,8 @@
 </style>
 
 <script src="https://hypothes.is/embed.js" async></script>
+
+
 
 <a name="LDE"><code>LDE</code></a>
 
@@ -473,7 +481,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 <a name="LDE-0-03"><code>LDE-0-03</code></a>
 
-<h3>📃 Prolegômenos#</h3>
+<h3>📃 Prolegômenos</h3>
 
 ![Cepa Espírita](../images/vine.png)
 
