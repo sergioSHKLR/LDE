@@ -2323,7 +2323,7 @@ a. Que sucede ao Espírito de uma criança que morre pequenina?
 
 ---
 
-<a name="LDE-2-04-07><code>LDE-2-04-07</code></a>
+<a name="LDE-2-04-07"><code>LDE-2-04-07</code></a>
 
 #### 📃 Parentesco, filiação
 
@@ -4529,7 +4529,7 @@ a. São sensíveis à afeição que lhes conservamos?
 
 ---
 
-<a name="LDE-2-09-01"><code>LDE-2-09-01</code></a>
+<a name="LDE-2-09-06"><code>LDE-2-09-06</code></a>
 
 #### 📃 Anjos da guarda. Espíritos protetores, familiares ou simpáticos
 
@@ -4739,7 +4739,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 
 ---
 
-<a name="LDE-2-09-02"><code>LDE-2-09-02</code></a>
+<a name="LDE-2-09-07"><code>LDE-2-09-07</code></a>
 
 #### 📃 Pressentimentos
 
@@ -4764,7 +4764,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 
 ---
 
-<a name="LDE-2-09-03"><code>LDE-2-09-03</code></a>
+<a name="LDE-2-09-08"><code>LDE-2-09-08</code></a>
 
 #### 📃 Influência dos Espíritos nos acontecimentos da vida
 
@@ -4855,7 +4855,7 @@ b. No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem
 
 ---
 
-<a name="LDE-2-09-04"><code>LDE-2-09-04</code></a>
+<a name="LDE-2-09-09"><code>LDE-2-09-09</code></a>
 
 #### 📃 Ação dos Espíritos nos fenômenos da Natureza
 
@@ -4900,7 +4900,7 @@ a. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarq
 
 ---
 
-<a name="LDE-2-09-05"><code>LDE-2-09-05</code></a>
+<a name="LDE-2-09-10"><code>LDE-2-09-10</code></a>
 
 #### 📃 Os Espíritos durante os combates
 
@@ -4956,7 +4956,7 @@ a. Continua a ouvir o rumor da batalha?
 
 ---
 
-<a name="LDE-2-09-06"><code>LDE-2-09-06</code></a>
+<a name="LDE-2-09-11"><code>LDE-2-09-11</code></a>
 
 #### 📃 Pactos
 
@@ -4976,7 +4976,7 @@ a. Continua a ouvir o rumor da batalha?
 
 ---
 
-<a name="LDE-2-09-07"><code>LDE-2-09-07</code></a>
+<a name="LDE-2-09-12"><code>LDE-2-09-12</code></a>
 
 #### 📃 Poder oculto. Talismãs. Feiticeiros
 
@@ -5019,7 +5019,7 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 
 ---
 
-<a name="LDE-2-09-08"><code>LDE-2-09-08</code></a>
+<a name="LDE-2-09-13"><code>LDE-2-09-13</code></a>
 
 #### 📃 Bênçãos e maldições
 
@@ -6032,7 +6032,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 ---
 
-<a name="LDE-3-04-03"><code>LDE-3-04-03</code></a>
+<a name="LDE-3-04-01"><code>LDE-3-04-01</code></a>
 
 #### 📃 População do globo
 
@@ -6050,7 +6050,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 ---
 
-<a name="LDE-3-04-04"><code>LDE-3-04-04</code></a>
+<a name="LDE-3-04-02"><code>LDE-3-04-02</code></a>
 
 #### 📃 Sucessão e aperfeiçoamento das raças
 
@@ -6085,7 +6085,7 @@ a. Geralmente, os esforços que o homem emprega para conseguir a melhoria das ra
 
 ---
 
-<a name="LDE-3-04-05"><code>LDE-3-04-05</code></a>
+<a name="LDE-3-04-03"><code>LDE-3-04-03</code></a>
 
 #### 📃 Obstáculos à reprodução
 
@@ -6106,7 +6106,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-04-06"><code>LDE-3-04-06</code></a>
+<a name="LDE-3-04-04"><code>LDE-3-04-04</code></a>
 
 #### 📃 Casamento e celibato
 
@@ -6143,7 +6143,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-04-07"><code>LDE-3-04-07</code></a>
+<a name="LDE-3-04-05"><code>LDE-3-04-05</code></a>
 
 #### 📃 Poligamia
 
@@ -6173,7 +6173,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05-08"><code>LDE-3-05-08</code></a>
+<a name="LDE-3-05-01"><code>LDE-3-05-01</code></a>
 
 #### 📃 Instinto de conservação
 
@@ -6191,7 +6191,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05-09"><code>LDE-3-05-09</code></a>
+<a name="LDE-3-05-02"><code>LDE-3-05-09</code></a2
 
 #### 📃 Meios de conservação
 
@@ -6240,7 +6240,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05-10"><code>LDE-3-05-10</code></a>
+<a name="LDE-3-05-03"><code>LDE-3-05-03</code></a>
 
 #### 📃 Gozo dos bens terrenos
 
@@ -6278,7 +6278,7 @@ a. Perto da morte física, ou da morte moral?
 
 ---
 
-<a name="LDE-3-05-12"><code>LDE-3-05-12</code></a>
+<a name="LDE-3-05-04"><code>LDE-3-05-04</code></a>
 
 #### 📃 Necessário e supérfluo
 
@@ -6303,7 +6303,7 @@ a. Perto da morte física, ou da morte moral?
 
 ---
 
-<a name="LDE-3-05-13"><code>LDE-3-05-13</code></a>
+<a name="LDE-3-05-05"><code>LDE-3-05-05</code></a>
 
 #### 📃 Privações voluntárias. Mortificações
 
@@ -8743,7 +8743,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 ---
 
-<a name="LDE-4-02-01"><code>LDE-4-02-01</code></a>
+<a name="LDE-4-02-07"><code>LDE-4-02-07</code></a>
 
 #### 📃 Duração das penas futuras
 
@@ -8824,7 +8824,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 ---
 
-<a name="LDE-4-02-02"><code>LDE-4-02-02</code></a>
+<a name="LDE-4-02-08"><code>LDE-4-02-08</code></a>
 
 #### 📃 Ressurreição da carne
 
@@ -8848,7 +8848,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 ---
 
-<a name="LDE-4-02-03"><code>LDE-4-02-03</code></a>
+<a name="LDE-4-02-09"><code>LDE-4-02-09</code></a>
 
 #### 📃 Paraíso, inferno e purgatório
 
