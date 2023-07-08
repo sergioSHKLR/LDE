@@ -4409,7 +4409,7 @@ b. De que natureza é o sofrimento que procuram infligir aos outros?
 #️⃣ 475. Pode alguém por si mesmo afastar os maus Espíritos e libertar-se da dominação deles?
 >“_Sempre é possível, a quem quer que seja, subtrair-se a um jugo, desde que com vontade firme o queira._”
 
-<a name="LDE-q476"><code>LDE-qX</code></a>
+<a name="LDE-q476"><code>LDE-q476</code></a>
 
 #️⃣ 476. Pode acontecer que a fascinação exercida pelo mau Espírito seja de tal ordem que o subjugado não a perceba? Sendo assim, poderá uma terceira pessoa fazer que cesse a sujeição da outra? E, nesse caso, qual deve ser a condição dessa terceira pessoa?
 >“_Sendo ela um homem de bem, a sua vontade poderá ter eficácia, desde que apele para o concurso dos bons Espíritos, porque, quanto **mais digna** for a pessoa, tanto maior poder terá sobre os Espíritos imperfeitos, para afastá-los, e sobre os bons, para os atrair. Todavia, nada poderá, se o que estiver **subjugado** não lhe prestar o seu concurso. Há pessoas a quem agrada uma dependência que lhes lisonjeia os gostos e os desejos. Qualquer, porém, que seja o caso, aquele que não tiver puro o coração nenhuma influência exercerá. Os bons Espíritos não lhe atendem ao chamado e os maus não o temem._”
@@ -4736,7 +4736,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 #️⃣ 523. Acontecendo que os pressentimentos e a voz do instinto são sempre algum tanto vagos, que devemos fazer, na incerteza em que ficamos?
 >“_Quando te achares na incerteza, invoca o teu bom Espírito, ou ora a Deus, soberano senhor de todos, e Ele te enviará um de seus mensageiros, um de nós._”
 
-<a name="LDE-q524"><code>LDE-qX</code></a>
+<a name="LDE-q524"><code>LDE-q524</code></a>
 
 #️⃣ 524. Os avisos dos Espíritos protetores objetivam unicamente o nosso procedimento moral, ou também o proceder que devamos adotar nos assuntos da vida particular?
 >“_Tudo. Eles se esforçam para que vivais o melhor possível, mas quase sempre tapais os ouvidos aos avisos salutares e vos tornais desgraçados por culpa vossa._”
@@ -4751,7 +4751,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 
 #### 📃 Influência dos Espíritos nos acontecimentos da vida
 
-<a name="LDE-q525"><code>LDE-qX</code></a>
+<a name="LDE-q525"><code>LDE-q525</code></a>
 
 #️⃣ 525. Exercem os Espíritos alguma influência nos acontecimentos da vida?
 >“_Certamente, pois que te aconselham._”
@@ -4761,22 +4761,22 @@ a. Exercem essa influência por outra forma que não apenas pelos pensamentos qu
 >
 > > Imaginamos erradamente que aos Espíritos só caiba manifestar sua ação por fenômenos extraordinários. Quiséramos que nos viessem auxiliar por meio de milagres e os figuramos sempre armados de uma varinha mágica. Por não ser assim é que oculta nos parece a intervenção que têm nas coisas deste mundo e muito natural o que se executa com o concurso deles. Assim é que, provocando, por exemplo, o encontro de duas pessoas, que suporão encontrar-se por acaso; inspirando a alguém a ideia de passar por determinado lugar; chamando-lhe a atenção para certo ponto, se disso resulta o que tenham em vista, eles obram de tal maneira que o homem, crente de que obedece a um impulso próprio, conserva sempre o seu livre-arbítrio.
 
-<a name="LDE-q526"><code>LDE-qX</code></a>
+<a name="LDE-q526"><code>LDE-q526</code></a>
 
 #️⃣ 526. Tendo, como têm, ação sobre a matéria, podem os Espíritos provocar certos efeitos, com o objetivo de que se dê um acontecimento? Por exemplo: um homem tem que morrer; sobe uma escada, a escada se quebra e ele morre da queda. Foram os Espíritos que quebraram a escada, para que o destino daquele homem se cumprisse?
 >“_É exato que os Espíritos têm ação sobre a matéria, mas para cumprimento das Leis da Natureza, não para as derrogar, fazendo que, em dado momento, ocorra um sucesso inesperado e em contrário àquelas leis. No exemplo que figuraste, a escada se quebrou porque se achava podre, ou por não ser bastante forte para suportar o peso de um homem. Se era destino daquele homem perecer de tal maneira, os Espíritos lhe inspirariam a ideia de subir a escada em questão, que teria de quebrar-se com o seu peso, resultando-lhe daí a morte por um efeito natural e sem que para isso fosse mister a produção de um milagre._”
 
-<a name="LDE-q527"><code>LDE-qX</code></a>
+<a name="LDE-q527"><code>LDE-q527</code></a>
 
 #️⃣ 527. Tomemos outro exemplo, em que não entre a matéria em seu estado natural. Um homem tem que morrer fulminado pelo raio. Refugia-se debaixo de uma árvore. Estala o raio e o mata. Poderá dar-se tenham sido os Espíritos que provocaram a produção do raio e que o dirigiram para o homem?
 >“_Dá-se o mesmo que anteriormente. O raio caiu sobre aquela árvore em tal momento, porque estava nas Leis da Natureza que assim acontecesse. Não foi encaminhado para a árvore, por se achar debaixo dela o homem. A este, sim, foi inspirada a ideia de se abrigar debaixo de uma árvore sobre a qual cairia o raio, porquanto a árvore não deixaria de ser atingida, só por não lhe estar debaixo da fronde o homem._”
 
-<a name="LDE-q528"><code>LDE-qX</code></a>
+<a name="LDE-q528"><code>LDE-q528</code></a>
 
 #️⃣ 528. No caso de uma pessoa mal-intencionada disparar sobre outra um projetil que apenas lhe passe perto sem a atingir, poderá ter sucedido que um Espírito bondoso haja desviado o projetil?
 >“_Se o indivíduo alvejado não tem que perecer desse modo, o Espírito bondoso lhe inspirará a ideia de se desviar, ou então poderá ofuscar o que empunha a arma, de sorte a fazê-lo apontar mal, porquanto, uma vez disparada a arma, o projetil segue a linha que tem de percorrer._”
 
-<a name="LDE-q529"><code>LDE-qX</code></a>
+<a name="LDE-q529"><code>LDE-q529</code></a>
 
 #️⃣ 529. Que se deve pensar das balas encantadas, de que falam algumas lendas e que fatalmente atingem o alvo?
 >“_Pura imaginação. O homem gosta do maravilhoso e não se contenta com as maravilhas da Natureza._”
@@ -4784,7 +4784,7 @@ a. Exercem essa influência por outra forma que não apenas pelos pensamentos qu
 a. Podem os Espíritos que dirigem os acontecimentos terrenos ter obstada sua ação por Espíritos que queiram o contrário?
 >“_O que Deus quer se executa. Se houver demora na execução, ou lhe surjam obstáculos, é porque Ele assim o quis._”
 
-<a name="LDE-q530"><code>LDE-qX</code></a>
+<a name="LDE-q530"><code>LDE-q530</code></a>
 
 #️⃣ 530. Não podem os Espíritos levianos e zombeteiros criar pequenos embaraços à realização dos nossos projetos e transtornar as nossas previsões? Serão eles, numa palavra, os causadores do que chamamos pequenas misérias da vida humana?
 >“_Eles se comprazem em vos causar aborrecimentos que representam para vós provas destinadas a exercitar a vossa paciência. Cansam-se, porém, quando veem que nada conseguem. Entretanto, não seria justo, nem acertado, imputar-lhes todas as decepções que experimentais e de que sois os principais culpados pela vossa irreflexão. Fica certo de que, se a tua louça se quebra, é mais por desazo teu do que por culpa dos Espíritos._”
@@ -4792,7 +4792,7 @@ a. Podem os Espíritos que dirigem os acontecimentos terrenos ter obstada sua a�
 a. Destes, os que provocam contrariedades obram impelidos por animosidade pessoal, ou assim procedem contra qualquer, sem motivo determinado, por pura malícia?
 >“_Por uma e outra coisa. Às vezes os que assim vos molestam são inimigos que granjeastes nesta ou em precedente existência. Doutras vezes, nenhum motivo há._”
 
-<a name="LDE-q531"><code>LDE-qX</code></a>
+<a name="LDE-q531"><code>LDE-q531</code></a>
 
 #️⃣ 531. Extingue-se-lhes com a vida corpórea a malevolência dos seres que nos fizeram mal na Terra?
 >“_Muitas vezes reconhecem a injustiça com que procederam e o mal que causaram, mas, também, não é raro que continuem a perseguir-vos, cheios de animosidade, se Deus o permitir, por ainda vos experimentar._”
@@ -4802,7 +4802,7 @@ a. Pode-se pôr termo a isso? Por que meio?
 >
 > > A experiência demonstra que alguns Espíritos continuam em outra existência a exercer as vinganças que vinham tomando e que assim, cedo ou tarde, o homem paga o mal que tenha feito a outrem.
 
-<a name="LDE-q532"><code>LDE-qX</code></a>
+<a name="LDE-q532"><code>LDE-q532</code></a>
 
 #️⃣ 532. Têm os Espíritos o poder de afastar de certas pessoas os males e de favorecê-las com a prosperidade?
 >“_De todo, não; porquanto há males que estão nos decretos da Providência. Amenizam-vos, porém, as dores, dando-vos paciência e resignação.
@@ -4810,7 +4810,7 @@ a. Pode-se pôr termo a isso? Por que meio?
 >
 > > Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do que considerais um mal sairá um bem muito maior. Quase nunca compreendeis isso, porque só atentais no momento presente ou na vossa própria pessoa._”
 
-<a name="LDE-q533"><code>LDE-qX</code></a>
+<a name="LDE-q533"><code>LDE-q533</code></a>
 
 #️⃣ 533. Podem os Espíritos fazer que obtenham riquezas os que lhes pedem que assim aconteça?
 >“_Algumas vezes, como prova. Quase sempre, porém, recusam, como se recusa à criança a satisfação de um pedido inconsiderado._”
@@ -4818,12 +4818,12 @@ a. Pode-se pôr termo a isso? Por que meio?
 a. São os bons ou os maus Espíritos que concedem esses favores?
 >“_Uns e outros. Depende da intenção. As mais das vezes, entretanto, os que os concedem são os Espíritos que vos querem arrastar para o mal e que encontram meio fácil de o conseguirem, facilitando-vos os gozos que a riqueza proporciona._”
 
-<a name="LDE-q534"><code>LDE-qX</code></a>
+<a name="LDE-q534"><code>LDE-q534</code></a>
 
 #️⃣ 534. Será por influência de algum Espírito que, fatalmente, a realização dos nossos projetos parece encontrar obstáculos?
 >“_Algumas vezes é isso efeito da ação dos Espíritos; muito mais vezes, porém, é que andais errados na elaboração e na execução dos vossos projetos. Muito influem nesses casos a posição e o caráter do indivíduo. Se vos obstinais em ir por um caminho que não deveis seguir, os Espíritos nenhuma culpa têm dos vossos insucessos. Vós mesmos vos constituís em vossos maus gênios._”
 
-<a name="LDE-q535"><code>LDE-qX</code></a>
+<a name="LDE-q535"><code>LDE-q535</code></a>
 
 #️⃣ 535. Quando algo de venturoso nos sucede é ao Espírito nosso protetor que devemos agradecê-lo?
 >“_Agradecei primeiramente a Deus, sem cuja permissão nada se faz; depois, aos bons Espíritos que foram os agentes da sua vontade._”
@@ -4842,7 +4842,7 @@ b. No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem
 
 #### 📃 Ação dos Espíritos nos fenômenos da Natureza
 
-<a name="LDE-q536"><code>LDE-qX</code></a>
+<a name="LDE-q536"><code>LDE-q536</code></a>
 
 #️⃣ 536. São devidos a causas fortuitas, ou, ao contrário, têm todos um fim providencial, os grandes fenômenos da Natureza, os que se consideram como perturbação dos elementos?
 >“_Tudo tem uma razão de ser e nada acontece sem a permissão de Deus._”
@@ -4853,7 +4853,7 @@ a. Objetivam sempre o homem esses fenômenos?
 b. Concebemos perfeitamente que a vontade de Deus seja a causa primária, nisto como em tudo; porém, sabendo que os Espíritos exercem ação sobre a matéria e que são os agentes da vontade de Deus, perguntamos se alguns dentre eles não exercerão certa influência sobre os elementos para os agitar, acalmar ou dirigir?
 >“_Evidentemente. Nem poderia ser de outro modo. Deus não exerce ação direta sobre a matéria. Ele encontra agentes dedicados em todos os graus da escala dos mundos._”
 
-<a name="LDE-q537"><code>LDE-qX</code></a>
+<a name="LDE-q537"><code>LDE-q537</code></a>
 
 #️⃣ 537. A mitologia dos antigos se fundava inteiramente em ideias espíritas, com a única diferença de que consideravam os Espíritos como divindades. Representavam esses deuses ou esses Espíritos com atribuições especiais. Assim, uns eram encarregados dos ventos, outros do raio, outros de presidir ao fenômeno da vegetação etc. Semelhante crença é totalmente destituída de fundamento?
 >“_Tão pouco destituída é de fundamento, que ainda está muito aquém da verdade._”
@@ -4861,7 +4861,7 @@ b. Concebemos perfeitamente que a vontade de Deus seja a causa primária, nisto 
 a. Poderá então haver Espíritos que habitem o interior da Terra e presidam aos fenômenos geológicos?
 >“_Tais Espíritos não habitam positivamente a Terra. Presidem aos fenômenos e os dirigem de acordo com as atribuições que têm. Dia virá em que recebereis a explicação de todos esses fenômenos e os compreendereis melhor._”
 
-<a name="LDE-q538"><code>LDE-qX</code></a>
+<a name="LDE-q538"><code>LDE-q538</code></a>
 
 #️⃣ 538. Formam categoria especial no mundo espírita os Espíritos que presidem aos fenômenos da Natureza? Serão seres à parte ou Espíritos que foram encarnados como nós?
 >“_Que foram ou que o serão._”
@@ -4869,12 +4869,12 @@ a. Poderá então haver Espíritos que habitem o interior da Terra e presidam ao
 a. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarquia espírita?
 >“_Isso é conforme seja mais ou menos material, mais ou menos inteligente o papel que desempenhem. Uns mandam, outros executam. Os que executam coisas materiais são sempre de ordem inferior, assim entre os Espíritos, como entre os homens._”
 
-<a name="LDE-q539"><code>LDE-qX</code></a>
+<a name="LDE-q539"><code>LDE-q539</code></a>
 
 #️⃣ 539. A produção de certos fenômenos, das tempestades, por exemplo, é obra de um só Espírito, ou muitos se reúnem, formando grandes massas, para produzi-los?
 >“_Reúnem-se em massas inumeráveis._”
 
-<a name="LDE-q540"><code>LDE-qX</code></a>
+<a name="LDE-q540"><code>LDE-q540</code></a>
 
 #️⃣ 540. Os Espíritos que exercem ação nos fenômenos da Natureza operam com conhecimento de causa, usando do livre-arbítrio, ou por efeito de instintivo ou irrefletido impulso?
 >“_Uns sim, outros não. Estabeleçamos uma comparação. Considera essas miríades de animais que, pouco a pouco, fazem emergir do mar ilhas e arquipélagos. Julgas que não há aí um fim providencial e que essa transformação da superfície do globo não seja necessária à harmonia geral? Entretanto, são animais de ínfima ordem que executam essas obras, provendo às suas necessidades e sem suspeitarem de que são instrumentos de Deus. Pois bem, do mesmo modo, os Espíritos mais atrasados oferecem utilidade ao conjunto. Enquanto **se ensaiam para a vida**, antes que tenham plena consciência de seus atos e estejam no gozo pleno do livre-arbítrio, atuam em certos fenômenos, de que inconscientemente se constituem os agentes. Primeiramente, executam. Mais tarde, quando suas inteligências já houverem alcançado um certo desenvolvimento, ordenarão e dirigirão as coisas do mundo material. Depois, poderão dirigir as do mundo moral. É assim que tudo serve, que tudo se encadeia na Natureza, desde o átomo primitivo até o arcanjo, que também começou por ser átomo. Admirável lei de harmonia, que o vosso acanhado espírito ainda não pode apreender em seu conjunto!_” 
@@ -4887,42 +4887,42 @@ a. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarq
 
 #### 📃 Os Espíritos durante os combates
 
-<a name="LDE-q541"><code>LDE-qX</code></a>
+<a name="LDE-q541"><code>LDE-541X</code></a>
 
 #️⃣ 541. Durante uma batalha, há Espíritos assistindo e amparando cada um dos exércitos?
 >“_Sim, e que lhes estimulam a coragem._”
 >
 > > Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses deuses eram simplesmente Espíritos representados por alegorias.
 
-<a name="LDE-q542"><code>LDE-qX</code></a>
+<a name="LDE-q542"><code>LDE-q542</code></a>
 
 #️⃣ 542. Estando, numa guerra, a justiça sempre de um dos lados, como pode haver Espíritos que tomem o partido dos que se batem por uma causa injusta?
 
 >_”Bem sabeis haver Espíritos que só se comprazem na discórdia e na destruição. Para esses, a guerra é a guerra. A justiça da causa pouco os preocupa._”
 
-<a name="LDE-q543"><code>LDE-qX</code></a>
+<a name="LDE-q543"><code>LDE-q543</code></a>
 
 #️⃣ 543. Podem alguns Espíritos influenciar o general na concepção de seus planos de campanha?
 >“_Sem dúvida alguma. Podem influenciá-lo nesse sentido, como com relação a todas as concepções._”
 
-<a name="LDE-q544"><code>LDE-qX</code></a>
+<a name="LDE-q544"><code>LDE-q544</code></a>
 
 #️⃣ 544. Poderiam maus Espíritos suscitar-lhe planos errôneos com o fim de levá-lo à derrota?
 >“_Podem, mas não tem ele o livre-arbítrio? Se não tiver critério bastante para distinguir uma ideia falsa, sofrerá as consequências e melhor faria se obedecesse, em vez de comandar._”
 
-<a name="LDE-q545"><code>LDE-qX</code></a>
+<a name="LDE-q545"><code>LDE-q545</code></a>
 
 #️⃣ 545. Pode, alguma vez, o general ser guiado por uma espécie de dupla vista, por uma visão intuitiva, que lhe mostre de antemão o resultado de seus planos?
 >“_Isso se dá amiúde com o homem de gênio. É o que ele chama inspiração e o que faz que obre com uma espécie de certeza. Essa inspiração lhe vem dos Espíritos que o dirigem, os quais se aproveitam das faculdades de que o veem dotado._”
 
-<a name="LDE-q546"><code>LDE-qX</code></a>
+<a name="LDE-q546"><code>LDE-q546</code></a>
 
 #️⃣ 546. No tumulto dos combates, que se passa com os Espíritos dos que sucumbem? Continuam, após a morte, a interessar-se pela batalha?
 >“_Alguns continuam a interessar-se, outros se afastam._”
 
 Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no primeiro momento, o Espírito fica surpreendido e como que atordoado. Julga não estar morto. Parece-lhe que ainda toma parte na ação. Só pouco a pouco a realidade lhe surge.
 
-<a name="LDE-q547"><code>LDE-qX</code></a>
+<a name="LDE-q547"><code>LDE-q547</code></a>
 
 #️⃣ 547. Após a morte, os Espíritos, que como vivos se guerreavam, continuam a considerar-se inimigos e se conservam encarniçados uns contra os outros?
 >“_Nessas ocasiões, o Espírito nunca está calmo. Pode acontecer que nos primeiros instantes depois da morte ainda odeie o seu inimigo e mesmo o persiga. Quando, porém, se lhe restabelece a serenidade nas ideias, vê que nenhum fundamento há mais para sua animosidade. Contudo, não é impossível que dela guarde vestígios mais ou menos fortes, conforme o seu caráter._”
@@ -4930,7 +4930,7 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 a. Continua a ouvir o rumor da batalha?
 >“_Perfeitamente._”
 
-<a name="LDE-q548"><code>LDE-qX</code></a>
+<a name="LDE-q548"><code>LDE-q548</code></a>
 
 #️⃣ 548. O Espírito que, como espectador, assiste calmamente a um combate observa o ato de separar-se a alma do corpo? Como é que esse fenômeno se lhe apresenta à observação?
 >“_Raras são as mortes verdadeiramente instantâneas. Na maioria dos casos, o Espírito, cujo corpo acaba de ser mortalmente ferido, não tem consciência imediata desse fato. Somente quando ele começa a reconhecer a nova condição em que se acha, é que os assistentes podem distingui-lo, a mover-se ao lado do cadáver. Parece isso tão natural, que nenhum efeito desagradável lhe causa a vista do corpo morto. Tendo-se a vida toda concentrado no Espírito, só ele prende a atenção dos outros. É com ele que estes conversam, ou a ele é que fazem determinações._” 
@@ -4943,14 +4943,14 @@ a. Continua a ouvir o rumor da batalha?
 
 #### 📃 Pactos
 
-<a name="LDE-q549"><code>LDE-qX</code></a>
+<a name="LDE-q549"><code>LDE-q549</code></a>
 
 #️⃣ 549. Algo de verdade haverá nos pactos com os maus Espíritos?
 >“_Não, não há pactos. Há, porém, naturezas más que simpatizam com os maus Espíritos. Por exemplo: queres atormentar o teu vizinho e não sabes como hás de fazer. Chamas então por Espíritos inferiores que, como tu, só querem o mal e que, para te ajudarem, exigem que também os sirvas em seus maus desígnios. Não se segue, porém, que o teu vizinho não possa livrar-se deles por meio de uma conjuração oposta e pela ação da sua vontade. Aquele que intenta praticar uma ação má, pelo simples fato de alimentar essa intenção, chama em seu auxílio maus Espíritos, aos quais fica então obrigado a servir, porque dele também precisam esses Espíritos, para o mal que queiram fazer. Nisto apenas é que consiste o pacto._”
 >
 > > O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e Espíritos malfazejos.
 
-<a name="LDE-q550"><code>LDE-qX</code></a>
+<a name="LDE-q550"><code>LDE-q550</code></a>
 
 #️⃣ 550. Qual o sentido das lendas fantásticas em que figuram indivíduos que teriam vendido suas almas a Satanás para obterem certos favores?
 >“_Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra. Isso a que te referes é uma alegoria, que se pode explicar desta maneira: aquele que chama em seu auxílio os Espíritos, para deles obter riquezas, ou qualquer outro favor, rebela-se contra a Providência; renuncia à missão que recebeu e às provas que lhe cumpre suportar neste mundo. Sofrerá na vida futura as consequências desse ato. Não quer isto dizer que sua alma fique para sempre condenada à desgraça, mas, desde que, em lugar de se desprender da matéria, nela cada vez se enterra mais, não terá, no mundo dos Espíritos, a satisfação de que haja gozado na Terra, até que tenha resgatado a sua falta, por meio de novas provas, talvez maiores e mais penosas. Coloca-se, por amor dos gozos materiais, na dependência dos Espíritos impuros. Estabelece-se assim, tacitamente, entre estes e ele, o Espírito delinquente, um pacto que o leva à sua perda, mas que lhe será sempre fácil romper, se o quiser firmemente, granjeando a assistência dos bons Espíritos._” 
@@ -4963,17 +4963,17 @@ a. Continua a ouvir o rumor da batalha?
 
 #### 📃 Poder oculto. Talismãs. Feiticeiros
 
-<a name="LDE-q551"><code>LDE-qX</code></a>
+<a name="LDE-q551"><code>LDE-q551</code></a>
 
 #️⃣ 551. Pode um homem mau, com o auxílio de um mau Espírito que lhe seja dedicado, fazer mal ao seu próximo?
 >“_Não; Deus não o permitiria._”
 
-<a name="LDE-q552"><code>LDE-qX</code></a>
+<a name="LDE-q552"><code>LDE-q552</code></a>
 
 #️⃣ 552. Que se deve pensar da crença no poder, que certas pessoas teriam, de enfeitiçar?
 >“_Algumas pessoas dispõem de grande força magnética, de que podem fazer mau uso, se maus forem seus próprios Espíritos, caso em que possível se torna serem secundados por outros Espíritos maus. Não creias, porém, num pretenso poder mágico, que só existe na imaginação de criaturas supersticiosas, ignorantes das verdadeiras Leis da Natureza. Os fatos que citam, como prova da existência desse poder, são fatos naturais, mal observados e sobretudo mal compreendidos._”
 
-<a name="LDE-q553"><code>LDE-qX</code></a>
+<a name="LDE-q553"><code>LDE-q553</code></a>
 
 #️⃣ 553. Que efeito podem produzir as fórmulas e práticas mediante as quais pessoas há que pretendem dispor do concurso dos Espíritos?
 >“_O efeito de torná-las ridículas, se procedem de boa-fé. No caso contrário, são tratantes que merecem castigo. Todas as fórmulas são mera charlatanaria. Não há palavra sacramental nenhuma, nenhum sinal cabalístico, nem talismã, que tenha qualquer ação sobre os Espíritos, porquanto estes só são atraídos pelo pensamento e não pelas coisas materiais._”
@@ -4981,19 +4981,19 @@ a. Continua a ouvir o rumor da batalha?
 a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmulas cabalísticas?
 >“_Efetivamente, Espíritos há que indicam sinais, palavras estranhas, ou prescrevem a prática de atos, por meio dos quais se fazem os chamados conjuros. Ficai certos, porém, de que são Espíritos que de vós outros escarnecem e zombam da vossa credulidade._”
 
-<a name="LDE-q554"><code>LDE-qX</code></a>
+<a name="LDE-q554"><code>LDE-q554</code></a>
 
 #️⃣ 554. Não pode aquele que, com ou sem razão, confia no que chama a virtude de um talismã, atrair um Espírito, por efeito mesmo dessa confiança, visto que, então, o que atua é o pensamento, não passando o talismã de um sinal que apenas lhe auxilia a concentração?
 >“_É verdade, mas da pureza da intenção e da elevação dos sentimentos depende a natureza do Espírito que é atraído. Ora, muito raramente aquele que seja bastante simplório para acreditar na virtude de um talismã deixará de colimar um fim mais material do que moral. Qualquer, porém, que seja o caso, essa crença denuncia uma inferioridade e uma fraqueza de ideias que favorecem a ação dos Espíritos imperfeitos e escarninhos._”
 
-<a name="LDE-q555"><code>LDE-qX</code></a>
+<a name="LDE-q555"><code>LDE-q555</code></a>
 
 #️⃣ 555. Que sentido se deve dar ao qualificativo de feiticeiro?
 >“_Aqueles a quem chamais feiticeiros são pessoas que, quando de boa-fé, gozam de certas faculdades, como sejam a força magnética ou a dupla vista. Então, como fazem coisas geralmente incompreensíveis, são tidas por dotadas de um poder sobrenatural. Os vossos sábios não têm passado muitas vezes por feiticeiros aos olhos dos ignorantes?_”
 >
 > > O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos sobre os quais a ignorância teceu um sem-número de fábulas, em que os fatos se apresentam exagerados pela imaginação. O conhecimento lúcido dessas duas ciências que, a bem dizer, formam uma única, mostrando a realidade das coisas e suas verdadeiras causas, constitui o melhor preservativo contra as ideias supersticiosas, porque revela o que é possível e o que é impossível, o que está nas Leis da Natureza e o que não passa de ridícula crendice.
 
-<a name="LDE-q556"><code>LDE-qX</code></a>
+<a name="LDE-q556"><code>LDE-q556</code></a>
 
 #️⃣ 556. Têm algumas pessoas, verdadeiramente, o poder de curar pelo simples contato?
 >“_A força magnética pode chegar até aí, quando secundada pela pureza dos sentimentos e por um ardente desejo de fazer o bem, porque então os bons Espíritos lhe vêm em auxílio. Cumpre, porém, desconfiar da maneira pela qual contam as coisas pessoas muito crédulas e muito entusiastas, sempre dispostas a considerar maravilhoso o que há de mais simples e mais natural. Importa desconfiar também das narrativas interesseiras, que costumam fazer os que exploram, em seu proveito, a credulidade alheia._” 
@@ -5006,7 +5006,7 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 
 #### 📃 Bênçãos e maldições
 
-<a name="LDE-q557"><code>LDE-qX</code></a>
+<a name="LDE-q557"><code>LDE-q551</code></a>
 
 #️⃣ 557. Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem são lançadas?
 >“_Deus não escuta a maldição injusta e culpado perante Ele se torna o que a profere. Como temos os dois gênios opostos, o bem e o mal, pode a maldição exercer momentaneamente influência, mesmo sobre a matéria. Tal influência, porém, só se verifica por vontade de Deus como aumento de prova para aquele que é dela objeto. Ademais, o que é comum é serem amaldiçoados os maus e abençoados os bons. Jamais a bênção e a maldição podem desviar da senda da justiça a Providência, que nunca fere o maldito, senão quando mau, e cuja proteção não acoberta senão aquele que a merece._” 
@@ -5018,31 +5018,31 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 ### LDE-2-10
 📑 10. Das ocupações e missões dos Espíritos
 
-<a name="LDE-q558"><code>LDE-qX</code></a>
+<a name="LDE-q558"><code>LDE-q558</code></a>
 
 #️⃣ 558. Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
 >“_Concorrem para a harmonia do Universo, executando as vontades de Deus, cujos ministros eles são. A vida espírita é uma ocupação contínua, mas que nada tem de penosa, como a vida na Terra, porque não há a fadiga corporal, nem as angústias das necessidades._”
 
-<a name="LDE-q559"><code>LDE-qX</code></a>
+<a name="LDE-q559"><code>LDE-q559</code></a>
 
 #️⃣ 559. Também desempenham função útil no Universo os Espíritos inferiores e imperfeitos?
 >“_Todos têm deveres a cumprir. Para a construção de um edifício, não concorre tanto o último dos serventes de pedreiro, como o arquiteto?_”
 
 ([LDE-q540](#ldeq540))
 
-<a name="LDE-q560"><code>LDE-qX</code></a>
+<a name="LDE-q560"><code>LDE-q560</code></a>
 
 #️⃣ 560. Tem atribuições especiais cada Espírito?
 >“_Todos temos que habitar em toda parte e adquirir o conhecimento de todas as coisas, presidindo sucessivamente ao que se efetua em todos os pontos do Universo. Como diz o **Eclesiastes**, há tempo para tudo. Assim, tal Espírito cumpre hoje neste mundo o seu destino, tal outro cumprirá ou já cumpriu o seu, em época diversa, na terra, na água, no ar etc._”
 
-<a name="LDE-q561"><code>LDE-qX</code></a>
+<a name="LDE-q561"><code>LDE-q561</code></a>
 
 #️⃣ 561. São permanentes para cada um e estão nas atribuições exclusivas de certas classes as funções que os Espíritos desempenham na ordem das coisas?
 >“_Todos têm que percorrer os diferentes graus da escala, para se aperfeiçoarem. Deus, que é justo, não poderia ter dado a uns a ciência sem trabalho, destinando outros a só a adquirirem com esforço._”
 >
 > > É o que sucede entre os homens, onde ninguém chega ao supremo grau de perfeição numa arte qualquer, sem que tenha adquirido os conhecimentos necessários, praticando os rudimentos dessa arte.
 
-<a name="LDE-q562"><code>LDE-qX</code></a>
+<a name="LDE-q562"><code>LDE-q562</code></a>
 
 #️⃣ 562. Já não tendo o que adquirir, os Espíritos da ordem mais elevada se acham em repouso absoluto, ou também lhes tocam ocupações?
 >“_Que quererias que fizessem na eternidade? A ociosidade eterna seria um eterno suplício._”
@@ -5050,7 +5050,7 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 a. De que natureza são as suas ocupações?
 >“_Receber diretamente as ordens de Deus, transmiti-las ao Universo inteiro e velar por que sejam cumpridas._”
 
-<a name="LDE-q563"><code>LDE-qX</code></a>
+<a name="LDE-q563"><code>LDE-q563</code></a>
 
 #️⃣ 563. São incessantes as ocupações dos Espíritos?
 >“_Incessantes, sim, atendendo-se a que sempre ativos são os seus pensamentos, porquanto vivem pelo pensamento. Importa, porém, não identifiqueis as ocupações dos Espíritos com as ocupações materiais dos homens. Essa mesma atividade lhes constitui um gozo, pela consciência que têm de ser úteis._”
@@ -5058,17 +5058,17 @@ a. De que natureza são as suas ocupações?
 a. Concebe-se isto com relação aos bons Espíritos. Dar-se-á, entretanto, o mesmo com os Espíritos inferiores?
 >“_A estes cabem ocupações apropriadas à sua natureza. Confiais, porventura, ao obreiro manual e ao ignorante trabalhos que só o homem instruído pode executar?_”
 
-<a name="LDE-q564"><code>LDE-qX</code></a>
+<a name="LDE-q564"><code>LDE-q564</code></a>
 
 #️⃣ 564. Haverá Espíritos que se conservem ociosos, que em coisa alguma útil se ocupem?
 >“_Há, mas esse estado é temporário e dependendo do desenvolvimento de suas inteligências. Há, certamente, como há homens que só para si mesmos vivem. Pesa-lhes, porém, essa ociosidade e, cedo ou tarde, o desejo de progredir lhes faz necessária a atividade e felizes se sentirão por poderem tornar-se úteis. Referimo-nos aos Espíritos que hão chegado ao ponto de terem consciência de si mesmos e do seu livre-arbítrio; porquanto, em sua origem, todos são quais crianças que acabam de nascer e que obram mais por instinto que por vontade expressa._”
 
-<a name="LDE-q565"><code>LDE-qX</code></a>
+<a name="LDE-q565"><code>LDE-q565</code></a>
 
 #️⃣ 565. Atentam os Espíritos em nossos trabalhos de arte e por eles se interessam?
 >“_Atentam no que prove a elevação dos Espíritos e seus progressos._”
 
-<a name="LDE-q566"><code>LDE-qX</code></a>
+<a name="LDE-q566"><code>LDE-q566</code></a>
 
 #️⃣ 566. Um Espírito, que haja cultivado na Terra uma especialidade artística, que tenha sido, por exemplo, pintor, ou arquiteto, se interessa de preferência pelos trabalhos que constituíram objeto de sua predileção durante a vida?
 >“_Tudo se confunde num objetivo geral. Se for um Espírito bom, esses trabalhos o interessarão na medida do ensejo que lhe proporcionem de auxiliar as almas a se elevarem para Deus. Ademais, esqueceis que um Espírito que cultivou certa arte, na existência em que o conhecestes, pode ter cultivado outra em anterior existência, pois que lhe cumpre saber tudo para ser perfeito. Assim, conforme o grau do seu adiantamento, pode suceder que nada seja para ele uma especialidade. Foi o que eu quis significar, dizendo que tudo se confunde num objetivo geral. Notai ainda o seguinte: o que, no vosso mundo atrasado, considerais sublime, não passa de infantilidade, comparado ao que há em mundos mais adiantados. Como pretenderíeis que os Espíritos que habitam esses mundos, onde existem artes que desconheceis, admirem o que, aos seus olhos, corresponde a trabalhos de colegiais? Por isso disse eu: atentam no que demonstre progresso._”
@@ -5076,37 +5076,37 @@ a. Concebe-se isto com relação aos bons Espíritos. Dar-se-á, entretanto, o m
 a. Concebemos que seja assim, em se tratando de Espíritos muito adiantados. Referimo-nos, porém, a Espíritos mais vulgares, que ainda se não elevaram acima das ideias terrenas.
 >“_Com relação a esses, o caso é diferente. Mais restrito é o ponto de vista donde observam as coisas. Podem, portanto, admirar o que vos cause admiração._”
 
-<a name="LDE-q567"><code>LDE-qX</code></a>
+<a name="LDE-q567"><code>LDE-q567</code></a>
 
 #️⃣ 567. Costumam os Espíritos imiscuir-se em nossos prazeres e ocupações?
 >“_Os Espíritos vulgares, como dizes, costumam. Esses vos rodeiam constantemente e com frequência tomam parte muito ativa no que fazeis, de conformidade com suas naturezas. Cumpre assim aconteça, porque, para serem os homens impelidos pelas diversas veredas da vida, necessário é que se lhes excitem ou moderem as paixões._”
 >
 > > Com as coisas deste mundo, os Espíritos se ocupam conforme o grau de elevação ou de inferioridade em que se achem. Os Espíritos superiores dispõem, sem dúvida, da faculdade de examiná-las nas suas mínimas particularidades, mas só o fazem na medida em que isso seja útil ao progresso. Unicamente os Espíritos inferiores ligam a essas coisas uma importância relativa às reminiscências que ainda conservam e às ideias materiais que ainda se não extinguiram neles.
 
-<a name="LDE-q568"><code>LDE-qX</code></a>
+<a name="LDE-q568"><code>LDE-q568</code></a>
 
 #️⃣ 568. Os Espíritos, que têm missões a cumprir, as cumprem na erraticidade, ou encarnados?
 >“_Podem tê-las num e noutro estado. Para certos Espíritos errantes, é uma grande ocupação._”
 
-<a name="LDE-q569"><code>LDE-qX</code></a>
+<a name="LDE-q569"><code>LDE-q569</code></a>
 
 #️⃣ 569. Em que consistem as missões de que podem ser encarregados os Espíritos errantes?
 >“_São tão variadas que impossível fora descrevê-las. Muitas há mesmo que não podeis compreender. Os Espíritos executam as vontades de Deus e não vos é dado penetrar-lhe todos os desígnios._”
 >
 > > As missões dos Espíritos têm sempre por objeto o bem. Quer como Espíritos, quer como homens, são incumbidos de auxiliar o progresso da Humanidade, dos povos ou dos indivíduos, dentro de um círculo de ideias mais ou menos amplas, mais ou menos especiais e de velar pela execução de determinadas coisas. Alguns desempenham missões mais restritas e, de certo modo, pessoais ou inteiramente locais, como sejam assistir os enfermos, os agonizantes, os aflitos, velar por aqueles de quem se constituíram guias e protetores, dirigi-los, dando-lhes conselhos ou inspirando-lhes bons pensamentos. Pode dizer-se que há tantos gêneros de missões quantas as espécies de interesses a resguardar, assim no mundo físico, como no moral. O Espírito se adianta conforme a maneira por que desempenha a sua tarefa.
 
-<a name="LDE-q570"><code>LDE-qX</code></a>
+<a name="LDE-q570"><code>LDE-q570</code></a>
 
 #️⃣ 570. Os Espíritos percebem sempre os desígnios que lhes compete executar?
 >“_Não. Muitos há que são instrumentos cegos. Outros, porém, sabem muito bem com que fim atuam._”
 
-<a name="LDE-q571"><code>LDE-qX</code></a>
+<a name="LDE-q571"><code>LDE-q571</code></a>
 
 #️⃣ 571. Só os Espíritos elevados desempenham missões?
 
 >A importância das missões corresponde às capacidades e à elevação do Espírito. O estafeta que leva um telegrama ao seu destinatário também desempenha uma missão, se bem que diversa da de um general._”
 
-<a name="LDE-q572"><code>LDE-qX</code></a>
+<a name="LDE-q572"><code>LDE-q572</code></a>
 
 #️⃣ 572. A missão de um Espírito lhe é imposta, ou depende da sua vontade?
 >“_Ele a pede e ditoso se considera se a obtém._”
@@ -5114,12 +5114,12 @@ a. Concebemos que seja assim, em se tratando de Espíritos muito adiantados. Ref
 a. Pode uma mesma missão ser pedida por muitos Espíritos?
 >“_Sim, é frequente apresentarem-se muitos candidatos, mas nem todos são aceitos._”
 
-<a name="LDE-q573"><code>LDE-qX</code></a>
+<a name="LDE-q573"><code>LDE-q573</code></a>
 
 #️⃣ 573. Em que consiste a missão dos Espíritos encarnados?
 >“_Em instruir os homens, em lhes auxiliar o progresso; em lhes melhorar as instituições, por meios diretos e materiais. As missões, porém, são mais ou menos gerais e importantes. O que cultiva a terra desempenha tão nobre missão, como o que governa, ou o que instrui. Tudo na Natureza se encadeia. Ao mesmo tempo que o Espírito se depura pela encarnação, concorre, dessa forma, para a execução dos desígnios da Providência. Cada um tem neste mundo a sua missão, porque todos podem ter alguma utilidade._”
 
-<a name="LDE-q574"><code>LDE-qX</code></a>
+<a name="LDE-q574"><code>LDE-q574</code></a>
 
 #️⃣ 574. Qual pode ser, na Terra, a missão das criaturas voluntariamente inúteis?
 >“_Há efetivamente pessoas que só para si mesmas vivem e que não sabem tornar-se úteis ao que quer que seja. São pobres seres dignos de compaixão, porquanto expiarão duramente sua voluntária inutilidade, começando-lhes muitas vezes, já neste mundo, o castigo, pelo aborrecimento e pelo desgosto que a vida lhes causa._”
@@ -5127,22 +5127,22 @@ a. Pode uma mesma missão ser pedida por muitos Espíritos?
 a. Pois que lhes era facultada a escolha, por que preferiram uma existência que nenhum proveito lhes traria?
 >“_Entre os Espíritos também há preguiçosos que recuam diante de uma vida de labor. Deus consente que assim procedam. ­Mais tarde compreenderão, à própria custa, os inconvenientes da inutilidade a que se votaram e serão os primeiros a pedir que se lhes conceda recuperar o tempo perdido. Pode também acontecer que tenham escolhido uma vida útil e que hajam recuado diante da execução da obra, deixando-se levar pelas sugestões dos Espíritos que os induzem a permanecer na ociosidade._”
 
-<a name="LDE-q575"><code>LDE-qX</code></a>
+<a name="LDE-q575"><code>LDE-q575</code></a>
 
 #️⃣ 575. As ocupações comuns mais nos parecem deveres do que missões propriamente ditas. A missão, de acordo com a ideia a que esta palavra está associada, tem um caráter menos exclusivo, de importância sobretudo menos pessoal. Deste ponto de vista, como se pode reconhecer que um homem tem realmente na Terra uma determinada missão?
 >“_Pelas grandes coisas que opera, pelos progressos a cuja realização conduz seus semelhantes._”
 
-<a name="LDE-q576"><code>LDE-qX</code></a>
+<a name="LDE-q576"><code>LDE-q576</code></a>
 
 #️⃣ 576. Foram predestinados a isso, antes de nascerem, os homens que trazem uma importante missão e dela têm conhecimento?
 >“_Algumas vezes, assim é. Quase sempre, porém, o ignoram. Baixando à Terra, colimam um vago objetivo. Depois do nascimento e de acordo com as circunstâncias é que suas missões se lhes desenham às vistas. Deus os impele para a senda onde devam executar-lhe os desígnios._”
 
-<a name="LDE-q577"><code>LDE-qX</code></a>
+<a name="LDE-q577"><code>LDE-q577</code></a>
 
 #️⃣ 577. Quando um homem faz alguma coisa útil, fá-la sempre em virtude da missão em que foi anteriormente investido e a que vem predestinado, ou pode suceder que haja recebido missão não prevista?
 >“_Nem tudo o que o homem faz resulta de missão a que tenha sido predestinado. Amiudadas vezes é o instrumento de que se serve um Espírito para fazer que se execute uma coisa que julga útil. Por exemplo, entende um Espírito ser útil que se escreva um livro que ele próprio escreveria se estivesse encarnado. Procura então o escritor mais apto a lhe compreender e executar o pensamento. Transmite-lhe a ideia do livro e o dirige na execução. Ora, esse escritor não veio à Terra com a missão de publicar tal obra. O mesmo ocorre com diversos trabalhos artísticos e muitas descobertas. Devemos acrescentar que, durante o sono corporal, o Espírito encarnado se comunica diretamente com o Espírito errante, entendendo-se os dois acerca da execução._”
 
-<a name="LDE-q578"><code>LDE-qX</code></a>
+<a name="LDE-q578"><code>LDE-q578</code></a>
 
 #️⃣ 578. Poderá o Espírito, por própria culpa, falir na sua missão?
 >“_Sim, se não for um Espírito superior._”
@@ -5150,27 +5150,27 @@ a. Pois que lhes era facultada a escolha, por que preferiram uma existência que
 a. Que consequências lhe advirão da sua falência?
 >“_Terá que retomar a tarefa; essa a sua punição. Também sofrerá as consequências do mal que haja causado._”
 
-<a name="LDE-q579"><code>LDE-qX</code></a>
+<a name="LDE-q579"><code>LDE-q579</code></a>
 
 #️⃣ 579. Pois se é de Deus que o Espírito recebe a sua missão, como se há de compreender que Deus confie missão importante e de interesse geral a um Espírito capaz de falir?
 >“_Não sabe Deus se o seu general obterá a vitória ou se será vencido? Sabe-o, crede, e seus planos, **quando importantes**, não se apoiam nos que hajam de abandonar em meio a obra. Toda a questão, para vós, está no conhecimento que Deus tem do futuro, mas que não vos é concedido._”
 
-<a name="LDE-q580"><code>LDE-qX</code></a>
+<a name="LDE-q580"><code>LDE-q580</code></a>
 
 #️⃣ 580. O Espírito, que encarna para desempenhar determinada missão, tem apreensões idênticas às de outro que o faz por provação?
 >“_Não, porque traz a experiência adquirida._”
 
-<a name="LDE-q581"><code>LDE-qX</code></a>
+<a name="LDE-q581"><code>LDE-q581</code></a>
 
 #️⃣ 581. Certamente desempenham missão os homens que servem de faróis ao gênero humano, que o iluminam com a luz do gênio. Entre eles, porém, alguns há que se enganam, que, de par com grandes verdades, propagam grandes erros. Como se deve considerar a missão desses homens?
 >“_Como falseadas por eles próprios. Estão abaixo da tarefa que tomaram sobre os ombros. Contudo, mister se faz levar em conta as circunstâncias. Os homens de gênio têm que falar de acordo com as épocas em que vivem e, assim, um ensinamento que pareceu errôneo ou pueril, numa época adiantada, pode ter sido o que convinha no século em que foi divulgado._”
 
-<a name="LDE-q582"><code>LDE-qX</code></a>
+<a name="LDE-q582"><code>LDE-q582</code></a>
 
 #️⃣ 582. Pode-se considerar como missão a paternidade?
 >“_É, sem contestação possível, uma verdadeira missão. É ao mesmo tempo grandíssimo dever e que envolve, mais do que o pensa o homem, a sua responsabilidade quanto ao futuro. Deus colocou o filho sob a tutela dos pais, a fim de que estes o dirijam pela senda do bem, e lhes facilitou a tarefa dando àquele uma organização débil e delicada, que o torna propício a todas as impressões. Muitos há, no entanto, que mais cuidam de aprumar as árvores do seu jardim e de fazê-las dar bons frutos em abundância, do que de formar o caráter de seu filho. Se este vier a sucumbir por culpa deles, suportarão os desgostos resultantes dessa queda e partilharão dos sofrimentos do filho na vida futura, por não terem feito o que lhes estava ao alcance para que ele avançasse na estrada do bem._”
 
-<a name="LDE-q583"><code>LDE-qX</code></a>
+<a name="LDE-q583"><code>LDE-q583</code></a>
 
 #️⃣ 583. São responsáveis os pais pelo transviamento de um filho que envereda pelo caminho do mal, apesar dos cuidados que lhe dispensaram?
 >“_Não; porém, quanto piores forem as propensões do filho, tanto mais pesada é a tarefa e tanto maior o mérito dos pais, se conseguirem desviá-lo do mau caminho._”
@@ -5178,7 +5178,7 @@ a. Que consequências lhe advirão da sua falência?
 a. Se um filho se torna homem de bem, não obstante a negligência ou os maus exemplos de seus pais, tiram estes daí algum proveito?
 >“_Deus é justo._”
 
-<a name="LDE-q584"><code>LDE-qX</code></a>
+<a name="LDE-q584"><code>LDE-q584</code></a>
 
 #️⃣ 584. De que natureza será a missão do conquistador que apenas visa satisfazer à sua ambição e que, para alcançar esse objetivo, não vacila ante nenhuma das calamidades que vai espalhando?
 >“_As mais das vezes não passa de um instrumento de que se serve Deus para cumprimento de seus desígnios, representando essas calamidades um meio de que ele se utiliza para fazer que um povo progrida mais rapidamente._”
@@ -5217,41 +5217,41 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 #### 📃 Os minerais e as plantas
 
-<a name="LDE-q585"><code>LDE-qX</code></a>
+<a name="LDE-q585"><code>LDE-q585</code></a>
 
 #️⃣ 585. Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes: a dos seres orgânicos e a dos inorgânicos? Segundo alguns, a espécie humana forma uma quarta classe. Qual destas divisões é preferível?
 >“_Todas são boas, conforme o ponto de vista. Do ponto de vista material, apenas há seres orgânicos e inorgânicos. Do ponto de vista moral, há evidentemente quatro graus._”
 >
 > > Esses quatro graus apresentam, com efeito, caracteres determinados, muito embora pareçam confundir-se nos seus limites extremos. A matéria inerte, que constitui o reino mineral, só tem em si uma força mecânica. As plantas, ainda que compostas de matéria inerte, são dotadas de vitalidade. Os animais, também compostos de matéria inerte e igualmente dotados de vitalidade, possuem, além disso, uma espécie de inteligência instintiva, limitada, e a consciência de sua existência e de suas individualidades. O homem, tendo tudo o que há nas plantas e nos animais, domina todas as outras classes por uma inteligência especial, indefinida, que lhe dá a consciência do seu futuro, a percepção das coisas extra-materiais e o conhecimento de Deus.
 
-<a name="LDE-q586"><code>LDE-qX</code></a>
+<a name="LDE-q586"><code>LDE-q586</code></a>
 
 #️⃣ 586. Têm as plantas consciência de que existem?
 >“_Não, pois que não pensam; só têm vida orgânica._”
 
-<a name="LDE-q587"><code>LDE-qX</code></a>
+<a name="LDE-q587"><code>LDE-q587</code></a>
 
 #️⃣ 587. Experimentam sensações? Sofrem quando as mutilam?
 >“_Recebem impressões físicas que atuam sobre a matéria, mas não têm percepções. Conseguintemente, não têm a sensação da dor._”
 
-<a name="LDE-q588"><code>LDE-qX</code></a>
+<a name="LDE-q588"><code>LDE-q588</code></a>
 
 #️⃣ 588. Independe da vontade delas a força que as atrai umas para as outras?
 >“_Certo, porquanto não pensam. É uma força mecânica da matéria, que atua sobre a matéria, sem que elas possam a isso opor-se._”
 
-<a name="LDE-q589"><code>LDE-qX</code></a>
+<a name="LDE-q589"><code>LDE-q589</code></a>
 
 #️⃣ 589. Algumas plantas, como a sensitiva e a dioneia, por exemplo, executam movimentos que denotam grande sensibilidade e, em certos casos, uma espécie de vontade, conforme se observa na segunda, cujos lóbulos apanham a mosca que sobre ela pousa para sugá-la, parecendo que urde uma armadilha com o fim de capturar e matar aquele inseto. São dotadas essas plantas da faculdade de pensar? Têm vontade e formam uma classe intermediária entre a Natureza vegetal e a Natureza animal? Constituem a transição de uma para outra?
 >“_Tudo na Natureza é transição, por isso mesmo que uma coisa não se assemelha a outra e, no entanto, todas se prendem umas às outras. As plantas não pensam; por conseguinte carecem de vontade. Nem a ostra que se abre, nem os zoófitos pensam: têm apenas um instinto cego e natural._”
 >
 > > O organismo humano nos proporciona exemplo de movimentos análogos, sem participação da vontade, nas funções digestivas e circulatórias. O piloro se contrai, ao contato de certos corpos, para lhes negar passagem. O mesmo provavelmente se dá na sensitiva, cujos movimentos de nenhum modo implicam a necessidade de percepção e, ainda menos, da vontade.
 
-<a name="LDE-q590"><code>LDE-qX</code></a>
+<a name="LDE-q590"><code>LDE-q590</code></a>
 
 #️⃣ 590. Não haverá nas plantas, como nos animais, um instinto de conservação, que as induza a procurar o que lhes possa ser útil e a evitar o que lhes possa ser nocivo?
 >“_Há, se quiserdes, uma espécie de instinto, dependendo isso da extensão que se dê ao significado desta palavra. É, porém, um instinto puramente mecânico. Quando, nas operações químicas, observais que dois corpos se reúnem, é que um ao outro convém; quer dizer: é que há entre eles afinidade. Ora, a isto não dais o nome de instinto._”
 
-<a name="LDE-q591"><code>LDE-qX</code></a>
+<a name="LDE-q591"><code>LDE-q591</code></a>
 
 #️⃣ 591. Nos mundos superiores, as plantas são de natureza mais perfeita, como os outros seres?
 >“_Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens._” 
@@ -5264,19 +5264,19 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 #### 📃 Os animais e o homem
 
-<a name="LDE-q592"><code>LDE-qX</code></a>
+<a name="LDE-q592"><code>LDE-q592</code></a>
 
 #️⃣ 592. Se, pelo que toca à inteligência, comparamos o homem e os animais, parece difícil estabelecer-se uma linha de demarcação entre aquele e estes, porquanto alguns animais mostram, sob esse aspecto, notória superioridade sobre certos homens. Pode essa linha de demarcação ser estabelecida de modo preciso?
 >“_A este respeito é completo o desacordo entre os vossos filósofos. Querem uns que o homem seja um animal e outros que o animal seja um homem. Estão todos em erro. O homem é um ser à parte, que desce muito baixo algumas vezes e que pode também elevar-se muito alto. Pelo físico, é como os animais e menos bem-dotado do que muitos destes. A Natureza lhes deu tudo o que o homem é obrigado a **inventar com a sua inteligência**, para satisfação de suas necessidades e para sua conservação. Seu corpo se destrói, como o dos animais, é certo, mas ao seu Espírito está assinado um destino que só ele pode compreender, porque só ele é inteiramente livre. Pobres homens, que vos rebaixais mais do que os brutos! não sabeis distinguir-vos deles? Reconhecei o homem pela faculdade de pensar em Deus._”
 
-<a name="LDE-q593"><code>LDE-qX</code></a>
+<a name="LDE-q593"><code>LDE-q593</code></a>
 
 #️⃣ 593. Poder-se-á dizer que os animais só obram por instinto?
 >“_Ainda aí há um sistema. É verdade que na maioria dos animais domina o instinto, mas não vês que muitos obram denotando acentuada vontade? É que têm inteligência, porém limitada._”
 >
 > > Não se poderia negar que, além de possuírem o instinto, alguns animais praticam atos combinados, que denunciam vontade de operar em determinado sentido e de acordo com as circunstâncias. Há, pois, neles, uma espécie de inteligência, mas cujo exercício quase que se circunscreve à utilização dos meios de satisfazerem às suas necessidades físicas e de proverem à conservação própria. Nada, porém, criam, nem melhora alguma realizam. Qualquer que seja a arte com que executem seus trabalhos, fazem hoje o que faziam outrora e o fazem, nem melhor, nem pior, segundo formas e proporções constantes e invariáveis. A cria, separada dos de sua espécie, não deixa por isso de construir o seu ninho de perfeita conformidade com os seus maiores, sem que tenha recebido nenhum ensino. O desenvolvimento intelectual de alguns, que se mostram suscetíveis de certa educação, desenvolvimento, aliás, que não pode ultrapassar acanhados limites, é devido à ação do homem sobre uma natureza maleável, porquanto não há aí progresso que lhe seja próprio. Mesmo o progresso que realizam pela ação do homem é efêmero e puramente individual, visto que, entregue a si mesmo, não tarda que o animal volte a encerrar-se nos limites que lhe traçou a Natureza.
 
-<a name="LDE-q594"><code>LDE-qX</code></a>
+<a name="LDE-q594"><code>LDE-q594</code></a>
 
 #️⃣ 594. Têm os animais alguma linguagem?
 >“_Se vos referis a uma linguagem formada de sílabas e palavras, não. Meio, porém, de se comunicarem entre si, têm. Dizem uns aos outros muito mais coisas do que imaginais, mas essa mesma linguagem de que dispõem é restrita às necessidades, como restritas também são as ideias que podem ter._”
@@ -5286,17 +5286,17 @@ a. Há, entretanto, animais que carecem de voz. Esses parece que nenhuma linguag
 >
 > > Efetivamente, os peixes que, como as andorinhas, emigram em cardumes, obedientes ao guia que os conduz, devem ter meios de se advertirem, de se entenderem e combinarem. É possível que disponham de uma vista mais penetrante e esta lhes permita perceber os sinais que mutuamente façam. Pode ser também que tenham na água um veículo próprio para a transmissão de certas vibrações. Como quer que seja, o que é incontestável é que lhes não falecem meios de se entenderem, do mesmo modo que a todos os animais carentes de voz e que, não obstante, trabalham em comum. Diante disso, que admiração pode causar que os Espíritos entre si se comuniquem sem o auxílio da palavra articulada?
 
-<a name="LDE-q595"><code>LDE-qX</code></a>
+<a name="LDE-q595"><code>LDE-q595</code></a>
 
 #️⃣ 595. Gozam de livre-arbítrio os animais, para a prática dos seus atos?
 >“_Os animais não são simples máquinas, como supondes. Contudo, a liberdade de ação, de que desfrutam, é limitada pelas suas necessidades e não se pode comparar à do homem. Sendo muitíssimo inferiores a este, não têm os mesmos deveres que ele. A liberdade, possuem-na restrita aos atos da vida material._”
 
-<a name="LDE-q596"><code>LDE-qX</code></a>
+<a name="LDE-q596"><code>LDE-q596</code></a>
 
 #️⃣ 596. Donde procede a aptidão que certos animais denotam para imitar a linguagem do homem e por que essa aptidão se revela mais nas aves do que no macaco, por exemplo, cuja conformação apresenta mais analogia com a humana?
 >“_Origina-se de uma particular conformação dos órgãos vocais, reforçada pelo instinto de imitação. O macaco imita os gestos; algumas aves imitam a voz._”
 
-<a name="LDE-q597"><code>LDE-qX</code></a>
+<a name="LDE-q597"><code>LDE-q597</code></a>
 
 #️⃣ 597. Pois que os animais possuem uma inteligência que lhes faculta certa liberdade de ação, haverá neles algum princípio independente da matéria?
 >“_Há e que sobrevive ao corpo._”
@@ -5304,39 +5304,39 @@ a. Há, entretanto, animais que carecem de voz. Esses parece que nenhuma linguag
 a. Será esse princípio uma alma semelhante à do homem?
 >“_É também uma alma, se quiserdes, dependendo isto do sentido que se der a esta palavra. É, porém, inferior à do homem. Há entre a alma dos animais e a do homem distância equivalente à que medeia entre a alma do homem e Deus._”
 
-<a name="LDE-q598"><code>LDE-qX</code></a>
+<a name="LDE-q598"><code>LDE-q598</code></a>
 
 #️⃣ 598. Após a morte, conserva a alma dos animais a sua individualidade e a consciência de si mesma?
 >“_Conserva sua individualidade; quanto à consciência do seu eu, não. A vida inteligente lhe permanece em estado latente._”
 
-<a name="LDE-q599"><code>LDE-qX</code></a>
+<a name="LDE-q599"><code>LDE-q599</code></a>
 
 #️⃣ 599. À alma dos animais é dado escolher a espécie de animal em que encarne?
 >“_Não, pois que lhe falta livre-arbítrio._”
 
-<a name="LDE-q600"><code>LDE-qX</code></a>
+<a name="LDE-q600"><code>LDE-q600</code></a>
 
 #️⃣ 600. Sobrevivendo ao corpo em que habitou, a alma do animal vem a achar-se, depois da morte, num estado de erraticidade, como a do homem?
 >“_Fica numa espécie de erraticidade, pois que não mais se acha unida ao corpo, mas não é um **Espírito errante**. O Espírito errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A consciência de si mesmo é o que constitui o principal atributo do Espírito. O do animal, depois da morte, é classificado pelos Espíritos a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas._”
 
-<a name="LDE-q601"><code>LDE-qX</code></a>
+<a name="LDE-q601"><code>LDE-q601</code></a>
 
 #️⃣ 601. Os animais estão sujeitos, como o homem, a uma lei progressiva?
 >“_Sim; e daí vem que nos mundos superiores, onde os homens são mais adiantados, os animais também o são, dispondo de meios mais amplos de comunicação. São sempre, porém, inferiores ao homem e se lhe acham submetidos, tendo neles o homem servidores inteligentes._”
 >
 > > Nada há nisso de extraordinário. Tomemos os nossos mais inteligentes animais, o cão, o elefante, o cavalo, e imaginemo-los dotados de uma conformação apropriada a trabalhos manuais. Que não fariam sob a direção do homem?
 
-<a name="LDE-q602"><code>LDE-qX</code></a>
+<a name="LDE-q602"><code>LDE-q602</code></a>
 
 #️⃣ 602. Os animais progridem, como o homem, por ato da própria vontade, ou pela força das coisas?
 >“_Pela força das coisas, razão por que não estão sujeitos à expiação._”
 
-<a name="LDE-q603"><code>LDE-qX</code></a>
+<a name="LDE-q603"><code>LDE-q603</code></a>
 
 #️⃣ 603. Nos mundos superiores, os animais conhecem a Deus?
 >“_Não. Para eles o homem é um deus, como outrora os Espíritos eram deuses para o homem._”
 
-<a name="LDE-q604"><code>LDE-qX</code></a>
+<a name="LDE-q604"><code>LDE-q604</code></a>
 
 #️⃣ 604. Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, são sempre inferiores ao homem, segue-se que Deus criou seres intelectuais perpetuamente destinados à inferioridade, o que parece em desacordo com a unidade de vistas e de progresso que todas as suas obras revelam.
 >“_Tudo na Natureza se encadeia por elos que ainda não podeis apreender. Assim, as coisas aparentemente mais díspares têm pontos de contato que o homem, no seu estado atual, nunca chegará a compreender. Por um esforço da inteligência poderá entrevê-los, mas, somente quando essa inteligência estiver no máximo grau de desenvolvimento e liberta dos preconceitos do orgulho e da ignorância, logrará ver claro na obra de Deus. Até lá, suas muito restritas ideias lhe farão observar as coisas por um mesquinho e acanhado prisma. Sabei não ser possível que Deus se contradiga e que, na Natureza, tudo se harmoniza mediante leis gerais, que por nenhum de seus pontos deixam de corresponder à sublime sabedoria do Criador._”
@@ -5344,7 +5344,7 @@ a. Será esse princípio uma alma semelhante à do homem?
 a. A inteligência é então uma propriedade comum, um ponto de contato entre a alma dos animais e a do homem?
 >“_É, porém os animais só possuem a inteligência da vida material. No homem, a inteligência proporciona a vida moral._”
 
-<a name="LDE-q605"><code>LDE-qX</code></a>
+<a name="LDE-q605"><code>LDE-q605</code></a>
 
 #️⃣ 605. Considerando-se todos os pontos de contato que existem entre o homem e os animais, não seria lícito pensar que o homem possui duas almas: a alma animal e a alma espírita e que, se esta última não existisse, só como o bruto poderia ele viver? Por outra: que o animal é um ser semelhante ao homem, tendo de menos a alma espírita? Dessa maneira de ver resultaria serem os bons e os maus instintos do homem efeito da predominância de uma ou outra dessas almas?
 >“_Não, o homem não tem duas almas. O corpo, porém, tem seus instintos, resultantes da sensação peculiar aos órgãos. Dupla, no homem, só é a natureza. Há nele a natureza animal e a natureza espiritual. Participa, pelo seu corpo, da natureza dos animais e de seus instintos. Por sua alma, participa da dos Espíritos._”
@@ -5354,7 +5354,7 @@ a. De modo que, além de suas próprias imperfeições de que cumpre ao Espírit
 >
 > > Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e moral, que o torna superior aos animais. As duas naturezas nele existentes dão às suas paixões duas origens diferentes: umas provêm dos instintos da natureza animal, provindo as outras das impurezas do Espírito, de cuja encarnação é ele a imagem e que mais ou menos simpatiza com a grosseria dos apetites animais. Purificando-se, o Espírito se liberta pouco a pouco da influência da matéria. Sob essa influência, aproxima-se do bruto. Isento dela, eleva-se à sua verdadeira destinação.
 
-<a name="LDE-q606"><code>LDE-qX</code></a>
+<a name="LDE-q606"><code>LDE-q606</code></a>
 
 #️⃣ 606. Donde tiram os animais o princípio inteligente que constitui a alma de natureza especial de que são dotados?
 >“_Do elemento inteligente universal._”
@@ -5362,7 +5362,7 @@ a. De modo que, além de suas próprias imperfeições de que cumpre ao Espírit
 a. Então, emanam de um único princípio a inteligência do homem e a dos animais?
 >“_Sem dúvida alguma, porém, no homem, passou por uma elaboração que a coloca acima da que existe no animal._”
 
-<a name="LDE-q607"><code>LDE-qX</code></a>
+<a name="LDE-q607"><code>LDE-q607</code></a>
 
 #️⃣ 607. Dissestes ([LDE-q190](#ldeq190)) que o estado da alma do homem, na sua origem, corresponde ao estado da infância na vida corporal, que sua inteligência apenas desabrocha e se ensaia para a vida. Onde passa o Espírito essa primeira fase do seu desenvolvimento?
 >“_Numa série de existências que precedem o período a que chamais Humanidade._”
@@ -5373,19 +5373,19 @@ a. Parece que, assim, se pode considerar a alma como tendo sido o princípio int
 b. Esse período de humanização principia na Terra?
 >“_A Terra não é o ponto de partida da primeira encarnação humana. O período da humanização começa, geralmente, em mundos ainda inferiores à Terra. Isto, entretanto, não constitui regra absoluta, pois pode suceder que um Espírito, desde o seu início humano, esteja apto a viver na Terra. Não é frequente o caso; constitui antes uma exceção._”
 
-<a name="LDE-q608"><code>LDE-qX</code></a>
+<a name="LDE-q608"><code>LDE-q608</code></a>
 
 #️⃣ 608. O Espírito do homem tem, após a morte, consciência de suas existências anteriores ao período de humanidade?
 >“_Não, pois não é desse período que começa a sua vida de Espírito. Difícil é mesmo que se lembre de suas primeiras existências humanas, como difícil é que o homem se lembre dos primeiros tempos de sua infância e ainda menos do tempo que passou no seio materno. Essa a razão por que os Espíritos dizem que não sabem como começaram._”
 
-<a name="LDE-q609"><code>LDE-qX</code></a>
+<a name="LDE-q609"><code>LDE-q609</code></a>
 
 #️⃣ 609. Uma vez no período da humanidade, conserva o Espírito traços do que era precedentemente, quer dizer: do estado em que se achava no período a que se poderia chamar anti-humano?
 >“_Conforme a distância que medeie entre os dois períodos e o progresso realizado. Durante algumas gerações, pode ele conservar vestígios mais ou menos pronunciados do estado primitivo, porquanto nada se opera na Natureza por brusca transição._”
 >
 > > Há sempre anéis que ligam as extremidades da cadeia dos seres e dos acontecimentos. Aqueles vestígios, porém, se apagam com o desenvolvimento do livre-arbítrio. Os primeiros progressos só muito lentamente se efetuam, porque ainda não têm a secundá-los a vontade. Vão em progressão mais rápida, à medida que o Espírito adquire mais perfeita consciência de si mesmo._”
 
-<a name="LDE-q610"><code>LDE-qX</code></a>
+<a name="LDE-q610"><code>LDE-q610</code></a>
 
 #️⃣ 610. Ter-se-ão enganado os Espíritos que disseram constituir o homem um ser à parte na ordem da criação?
 >“_Não, mas a questão não fora desenvolvida. Ademais, há coisas que só a seu tempo podem ser esclarecidas. O homem é, com efeito, um ser à parte, visto possuir faculdades que o distinguem de todos os outros e ter outro destino. A espécie humana é a que Deus escolheu para a encarnação dos seres **que podem conhecê-lo**._” 
@@ -5398,19 +5398,19 @@ b. Esse período de humanização principia na Terra?
 
 #### 📃 Metempsicose
 
-<a name="LDE-q611"><code>LDE-qX</code></a>
+<a name="LDE-q611"><code>LDE-q611</code></a>
 
 #️⃣ 611. O terem os seres vivos uma origem comum no princípio inteligente não é a consagração da doutrina da metempsicose?
 >“_Duas coisas podem ter a mesma origem e absolutamente não se assemelharem mais tarde. Quem reconheceria a árvore, com suas folhas, flores e frutos, no germe informe que se contém na semente donde ela surge? Desde que o princípio inteligente atinge o grau necessário para ser Espírito e entrar no período da humanização, já não guarda relação com o seu estado primitivo e já não é a alma dos animais, como a árvore já não é a semente. De animal só há no homem o corpo e as paixões que nascem da influência do corpo e do instinto de conservação inerente à matéria. Não se pode, pois, dizer que tal homem é a encarnação do espírito de tal animal. Conseguintemente, a metempsicose, como a entendem, não é verdadeira._”
 
-<a name="LDE-q612"><code>LDE-qX</code></a>
+<a name="LDE-q612"><code>LDE-q612</code></a>
 
 #️⃣ 612. Poderia encarnar num animal o Espírito que animou o corpo de um homem?
 >“_Isso seria retrogradar e o Espírito não retrograda. O rio não remonta à sua nascente._”
 
 ([LDE-q118](#ldeq118))
 
-<a name="LDE-q613"><code>LDE-qX</code></a>
+<a name="LDE-q613"><code>LDE-q613</code></a>
 
 #️⃣ 613. Embora de todo errônea, a ideia ligada à metempsicose não terá resultado do sentimento intuitivo que o homem possui de suas diferentes existências? [^15]
 >“_Nessa, como em muitas outras crenças, se depara esse sentimento intuitivo. O homem, porém, o desnaturou, como costuma fazer com a maioria de suas ideias intuitivas._”
@@ -5450,22 +5450,22 @@ b. Esse período de humanização principia na Terra?
 
 #### 📃 Caracteres da lei natural
 
-<a name="LDE-q614"><code>LDE-qX</code></a>
+<a name="LDE-q614"><code>LDE-q614</code></a>
 
 #️⃣ 614. Que se deve entender por lei natural?
 >“_A lei natural é a Lei de Deus. É a única verdadeira para a felicidade do homem. Indica-lhe o que deve fazer ou deixar de fazer e ele só é infeliz quando dela se afasta._”
 
-<a name="LDE-q615"><code>LDE-qX</code></a>
+<a name="LDE-q615"><code>LDE-q615</code></a>
 
 #️⃣ 615. É eterna a Lei de Deus?
 >“_Eterna e imutável como o próprio Deus._”
 
-<a name="LDE-q616"><code>LDE-qX</code></a>
+<a name="LDE-q616"><code>LDE-q616</code></a>
 
 #️⃣ 616. Será possível que Deus em certa época haja prescrito aos homens o que noutra época lhes proibiu?
 >“_Deus não se engana. Os homens é que são obrigados a modificar suas leis, por imperfeitas. As de Deus, essas são perfeitas. A harmonia que reina no universo material, como no universo moral, se funda em leis estabelecidas por Deus desde toda a eternidade._”
 
-<a name="LDE-q617"><code>LDE-qX</code></a>
+<a name="LDE-q617"><code>LDE-q617</code></a>
 
 #️⃣ 617. As leis divinas, que é o que compreendem no seu âmbito? Concernem a alguma outra coisa, que não somente ao procedimento moral?
 >“_Todas as da Natureza são leis divinas, pois que Deus é o autor de tudo. O sábio estuda as leis da matéria, o homem de bem estuda e pratica as da alma._”
@@ -5479,7 +5479,7 @@ a. Dado é ao homem aprofundar umas e outras?
 > >
 > > As outras dizem respeito especialmente ao homem considerado em si mesmo e nas suas relações com Deus e com seus semelhantes. Contêm as regras da vida do corpo, bem como as da vida da alma: são as leis morais.
 
-<a name="LDE-q618"><code>LDE-qX</code></a>
+<a name="LDE-q618"><code>LDE-q618</code></a>
 
 #️⃣ 618. São as mesmas, para todos os mundos, as leis divinas?
 >“_A razão está a dizer que devem ser apropriadas à natureza de cada mundo e adequadas ao grau de progresso dos seres que os habitam._” 
@@ -5492,7 +5492,7 @@ a. Dado é ao homem aprofundar umas e outras?
 
 #### 📃 Conhecimento da lei natural
 
-<a name="LDE-q619"><code>LDE-qX</code></a>
+<a name="LDE-q619"><code>LDE-q619</code></a>
 
 #️⃣ 619. A todos os homens facultou Deus os meios de conhecerem sua Lei?
 >“_Todos podem conhecê-la, mas nem todos a compreendem. Os homens de bem e os que se decidem a investigá-la são os que melhor a compreendem. Todos, entretanto, a compreenderão um dia, porquanto forçoso é que o progresso se efetue._”
@@ -5501,12 +5501,12 @@ a. Dado é ao homem aprofundar umas e outras?
 
 [LDE-q171](#ldeq171) a [LDE-q222](#ldeq222))
 
-<a name="LDE-q620"><code>LDE-qX</code></a>
+<a name="LDE-q620"><code>LDE-q620</code></a>
 
 #️⃣ 620. Antes de se unir ao corpo, a alma compreende melhor a Lei de Deus do que depois de encarnada?
 >“_Compreende-a de acordo com o grau de perfeição que tenha atingido e dela guarda a intuição quando unida ao corpo. Os maus instintos, porém, fazem ordinariamente que o homem a esqueça._”
 
-<a name="LDE-q621"><code>LDE-qX</code></a>
+<a name="LDE-q621"><code>LDE-q621</code></a>
 
 #️⃣ 621. Onde está escrita a Lei de Deus?
 >“_Na consciência._”
@@ -5514,22 +5514,22 @@ a. Dado é ao homem aprofundar umas e outras?
 a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade havia de lhe ser ela revelada?
 >“_Ele a esquecera e desprezara. Quis então Deus lhe fosse lembrada._”
 
-<a name="LDE-q622"><code>LDE-qX</code></a>
+<a name="LDE-q622"><code>LDE-q622</code></a>
 
 #️⃣ 622. Confiou Deus a certos homens a missão de revelarem a sua Lei?
 >“_Indubitavelmente. Em todos os tempos houve homens que tiveram essa missão. São Espíritos superiores, que encarnam com o fim de fazer progredir a Humanidade._”
 
-<a name="LDE-q623"><code>LDE-qX</code></a>
+<a name="LDE-q623"><code>LDE-q623</code></a>
 
 #️⃣ 623. Os que hão pretendido instruir os homens na Lei de Deus não se têm enganado algumas vezes, fazendo-os transviar-se por meio de falsos princípios?
 >“_Certamente hão dado causa a que os homens se transviassem, aqueles que não eram inspirados por Deus e que, por ambição, tomaram sobre si um encargo que lhes não fora cometido. Todavia, como eram, afinal, homens de gênio, mesmo entre os erros que ensinaram, grandes verdades muitas vezes se encontram._”
 
-<a name="LDE-q624"><code>LDE-qX</code></a>
+<a name="LDE-q624"><code>LDE-q624</code></a>
 
 #️⃣ 624. Qual o caráter do verdadeiro profeta?
 >“_O verdadeiro profeta é um homem de bem, inspirado por Deus. Podeis reconhecê-lo pelas suas palavras e pelos seus atos. Impossível é que Deus se sirva da boca do mentiroso para ensinar a verdade._”
 
-<a name="LDE-q625"><code>LDE-qX</code></a>
+<a name="LDE-q625"><code>LDE-q625</code></a>
 
 #️⃣ 625. Qual o tipo mais perfeito que Deus tem oferecido ao homem, para lhe servir de guia e modelo?
 >“_Jesus._”
@@ -5538,18 +5538,18 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 > >
 > > Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, ensinando-lhe falsos princípios, isso aconteceu por haverem deixado que os dominassem sentimentos demasiado terrenos e por terem confundido as leis que regulam as condições da vida da alma, com as que regem a vida do corpo. Muitos hão apresentado como leis divinas simples leis humanas estatuídas para servir às paixões e dominar os homens.
 
-<a name="LDE-q626"><code>LDE-qX</code></a>
+<a name="LDE-q626"><code>LDE-q626</code></a>
 
 #️⃣ 626. Só por Jesus foram reveladas as leis divinas e naturais? Antes do seu aparecimento, o conhecimento dessas leis só por intuição os homens o tiveram?
 >“_Já não dissemos que elas estão escritas por toda parte? Desde os séculos mais longínquos, todos os que meditaram sobre a sabedoria hão podido compreendê-las e ensiná-las. Pelos ensinos, mesmo incompletos, que espalharam, prepararam o terreno para receber a semente. Estando as Leis divinas escritas no livro da natureza, possível foi ao homem conhecê-las, logo que as quis procurar. Por isso é que os preceitos que consagram foram, desde todos os tempos, proclamados pelos homens de bem; e também por isso é que elementos delas se encontram, se bem que incompletos ou adulterados pela ignorância, na doutrina moral de todos os povos saídos da barbárie._”
 
-<a name="LDE-q627"><code>LDE-qX</code></a>
+<a name="LDE-q627"><code>LDE-q627</code></a>
 
 #️⃣ 627. Uma vez que Jesus ensinou as verdadeiras Leis de Deus, qual a utilidade do ensino que os Espíritos dão? Terão que nos ensinar mais alguma coisa?
 >“_Jesus empregava amiúde, na sua linguagem, alegorias e parábolas, porque falava de conformidade com os tempos e os lugares.
 > Faz-se mister agora que a verdade se torne inteligível para todo mundo. Muito necessário é que aquelas leis sejam explicadas e desenvolvidas, tão poucos são os que as compreendem e ainda menos os que as praticam. A nossa missão consiste em abrir os olhos e os ouvidos a todos, confundindo os orgulhosos e desmascarando os hipócritas: os que vestem a capa da virtude e da religião, a fim de ocultarem suas torpezas. O ensino dos Espíritos tem que ser claro e sem equívocos, para que ninguém possa pretextar ignorância e para que todos o possam julgar e apreciar com a razão. Estamos incumbidos de preparar o reino do bem que Jesus anunciou. Daí a necessidade de que a ninguém seja possível interpretar a Lei de Deus ao sabor de suas paixões, nem falsear o sentido de uma lei toda de amor e de caridade._”
 
-<a name="LDE-q628"><code>LDE-qX</code></a>
+<a name="LDE-q628"><code>LDE-q628</code></a>
 
 #️⃣ 628. Por que a verdade não foi sempre posta ao alcance de toda gente?
 >“_Importa que cada coisa venha a seu tempo. A verdade é como a luz: o homem precisa habituar-se a ela pouco a pouco; do contrário, fica deslumbrado._”>“_Jamais permitiu Deus que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma ciência sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes fenômenos, deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de filosofia, nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se bem pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o Espiritismo dá de uma imensidade de coisas que até agora se vos afiguraram sem razão alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução._” 
@@ -5562,22 +5562,22 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 #### 📃 O bem e o mal
 
-<a name="LDE-q629"><code>LDE-qX</code></a>
+<a name="LDE-q629"><code>LDE-q629</code></a>
 
 #️⃣ 629. Que definição se pode dar da moral?
 >“_A moral é a regra de bem proceder, isto é, de distinguir o bem do mal. Funda-se na observância da Lei de Deus. O homem procede bem quando tudo faz pelo bem de todos, porque então cumpre a Lei de Deus._”
 
-<a name="LDE-q630"><code>LDE-qX</code></a>
+<a name="LDE-q630"><code>LDE-q630</code></a>
 
 #️⃣ 630. Como se pode distinguir o bem do mal?
 >“_O bem é tudo o que é conforme a Lei de Deus; o mal, tudo o que lhe é contrário. Assim, fazer o bem é proceder de acordo com a Lei de Deus. Fazer o mal é infringi-la._”
 
-<a name="LDE-q631"><code>LDE-qX</code></a>
+<a name="LDE-q631"><code>LDE-q631</code></a>
 
 #️⃣ 631. Tem meios o homem de distinguir por si mesmo o que é bem do que é mal?
 >“_Sim, quando crê em Deus e o quer saber. Deus lhe deu a inteligência para distinguir um do outro._”
 
-<a name="LDE-q632"><code>LDE-qX</code></a>
+<a name="LDE-q632"><code>LDE-q632</code></a>
 
 #️⃣ 632. Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e do mal e crer que pratica o bem quando em realidade pratica o mal?
 >“_Jesus disse:_
@@ -5586,78 +5586,78 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 >
 > ✝️ Mateus, cap. 7, vers. 12
 
-<a name="LDE-q633"><code>LDE-qX</code></a>
+<a name="LDE-q633"><code>LDE-q633</code></a>
 
 #️⃣ 633. A regra do bem e do mal, que se poderia chamar de **reciprocidade** ou de **solidariedade**, é inaplicável ao proceder pessoal do homem para consigo mesmo. Achará ele, na lei natural, a regra desse proceder e um guia seguro?
 >“_Quando comeis em excesso, verificais que isso vos faz mal. Pois bem, é Deus quem vos dá a medida daquilo de que necessitais. Quando excedeis dessa medida, sois punidos. Em tudo é assim. A lei natural traça para o homem o limite das suas necessidades. Se ele ultrapassa esse limite, é punido pelo sofrimento. Se atendesse sempre à voz que lhe diz — basta, evitaria a maior parte dos males, cuja culpa lança à Natureza._”
 
-<a name="LDE-q634"><code>LDE-qX</code></a>
+<a name="LDE-q634"><code>LDE-q634</code></a>
 
 #️⃣ 634. Por que está o mal na natureza das coisas? Falo do mal moral. Não podia Deus ter criado a Humanidade em melhores condições?
 >“_Já te dissemos: os Espíritos foram criados simples e ignorantes_ ([LDE-q115](#ldeq115)). _Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo._”
 
 ([LDE-q119](#ldeq119))
 
-<a name="LDE-q635"><code>LDE-qX</code></a>
+<a name="LDE-q635"><code>LDE-q635</code></a>
 
 #️⃣ 635. Das diferentes posições sociais nascem necessidades que não são idênticas para todos os homens. Não parece poder inferir-se daí que a lei natural não constitui regra uniforme?
 >“_Essas diferentes posições são da natureza das coisas e conformes a lei do progresso. Isso não infirma a unidade da lei natural, que se aplica a tudo._”
 >
 > > As condições de existência do homem mudam de acordo com os tempos e os lugares, do que lhe resultam necessidades diferentes e posições sociais apropriadas a essas necessidades. Pois que está na ordem das coisas, tal diversidade é conforme a Lei de Deus, lei que não deixa de ser una quanto ao seu princípio. À razão cabe distinguir as necessidades reais das factícias ou convencionais.
 
-<a name="LDE-q636"><code>LDE-qX</code></a>
+<a name="LDE-q636"><code>LDE-q636</code></a>
 
 #️⃣ 636. São absolutos, para todos os homens, o bem e o mal?
 >“_A Lei de Deus é a mesma para todos, porém o mal depende principalmente da vontade que se tenha de o praticar. O bem é sempre o bem e o mal sempre o mal, qualquer que seja a posição do homem. Diferença só há quanto ao grau da responsabilidade._”
 
-<a name="LDE-q637"><code>LDE-qX</code></a>
+<a name="LDE-q637"><code>LDE-q637</code></a>
 
 #️⃣ 637. Será culpado o selvagem que, cedendo ao seu instinto, se nutre de carne humana?
 >“_Eu disse que o mal depende da vontade. Pois bem! Tanto mais culpado é o homem, quanto melhor sabe o que faz._”
 >
 > > As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete o homem faltas, que, nem por serem consequência da posição em que a sociedade o colocou, se tornam menos repreensíveis. A responsabilidade do homem é proporcionada aos meios de que ele dispõe para compreender o bem e o mal. Assim, mais culpado é, aos olhos de Deus, o homem instruído que pratica uma simples injustiça, do que o selvagem ignorante que se entrega aos seus instintos.
 
-<a name="LDE-q638"><code>LDE-qX</code></a>
+<a name="LDE-q638"><code>LDE-q638</code></a>
 
 #️⃣ 638. Parece, às vezes, que o mal é uma consequência da força das coisas. Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destruir, até mesmo o seu semelhante. Poder-se-á dizer que há, então, infração da Lei de Deus?
 >“_Embora necessário, o mal não deixa de ser o mal. Essa necessidade desaparece, entretanto, à medida que a alma se depura, passando de uma a outra existência. Então, mais culpado é o homem, quando o pratica, porque melhor o compreende._”
 
-<a name="LDE-q639"><code>LDE-qX</code></a>
+<a name="LDE-q639"><code>LDE-q639</code></a>
 
 #️⃣ 639. Não sucede frequentemente resultar o mal, que o homem pratica, da posição em que os outros homens o colocam? Quais, nesse caso, os culpados?
 >“_O mal recai sobre quem lhe foi o causador. Nessas condições, aquele que é levado a praticar o mal pela posição em que seus semelhantes o colocam tem menos culpa do que os que, assim procedendo, o ocasionaram. Porque, cada um será punido, não só pelo mal que haja feito, mas também pelo mal a que tenha dado lugar._”
 
-<a name="LDE-q640"><code>LDE-qX</code></a>
+<a name="LDE-q640"><code>LDE-q640</code></a>
 
 #️⃣ 640. Aquele que não pratica o mal, mas que se aproveita do mal praticado por outrem, é tão culpado quanto este?
 >“_É como se o houvera praticado. Aproveitar do mal é participar dele. Talvez não fosse capaz de praticá-lo; mas, desde que, achando-o feito, dele tira partido, é que o aprova; é que o teria praticado, se pudera, ou se ousara._”
 
-<a name="LDE-q641"><code>LDE-qX</code></a>
+<a name="LDE-q641"><code>LDE-q641</code></a>
 
 #️⃣ 641. Será tão repreensível, quanto fazer o mal, o desejá-lo?
 >“_Conforme. Há virtude em resistir-se voluntariamente ao mal que se deseja praticar, sobretudo quando há possibilidade de satisfazer-se a esse desejo. Se apenas não o pratica por falta de ocasião, é culpado quem o deseja._”
 
-<a name="LDE-q642"><code>LDE-qX</code></a>
+<a name="LDE-q642"><code>LDE-q642</code></a>
 
 #️⃣ 642. Para agradar a Deus e assegurar a sua posição futura, bastará que o homem não pratique o mal?
 >“_Não; cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal que haja resultado de não haver praticado o bem._”
 
-<a name="LDE-q643"><code>LDE-qX</code></a>
+<a name="LDE-q643"><code>LDE-q643</code></a>
 
 #️⃣ 643. Haverá quem, pela sua posição, não tenha possibilidade de fazer o bem?
 >“_Não há quem não possa fazer o bem. Somente o egoísta nunca encontra ensejo de o praticar. Basta que se esteja em relações com outros homens para que se tenha ocasião de fazer o bem, e não há dia da existência que não ofereça, a quem não se ache cego pelo egoísmo, oportunidade de praticá-lo. Porque, fazer o bem não consiste, para o homem, apenas em ser caridoso, mas em ser útil, na medida do possível, todas as vezes que o seu concurso venha a ser necessário._”
 
-<a name="LDE-q644"><code>LDE-qX</code></a>
+<a name="LDE-q644"><code>LDE-q644</code></a>
 
 #️⃣ 644. Para certos homens, o meio onde se acham colocados não representa a causa primária de muitos vícios e crimes?
 >“_Sim, mas ainda aí há uma prova que o Espírito escolheu, quando em liberdade, levado pelo desejo de expor-se à tentação para ter o mérito da resistência._”
 
-<a name="LDE-q645"><code>LDE-qX</code></a>
+<a name="LDE-q645"><code>LDE-q645</code></a>
 
 #️⃣ 645. Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal não se lhe torna um arrastamento quase irresistível?
 >“_Arrastamento, sim; irresistível, não; porquanto, mesmo dentro da atmosfera do vício, com grandes virtudes às vezes deparas. São Espíritos que tiveram a força de resistir e que, ao mesmo tempo, receberam a missão de exercer boa influência sobre os seus semelhantes._”
 
-<a name="LDE-q646"><code>LDE-qX</code></a>
+<a name="LDE-q646"><code>LDE-q646</code></a>
 
 #️⃣ 646. Estará subordinado a determinadas condições o mérito do bem que se pratique? Por outra: será de diferentes graus o mérito que resulta da prática do bem?
 >“_O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe._
@@ -5680,12 +5680,12 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 ---
 
-<a name="LDE-q647"><code>LDE-qX</code></a>
+<a name="LDE-q647"><code>LDE-q647</code></a>
 
 #️⃣ 647. A Lei de Deus se acha contida toda no preceito do amor ao próximo, ensinado por Jesus?
 >“_Certamente. Esse preceito encerra todos os deveres dos homens uns para com os outros. Cumpre, porém, se lhes mostre a aplicação que comporta, do contrário deixarão de cumpri-lo, como o fazem presentemente. Ademais, a lei natural abrange todas as circunstâncias da vida e esse preceito compreende só uma parte da lei. Aos homens são necessárias regras precisas; os preceitos gerais e muito vagos deixam grande número de portas abertas à interpretação._”
 
-<a name="LDE-q648"><code>LDE-qX</code></a>
+<a name="LDE-q648"><code>LDE-q648</code></a>
 
 #️⃣ 648. Que pensais da divisão da lei natural em dez partes, compreendendo as leis de **adoração**, **trabalho**, **reprodução**, **conservação**, **destruição**, **sociedade**, **progresso**, **igualdade**, **liberdade** e, por fim, a de **justiça, amor e caridade**?
 >“_Essa divisão da Lei de Deus em dez partes é a de Moisés e de natureza a abranger todas as circunstâncias da vida, o que é essencial. Podes, pois, adotá-la, sem que, por isso, tenha qualquer coisa de absoluta, como não o tem nenhum dos outros sistemas de classificação, que todos dependem do prisma pelo qual se considere o que quer que seja. A última lei é a mais importante, por ser a que faculta ao homem adiantar-se mais na vida espiritual, visto que resume todas as outras._” 
@@ -5705,22 +5705,22 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 #### 📃 Objetivo da adoração
 
-<a name="LDE-q649"><code>LDE-qX</code></a>
+<a name="LDE-q649"><code>LDE-q649</code></a>
 
 #️⃣ 649. Em que consiste a adoração?
 >“_Na elevação do pensamento a Deus. Deste, pela adoração, aproxima o homem sua alma._”
 
-<a name="LDE-q650"><code>LDE-qX</code></a>
+<a name="LDE-q650"><code>LDE-q650</code></a>
 
 #️⃣ 650. Origina-se de um sentimento inato a adoração, ou é fruto de ensino?
 >“_Sentimento inato, como o da existência de Deus. A consciência da sua fraqueza leva o homem a curvar-se diante daquele que o pode proteger._”
 
-<a name="LDE-q651"><code>LDE-qX</code></a>
+<a name="LDE-q651"><code>LDE-q651</code></a>
 
 #️⃣ 651. Terá havido povos destituídos de todo sentimento de adoração?
 >“_Não, que nunca houve povos de ateus. Todos compreendem que acima de tudo há um Ente supremo._”
 
-<a name="LDE-q652"><code>LDE-qX</code></a>
+<a name="LDE-q652"><code>LDE-q652</code></a>
 
 #️⃣ 652. Poder-se-á considerar a lei natural como fonte originária da adoração?
 >“_A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes._” 
@@ -5733,7 +5733,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 #### 📃 Adoração exterior
 
-<a name="LDE-q653"><code>LDE-qX</code></a>
+<a name="LDE-q653"><code>LDE-q653</code></a>
 
 #️⃣ 653. Precisa de manifestações exteriores a adoração?
 >“_A adoração verdadeira é do coração. Em todas as vossas ações, lembrai-vos sempre de que o Senhor tem sobre vós o seu olhar._”
@@ -5741,7 +5741,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 a. Será útil a adoração exterior?
 >“_Sim, se não consistir num vão simulacro. É sempre útil dar um bom exemplo, mas os que somente por afetação e amor-próprio o fazem, desmentindo com o proceder a aparente piedade, mau exemplo dão e não imaginam o mal que causam._”
 
-<a name="LDE-q654"><code>LDE-qX</code></a>
+<a name="LDE-q654"><code>LDE-q654</code></a>
 
 #️⃣ 654. Tem Deus preferência pelos que o adoram desta ou daquela maneira?
 >“_Deus prefere os que o adoram do fundo do coração, com sinceridade, fazendo o bem e evitando o mal, aos que julgam honrá-lo com cerimônias que os não tornam melhores para com os seus semelhantes._”
@@ -5750,12 +5750,12 @@ a. Será útil a adoração exterior?
 >>“_Declaro-vos que somente nos lábios e não na alma tem religião aquele que professa adorar o Cristo, mas que é orgulhoso, invejoso e cioso, duro e implacável para com outrem, ou ambicioso dos bens deste mundo. Deus, que tudo vê, dirá: o que conhece a verdade é cem vezes mais culpado do mal que faz, do que o selvagem ignorante que vive no deserto. E como tal será tratado no dia da justiça. Se um cego, ao passar, vos derriba, perdoá-lo-eis; se for um homem que enxerga perfeitamente bem, queixar-vos-eis e com razão._”
 >>“_Não pergunteis, pois, se alguma forma de adoração há que mais convenha, porque equivaleria a perguntardes se mais agrada a Deus ser adorado num idioma do que noutro. Ainda uma vez vos digo: até ele não chegam os cânticos, senão quando passam pela porta do coração._”
 
-<a name="LDE-q655"><code>LDE-qX</code></a>
+<a name="LDE-q655"><code>LDE-q655</code></a>
 
 #️⃣ 655. Merece censura aquele que pratica uma religião em que não crê do fundo da alma, fazendo-o apenas pelo respeito humano e para não escandalizar os que pensam de modo diverso?
 >“_Nisto, como em muitas outras coisas, a intenção constitui a regra. Não procede mal aquele que, assim fazendo, só tenha em vista respeitar as crenças de outrem. Procede melhor do que um que as ridiculize, porque, então, falta à caridade. Aquele, porém, que a pratique por interesse e por ambição se torna desprezível aos olhos de Deus e dos homens. A Deus não podem agradar os que fingem humilhar-se diante dele tão somente para granjear o aplauso dos homens._”
 
-<a name="LDE-q656"><code>LDE-qX</code></a>
+<a name="LDE-q656"><code>LDE-q656</code></a>
 
 #️⃣ 656. À adoração individual será preferível a adoração em comum?
 >“_Reunidos pela comunhão dos pensamentos e dos sentimentos, mais força têm os homens para atrair a si os bons Espíritos._”
@@ -5769,7 +5769,7 @@ a. Será útil a adoração exterior?
 
 #### 📃 Vida contemplativa
 
-<a name="LDE-q657"><code>LDE-qX</code></a>
+<a name="LDE-q657"><code>LDE-q657</code></a>
 
 #️⃣ 657. Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma vez que nenhum mal fazem e só em Deus pensam?
 >“_Não, porquanto, se é certo que não fazem o mal, também o é que não fazem o bem e são inúteis. Ademais, não fazer o bem já é um mal. Deus quer que o homem pense nele, mas não quer que só nele pense, pois que lhe impôs deveres a cumprir na Terra. Quem passa todo o tempo na meditação e na contemplação nada faz de meritório aos olhos de Deus, porque vive uma vida toda pessoal e inútil à Humanidade e Deus lhe pedirá contas do bem que não houver feito._”
@@ -5784,17 +5784,17 @@ a. Será útil a adoração exterior?
 
 #### 📃 A prece
 
-<a name="LDE-q658"><code>LDE-qX</code></a>
+<a name="LDE-q658"><code>LDE-q658</code></a>
 
 #️⃣ 658. Agrada a Deus a prece?
 >“_A prece é sempre agradável a Deus, quando ditada pelo coração, pois, para Ele, a intenção é tudo. Assim, preferível lhe é a prece do íntimo à prece lida, por muito bela que seja, se for lida mais com os lábios do que com o coração. Agrada-lhe a prece, quando dita com fé, com fervor e sinceridade. Não creiais, porém, que toque a Deus a prece do homem fútil, orgulhoso e egoísta, a menos que signifique, de sua parte, um ato de sincero arrependimento e de verdadeira humildade._”
 
-<a name="LDE-q659"><code>LDE-qX</code></a>
+<a name="LDE-q659"><code>LDE-q659</code></a>
 
 #️⃣ 659. Qual o caráter geral da prece?
 >“_A prece é um ato de adoração. Orar a Deus é pensar nele; é aproximar-se dele; é pôr-se em comunicação com Ele. A três coisas podemos propor-nos por meio da prece: louvar, pedir, agradecer._”
 
-<a name="LDE-q660"><code>LDE-qX</code></a>
+<a name="LDE-q660"><code>LDE-q660</code></a>
 
 #️⃣ 660. A prece torna melhor o homem?
 >“_Sim, porquanto aquele que ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia bons Espíritos para assisti-lo. É este um socorro que jamais se lhe recusa, quando pedido com sinceridade._”
@@ -5802,29 +5802,29 @@ a. Será útil a adoração exterior?
 a. Como é que certas pessoas, que oram muito, são, não obstante, de mau caráter, ciosas, invejosas, impertinentes, carentes de benevolência e de indulgência e até, algumas vezes, viciosas?
 >“_O essencial não é orar muito, mas orar bem. Essas pessoas supõem que todo o mérito está na longura da prece e fecham os olhos para os seus próprios defeitos. Fazem da prece uma ocupação, um emprego do tempo, nunca, porém, um estudo de si mesmas. A ineficácia, em tais casos, não é do remédio, sim da maneira por que o aplicam._”
 
-<a name="LDE-q661"><code>LDE-qX</code></a>
+<a name="LDE-q661"><code>LDE-q661</code></a>
 
 #️⃣ 661. Poderemos utilmente pedir a Deus que perdoe as nossas faltas?
 >“_Deus sabe discernir o bem do mal; a prece não esconde as faltas. Aquele que a Deus pede perdão de suas faltas só o obtém mudando de proceder. As boas ações são a melhor prece, por isso que os atos valem mais que as palavras._”
 
-<a name="LDE-q662"><code>LDE-qX</code></a>
+<a name="LDE-q662"><code>LDE-q662</code></a>
 
 #️⃣ 662. Pode-se, com utilidade, orar por outrem?
 >“_O Espírito de quem ora atua pela sua vontade de praticar o bem. Atrai a si, mediante a prece, os bons Espíritos e estes se associam ao bem que deseje fazer._”
 >
 > > O pensamento e a vontade representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons Espíritos, que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos lábios nada vale.
 
-<a name="LDE-q663"><code>LDE-qX</code></a>
+<a name="LDE-q663"><code>LDE-q663</code></a>
 
 #️⃣ 663. Podem as preces, que por nós mesmos fizermos, mudar a natureza das nossas provas e desviar-lhes o curso?
 >“_As vossas provas estão nas mãos de Deus e algumas há que têm de ser suportadas até o fim, mas Deus sempre leva em conta a resignação. A prece traz para junto de vós os bons Espíritos e, dando-vos estes a força de suportá-las corajosamente, menos rudes elas vos parecem. Hemos dito que a prece nunca é inútil quando benfeita, porque fortalece aquele que ora, o que já constitui grande resultado. Ajuda-te a ti mesmo e o céu te ajudará, bem o sabes. Ademais, não é possível que Deus mude a ordem da natureza ao sabor de cada um, porquanto o que, do vosso ponto de vista mesquinho e do da vossa vida efêmera, vos parece um grande mal é quase sempre um grande bem na ordem geral do Universo. Além disso, de quantos males não se constitui o homem o próprio autor, pela sua imprevidência ou pelas suas faltas?_”>“_Ele é punido naquilo em que pecou. Todavia, as súplicas justas são atendidas mais vezes do que supondes. Julgais, de ordinário, que Deus não vos ouve, porque não faz a vosso favor um milagre, enquanto vos assiste por meios tão naturais que vos parecem obra do acaso ou da força das coisas. Muitas vezes também, as mais das vezes mesmo, ele vos sugere a ideia que vos fará sair da dificuldade pelo vosso próprio esforço._”
 
-<a name="LDE-q664"><code>LDE-qX</code></a>
+<a name="LDE-q664"><code>LDE-q664</code></a>
 
 #️⃣ 664. Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso, como podem as nossas preces lhes proporcionar alívio e abreviar os sofrimentos? Têm elas o poder de abrandar a Justiça de Deus?
 >“_A prece não pode ter por efeito mudar os desígnios de Deus, mas a alma por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do Espírito sofredor Espíritos melhores, que o vão esclarecer, consolar e dar-lhe esperanças. Jesus orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces._”
 
-<a name="LDE-q665"><code>LDE-qX</code></a>
+<a name="LDE-q665"><code>LDE-q665</code></a>
 
 #️⃣ 665. Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho?
 >“_Aos homens disse o Cristo:_
@@ -5835,7 +5835,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 >
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito._” [^16]
 
-<a name="LDE-q666"><code>LDE-qX</code></a>
+<a name="LDE-q666"><code>LDE-q666</code></a>
 
 #️⃣ 666. Pode-se orar aos Espíritos?
 >“_Pode-se orar aos bons Espíritos, como os mensageiros de Deus e os executores de suas vontades. O poder deles, porém, está em relação com a superioridade que tenham alcançado e dimana sempre do Senhor de todas as coisas, sem cuja permissão nada se faz. Eis por que as preces que se lhes dirigem só são eficazes se bem-aceitas por Deus._”
@@ -5848,12 +5848,12 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 #### 📃 Politeísmo
 
-<a name="LDE-q667"><code>LDE-qX</code></a>
+<a name="LDE-q667"><code>LDE-q667</code></a>
 
 #️⃣ 667. Por que razão, não obstante ser falsa, a crença politeísta é uma das mais antigas e espalhadas?
 >“_A concepção de um Deus único não poderia existir no homem, senão como resultado do desenvolvimento de suas ideias. Incapaz, pela sua ignorância, de conceber um ser imaterial, sem forma determinada, atuando sobre a matéria, conferiu-lhe o homem atributos da natureza corpórea, isto é, uma forma e um aspecto e, desde então, tudo o que parecia ultrapassar os limites da inteligência comum era, para ele, uma divindade. Tudo o que não compreendia devia ser obra de uma potência sobrenatural. Daí a crer em tantas potências distintas quantos os efeitos que observava, não havia mais que um passo. Em todos os tempos, porém, houve homens instruídos, que compreenderam ser impossível a existência desses poderes múltiplos a governarem o mundo, sem uma direção superior, e que, em consequência, se elevaram à concepção de um Deus único._”
 
-<a name="LDE-q668"><code>LDE-qX</code></a>
+<a name="LDE-q668"><code>LDE-q668</code></a>
 
 #️⃣ 668. Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idades do mundo, não haverão os fenômenos espíritas contribuído para a difusão da crença na pluralidade dos deuses?
 >“_Sem dúvida, porquanto, chamando **deus** a tudo o que era sobre-humano, os homens tinham por deuses os Espíritos. Daí veio que, quando um homem, pelas suas ações, pelo seu gênio, ou por um poder oculto que o vulgo não lograva compreender, se distinguia dos demais, faziam dele um deus e, por sua morte, lhe rendiam culto._”
@@ -5872,7 +5872,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 #### 📃 Sacrifícios
 
-<a name="LDE-q669"><code>LDE-qX</code></a>
+<a name="LDE-q669"><code>LDE-q669</code></a>
 
 #️⃣ 
 669. Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica que o homem tenha sido levado a crer que tais coisas pudessem agradar a Deus?
@@ -5884,22 +5884,22 @@ a. De modo que os sacrifícios de animais precederam os sacrifícios humanos?
 b) Então, de acordo com a explicação que vindes de dar, não foi de um sentimento de crueldade que se originaram os sacrifícios humanos?
 >“_Não; originaram-se de uma ideia errônea quanto à maneira de agradar a Deus. Considerai o que se deu com Abraão. Com o correr dos tempos, os homens entraram a abusar dessas práticas, imolando seus inimigos comuns, até mesmo seus inimigos particulares. Deus, entretanto, nunca exigiu sacrifícios, nem de homens, nem, sequer, de animais. Não há como imaginar-se que se lhe possa prestar culto, mediante a destruição inútil de suas criaturas._”
 
-<a name="LDE-q670"><code>LDE-qX</code></a>
+<a name="LDE-q670"><code>LDE-q670</code></a>
 
 #️⃣ 670. Dar-se-á que alguma vez possam ter sido agradáveis a Deus os sacrifícios humanos praticados com piedosa intenção?
 >“_Não, nunca. Deus, porém, julga pela intenção. Sendo ignorantes os homens, natural era que supusessem praticar ato louvável imolando seus semelhantes. Nesses casos, Deus atentava unicamente na ideia que presidia ao ato e não neste. À proporção que se foram melhorando, os homens tiveram que reconhecer o erro em que laboravam e que reprovar tais sacrifícios, com que não podiam conformar-se as ideias de Espíritos esclarecidos. Digo — esclarecidos, porque os Espíritos tinham então a envolvê-los o véu material, mas, por meio do livre-arbítrio, possível lhes era vislumbrar suas origens e fim, e muitos, por intuição, já compreendiam o mal que praticavam, se bem que nem por isso deixassem de praticá-lo, para satisfazer às suas paixões._”
 
-<a name="LDE-q671"><code>LDE-qX</code></a>
+<a name="LDE-q671"><code>LDE-q671</code></a>
 
 #️⃣ 671. Que devemos pensar das chamadas guerras santas? O sentimento que impele os povos fanáticos, tendo em vista agradar a Deus, a exterminarem o mais possível os que não partilham de suas crenças, poderá equiparar-se, quanto à origem, ao sentimento que os excitava outrora a sacrificarem seus semelhantes?
 >“_São impelidos pelos maus Espíritos e, fazendo a guerra aos seus semelhantes, contravêm à vontade de Deus, que manda ame cada um o seu irmão, como a si mesmo. Todas as religiões, ou, antes, todos os povos adoram um mesmo Deus, qualquer que seja o nome que lhe deem. Por que então há de um fazer guerra a outro, sob o fundamento de ser a religião deste diferente da sua, ou por não ter ainda atingido o grau de progresso da religião dos povos cultos? Se são desculpáveis os povos de não crerem na palavra daquele que o Espírito de Deus animava e que Deus enviou, sobretudo os que não o viram e não lhe testemunharam os atos, como pretenderdes que creiam nessa palavra de paz, quando lhes ides levá-la de espada em punho? Eles têm que ser esclarecidos e devemos esforçar-nos por fazê-los conhecer a doutrina do Salvador, mediante a persuasão e com brandura, nunca a ferro e fogo. Em vossa maioria, não acreditais nas comunicações que temos com certos mortais; como quereríeis que estranhos acreditassem na vossa palavra, quando desmentis com os atos a doutrina que pregais?_”
 
-<a name="LDE-q672"><code>LDE-qX</code></a>
+<a name="LDE-q672"><code>LDE-q672</code></a>
 
 #️⃣ 672. A oferenda feita a Deus, de frutos da terra, tinha a seus olhos mais mérito do que o sacrifício dos animais?
 >“_Já vos respondi, declarando que Deus julga segundo a intenção e que para Ele pouca importância tinha o fato. Mais agradável evidentemente era a Deus que lhe oferecessem frutos da terra, em vez do sangue das vítimas. Como temos dito e sempre repetiremos, a prece proferida do fundo da alma é cem vezes mais agradável a Deus do que todas as oferendas que lhe possais fazer. Repito que a intenção é tudo, que o fato nada vale._”
 
-<a name="LDE-q673"><code>LDE-qX</code></a>
+<a name="LDE-q673"><code>LDE-q673</code></a>
 
 #️⃣ 673. Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a minorar os sofrimentos daqueles a quem falta o necessário e, neste caso, o sacrifício dos animais, praticado com fim útil, não se tornaria meritório, ao passo que era abusivo quando para nada servia, ou só aproveitava aos que de nada precisavam? Não haveria qualquer coisa de verdadeiramente piedoso em consagrar-se aos pobres as primícias dos bens que Deus nos concede na Terra?
 >“_Deus abençoa sempre os que fazem o bem. O melhor meio de honrá-lo consiste em minorar os sofrimentos dos pobres e dos aflitos. Não quero dizer com isto que Ele desaprove as cerimônias que praticais para lhe dirigirdes as vossas preces. Muito dinheiro, porém, aí se gasta que poderia ser empregado mais utilmente do que o é. Deus ama a simplicidade em tudo. O homem que se atém às exterioridades e não ao coração é um Espírito de vistas acanhadas. Dizei, em consciência, se Deus deve atender mais à forma do que ao fundo._” 
@@ -5919,44 +5919,44 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 #### 📃 Necessidade do trabalho
 
-<a name="LDE-q674"><code>LDE-qX</code></a>
+<a name="LDE-q674"><code>LDE-q674</code></a>
 
 #️⃣ 674. A necessidade do trabalho é Lei da Natureza?
 >“_O trabalho é Lei da Natureza, por isso mesmo que constitui uma necessidade, e a civilização obriga o homem a trabalhar mais, porque lhe aumenta as necessidades e os gozos._”
 
-<a name="LDE-q675"><code>LDE-qX</code></a>
+<a name="LDE-q675"><code>LDE-q675</code></a>
 
 #️⃣ 675. Por trabalho só se devem entender as ocupações materiais?
 >“_Não; o Espírito trabalha, assim como o corpo. Toda ocupação útil é trabalho._”
 
-<a name="LDE-q676"><code>LDE-qX</code></a>
+<a name="LDE-q676"><code>LDE-q676</code></a>
 
 #️⃣ 676. Por que o trabalho se impõe ao homem?
 >“_Por ser uma consequência da sua natureza corpórea. É expiação e, ao mesmo tempo, meio de aperfeiçoamento da sua inteligência. Sem o trabalho, o homem permaneceria sempre na infância, quanto à inteligência. Por isso é que seu alimento, sua segurança e seu bem-estar dependem do seu trabalho e da sua atividade. Em compensação, ao extremamente fraco de corpo outorgou Deus a inteligência, mas é sempre um trabalho._”
 
-<a name="LDE-q677"><code>LDE-qX</code></a>
+<a name="LDE-q677"><code>LDE-q677</code></a>
 
 #️⃣ 677. Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 >“_Tudo na Natureza trabalha. Como tu, trabalham os animais, mas o trabalho deles, de acordo com a inteligência de que dispõem, se limita a cuidarem da própria conservação. Daí vem que, do trabalho não lhes resulta progresso, ao passo que o do homem visa duplo fim: a conservação do corpo e o desenvolvimento da faculdade de pensar, o que também é uma necessidade e o eleva acima de si mesmo. Quando digo que o trabalho dos animais se cifra no cuidarem da própria conservação, refiro-me ao objetivo com que trabalham. Entretanto, provendo às suas necessidades materiais, eles se constituem, inconscientemente, executores dos desígnios do Criador e, assim, o trabalho que executam também concorre para a realização do objetivo final da Natureza, se bem quase nunca lhe descubrais o resultado imediato._”
 
-<a name="LDE-q678"><code>LDE-qX</code></a>
+<a name="LDE-q678"><code>LDE-q678</code></a>
 
 #️⃣ 678. Nos mundos mais aperfeiçoados, os homens se acham submetidos à mesma necessidade de trabalhar?
 >“_A natureza do trabalho está em relação com a natureza das necessidades. Quanto menos materiais são estas, menos material é o trabalho. Não deduzais daí, porém, que o homem se conserve inativo e inútil. A ociosidade seria um suplício, em vez de ser um benefício._”
 
-<a name="LDE-q679"><code>LDE-qX</code></a>
+<a name="LDE-q679"><code>LDE-q679</code></a>
 
 #️⃣ 679. Achar-se-á isento da lei do trabalho o homem que possua bens suficientes para lhe assegurarem a existência?
 >“_Do trabalho material, talvez; não, porém, da obrigação de tornar-se útil, conforme os meios de que disponha, nem de aperfeiçoar a sua inteligência ou a dos outros, o que também é trabalho._”>“_Aquele a quem Deus facultou a posse de bens suficientes a lhe garantirem a existência não está, é certo, constrangido a alimentar-se com o suor do seu rosto, mas tanto maior lhe é a obrigação de ser útil aos seus semelhantes, quanto mais ocasiões de praticar o bem lhe proporciona o adiantamento que lhe foi feito._”
 
-<a name="LDE-q680"><code>LDE-qX</code></a>
+<a name="LDE-q680"><code>LDE-q680</code></a>
 
 #️⃣ 680. Não há homens que se encontram impossibilitados de trabalhar no que quer que seja e cuja existência é, portanto, inútil?
 >“_Deus é justo e, pois, só condena aquele que voluntariamente tornou inútil a sua existência, porquanto esse vive a expensas do trabalho dos outros. Ele quer que cada um seja útil, de acordo com as suas faculdades._”
 
 ([LDE-q64](#ldeq64))
 
-<a name="LDE-q681"><code>LDE-qX</code></a>
+<a name="LDE-q681"><code>LDE-q681</code></a>
 
 #️⃣ 681. A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 >“_Certamente, do mesmo modo que os pais têm que trabalhar para seus filhos. Foi por isso que Deus fez do amor filial e do amor paterno um sentimento natural. Foi para que, por essa afeição recíproca, os membros de uma família se sentissem impelidos a ajudarem-se mutuamente, o que, aliás, com muita frequência se esquece na vossa sociedade atual._”
@@ -5971,24 +5971,24 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 #### 📃 Limite do trabalho. Repouso
 
-<a name="LDE-q682"><code>LDE-qX</code></a>
+<a name="LDE-q682"><code>LDE-q682</code></a>
 
 #️⃣ 682. Sendo uma necessidade para todo aquele que trabalha, o repouso não é também uma Lei da Natureza?
 >“_Sem dúvida. O repouso serve para a reparação das forças do corpo e também é necessário para dar um pouco mais de liberdade à inteligência, a fim de que se eleve acima da matéria._”
 
-<a name="LDE-q683"><code>LDE-qX</code></a>
+<a name="LDE-q683"><code>LDE-q683</code></a>
 
 #️⃣ 683. Qual o limite do trabalho?
 >“_O das forças. Em suma, a esse respeito Deus deixa inteiramente livre o homem._”
 
-<a name="LDE-q684"><code>LDE-qX</code></a>
+<a name="LDE-q684"><code>LDE-q684</code></a>
 
 #️⃣ 684. Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores excessivo trabalho?
 >“_Isso é uma das piores ações. Todo aquele que tem o poder de mandar é responsável pelo excesso de trabalho que imponha a seus inferiores, porquanto, assim fazendo, transgride a Lei de Deus._”
 
 ([LDE-q273](#ldeq273))
 
-<a name="LDE-q685"><code>LDE-qX</code></a>
+<a name="LDE-q685"><code>LDE-q685</code></a>
 
 #️⃣ 685. Tem o homem o direito de repousar na velhice?
 >“_Sim, que a nada é obrigado, senão de acordo com as suas forças._”
@@ -6013,12 +6013,12 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 #### 📃 População do globo
 
-<a name="LDE-q686"><code>LDE-qX</code></a>
+<a name="LDE-q686"><code>LDE-q686</code></a>
 
 #️⃣ 686. É Lei da Natureza a reprodução dos seres vivos?
 >“_Evidentemente. Sem a reprodução, o mundo corporal pereceria._”
 
-<a name="LDE-q687"><code>LDE-qX</code></a>
+<a name="LDE-q687"><code>LDE-q687</code></a>
 
 #️⃣ 687. Indo sempre a população na progressão crescente que vemos, chegará tempo em que seja excessiva na Terra?
 >“_Não, Deus a isso provê e mantém sempre o equilíbrio. Ele coisa alguma inútil faz. O homem, que apenas vê um canto do quadro da Natureza, não pode julgar da harmonia do conjunto._” 
@@ -6031,26 +6031,26 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 #### 📃 Sucessão e aperfeiçoamento das raças
 
-<a name="LDE-q688"><code>LDE-qX</code></a>
+<a name="LDE-q688"><code>LDE-q688</code></a>
 
 #️⃣ 688. Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em que terão desaparecido da Terra? [^17]
 >“_Assim acontecerá, de fato. É que outras lhes terão tomado o lugar, como outras um dia tomarão o da vossa._”
 
-<a name="LDE-q689"><code>LDE-qX</code></a>
+<a name="LDE-q689"><code>LDE-q689</code></a>
 
 #️⃣ 689. Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados dos seres primitivos? [^18]
 >“_São os mesmos Espíritos que **voltaram**, para se aperfeiçoar em novos corpos, mas que ainda estão longe da perfeição. Assim, a atual raça humana, que, pelo seu crescimento, tende a invadir toda a Terra e a substituir as raças que se extinguem, terá sua fase de decrescimento e de desaparição. Substituí-la-ão outras raças mais aperfeiçoadas, que descenderão da atual, como os homens civilizados de hoje descendem dos seres brutos e selvagens dos tempos primitivos._”
 
-<a name="LDE-q690"><code>LDE-qX</code></a>
+<a name="LDE-q690"><code>LDE-q690</code></a>
 
 #️⃣ 690. Do ponto de vista físico, são de criação especial os corpos da raça atual, ou procedem dos corpos primitivos, mediante reprodução? [^19]
 >“_A origem das raças se perde na noite dos tempos. Como todas pertencem, porém, à grande família humana, qualquer que tenha sido o tronco de cada uma, elas puderam aliar-se entre si e produzir tipos novos._”
 
-<a name="LDE-q691"><code>LDE-qX</code></a>
+<a name="LDE-q691"><code>LDE-q691</code></a>
 
 #️⃣ 691. Qual, do ponto de vista físico, o caráter distintivo e dominante das raças primitivas? [^20] >“_Desenvolvimento da força bruta, à custa da força intelectual. Agora, dá-se o contrário: o homem faz mais pela inteligência do que pela força do corpo. Todavia, faz cem vezes mais, porque soube tirar proveito das forças da Natureza, o que não conseguem os animais._”
 
-<a name="LDE-q692"><code>LDE-qX</code></a>
+<a name="LDE-q692"><code>LDE-q692</code></a>
 
 #️⃣ 692. Será contrário à Lei da Natureza o aperfeiçoamento das raças animais e vegetais pela Ciência? Seria mais conforme a essa lei deixar que as coisas seguissem seu curso normal?
 >“_Tudo se deve fazer para chegar à perfeição e o próprio homem é um instrumento de que Deus se serve para atingir seus fins. Sendo a perfeição a meta para que tende a Natureza, favorecer essa perfeição é corresponder às vistas de Deus._”
@@ -6066,7 +6066,7 @@ a. Geralmente, os esforços que o homem emprega para conseguir a melhoria das ra
 
 #### 📃 Obstáculos à reprodução
 
-<a name="LDE-q693"><code>LDE-qX</code></a>
+<a name="LDE-q693"><code>LDE-q693</code></a>
 
 #️⃣ 693. São contrários à Lei da Natureza as leis e os costumes humanos que têm por fim ou por efeito criar obstáculos à reprodução?
 >“_Tudo o que embaraça a Natureza em sua marcha é contrário à lei geral._”
@@ -6074,7 +6074,7 @@ a. Geralmente, os esforços que o homem emprega para conseguir a melhoria das ra
 a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reprodução indefinida seria nociva a outras espécies e das quais o próprio homem acabaria por ser vítima. Pratica ele ato repreensível, impedindo essa reprodução?
 >“_Deus concedeu ao homem, sobre todos os seres vivos, um poder de que ele deve usar, sem abusar. Pode, pois, regular a reprodução, de acordo com as necessidades. Não deve opor-se-lhe sem necessidade. A ação inteligente do homem é um contrapeso que Deus dispôs para restabelecer o equilíbrio entre as forças da Natureza e é ainda isso o que o distingue dos animais, porque ele obra com conhecimento de causa. Os mesmos animais, porém, também concorrem para a existência desse equilíbrio, porquanto o instinto de destruição que lhes foi dado faz com que, provendo à própria conservação, obstem ao desenvolvimento excessivo, quiçá perigoso, das espécies animais e vegetais de que se alimentam._”
 
-<a name="LDE-q694"><code>LDE-qX</code></a>
+<a name="LDE-q694"><code>LDE-q694</code></a>
 
 #️⃣ 694. Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, para satisfação da sensualidade?
 >“_Isso prova a predominância do corpo sobre a alma e quanto o homem é material._” 
@@ -6087,29 +6087,29 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 #### 📃 Casamento e celibato
 
-<a name="LDE-q695"><code>LDE-qX</code></a>
+<a name="LDE-q695"><code>LDE-q695</code></a>
 
 #️⃣ 695. Será contrário à Lei da Natureza o casamento, isto é, a união permanente de dois seres?
 >“_É um progresso na marcha da Humanidade._”
 
-<a name="LDE-q696"><code>LDE-qX</code></a>
+<a name="LDE-q696"><code>LDE-q696</code></a>
 
 #️⃣ 696. Que efeito teria sobre a sociedade humana a abolição do casamento?
 >“_Seria uma regressão à vida dos animais._”
 >
 > > O estado de natureza é o da união livre e fortuita dos sexos. O casamento constitui um dos primeiros atos de progresso nas sociedades humanas, porque estabelece a solidariedade fraterna e se observa entre todos os povos, se bem que em condições diversas. A abolição do casamento seria, pois, regredir à infância da Humanidade e colocaria o homem abaixo mesmo de certos animais que lhe dão o exemplo de uniões constantes.
 
-<a name="LDE-q697"><code>LDE-qX</code></a>
+<a name="LDE-q697"><code>LDE-q697</code></a>
 
 #️⃣ 697. Está na Lei da Natureza, ou somente na lei humana, a indissolubilidade absoluta do casamento?
 >“_É uma lei humana muito contrária à da Natureza, mas os homens podem modificar suas leis; só as da Natureza são imutáveis._”
 
-<a name="LDE-q698"><code>LDE-qX</code></a>
+<a name="LDE-q698"><code>LDE-q698</code></a>
 
 #️⃣ 698. O celibato voluntário representa um estado de perfeição meritório aos olhos de Deus?
 >“_Não, e os que assim vivem, por egoísmo, desagradam a Deus e enganam o mundo._”
 
-<a name="LDE-q699"><code>LDE-qX</code></a>
+<a name="LDE-q699"><code>LDE-q699</code></a>
 
 #️⃣ 699. Da parte de certas pessoas, o celibato não será um sacrifício que fazem com o fim de se votarem, de modo mais completo, ao serviço da Humanidade?
 >“_Isso é muito diferente. Eu disse: por egoísmo. Todo sacrifício pessoal é meritório, quando feito para o bem. Quanto maior o sacrifício, tanto maior o mérito._”
@@ -6124,12 +6124,12 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 #### 📃 Poligamia
 
-<a name="LDE-q700"><code>LDE-qX</code></a>
+<a name="LDE-q700"><code>LDE-q700</code></a>
 
 #️⃣ 700. A igualdade numérica, que mais ou menos existe entre os sexos, constitui indício da proporção em que devam unir-se?
 >“_Sim, porquanto tudo, na Natureza, tem um fim._”
 
-<a name="LDE-q701"><code>LDE-qX</code></a>
+<a name="LDE-q701"><code>LDE-q701</code></a>
 
 #️⃣ 701. Qual das duas, a poligamia ou a monogamia, é mais conforme a Lei da Natureza?
 >“_A poligamia é lei humana cuja abolição marca um progresso social. O casamento, segundo as vistas de Deus, tem que se fundar na afeição dos seres que se unem. Na poligamia não há afeição real: há apenas sensualidade._”
@@ -6153,12 +6153,12 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 #### 📃 Instinto de conservação
 
-<a name="LDE-q702"><code>LDE-qX</code></a>
+<a name="LDE-q702"><code>LDE-q702</code></a>
 
 #️⃣ 702. É Lei da Natureza o instinto de conservação?
 >“_Sem dúvida. Todos os seres vivos o possuem, qualquer que seja o grau de sua inteligência. Nuns é puramente maquinal, raciocinado em outros._”
 
-<a name="LDE-q703"><code>LDE-qX</code></a>
+<a name="LDE-q703"><code>LDE-q703</code></a>
 
 #️⃣ 703. Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 >“_Porque todos têm que concorrer para cumprimento dos desígnios da Providência. Por isso foi que Deus lhes deu a necessidade de viver. Acresce que a vida é necessária ao aperfeiçoamento dos seres. Eles o sentem instintivamente, sem disso se aperceberem._” 
@@ -6171,22 +6171,22 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 #### 📃 Meios de conservação
 
-<a name="LDE-q704"><code>LDE-qX</code></a>
+<a name="LDE-q704"><code>LDE-q704</code></a>
 
 #️⃣ 704. Tendo dado ao homem a necessidade de viver, Deus lhe facultou, em todos os tempos, os meios de o conseguir?
 >“_Certo, e se ele os não encontra, é que não os compreende. Não fora possível que Deus criasse para o homem a necessidade de viver, sem lhe dar os meios de consegui-lo. Essa a razão por que faz que a Terra produza de modo a proporcionar o necessário aos que a habitam, visto que só o necessário é útil. O supérfluo nunca o é._”
 
-<a name="LDE-q705"><code>LDE-qX</code></a>
+<a name="LDE-q705"><code>LDE-q705</code></a>
 
 #️⃣ 705. Por que nem sempre a Terra produz bastante para fornecer ao homem o necessário?
 >“_É que, ingrato, o homem a despreza! Ela, no entanto, é excelente mãe. Muitas vezes, também, ele acusa a Natureza do que só é resultado da sua imperícia ou da sua imprevidência. A Terra produziria sempre o necessário, se com o necessário soubesse o homem contentar-se. Se o que ela produz não lhe basta a todas as necessidades, é que ele emprega no supérfluo o que poderia ser aplicado no necessário. Olha o árabe no deserto. Acha sempre de que viver, porque não cria para si necessidades factícias. Desde que haja desperdiçado a metade dos produtos em satisfazer a fantasias, que motivos tem o homem para se espantar de nada encontrar no dia seguinte e para se queixar de estar desprovido de tudo, quando chegam os dias de penúria? Em verdade vos digo, imprevidente não é a Natureza, é o homem, que não sabe regrar o seu viver._”
 
-<a name="LDE-q706"><code>LDE-qX</code></a>
+<a name="LDE-q706"><code>LDE-q706</code></a>
 
 #️⃣ 706. Por bens da Terra unicamente se devem entender os produtos do solo?
 >“_O solo é a fonte primacial donde dimanam todos os outros recursos, pois que, em definitivo, estes recursos são simples transformações dos produtos do solo. Por bens da Terra se deve, pois, entender tudo de que o homem pode gozar neste mundo._”
 
-<a name="LDE-q707"><code>LDE-qX</code></a>
+<a name="LDE-q707"><code>LDE-q707</code></a>
 
 #️⃣ 707. É frequente a certos indivíduos faltarem os meios de subsistência, ainda quando os cerca a abundância. A que se deve atribuir isso?
 >“_Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza._”
@@ -6197,17 +6197,17 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 > >
 > > Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, por esse lado, têm feito os povos mais adiantados. Graças aos louváveis esforços que, juntas, a Filantropia e a Ciência não cessam de despender para melhorar a condição material dos homens e malgrado o crescimento incessante das populações, a insuficiência da produção se acha atenuada, pelo menos em grande parte, e os anos mais calamitosos do presente não se podem de modo algum comparar aos de outrora. A higiene pública, elemento tão essencial da força e da saúde, a higiene pública, que nossos pais não conheceram, é objeto de esclarecida solicitude. O infortúnio e o sofrimento encontram onde se refugiem. Por toda parte a Ciência contribui para acrescer o bem-estar. Poder-se-á dizer que já se haja chegado à perfeição? Oh! não, certamente; mas o que já se fez deixa prever o que, com perseverança, se logrará conseguir, se o homem se mostrar bastante avisado para procurar a sua felicidade nas coisas positivas e sérias e não em utopias que o levam a recuar em vez de fazê-lo avançar.
 
-<a name="LDE-q708"><code>LDE-qX</code></a>
+<a name="LDE-q708"><code>LDE-q708</code></a>
 
 #️⃣ 708. Não há situações nas quais os meios de subsistência de maneira alguma dependem da vontade do homem, sendo-lhe a privação do de que mais imperiosamente necessita uma consequência da força mesma das coisas?
 >“_É isso uma prova, muitas vezes cruel, que lhe compete sofrer e à qual sabia ele de antemão que viria a estar exposto. Seu mérito então consiste em submeter-se à vontade de Deus, desde que a sua inteligência nenhum meio lhe faculta de sair da dificuldade. Se a morte vier colhê-lo, cumpre-lhe recebê-la sem murmurar, ponderando que a hora da verdadeira libertação soou e que o desespero no derradeiro momento pode ocasionar-lhe a perda do fruto de toda a sua resignação._”
 
-<a name="LDE-q709"><code>LDE-qX</code></a>
+<a name="LDE-q709"><code>LDE-q709</code></a>
 
 #️⃣ 709. Terão cometido crime os que, em certas situações críticas, se viram na contingência de sacrificar seus semelhantes, para matar a fome? Se houve crime, não teve este a atenuá-lo a necessidade de viver, que resulta do instinto de conservação?
 >“_Já respondi, quando disse que há mais merecimento em sofrer todas as provações da vida com coragem e abnegação. Em tal caso, há homicídio e crime de lesa-natureza, falta que é duplamente punida._”
 
-<a name="LDE-q710"><code>LDE-qX</code></a>
+<a name="LDE-q710"><code>LDE-q710</code></a>
 
 #️⃣ 710. Nos mundos de mais apurada organização, têm os seres vivos necessidade de alimentar-se?
 >“_Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos._” 
@@ -6220,12 +6220,12 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 #### 📃 Gozo dos bens terrenos
 
-<a name="LDE-q711"><code>LDE-qX</code></a>
+<a name="LDE-q711"><code>LDE-q711</code></a>
 
 #️⃣ 711. O uso dos bens da Terra é um direito de todos os homens?
 >“_Esse direito é consequente da necessidade de viver. Deus não imporia um dever sem dar ao homem o meio de cumpri-lo._”
 
-<a name="LDE-q712"><code>LDE-qX</code></a>
+<a name="LDE-q712"><code>LDE-q712</code></a>
 
 #️⃣ 712. Com que fim pôs Deus atrativos no gozo dos bens materiais?
 >“_Para instigar o homem ao cumprimento da sua missão e para experimentá-lo por meio da tentação._”
@@ -6235,12 +6235,12 @@ a. Qual o objetivo dessa tentação?
 >
 > > Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm, sua indiferença houvera talvez comprometido a harmonia do Universo. Deus imprimiu a esse uso o atrativo do prazer, porque assim é o homem impelido ao cumprimento dos desígnios providenciais. Além disso, porém, dando àquele uso esse atrativo, quis Deus também experimentar o homem por meio da tentação, que o arrasta para o abuso, de que deve a razão defendê-lo.
 
-<a name="LDE-q713"><code>LDE-qX</code></a>
+<a name="LDE-q713"><code>LDE-q713</code></a>
 
 #️⃣ 713. Traçou a Natureza limites aos gozos?
 >“_Traçou, para vos indicar o limite do necessário; mas, pelos vossos excessos, chegais à saciedade e vos punis a vós mesmos._”
 
-<a name="LDE-q714"><code>LDE-qX</code></a>
+<a name="LDE-q714"><code>LDE-q714</code></a>
 
 #️⃣ 714. Que se deve pensar do homem que procura nos excessos de todo gênero o requinte dos gozos?
 >“_Pobre criatura! mais digna é de lástima que de inveja, pois bem perto está da morte!_”
@@ -6258,17 +6258,17 @@ a. Perto da morte física, ou da morte moral?
 
 #### 📃 Necessário e supérfluo
 
-<a name="LDE-q715"><code>LDE-qX</code></a>
+<a name="LDE-q715"><code>LDE-q715</code></a>
 
 #️⃣ 715. Como pode o homem conhecer o limite do necessário?
 >“_Aquele que é ponderado o conhece por intuição. Muitos só chegam a conhecê-lo por experiência e à sua própria custa._”
 
-<a name="LDE-q716"><code>LDE-qX</code></a>
+<a name="LDE-q716"><code>LDE-q716</code></a>
 
 #️⃣ 716. Mediante a organização que nos deu, não traçou a Natureza o limite das nossas necessidades?
 >“_Sem dúvida, mas o homem é insaciável. Por meio da organização que lhe deu, a Natureza lhe traçou o limite das necessidades; porém os vícios lhe alteraram a constituição e lhe criaram necessidades que não são reais._”
 
-<a name="LDE-q717"><code>LDE-qX</code></a>
+<a name="LDE-q717"><code>LDE-q717</code></a>
 
 #️⃣ 717. Que se há de pensar dos que açambarcam os bens da Terra para se proporcionarem o supérfluo, com prejuízo daqueles a quem falta o necessário?
 >“_Olvidam a Lei de Deus e terão que responder pelas privações que houverem causado aos outros._”
@@ -6283,17 +6283,17 @@ a. Perto da morte física, ou da morte moral?
 
 #### 📃 Privações voluntárias. Mortificações
 
-<a name="LDE-q718"><code>LDE-qX</code></a>
+<a name="LDE-q718"><code>LDE-q718</code></a>
 
 #️⃣ 718. A lei de conservação obriga o homem a prover às necessidades do corpo?
 >“_Sim, porque, sem força e saúde, impossível é o trabalho._”
 
-<a name="LDE-q719"><code>LDE-qX</code></a>
+<a name="LDE-q719"><code>LDE-q719</code></a>
 
 #️⃣ 719. Merece censura o homem, por procurar o bem-estar?
 >“_É natural o desejo do bem-estar. Deus só proíbe o abuso, por ser contrário à conservação. Ele não condena a procura do bem-estar, desde que não seja conseguido à custa de outrem e não venha a diminuir-vos nem as forças físicas, nem as forças morais._”
 
-<a name="LDE-q720"><code>LDE-qX</code></a>
+<a name="LDE-q720"><code>LDE-q720</code></a>
 
 #️⃣ 720. São meritórias aos olhos de Deus as privações voluntárias, com o objetivo de uma expiação igualmente voluntária?
 >“_Fazei o bem aos vossos semelhantes e mais mérito tereis._”
