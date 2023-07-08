@@ -5452,7 +5452,7 @@ b. Esse período de humanização principia na Terra?
 
 <a name="LDE-3"><code>LDE-3</code></a>
 
-## 🗂️ Parte 3. Das Leis morais
+## 🗂️ Parte 3. Das leis morais
 
  <a href="#LDE">🔝 topo</a>
 
@@ -6191,7 +6191,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05-02"><code>LDE-3-05-09</code></a2
+<a name="LDE-3-05-02"><code>LDE-3-05-02</code></a>
 
 #### 📃 Meios de conservação
 
