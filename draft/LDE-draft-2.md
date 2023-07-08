@@ -2582,7 +2582,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-01"><code>LDE-2-06-01</code></a>
 
 #### 📃 Espíritos errantes
 
@@ -2653,7 +2653,7 @@ b. Essa duração depende da vontade do Espírito, ou lhe pode ser imposta como 
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-02"><code>LDE-2-06-02</code></a>
 
 #### 📃 Mundos transitórios
 
@@ -2701,7 +2701,7 @@ a. Os Espíritos que habitam esses mundos podem deixá-los livremente?
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-03"><code>LDE-2-06-03</code></a>
 
 #### 📃 Percepções, sensações e sofrimentos dos Espíritos
 
@@ -2831,7 +2831,7 @@ a. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-04"><code>LDE-2-06-04</code></a>
 
 #### 📃 Ensaio teórico da sensação nos Espíritos
 
@@ -2869,7 +2869,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-05"><code>LDE-2-06-05</code></a>
 
 #### 📃 Escolha das provas
 
@@ -2983,7 +2983,7 @@ a. Não é decerto como expiação, ou como prova, que muita gente deseja as gra
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-06"><code>LDE-2-06-06</code></a>
 
 #### 📃 As relações no além-túmulo
 
@@ -3090,7 +3090,7 @@ a. Como é que os que se conheceram na Terra se reconhecem no mundo dos Espírit
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-07"><code>LDE-2-06-07</code></a>
 
 #### 📃 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas
 
@@ -3170,7 +3170,7 @@ a. Podem deixar de ser simpáticos um ao outro dois Espíritos que já o sejam?
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-08"><code>LDE-2-06-08</code></a>
 
 #### 📃 Recordação da existência corpórea
 
@@ -3273,7 +3273,7 @@ a. Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 
 ---
 
-<a name="LDE-2-06-XX"><code>LDE-2-06-XX</code></a>
+<a name="LDE-2-06-09"><code>LDE-2-06-09</code></a>
 
 #### 📃 Comemoração dos mortos. Funerais
 
@@ -3351,7 +3351,7 @@ a. Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-01"><code>LDE-2-07-01</code></a>
 
 #### 📃 Prelúdio da volta
 
@@ -3440,7 +3440,7 @@ prova alguma._”
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-02"><code>LDE-2-07-02</code></a>
 
 #### 📃 União do espírito e do corpo
 
@@ -3542,7 +3542,7 @@ b. Segue-se daí que toda criança que vive após o nascimento tem forçosamente
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-03"><code>LDE-2-07-03</code></a>
 
 #### 📃 Faculdades morais e intelectuais do homem
 
@@ -3585,7 +3585,7 @@ a. Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e 
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-04"><code>LDE-2-07-04</code></a>
 
 #### 📃 Influência do corpo
 
@@ -3623,7 +3623,7 @@ a. Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deri
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-05"><code>LDE-2-07-05</code></a>
 
 #### 📃 Idiotismo, loucura
 
@@ -3684,7 +3684,7 @@ a. Então, o desorganizado é sempre o corpo e não o Espírito?
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-06"><code>LDE-2-07-06</code></a>
 
 #### 📃 A infância
 
@@ -3733,7 +3733,7 @@ a. Então, o desorganizado é sempre o corpo e não o Espírito?
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-07"><code>LDE-2-07-07</code></a>
 
 #### 📃 Simpatia e antipatia materiais
 
@@ -3776,7 +3776,7 @@ a. Não lhes seria mais agradável reconhecerem-se?
 
 ---
 
-<a name="LDE-2-07-XX"><code>LDE-2-07-XX</code></a>
+<a name="LDE-2-07-08"><code>LDE-2-07-08</code></a>
 
 #### 📃 Esquecimento do passado
 
@@ -3855,7 +3855,7 @@ a. Poderá também ser pior, isto é, poderá o Espírito cometer, numa existên
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-01"><code>LDE-2-08-01</code></a>
 
 #### 📃 O sono e os sonhos
 
@@ -3941,7 +3941,7 @@ a. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, n�
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-02"><code>LDE-2-08-02</code></a>
 
 #### 📃 Visitas espíritas entre pessoas vivas
 
@@ -3981,7 +3981,7 @@ a. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, n�
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-03"><code>LDE-2-08-03</code></a>
 
 #### 📃 Transmissão oculta do pensamento
 
@@ -4008,7 +4008,7 @@ a. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, n�
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-04"><code>LDE-2-08-04</code></a>
 
 #### 📃 Letargia, catalepsia, mortes aparentes
 
@@ -4036,7 +4036,7 @@ a. Por quê?
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-05"><code>LDE-2-08-05</code></a>
 
 #### 📃 Sonambulismo
 
@@ -4120,7 +4120,7 @@ a. Por quê?
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-06"><code>LDE-2-08-06</code></a>
 
 #### 📃 Êxtase
 
@@ -4168,7 +4168,7 @@ a. Por quê?
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-07"><code>LDE-2-08-07</code></a>
 
 #### 📃 Dupla vista
 
@@ -4224,7 +4224,7 @@ a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 ---
 
-<a name="LDE-2-08-XX"><code>LDE-2-08-XX</code></a>
+<a name="LDE-2-08-08"><code>LDE-2-08-08</code></a>
 
 #### 📃 Resumo teórico do sonambulismo, do êxtase e da dupla vista
 
@@ -4288,7 +4288,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-01"><code>LDE-2-09-01</code></a>
 
 #### 📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos
 
@@ -4314,7 +4314,7 @@ a. Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do qu
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-02"><code>LDE-2-09-02</code></a>
 
 #### 📃 Influência oculta dos Espíritos em nossos pensamentos e atos
 
@@ -4405,7 +4405,7 @@ b. De que natureza é o sofrimento que procuram infligir aos outros?
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-03"><code>LDE-2-09-03</code></a>
 
 #### 📃 Possessos
 
@@ -4455,7 +4455,7 @@ b. De que natureza é o sofrimento que procuram infligir aos outros?
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-04"><code>LDE-2-09-04</code></a>
 
 #### 📃 Convulsionários
 
@@ -4487,7 +4487,7 @@ a. De que natureza são, em geral, os Espíritos que concorrem para a produção
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-05"><code>LDE-2-09-05</code></a>
 
 #### 📃 Afeição que os Espíritos votam a certas pessoas
 
@@ -4529,7 +4529,7 @@ a. São sensíveis à afeição que lhes conservamos?
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-01"><code>LDE-2-09-01</code></a>
 
 #### 📃 Anjos da guarda. Espíritos protetores, familiares ou simpáticos
 
@@ -4739,7 +4739,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-02"><code>LDE-2-09-02</code></a>
 
 #### 📃 Pressentimentos
 
@@ -4764,7 +4764,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-03"><code>LDE-2-09-03</code></a>
 
 #### 📃 Influência dos Espíritos nos acontecimentos da vida
 
@@ -4855,7 +4855,7 @@ b. No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-04"><code>LDE-2-09-04</code></a>
 
 #### 📃 Ação dos Espíritos nos fenômenos da Natureza
 
@@ -4900,7 +4900,7 @@ a. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarq
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-05"><code>LDE-2-09-05</code></a>
 
 #### 📃 Os Espíritos durante os combates
 
@@ -4956,7 +4956,7 @@ a. Continua a ouvir o rumor da batalha?
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-06"><code>LDE-2-09-06</code></a>
 
 #### 📃 Pactos
 
@@ -4976,7 +4976,7 @@ a. Continua a ouvir o rumor da batalha?
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-07"><code>LDE-2-09-07</code></a>
 
 #### 📃 Poder oculto. Talismãs. Feiticeiros
 
@@ -5019,7 +5019,7 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 
 ---
 
-<a name="LDE-2-09-XX"><code>LDE-2-09-XX</code></a>
+<a name="LDE-2-09-08"><code>LDE-2-09-08</code></a>
 
 #### 📃 Bênçãos e maldições
 
@@ -5232,7 +5232,7 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 ---
 
-<a name="LDE-2-11-XX"><code>LDE-2-11-XX</code></a>
+<a name="LDE-2-11-01"><code>LDE-2-11-01</code></a>
 
 #### 📃 Os minerais e as plantas
 
@@ -5279,7 +5279,7 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 ---
 
-<a name="LDE-2-11-XX"><code>LDE-2-11-XX</code></a>
+<a name="LDE-2-11-02"><code>LDE-2-11-02</code></a>
 
 #### 📃 Os animais e o homem
 
@@ -5413,7 +5413,7 @@ b. Esse período de humanização principia na Terra?
 
 ---
 
-<a name="LDE-2-11-XX"><code>LDE-2-11-XX</code></a>
+<a name="LDE-2-11-03"><code>LDE-2-11-03</code></a>
 
 #### 📃 Metempsicose
 
@@ -5466,7 +5466,7 @@ b. Esse período de humanização principia na Terra?
 
 ---
 
-<a name="LDE-3-01-XX"><code>LDE-3-01-XX</code></a>
+<a name="LDE-3-01-01"><code>LDE-3-01-01</code></a>
 
 #### 📃 Caracteres da lei natural
 
@@ -5508,7 +5508,7 @@ a. Dado é ao homem aprofundar umas e outras?
 
 ---
 
-<a name="LDE-3-01-XX"><code>LDE-3-01-XX</code></a>
+<a name="LDE-3-01-02"><code>LDE-3-01-02</code></a>
 
 #### 📃 Conhecimento da lei natural
 
@@ -5578,7 +5578,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 ---
 
-<a name="LDE-3-01-XX"><code>LDE-3-01-XX</code></a>
+<a name="LDE-3-01-03"><code>LDE-3-01-03</code></a>
 
 #### 📃 O bem e o mal
 
@@ -5692,7 +5692,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 ---
 
-<a name="LDE-3-01-XX"><code>LDE-3-01-XX</code></a>
+<a name="LDE-3-01-04"><code>LDE-3-01-04</code></a>
 
 #### 📃 Divisão da lei natural
 
@@ -5722,7 +5722,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 ---
 
-<a name="LDE-3-02-XX"><code>LDE-3-02-XX</code></a>
+<a name="LDE-3-02-01"><code>LDE-3-02-01</code></a>
 
 #### 📃 Objetivo da adoração
 
@@ -5750,7 +5750,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 ---
 
-<a name="LDE-3-02-XX"><code>LDE-3-02-XX</code></a>
+<a name="LDE-3-02-02"><code>LDE-3-02-02</code></a>
 
 #### 📃 Adoração exterior
 
@@ -5786,7 +5786,7 @@ a. Será útil a adoração exterior?
 
 ---
 
-<a name="LDE-3-02-XX"><code>LDE-3-02-XX</code></a>
+<a name="LDE-3-02-03"><code>LDE-3-02-03</code></a>
 
 #### 📃 Vida contemplativa
 
@@ -5801,7 +5801,7 @@ a. Será útil a adoração exterior?
 
 ---
 
-<a name="LDE-3-02-XX"><code>LDE-3-02-XX</code></a>
+<a name="LDE-3-02-04"><code>LDE-3-02-04</code></a>
 
 #### 📃 A prece
 
@@ -5865,7 +5865,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 ---
 
-<a name="LDE-3-02-XX"><code>LDE-3-02-XX</code></a>
+<a name="LDE-3-02-05"><code>LDE-3-02-05</code></a>
 
 #### 📃 Politeísmo
 
@@ -5889,7 +5889,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 ---
 
-<a name="LDE-3-02-XX"><code>LDE-3-02-XX</code></a>
+<a name="LDE-3-02-06"><code>LDE-3-02-06</code></a>
 
 #### 📃 Sacrifícios
 
@@ -5937,7 +5937,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ---
 
-<a name="LDE-3-03-XX"><code>LDE-3-03-XX</code></a>
+<a name="LDE-3-03-01"><code>LDE-3-03-01</code></a>
 
 #### 📃 Necessidade do trabalho
 
@@ -5989,7 +5989,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ---
 
-<a name="LDE-3-03-XX"><code>LDE-3-03-XX</code></a>
+<a name="LDE-3-03-02"><code>LDE-3-03-02</code></a>
 
 #### 📃 Limite do trabalho. Repouso
 
@@ -6032,7 +6032,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 ---
 
-<a name="LDE-3-04-XX"><code>LDE-3-04-XX</code></a>
+<a name="LDE-3-04-03"><code>LDE-3-04-03</code></a>
 
 #### 📃 População do globo
 
@@ -6050,7 +6050,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 ---
 
-<a name="LDE-3-04-XX"><code>LDE-3-04-XX</code></a>
+<a name="LDE-3-04-04"><code>LDE-3-04-04</code></a>
 
 #### 📃 Sucessão e aperfeiçoamento das raças
 
@@ -6085,7 +6085,7 @@ a. Geralmente, os esforços que o homem emprega para conseguir a melhoria das ra
 
 ---
 
-<a name="LDE-3-04-XX"><code>LDE-3-04-XX</code></a>
+<a name="LDE-3-04-05"><code>LDE-3-04-05</code></a>
 
 #### 📃 Obstáculos à reprodução
 
@@ -6106,7 +6106,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-04-XX"><code>LDE-3-04-XX</code></a>
+<a name="LDE-3-04-06"><code>LDE-3-04-06</code></a>
 
 #### 📃 Casamento e celibato
 
@@ -6143,7 +6143,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-04-XX"><code>LDE-3-04-XX</code></a>
+<a name="LDE-3-04-07"><code>LDE-3-04-07</code></a>
 
 #### 📃 Poligamia
 
@@ -6173,7 +6173,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05-XX"><code>LDE-3-05-XX</code></a>
+<a name="LDE-3-05-08"><code>LDE-3-05-08</code></a>
 
 #### 📃 Instinto de conservação
 
@@ -6191,7 +6191,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05-XX"><code>LDE-3-05-XX</code></a>
+<a name="LDE-3-05-09"><code>LDE-3-05-09</code></a>
 
 #### 📃 Meios de conservação
 
@@ -6240,7 +6240,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05-XX"><code>LDE-3-05-XX</code></a>
+<a name="LDE-3-05-10"><code>LDE-3-05-10</code></a>
 
 #### 📃 Gozo dos bens terrenos
 
@@ -6278,7 +6278,7 @@ a. Perto da morte física, ou da morte moral?
 
 ---
 
-<a name="LDE-3-05-XX"><code>LDE-3-05-XX</code></a>
+<a name="LDE-3-05-12"><code>LDE-3-05-12</code></a>
 
 #### 📃 Necessário e supérfluo
 
@@ -6303,7 +6303,7 @@ a. Perto da morte física, ou da morte moral?
 
 ---
 
-<a name="LDE-3-05-XX"><code>LDE-3-05-XX</code></a>
+<a name="LDE-3-05-13"><code>LDE-3-05-13</code></a>
 
 #### 📃 Privações voluntárias. Mortificações
 
@@ -6374,7 +6374,7 @@ a. Haverá privações voluntárias que sejam meritórias?
 
 ---
 
-<a name="LDE-3-06-XX"><code>LDE-3-06-XX</code></a>
+<a name="LDE-3-06-01"><code>LDE-3-06-01</code></a>
 
 #### 📃 Destruição necessária e destruição abusiva
 
@@ -6430,7 +6430,7 @@ a. O instinto de destruição teria sido dado aos seres vivos por desígnios pro
 
 ---
 
-<a name="LDE-3-06-XX"><code>LDE-3-06-XX</code></a>
+<a name="LDE-3-06-02"><code>LDE-3-06-02</code></a>
 
 #### 📃 Flagelos destruidores
 
@@ -6478,7 +6478,7 @@ b. Mas nem por isso as vítimas desses flagelos deixam de o ser.
 
 ---
 
-<a name="LDE-3-06-XX"><code>LDE-3-06-XX</code></a>
+<a name="LDE-3-06-03"><code>LDE-3-06-03</code></a>
 
 #### 📃 Guerras
 
@@ -6509,7 +6509,7 @@ a. Desde que a guerra deve ter por efeito produzir o advento da liberdade, como 
 
 ---
 
-<a name="LDE-3-06-XX"><code>LDE-3-06-XX</code></a>
+<a name="LDE-3-06-04"><code>LDE-3-06-04</code></a>
 
 #### 📃 Assassínio
 
@@ -6547,7 +6547,7 @@ a. Desde que a guerra deve ter por efeito produzir o advento da liberdade, como 
 
 ---
 
-<a name="LDE-3-06-XX"><code>LDE-3-06-XX</code></a>
+<a name="LDE-3-06-05"><code>LDE-3-06-05</code></a>
 
 #### 📃 Crueldade
 
@@ -6582,7 +6582,7 @@ a. Desde que a guerra deve ter por efeito produzir o advento da liberdade, como 
 
 ---
 
-<a name="LDE-3-06-XX"><code>LDE-3-06-XX</code></a>
+<a name="LDE-3-06-06"><code>LDE-3-06-06</code></a>
 
 #### 📃 Duelo
 
@@ -6615,7 +6615,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 ---
 
-<a name="LDE-3-06-XX"><code>LDE-3-06-XX</code></a>
+<a name="LDE-3-06-07"><code>LDE-3-06-07</code></a>
 
 #### 📃 Pena de morte
 
@@ -6668,7 +6668,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 ---
 
-<a name="LDE-3-07-XX"><code>LDE-3-07-XX</code></a>
+<a name="LDE-3-07-01"><code>LDE-3-07-01</code></a>
 
 #### 📃 Necessidade da vida social
 
@@ -6693,7 +6693,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 ---
 
-<a name="LDE-3-07-XX"><code>LDE-3-07-XX</code></a>
+<a name="LDE-3-07-02"><code>LDE-3-07-02</code></a>
 
 #### 📃 Vida de insulamento. Voto de silêncio
 
@@ -6729,7 +6729,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 ---
 
-<a name="LDE-3-07-XX"><code>LDE-3-07-XX</code></a>
+<a name="LDE-3-07-03"><code>LDE-3-07-03</code></a>
 
 #### 📃 Laços de família
 
@@ -6762,7 +6762,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 ---
 
-<a name="LDE-3-08-XX"><code>LDE-3-08-XX</code></a>
+<a name="LDE-3-08-01"><code>LDE-3-08-01</code></a>
 
 #### 📃 Estado de natureza
 
@@ -6787,7 +6787,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 ---
 
-<a name="LDE-3-08-XX"><code>LDE-3-08-XX</code></a>
+<a name="LDE-3-08-02"><code>LDE-3-08-02</code></a>
 
 #### 📃 Marcha do progresso
 
@@ -6850,7 +6850,7 @@ a. Que se deve pensar dos que tentam deter a marcha do progresso e fazer que a H
 
 ---
 
-<a name="LDE-3-08-XX"><code>LDE-3-08-XX</code></a>
+<a name="LDE-3-08-03"><code>LDE-3-08-03</code></a>
 
 #### 📃 Povos degenerados
 
@@ -6896,7 +6896,7 @@ b. Assim, pode dar-se que os homens mais civilizados tenham sido selvagens e ant
 
 ---
 
-<a name="LDE-3-08-XX"><code>LDE-3-08-XX</code></a>
+<a name="LDE-3-08-04"><code>LDE-3-08-04</code></a>
 
 #### 📃 Civilização
 
@@ -6935,7 +6935,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 ---
 
-<a name="LDE-3-08-XX"><code>LDE-3-08-XX</code></a>
+<a name="LDE-3-08-05"><code>LDE-3-08-05</code></a>
 
 #### 📃 Progresso da legislação humana
 
@@ -6965,7 +6965,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 ---
 
-<a name="LDE-3-08-XX"><code>LDE-3-08-XX</code></a>
+<a name="LDE-3-08-06"><code>LDE-3-08-06</code></a>
 
 #### 📃 Influência do Espiritismo no progresso
 
@@ -7008,7 +7008,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 ---
 
-<a name="LDE-3-09-XX"><code>LDE-3-09-XX</code></a>
+<a name="LDE-3-09-01"><code>LDE-3-09-01</code></a>
 
 #### 📃 Igualdade natural
 
@@ -7022,7 +7022,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 ---
 
-<a name="LDE-3-09-XX"><code>LDE-3-09-XX</code></a>
+<a name="LDE-3-09-02"><code>LDE-3-09-02</code></a>
 
 #### 📃 Desigualdade das aptidões
 
@@ -7046,7 +7046,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 ---
 
-<a name="LDE-3-09-XX"><code>LDE-3-09-XX</code></a>
+<a name="LDE-3-09-03"><code>LDE-3-09-03</code></a>
 
 #### 📃 Desigualdades sociais
 
@@ -7069,7 +7069,7 @@ a. Algum dia essa desigualdade desaparecerá?
 
 ---
 
-<a name="LDE-3-09-XX"><code>LDE-3-09-XX</code></a>
+<a name="LDE-3-09-04"><code>LDE-3-09-04</code></a>
 
 #### 📃 Desigualdade das riquezas
 
@@ -7118,7 +7118,7 @@ a. Será possível que todos se entendam?
 
 ---
 
-<a name="LDE-3-09-XX"><code>LDE-3-09-XX</code></a>
+<a name="LDE-3-09-05"><code>LDE-3-09-05</code></a>
 
 #### 📃 As provas de riqueza e de miséria
 
@@ -7151,7 +7151,7 @@ a. Será possível que todos se entendam?
 
 ---
 
-<a name="LDE-3-09-XX"><code>LDE-3-09-XX</code></a>
+<a name="LDE-3-09-06"><code>LDE-3-09-06</code></a>
 
 #### 📃 Igualdade dos direitos do homem e da mulher
 
@@ -7194,7 +7194,7 @@ a. Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a
 
 ---
 
-<a name="LDE-3-09-XX"><code>LDE-3-09-XX</code></a>
+<a name="LDE-3-09-07"><code>LDE-3-09-07</code></a>
 
 #### 📃 Igualdade perante o túmulo
 
@@ -7227,7 +7227,7 @@ a. Mas a suntuosidade dos monumentos fúnebres não é antes devida, as mais das
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-01"><code>LDE-3-10-01</code></a>
 
 #### 📃 Liberdade natural
 
@@ -7258,7 +7258,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-02"><code>LDE-3-10-02</code></a>
 
 #### 📃 Escravidão
 
@@ -7290,7 +7290,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-03"><code>LDE-3-10-03</code></a>
 
 #### 📃 Liberdade de pensar
 
@@ -7308,7 +7308,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-04"><code>LDE-3-10-04</code></a>
 
 #### 📃 Liberdade de consciência
 
@@ -7358,7 +7358,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-05"><code>LDE-3-10-05</code></a>
 
 #### 📃 Livre-arbítrio
 
@@ -7412,7 +7412,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-06"><code>LDE-3-10-06</code></a>
 
 #### 📃 Fatalidade
 
@@ -7521,7 +7521,7 @@ a. Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam 
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-07"><code>LDE-3-10-07</code></a>
 
 #### 📃 Conhecimento do futuro
 
@@ -7555,7 +7555,7 @@ a. Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam 
 
 ---
 
-<a name="LDE-3-10-XX"><code>LDE-3-10-XX</code></a>
+<a name="LDE-3-10-08"><code>LDE-3-10-08</code></a>
 
 #### 📃 Resumo teórico do móvel das ações humanas
 
@@ -7597,7 +7597,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-<a name="LDE-3-11-XX"><code>LDE-3-11-XX</code></a>
+<a name="LDE-3-11-01"><code>LDE-3-11-01</code></a>
 
 #### 📃 Justiça e direitos naturais
 
@@ -7648,7 +7648,7 @@ a. Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que
 
 ---
 
-<a name="LDE-3-11-XX"><code>LDE-3-11-XX</code></a>
+<a name="LDE-3-11-02"><code>LDE-3-11-02</code></a>
 
 #### 📃 Direito de propriedade. Roubo
 
@@ -7707,7 +7707,7 @@ a. Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que
 
 ---
 
-<a name="LDE-3-11-XX"><code>LDE-3-11-XX</code></a>
+<a name="LDE-3-11-03"><code>LDE-3-11-03</code></a>
 
 #### 📃 Caridade e amor do próximo
 
@@ -7759,7 +7759,7 @@ a. Dar-se-á reproveis a esmola?
 
 ---
 
-<a name="LDE-3-11-XX"><code>LDE-3-11-XX</code></a>
+<a name="LDE-3-11-04"><code>LDE-3-11-04</code></a>
 
 #### 📃 Amor materno e filial
 
@@ -7792,7 +7792,7 @@ a. Dar-se-á reproveis a esmola?
 
 ---
 
-<a name="LDE-3-12-XX"><code>LDE-3-12-XX</code></a>
+<a name="LDE-3-12-01"><code>LDE-3-12-01</code></a>
 
 #### 📃 As virtudes e os vícios
 
@@ -7890,7 +7890,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 ---
 
-<a name="LDE-3-12-XX"><code>LDE-3-12-XX</code></a>
+<a name="LDE-3-12-02"><code>LDE-3-12-02</code></a>
 
 #### 📃 Paixões
 
@@ -7938,7 +7938,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 ---
 
-<a name="LDE-3-12-XX"><code>LDE-3-12-XX</code></a>
+<a name="LDE-3-12-03"><code>LDE-3-12-03</code></a>
 
 #### 📃 O egoísmo
 
@@ -7988,7 +7988,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 ---
 
-<a name="LDE-3-12-XX"><code>LDE-3-12-XX</code></a>
+<a name="LDE-3-12-04"><code>LDE-3-12-04</code></a>
 
 #### 📃 Caracteres do homem de bem
 
@@ -8017,7 +8017,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 ---
 
-<a name="LDE-3-12-XX"><code>LDE-3-12-XX</code></a>
+<a name="LDE-3-12-05"><code>LDE-3-12-05</code></a>
 
 #### 📃 Conhecimento de si mesmo
 
@@ -8052,7 +8052,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 ---
 
-<a name="LDE-4-01-XX"><code>LDE-4-01-XX</code></a>
+<a name="LDE-4-01-01"><code>LDE-4-01-01</code></a>
 
 #### 📃 Felicidade e infelicidade relativas
 
@@ -8156,7 +8156,7 @@ a. Acharíeis então justo que o filho de um homem altamente colocado na socieda
 
 ---
 
-<a name="LDE-4-01-XX"><code>LDE-4-01-XX</code></a>
+<a name="LDE-4-01-02"><code>LDE-4-01-02</code></a>
 
 #### 📃 Perda dos entes queridos
 
@@ -8187,7 +8187,7 @@ a. Acharíeis então justo que o filho de um homem altamente colocado na socieda
 
 ---
 
-<a name="LDE-4-01-XX"><code>LDE-4-01-XX</code></a>
+<a name="LDE-4-01-03"><code>LDE-4-01-03</code></a>
 
 #### 📃 Decepções. Ingratidão. Afeições destruídas
 
@@ -8209,7 +8209,7 @@ a. Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá na
 
 ---
 
-<a name="LDE-4-01-XX"><code>LDE-4-01-XX</code></a>
+<a name="LDE-4-01-04"><code>LDE-4-01-04</code></a>
 
 #### 📃 Uniões antipáticas
 
@@ -8231,7 +8231,7 @@ a. Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 ---
 
-<a name="LDE-4-01-XX"><code>LDE-4-01-XX</code></a>
+<a name="LDE-4-01-05"><code>LDE-4-01-05</code></a>
 
 #### 📃 Temor da morte
 
@@ -8255,7 +8255,7 @@ a. Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 ---
 
-<a name="LDE-4-01-XX"><code>LDE-4-01-XX</code></a>
+<a name="LDE-4-01-06"><code>LDE-4-01-06</code></a>
 
 #### 📃 Desgosto da vida. Suicídio
 
@@ -8372,7 +8372,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-01"><code>LDE-4-02-01</code></a>
 
 #### 📃 O nada. Vida futura
 
@@ -8400,7 +8400,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-02"><code>LDE-4-02-02</code></a>
 
 #### 📃 Intuição das penas e gozos futuros
 
@@ -8426,7 +8426,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-03"><code>LDE-4-02-03</code></a>
 
 #### 📃 Intervenção de Deus nas penas e recompensas
 
@@ -8453,7 +8453,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-04"><code>LDE-4-02-04</code></a>
 
 #### 📃 Natureza das penas e gozos futuros
 
@@ -8588,7 +8588,7 @@ a. Serão um castigo para o culpado essa divulgação de todos os nossos atos re
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-05"><code>LDE-4-02-05</code></a>
 
 #### 📃 Penas temporais
 
@@ -8643,7 +8643,7 @@ a. Serão um castigo para o culpado essa divulgação de todos os nossos atos re
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-06"><code>LDE-4-02-06</code></a>
 
 #### 📃 Expiação e arrependimento
 
@@ -8743,7 +8743,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-01"><code>LDE-4-02-01</code></a>
 
 #### 📃 Duração das penas futuras
 
@@ -8824,7 +8824,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-02"><code>LDE-4-02-02</code></a>
 
 #### 📃 Ressurreição da carne
 
@@ -8848,7 +8848,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 ---
 
-<a name="LDE-4-02-XX"><code>LDE-4-02-XX</code></a>
+<a name="LDE-4-02-03"><code>LDE-4-02-03</code></a>
 
 #### 📃 Paraíso, inferno e purgatório
 
