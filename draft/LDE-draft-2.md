@@ -11,19 +11,19 @@
 
 <a name="LDE"><code>LDE</code></a>
 
-# 👻 O LIVRO DOS ESPÍRITOS (draft-2)
+<h1>👻 O LIVRO DOS ESPÍRITOS (draft-2)</h1>
 
 ---
 
 <a name="LDE-0"><code>LDE-0</code></a>
 
-## 🗂️ Parte 0. Pré-textual
+<h2>🗂️ Parte 0. Pré-textual</h2>
 
 ---
 
 <a name="LDE-0-01"><code>LDE-0-01</code></a>
 
-### 📃 Folha de rosto
+<h3>📃 Folha de rosto</h3>
 
 Filosofia Espiritualista
 
@@ -47,13 +47,13 @@ ISBN 978-85-7328-728-8
 ---
 <a name="LDE-0-02"><code>LDE-0-02</code></a>
 
-### 📑 Introdução
+<h3>📑 Introdução</h3>
 
 ---
 
 <a name="LDE-0-02-01"><code>LDE-0-02-01</code></a>
 
-#### 📃 Introdução 01
+<h4>📃 Introdução 01</h4>
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **espiritismo**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo **espiritualismo** a acepção que lhe é própria. Diremos, pois, que a Doutrina **Espírita** ou o **Espiritismo** tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
@@ -65,7 +65,7 @@ Como especialidade, **O Livro dos Espíritos** contém a Doutrina Espírita; com
 
 <a name="LDE-0-02-02"><code>LDE-0-02-02</code></a>
 
-#### 📃 Introdução 02
+<h4>📃 Introdução 02</h4>
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra **alma**. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
@@ -97,7 +97,7 @@ Passemos agora ao objeto principal desta instrução preliminar.
 
 <a name="LDE-0-02-03"><code>LDE-0-02-03</code></a>
 
-#### 📃 Introdução 03
+<h4>📃 Introdução 03</h4>
 
 Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contraditores. Vamos tentar responder a algumas das objeções destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a pretensão de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de boa-fé, aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo leviano e precipitadamente formado.
 
@@ -129,7 +129,7 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 <a name="LDE-0-02-04"><code>LDE-0-02-04</code></a>
 
-#### 📃 Introdução 04
+<h4>📃 Introdução 04</h4>
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior
 
@@ -153,7 +153,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 <a name="LDE-0-02-05"><code>LDE-0-02-05</code></a>
 
-#### 📃 Introdução 05
+<h4>📃 Introdução 05</h4>
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -173,7 +173,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 
 <a name="LDE-0-02-06"><code>LDE-0-02-06</code></a>
 
-#### 📃 Introdução 06
+<h4>📃 Introdução 06</h4>
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -261,7 +261,7 @@ Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos E
 
 <a name="LDE-0-02-07"><code>LDE-0-02-07</code></a>
 
-#### 📃 Introdução 07
+<h4>📃 Introdução 07</h4>
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -285,7 +285,7 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 <a name="LDE-0-02-08"><code>LDE-0-02-08</code></a>
 
-#### 📃 Introdução 08
+<h4>📃 Introdução 08</h4>
 
 Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita, que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam a priori, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
@@ -299,7 +299,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 
 <a name="LDE-0-02-09"><code>LDE-0-02-09</code></a>
 
-#### 📃 Introdução 09
+<h4>📃 Introdução 09</h4>
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 
@@ -315,7 +315,7 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 
 <a name="LDE-0-02-10"><code>LDE-0-02-10</code></a>
 
-#### 📃 Introdução 10
+<h4>📃 Introdução 10</h4>
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -340,7 +340,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 <a name="LDE-0-02-11"><code>LDE-0-02-11</code></a>
 
-#### 📃 Introdução 11
+<h4>📃 Introdução 11</h4>
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
@@ -357,7 +357,7 @@ devendo esta sentença entender-se com relação à categoria em que cada um de 
 
 <a name="LDE-0-02-12"><code>LDE-0-02-12</code></a>
 
-#### 📃 Introdução 12
+<h4>📃 Introdução 12</h4>
 
 Um fato demonstrado pela observação e confirmado pelos próprios Espíritos é o de que os Espíritos inferiores muitas vezes usurpam nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, Sócrates, Júlio César, Carlos Magno, Fénelon, Napoleão, Washington entre outros, tenham realmente animado essas personagens? Esta dúvida existe mesmo entre alguns adeptos fervorosos da Doutrina Espírita, os quais admitem a intervenção e a manifestação dos Espíritos, mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, bem difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão autêntico como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -381,7 +381,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 <a name="LDE-0-02-13"><code>LDE-0-02-13</code></a>
 
-#### 📃 Introdução 13
+<h4>📃 Introdução 13</h4>
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
 
@@ -399,7 +399,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 <a name="LDE-0-02-14"><code>LDE-0-02-14</code></a>
 
-#### 📃 Introdução 14
+<h4>📃 Introdução 14</h4>
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**. 
 
@@ -409,7 +409,7 @@ Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito d
 
 <a name="LDE-0-02-15"><code>LDE-0-02-15</code></a>
 
-#### 📃 Introdução 15
+<h4>📃 Introdução 15</h4>
 
 Há também pessoas que vêem perigo por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a razão alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao Espiritismo. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos loucos e maníacos os estudos da Matemática, da Medicina, da Música, da Filosofia e outros têm produzido? Dever-se-ia, em consequência, banir esses estudos? Que prova isso? Nos trabalhos corporais, estropiam-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da inteligência, estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao Espírito. Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da plenitude das suas faculdades. No seu gênero, ele é, como homem, um mártir do trabalho.
 
@@ -427,7 +427,7 @@ Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo 
 
 <a name="LDE-0-02-16"><code>LDE-0-02-16</code></a>
 
-#### 📃 Introdução 16
+<h4>📃 Introdução 16</h4>
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 
@@ -457,7 +457,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 <a name="LDE-0-02-17"><code>LDE-0-02-17</code></a>
 
-#### 📃 Introdução 17
+<h4>📃 Introdução 17</h4>
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 
@@ -473,7 +473,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 <a name="LDE-0-03"><code>LDE-0-03</code></a>
 
-### 📃 Prolegômenos
+<h3>📃 Prolegômenos#</h3>
 
 ![Cepa Espírita](../images/vine.png)
 
@@ -516,19 +516,19 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <a name="LDE-1"><code>LDE-1</code></a>
 
-## 🗂️ Parte 1. Das causas primárias
+<h2>🗂️ Parte 1. Das causas primárias</h2>
 
 ---
 
 <a name="LDE-1-01"><code>LDE-1-01</code></a>
 
-### 📑 1. De Deus
+<h3>📑 1. De Deus</h3>
 
 ---
 
 <a name="LDE-1-01-01"><code>LDE-1-01-01</code></a>
 
-#### 📃 Deus e o infinito
+<h4>📃 Deus e o infinito</h4>
 
 ---
 
@@ -555,7 +555,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <a name="LDE-1-01-02"><code>LDE-1-01-02</code></a>
 
-#### 📃 Provas da existência de Deus
+<h4>📃 Provas da existência de Deus</h4>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -610,7 +610,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <a name="LDE-1-01-03"><code>LDE-1-01-03</code></a>
 
-#### 📃 Atributos da Divindade
+<h4>📃 Atributos da Divindade</h4>
 
 <a name="LDE-q10"><code>LDE-q10</code></a>
 
@@ -652,7 +652,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <a name="LDE-1-04-04"><code>LDE-1-01-04</code></a>
 
-#### 📃 Panteísmo
+<h4>📃 Panteísmo</h4>
 
 <a name="LDE-q14"><code>LDE-q14</code></a>
 
@@ -679,13 +679,13 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <a name="LDE-1-02"><code>LDE-1-02</code></a>
 
-### 📑 2. Dos elementos gerais do Universo
+<h3>📑 2. Dos elementos gerais do Universo</h3>
 
 ---
 
 <a name="LDE-1-02-01"><code>LDE-1-02-01</code></a>
 
-#### 📃 Conhecimento do princípio das coisas
+<h4>📃 Conhecimento do princípio das coisas</h4>
 
 <a name="LDE-q17"><code>LDE-q17</code></a>
 
@@ -715,7 +715,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <a name="LDE-1-02-02"><code>LDE-1-02-02</code></a>
 
-#### 📃 Espírito e matéria
+<h4>📃 Espírito e matéria</h4>
 
 <a name="LDE-q21"><code>LDE-q21</code></a>
 
@@ -777,7 +777,7 @@ a. Esse fluido será o que designamos pelo nome de eletricidade?
 
 <a name="LDE-1-02-03"><code>LDE-1-02-03</code></a>
 
-#### 📃 Propriedades da matéria
+<h4>📃 Propriedades da matéria</h4>
 
 <a name="LDE-q29"><code>LDE-q29</code></a>
 
@@ -827,7 +827,7 @@ a. Essa forma é constante ou variável?
 
 <a name="LDE-1-02-04"><code>LDE-1-02-04</code></a>
 
-#### 📃 Espaço universal
+<h4>📃 Espaço universal</h4>
 
 <a name="LDE-q35"><code>LDE-q35</code></a>
 
@@ -846,13 +846,13 @@ a. Essa forma é constante ou variável?
 
 <a name="LDE-1-03"><code>LDE-1-03</code></a>
 
-### 📑 3. Da Criação
+<h3>📑 3. Da Criação</h3>
 
 ---
 
 <a name="LDE-1-03-01"><code>LDE-1-03-01</code></a>
 
-#### 📃 Formação dos mundos
+<h4>📃 Formação dos mundos</h4>
 
 *O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
 
@@ -898,7 +898,7 @@ a. Essa forma é constante ou variável?
 
 <a name="LDE-1-03-02"><code>LDE-1-03-02</code></a>
 
-#### 📃 Formação dos seres vivos
+<h4>📃 Formação dos seres vivos</h4>
 
 <a name="LDE-q43"><code>LDE-q43</code></a>
 
@@ -943,7 +943,7 @@ a. Essa forma é constante ou variável?
 
 <a name="LDE-1-03-03"><code>LDE-1-03-03</code></a>
 
-#### 📃 Povoamento da Terra. Adão
+<h4>📃 Povoamento da Terra. Adão</h4>
 
 <a name="LDE-q50"><code>LDE-q50</code></a>
 
@@ -963,7 +963,7 @@ a. Essa forma é constante ou variável?
 
 <a name="LDE-1-03-04"><code>LDE-1-03-04</code></a>
 
-#### 📃 Diversidade das raças humanas
+<h4>📃 Diversidade das raças humanas</h4>
 
 <a name="LDE-q52"><code>LDE-q52</code></a>
 
@@ -989,7 +989,7 @@ a. Estas diferenças constituem espécies distintas?
 
 <a name="LDE-1-03-05"><code>LDE-1-03-05</code></a>
 
-#### 📃 Pluralidade dos mundos
+<h4>📃 Pluralidade dos mundos</h4>
 
 <a name="LDE-q55"><code>LDE-q55</code></a>
 
@@ -1021,7 +1021,7 @@ a. Estas diferenças constituem espécies distintas?
 
 <a name="LDE-1-03-06"><code>LDE-1-03-06</code></a>
 
-#### 📃 Considerações e concordâncias bíblicas concernentes à Criação
+<h4>📃 Considerações e concordâncias bíblicas concernentes à Criação</h4>
 
 <a name="LDE-q59"><code>LDE-q59</code></a>
 
@@ -1047,13 +1047,13 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 <a name="LDE-1-04"><code>LDE-1-04</code></a>
 
-### 📑 4. Do princípio vital
+<h3>📑 4. Do princípio vital</h3>
 
 ---
 
 <a name="LDE-1-04-01"><code>LDE-1-04-01</code></a>
 
-#### 📃 Seres orgânicos e inorgânicos
+<h4>📃 Seres orgânicos e inorgânicos</h4>
 
 *Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.*
 
@@ -1111,7 +1111,7 @@ a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente
 
 <a name="LDE-1-04-02"><code>LDE-1-04-02</code></a>
 
-#### 📃 A vida e a morte
+<h4>📃 A vida e a morte</h4>
 
 <a name="LDE-q68"><code>LDE-q68</code></a>
 
@@ -1151,7 +1151,7 @@ a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desor
 
 <a name="LDE-1-04-03"><code>LDE-1-04-03</code></a>
 
-#### 📃 Inteligência e instinto
+<h4>📃 Inteligência e instinto</h4>
 
 <a name="LDE-q71"><code>LDE-q71</code></a>
 
@@ -1204,7 +1204,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 <a name="LDE-2"><code>LDE-2</code></a>
 
-## 🗂️ Parte 2. Do mundo espírita
+<h2>🗂️ Parte 2. Do mundo espírita</h2>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -1212,13 +1212,13 @@ a. Por que nem sempre é guia infalível a razão?
 
 <a name="LDE-2-01"><code>LDE-2-01</code></a>
 
-### 📑 01. Dos Espíritos
+<h3>📑 01. Dos Espíritos</h3>
 
 ---
 
 <a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
 
-#### 📃 Origem e natureza dos Espíritos
+<h4>📃 Origem e natureza dos Espíritos</h4>
 
 <a name="LDE-q76"><code>LDE-q76</code></a>
 
@@ -1270,7 +1270,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 <a name="LDE-2-01-02"><code>LDE-2-01-02</code></a>
 
-#### 📃 Mundo normal primitivo
+<h4>📃 Mundo normal primitivo</h4>
 
 <a name="LDE-q84"><code>LDE-q84</code></a>
 
@@ -1298,7 +1298,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 <a name="LDE-2-01-03"><code>LDE-2-01-03</code></a>
 
-#### 📃 Forma e ubiquidade dos Espíritos
+<h4>📃 Forma e ubiquidade dos Espíritos</h4>
 
 <a name="LDE-q88"><code>LDE-q88</code></a>
 
@@ -1344,7 +1344,7 @@ a. Todos os Espíritos irradiam com igual força?
 
 <a name="LDE-2-01-04"><code>LDE-2-01-04</code></a>
 
-#### 📃 Perispírito
+<h4>📃 Perispírito</h4>
 
 <a name="LDE-q93"><code>LDE-q93</code></a>
 
@@ -1372,7 +1372,7 @@ a. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio,
 
 <a name="LDE-2-01-05"><code>LDE-2-01-05</code></a>
 
-#### 📃 Diferentes ordens de Espíritos
+<h4>📃 Diferentes ordens de Espíritos</h4>
 
 <a name="LDE-q96"><code>LDE-q96</code></a>
 
@@ -1400,7 +1400,7 @@ a. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio,
 
 <a name="LDE-2-01-06"><code>LDE-2-01-06</code></a>
 
-#### **📃 Escala espírita**
+<h4>📃 Escala espírita</h4>
 
 <a name="LDE-q100"><code>LDE-q100</code></a>
 
@@ -1422,7 +1422,7 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 
 <a name="LDE-2-01-07"><code>LDE-2-01-07</code></a>
 
-#### **📃 3ª ordem – Espíritos imperfeitos**
+<h4>📃 3ª ordem – Espíritos imperfeitos</h4>
 
 <a name="LDE-q101"><code>LDE-q101</code></a>
 
@@ -1480,7 +1480,7 @@ Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os d
 
 <a name="LDE-2-01-08"><code>LDE-2-01-08</code></a>
 
-#### **📃 2ª ordem – Bons Espíritos**
+<h4>📃 2ª ordem – Bons Espíritos</h4>
 
 <a name="LDE-q107"><code>LDE-q107</code></a>
 
@@ -1520,7 +1520,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 <a name="LDE-2-01-09"><code>LDE-2-01-09</code></a>
 
-#### **📃 1ª ordem – Espíritos puros**
+<h4>📃 1ª ordem – Espíritos puros</h4>
 
 <a name="LDE-q112"><code>LDE-q112</code></a>
 
@@ -1538,7 +1538,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 <a name="LDE-2-01-10"><code>LDE-2-01-10</code></a>
 
-#### **📃 Progressão dos Espíritos**
+<h4>📃 Progressão dos Espíritos</h4>
 
 <a name="LDE-q114"><code>LDE-q114</code></a>
 
@@ -1639,7 +1639,7 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 
 <a name="LDE-2-01-11"><code>LDE-2-01-11</code></a>
 
-#### **📃 Anjos e demônios**
+<h4>📃 Anjos e demônios</h4>
 
 <a name="LDE-q128"><code>LDE-q128</code></a>
 
@@ -1685,13 +1685,13 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 
 <a name="LDE-2-02"><code>LDE-2-02</code></a>
 
-### 📑 02. Da encarnação dos espíritos
+<h3>📑 02. Da encarnação dos espíritos</h3>
 
 ---
 
 <a name="LDE-2-02-01"><code>LDE-2-02-01</code></a>
 
-#### **📃 Objetivo da encarnação**
+<h4>📃 Objetivo da encarnação</h4>
 
 <a name="LDE-q132"><code>LDE-q132</code></a>
 
@@ -1714,7 +1714,7 @@ a. Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se i
 
 <a name="LDE-2-02-02"><code>LDE-2-02-02</code></a>
 
-#### **📃 A alma**
+<h4>📃 A alma</h4>
 
 <a name="LDE-q134"><code>LDE-q134</code></a>
 
@@ -1821,7 +1821,7 @@ a. Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 <a name="LDE-2-02-03"><code>LDE-2-02-03</code></a>
 
-#### 📃 Materialismo
+<h4>📃 Materialismo</h4>
 
 <a name="LDE-q147"><code>LDE-q147</code></a>
 
@@ -1847,7 +1847,7 @@ a. Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 <a name="LDE-2-03"><code>LDE-2-03</code></a>
 
-### 📑 03. Da volta do Espírito à vida espiritual
+<h3>📑 03. Da volta do Espírito à vida espiritual</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -1855,7 +1855,7 @@ a. Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 <a name="LDE-2-03-01"><code>LDE-2-03-01</code></a>
 
-#### 📃 A alma após a morte. Vida eterna.
+<h4>📃 A alma após a morte. Vida eterna.</h4>
 
 <a name="LDE-q149"><code>LDE-q149</code></a>
 
@@ -1902,7 +1902,7 @@ a. Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, ten
 
 <a name="LDE-2-03-02"><code>LDE-2-03-02</code></a>
 
-#### 📃 Separação da alma e do corpo
+<h4>📃 Separação da alma e do corpo</h4>
 
 <a name="LDE-q154"><code>LDE-q154</code></a>
 
@@ -1993,7 +1993,7 @@ a. A separação se dá instantaneamente por brusca transição? Haverá alguma 
 
 <a name="LDE-2-04"><code>LDE-2-04</code></a>
 
-### 📑 04. Da pluralidade das existências
+<h3>📑 04. Da pluralidade das existências</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -2001,7 +2001,7 @@ a. A separação se dá instantaneamente por brusca transição? Haverá alguma 
 
 <a name="LDE-2-04-01"><code>LDE-2-04-01</code></a>
 
-#### 📃 A reencarnação
+<h4>📃 A reencarnação</h4>
 
 <a name="LDE-q166"><code>LDE-q166</code></a>
 
@@ -2043,7 +2043,7 @@ c. Parece resultar desse princípio que a alma, depois de haver deixado um corpo
 
 <a name="LDE-2-04-02"><code>LDE-2-04-02</code></a>
 
-#### 📃 Justiça da reencarnação
+<h4>📃 Justiça da reencarnação</h4>
 
 <a name="LDE-q171"><code>LDE-q171</code></a>
 
@@ -2064,7 +2064,7 @@ c. Parece resultar desse princípio que a alma, depois de haver deixado um corpo
 
 <a name="LDE-2-04-03"><code>LDE-2-04-03</code></a>
 
-#### 📃 Encarnação nos diferentes mundos
+<h4>📃 Encarnação nos diferentes mundos</h4>
 
 <a name="LDE-q172"><code>LDE-q172</code></a>
 
@@ -2197,7 +2197,7 @@ a. Parece resultar daí que, entre o estado correspondente às últimas encarna�
 
 <a name="LDE-2-04-04"><code>LDE-2-04-04</code></a>
 
-#### 📃 Transmigrações progressivas
+<h4>📃 Transmigrações progressivas</h4>
 
 <a name="LDE-q189"><code>LDE-q189</code></a>
 
@@ -2265,7 +2265,7 @@ a. É o corpo que influi sobre o Espírito para que este se melhore, ou o Espír
 
 <a name="LDE-2-04-05"><code>LDE-2-04-05</code></a>
 
-#### 📃 Sorte das crianças depois da morte
+<h4>📃 Sorte das crianças depois da morte</h4>
 
 <a name="LDE-q197"><code>LDE-q197</code></a>
 
@@ -2300,7 +2300,7 @@ a. Que sucede ao Espírito de uma criança que morre pequenina?
 
 <a name="LDE-2-04-06"><code>LDE-2-04-06</code></a>
 
-#### 📃 Sexos nos Espíritos
+<h4>📃 Sexos nos Espíritos</h4>
 
 <a name="LDE-q200"><code>LDE-q200</code></a>
 
@@ -2325,7 +2325,7 @@ a. Que sucede ao Espírito de uma criança que morre pequenina?
 
 <a name="LDE-2-04-07"><code>LDE-2-04-07</code></a>
 
-#### 📃 Parentesco, filiação
+<h4>📃 Parentesco, filiação</h4>
 
 <a name="LDE-q203"><code>LDE-q203</code></a>
 
@@ -2356,7 +2356,7 @@ a. Ela, no entanto, diminui a importância que alguns dão à genealogia, visto 
 
 <a name="LDE-2-04-08"><code>LDE-2-04-08</code></a>
 
-#### 📃 Parecenças físicas e morais
+<h4>📃 Parecenças físicas e morais</h4>
 
 <a name="LDE-q207"><code>LDE-q207</code></a>
 
@@ -2424,7 +2424,7 @@ a. Donde se originam as parecenças morais que costuma haver entre pais e filhos
 
 <a name="LDE-2-04-09"><code>LDE-2-04-09</code></a>
 
-#### 📃 Ideias inatas
+<h4>📃 Ideias inatas</h4>
 
 <a name="LDE-q218"><code>LDE-q218</code></a>
 
@@ -2463,7 +2463,7 @@ a. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina 
 
 <a name="LDE-2-05"><code>LDE-2-05</code></a>
 
-### 📑 05. Considerações sobre a pluralidade das existências
+<h3>📑 05. Considerações sobre a pluralidade das existências</h3>
 
 <a name="LDE-q222"><code>LDE-q222</code></a>
 
@@ -2576,7 +2576,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 <a name="LDE-2-06"><code>LDE-2-06</code></a>
 
-### 📑 06. Da vida espírita
+<h3>📑 06. Da vida espírita</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -2584,7 +2584,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 <a name="LDE-2-06-01"><code>LDE-2-06-01</code></a>
 
-#### 📃 Espíritos errantes
+<h4>📃 Espíritos errantes</h4>
 
 <a name="LDE-q223"><code>LDE-q223</code></a>
 
@@ -2655,7 +2655,7 @@ b. Essa duração depende da vontade do Espírito, ou lhe pode ser imposta como 
 
 <a name="LDE-2-06-02"><code>LDE-2-06-02</code></a>
 
-#### 📃 Mundos transitórios
+<h4>📃 Mundos transitórios</h4>
 
 <a name="LDE-q234"><code>LDE-q234</code></a>
 
@@ -2703,7 +2703,7 @@ a. Os Espíritos que habitam esses mundos podem deixá-los livremente?
 
 <a name="LDE-2-06-03"><code>LDE-2-06-03</code></a>
 
-#### 📃 Percepções, sensações e sofrimentos dos Espíritos
+<h4>📃 Percepções, sensações e sofrimentos dos Espíritos</h4>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -2833,7 +2833,7 @@ a. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
 
 <a name="LDE-2-06-04"><code>LDE-2-06-04</code></a>
 
-#### 📃 Ensaio teórico da sensação nos Espíritos
+<h4>📃 Ensaio teórico da sensação nos Espíritos</h4>
 
 <a name="LDE-q257"><code>LDE-q257</code></a>
 
@@ -2871,7 +2871,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 <a name="LDE-2-06-05"><code>LDE-2-06-05</code></a>
 
-#### 📃 Escolha das provas
+<h4>📃 Escolha das provas</h4>
 
 <a name="LDE-q258"><code>LDE-q258</code></a>
 
@@ -2985,7 +2985,7 @@ a. Não é decerto como expiação, ou como prova, que muita gente deseja as gra
 
 <a name="LDE-2-06-06"><code>LDE-2-06-06</code></a>
 
-#### 📃 As relações no além-túmulo
+<h4>📃 As relações no além-túmulo</h4>
 
 <a name="LDE-q274"><code>LDE-q274</code></a>
 
@@ -3092,7 +3092,7 @@ a. Como é que os que se conheceram na Terra se reconhecem no mundo dos Espírit
 
 <a name="LDE-2-06-07"><code>LDE-2-06-07</code></a>
 
-#### 📃 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas
+<h4>📃 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas</h4>
 
 <a name="LDE-q291"><code>LDE-q291</code></a>
 
@@ -3172,7 +3172,7 @@ a. Podem deixar de ser simpáticos um ao outro dois Espíritos que já o sejam?
 
 <a name="LDE-2-06-08"><code>LDE-2-06-08</code></a>
 
-#### 📃 Recordação da existência corpórea
+<h4>📃 Recordação da existência corpórea</h4>
 
 <a name="LDE-q304"><code>LDE-q304</code></a>
 
@@ -3275,7 +3275,7 @@ a. Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 
 <a name="LDE-2-06-09"><code>LDE-2-06-09</code></a>
 
-#### 📃 Comemoração dos mortos. Funerais
+<h4>📃 Comemoração dos mortos. Funerais</h4>
 
 <a name="LDE-q320"><code>LDE-q320</code></a>
 
@@ -3345,7 +3345,7 @@ a. Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 
 <a name="LDE-2-07"><code>LDE-2-07</code></a>
 
-### 📑 07. Da volta do Espírito à vida corporal
+<h3>📑 07. Da volta do Espírito à vida corporal</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -3353,7 +3353,7 @@ a. Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 
 <a name="LDE-2-07-01"><code>LDE-2-07-01</code></a>
 
-#### 📃 Prelúdio da volta
+<h4>📃 Prelúdio da volta</h4>
 
 <a name="LDE-q330"><code>LDE-q330</code></a>
 
@@ -3442,7 +3442,7 @@ prova alguma._”
 
 <a name="LDE-2-07-02"><code>LDE-2-07-02</code></a>
 
-#### 📃 União do espírito e do corpo
+<h4>📃 União do espírito e do corpo</h4>
 
 <a name="LDE-q344"><code>LDE-q344</code></a>
 
@@ -3544,7 +3544,7 @@ b. Segue-se daí que toda criança que vive após o nascimento tem forçosamente
 
 <a name="LDE-2-07-03"><code>LDE-2-07-03</code></a>
 
-#### 📃 Faculdades morais e intelectuais do homem
+<h4>📃 Faculdades morais e intelectuais do homem</h4>
 
 <a name="LDE-q361"><code>LDE-q361</code></a>
 
@@ -3587,7 +3587,7 @@ a. Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e 
 
 <a name="LDE-2-07-04"><code>LDE-2-07-04</code></a>
 
-#### 📃 Influência do corpo
+<h4>📃 Influência do corpo</h4>
 
 <a name="LDE-q367"><code>LDE-q367</code></a>
 
@@ -3625,7 +3625,7 @@ a. Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deri
 
 <a name="LDE-2-07-05"><code>LDE-2-07-05</code></a>
 
-#### 📃 Idiotismo, loucura
+<h4>📃 Idiotismo, loucura</h4>
 
 <a name="LDE-q371"><code>LDE-q371</code></a>
 
@@ -3686,7 +3686,7 @@ a. Então, o desorganizado é sempre o corpo e não o Espírito?
 
 <a name="LDE-2-07-06"><code>LDE-2-07-06</code></a>
 
-#### 📃 A infância
+<h4>📃 A infância</h4>
 
 <a name="LDE-q379"><code>LDE-q379</code></a>
 
@@ -3735,7 +3735,7 @@ a. Então, o desorganizado é sempre o corpo e não o Espírito?
 
 <a name="LDE-2-07-07"><code>LDE-2-07-07</code></a>
 
-#### 📃 Simpatia e antipatia materiais
+<h4>📃 Simpatia e antipatia materiais</h4>
 
 <a name="LDE-q386"><code>LDE-q386</code></a>
 
@@ -3778,7 +3778,7 @@ a. Não lhes seria mais agradável reconhecerem-se?
 
 <a name="LDE-2-07-08"><code>LDE-2-07-08</code></a>
 
-#### 📃 Esquecimento do passado
+<h4>📃 Esquecimento do passado</h4>
 
 <a name="LDE-q392"><code>LDE-q392</code></a>
 
@@ -3849,7 +3849,7 @@ a. Poderá também ser pior, isto é, poderá o Espírito cometer, numa existên
 
 <a name="LDE-2-08"><code>LDE-2-08</code></a>
 
-### 📑 08. Da emancipação da alma
+<h3>📑 08. Da emancipação da alma</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -3857,7 +3857,7 @@ a. Poderá também ser pior, isto é, poderá o Espírito cometer, numa existên
 
 <a name="LDE-2-08-01"><code>LDE-2-08-01</code></a>
 
-#### 📃 O sono e os sonhos
+<h4>📃 O sono e os sonhos</h4>
 
 <a name="LDE-q400"><code>LDE-q400</code></a>
 
@@ -3943,7 +3943,7 @@ a. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, n�
 
 <a name="LDE-2-08-02"><code>LDE-2-08-02</code></a>
 
-#### 📃 Visitas espíritas entre pessoas vivas
+<h4>📃 Visitas espíritas entre pessoas vivas</h4>
 
 <a name="LDE-q413"><code>LDE-q413</code></a>
 
@@ -3983,7 +3983,7 @@ a. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, n�
 
 <a name="LDE-2-08-03"><code>LDE-2-08-03</code></a>
 
-#### 📃 Transmissão oculta do pensamento
+<h4>📃 Transmissão oculta do pensamento</h4>
 
 <a name="LDE-q419"><code>LDE-q419</code></a>
 
@@ -4010,7 +4010,7 @@ a. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, n�
 
 <a name="LDE-2-08-04"><code>LDE-2-08-04</code></a>
 
-#### 📃 Letargia, catalepsia, mortes aparentes
+<h4>📃 Letargia, catalepsia, mortes aparentes</h4>
 
 <a name="LDE-q422"><code>LDE-q422</code></a>
 
@@ -4038,7 +4038,7 @@ a. Por quê?
 
 <a name="LDE-2-08-05"><code>LDE-2-08-05</code></a>
 
-#### 📃 Sonambulismo
+<h4>📃 Sonambulismo</h4>
 
 <a name="LDE-q425"><code>LDE-q425</code></a>
 
@@ -4122,7 +4122,7 @@ a. Por quê?
 
 <a name="LDE-2-08-06"><code>LDE-2-08-06</code></a>
 
-#### 📃 Êxtase
+<h4>📃 Êxtase</h4>
 
 <a name="LDE-q439"><code>LDE-q439</code></a>
 
@@ -4170,7 +4170,7 @@ a. Por quê?
 
 <a name="LDE-2-08-07"><code>LDE-2-08-07</code></a>
 
-#### 📃 Dupla vista
+<h4>📃 Dupla vista</h4>
 
 <a name="LDE-q447"><code>LDE-q447</code></a>
 
@@ -4226,7 +4226,7 @@ a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 <a name="LDE-2-08-08"><code>LDE-2-08-08</code></a>
 
-#### 📃 Resumo teórico do sonambulismo, do êxtase e da dupla vista
+<h4>📃 Resumo teórico do sonambulismo, do êxtase e da dupla vista</h4>
 
 <a name="LDE-q455"><code>LDE-q455</code></a>
 
@@ -4282,7 +4282,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 <a name="LDE-2-09"><code>LDE-2-09</code></a>
 
-### 📑 09. Da intervenção dos Espíritos no mundo corporal
+<h3>📑 09. Da intervenção dos Espíritos no mundo corporal</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -4290,7 +4290,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 <a name="LDE-2-09-01"><code>LDE-2-09-01</code></a>
 
-#### 📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos
+<h4>📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos</h4>
 
 <a name="LDE-q456"><code>LDE-q456</code></a>
 
@@ -4316,7 +4316,7 @@ a. Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do qu
 
 <a name="LDE-2-09-02"><code>LDE-2-09-02</code></a>
 
-#### 📃 Influência oculta dos Espíritos em nossos pensamentos e atos
+<h4>📃 Influência oculta dos Espíritos em nossos pensamentos e atos</h4>
 
 <a name="LDE-q459"><code>LDE-q459</code></a>
 
@@ -4407,7 +4407,7 @@ b. De que natureza é o sofrimento que procuram infligir aos outros?
 
 <a name="LDE-2-09-03"><code>LDE-2-09-03</code></a>
 
-#### 📃 Possessos
+<h4>📃 Possessos</h4>
 
 <a name="LDE-q473"><code>LDE-q473</code></a>
 
@@ -4457,7 +4457,7 @@ b. De que natureza é o sofrimento que procuram infligir aos outros?
 
 <a name="LDE-2-09-04"><code>LDE-2-09-04</code></a>
 
-#### 📃 Convulsionários
+<h4>📃 Convulsionários</h4>
 
 <a name="LDE-q481"><code>LDE-q481</code></a>
 
@@ -4489,7 +4489,7 @@ a. De que natureza são, em geral, os Espíritos que concorrem para a produção
 
 <a name="LDE-2-09-05"><code>LDE-2-09-05</code></a>
 
-#### 📃 Afeição que os Espíritos votam a certas pessoas
+<h4>📃 Afeição que os Espíritos votam a certas pessoas</h4>
 
 <a name="LDE-q484"><code>LDE-q484</code></a>
 
@@ -4531,7 +4531,7 @@ a. São sensíveis à afeição que lhes conservamos?
 
 <a name="LDE-2-09-06"><code>LDE-2-09-06</code></a>
 
-#### 📃 Anjos da guarda. Espíritos protetores, familiares ou simpáticos
+<h4>📃 Anjos da guarda. Espíritos protetores, familiares ou simpáticos</h4>
 
 <a name="LDE-q489"><code>LDE-q489</code></a>
 
@@ -4741,7 +4741,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 
 <a name="LDE-2-09-07"><code>LDE-2-09-07</code></a>
 
-#### 📃 Pressentimentos
+<h4>📃 Pressentimentos</h4>
 
 <a name="LDE-q522"><code>LDE-q522</code></a>
 
@@ -4766,7 +4766,7 @@ a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos pod
 
 <a name="LDE-2-09-08"><code>LDE-2-09-08</code></a>
 
-#### 📃 Influência dos Espíritos nos acontecimentos da vida
+<h4>📃 Influência dos Espíritos nos acontecimentos da vida</h4>
 
 <a name="LDE-q525"><code>LDE-q525</code></a>
 
@@ -4857,7 +4857,7 @@ b. No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem
 
 <a name="LDE-2-09-09"><code>LDE-2-09-09</code></a>
 
-#### 📃 Ação dos Espíritos nos fenômenos da Natureza
+<h4>📃 Ação dos Espíritos nos fenômenos da Natureza</h4>
 
 <a name="LDE-q536"><code>LDE-q536</code></a>
 
@@ -4902,7 +4902,7 @@ a. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarq
 
 <a name="LDE-2-09-10"><code>LDE-2-09-10</code></a>
 
-#### 📃 Os Espíritos durante os combates
+<h4>📃 Os Espíritos durante os combates</h4>
 
 <a name="LDE-q541"><code>LDE-541X</code></a>
 
@@ -4958,7 +4958,7 @@ a. Continua a ouvir o rumor da batalha?
 
 <a name="LDE-2-09-11"><code>LDE-2-09-11</code></a>
 
-#### 📃 Pactos
+<h4>📃 Pactos</h4>
 
 <a name="LDE-q549"><code>LDE-q549</code></a>
 
@@ -4978,7 +4978,7 @@ a. Continua a ouvir o rumor da batalha?
 
 <a name="LDE-2-09-12"><code>LDE-2-09-12</code></a>
 
-#### 📃 Poder oculto. Talismãs. Feiticeiros
+<h4>📃 Poder oculto. Talismãs. Feiticeiros</h4>
 
 <a name="LDE-q551"><code>LDE-q551</code></a>
 
@@ -5021,7 +5021,7 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 
 <a name="LDE-2-09-13"><code>LDE-2-09-13</code></a>
 
-#### 📃 Bênçãos e maldições
+<h4>📃 Bênçãos e maldições</h4>
 
 <a name="LDE-q557"><code>LDE-q551</code></a>
 
@@ -5034,7 +5034,7 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 
 <a name="LDE-2-10"><code>LDE-2-10</code></a>
 
-### 📑 10. Das ocupações e missões dos Espíritos
+<h3>📑 10. Das ocupações e missões dos Espíritos</h3>
 
 <a name="LDE-q558"><code>LDE-q558</code></a>
 
@@ -5226,7 +5226,7 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 <a name="LDE-2-11"><code>LDE-2-11</code></a>
 
-### 📑 11. Dos três reinos
+<h3>📑 11. Dos três reinos</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -5234,7 +5234,7 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 <a name="LDE-2-11-01"><code>LDE-2-11-01</code></a>
 
-#### 📃 Os minerais e as plantas
+<h4>📃 Os minerais e as plantas</h4>
 
 <a name="LDE-q585"><code>LDE-q585</code></a>
 
@@ -5281,7 +5281,7 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 <a name="LDE-2-11-02"><code>LDE-2-11-02</code></a>
 
-#### 📃 Os animais e o homem
+<h4>📃 Os animais e o homem</h4>
 
 <a name="LDE-q592"><code>LDE-q592</code></a>
 
@@ -5415,7 +5415,7 @@ b. Esse período de humanização principia na Terra?
 
 <a name="LDE-2-11-03"><code>LDE-2-11-03</code></a>
 
-#### 📃 Metempsicose
+<h4>📃 Metempsicose</h4>
 
 <a name="LDE-q611"><code>LDE-q611</code></a>
 
@@ -5452,7 +5452,7 @@ b. Esse período de humanização principia na Terra?
 
 <a name="LDE-3"><code>LDE-3</code></a>
 
-## 🗂️ Parte 3. Das leis morais
+<h2>🗂️ Parte 3. Das leis morais</h2>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -5460,7 +5460,7 @@ b. Esse período de humanização principia na Terra?
 
 <a name="LDE-3-01"><code>LDE-3-01</code></a>
 
-### 📑 01. Da lei divina ou natural
+<h3>📑 01. Da lei divina ou natural</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -5468,7 +5468,7 @@ b. Esse período de humanização principia na Terra?
 
 <a name="LDE-3-01-01"><code>LDE-3-01-01</code></a>
 
-#### 📃 Caracteres da lei natural
+<h4>📃 Caracteres da lei natural</h4>
 
 <a name="LDE-q614"><code>LDE-q614</code></a>
 
@@ -5510,7 +5510,7 @@ a. Dado é ao homem aprofundar umas e outras?
 
 <a name="LDE-3-01-02"><code>LDE-3-01-02</code></a>
 
-#### 📃 Conhecimento da lei natural
+<h4>📃 Conhecimento da lei natural</h4>
 
 <a name="LDE-q619"><code>LDE-q619</code></a>
 
@@ -5580,7 +5580,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 <a name="LDE-3-01-03"><code>LDE-3-01-03</code></a>
 
-#### 📃 O bem e o mal
+<h4>📃 O bem e o mal</h4>
 
 <a name="LDE-q629"><code>LDE-q629</code></a>
 
@@ -5694,7 +5694,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 <a name="LDE-3-01-04"><code>LDE-3-01-04</code></a>
 
-#### 📃 Divisão da lei natural
+<h4>📃 Divisão da lei natural</h4>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -5716,7 +5716,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 <a name="LDE-3-02"><code>LDE-3-02</code></a>
 
-### 📑 02. Da lei de adoração
+<h3>📑 02. Da lei de adoração</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -5724,7 +5724,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 <a name="LDE-3-02-01"><code>LDE-3-02-01</code></a>
 
-#### 📃 Objetivo da adoração
+<h4>📃 Objetivo da adoração</h4>
 
 <a name="LDE-q649"><code>LDE-q649</code></a>
 
@@ -5752,7 +5752,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 <a name="LDE-3-02-02"><code>LDE-3-02-02</code></a>
 
-#### 📃 Adoração exterior
+<h4>📃 Adoração exterior</h4>
 
 <a name="LDE-q653"><code>LDE-q653</code></a>
 
@@ -5788,7 +5788,7 @@ a. Será útil a adoração exterior?
 
 <a name="LDE-3-02-03"><code>LDE-3-02-03</code></a>
 
-#### 📃 Vida contemplativa
+<h4>📃 Vida contemplativa</h4>
 
 <a name="LDE-q657"><code>LDE-q657</code></a>
 
@@ -5803,7 +5803,7 @@ a. Será útil a adoração exterior?
 
 <a name="LDE-3-02-04"><code>LDE-3-02-04</code></a>
 
-#### 📃 A prece
+<h4>📃 A prece</h4>
 
 <a name="LDE-q658"><code>LDE-q658</code></a>
 
@@ -5867,7 +5867,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 <a name="LDE-3-02-05"><code>LDE-3-02-05</code></a>
 
-#### 📃 Politeísmo
+<h4>📃 Politeísmo</h4>
 
 <a name="LDE-q667"><code>LDE-q667</code></a>
 
@@ -5891,7 +5891,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 
 <a name="LDE-3-02-06"><code>LDE-3-02-06</code></a>
 
-#### 📃 Sacrifícios
+<h4>📃 Sacrifícios</h4>
 
 <a name="LDE-q669"><code>LDE-q669</code></a>
 
@@ -5931,7 +5931,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 <a name="LDE-3-03"><code>LDE-3-03</code></a>
 
-### 📑 03. Da lei do trabalho
+<h3>📑 03. Da lei do trabalho</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -5939,7 +5939,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 <a name="LDE-3-03-01"><code>LDE-3-03-01</code></a>
 
-#### 📃 Necessidade do trabalho
+<h4>📃 Necessidade do trabalho</h4>
 
 <a name="LDE-q674"><code>LDE-q674</code></a>
 
@@ -5991,7 +5991,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 <a name="LDE-3-03-02"><code>LDE-3-03-02</code></a>
 
-#### 📃 Limite do trabalho. Repouso
+<h4>📃 Limite do trabalho. Repouso</h4>
 
 <a name="LDE-q682"><code>LDE-q682</code></a>
 
@@ -6026,7 +6026,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 <a name="LDE-3-04"><code>LDE-3-04</code></a>
 
-### 📑 04. Da lei de reprodução
+<h3>📑 04. Da lei de reprodução</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -6034,7 +6034,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 <a name="LDE-3-04-01"><code>LDE-3-04-01</code></a>
 
-#### 📃 População do globo
+<h4>📃 População do globo</h4>
 
 <a name="LDE-q686"><code>LDE-q686</code></a>
 
@@ -6052,7 +6052,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 <a name="LDE-3-04-02"><code>LDE-3-04-02</code></a>
 
-#### 📃 Sucessão e aperfeiçoamento das raças
+<h4>📃 Sucessão e aperfeiçoamento das raças</h4>
 
 <a name="LDE-q688"><code>LDE-q688</code></a>
 
@@ -6087,7 +6087,7 @@ a. Geralmente, os esforços que o homem emprega para conseguir a melhoria das ra
 
 <a name="LDE-3-04-03"><code>LDE-3-04-03</code></a>
 
-#### 📃 Obstáculos à reprodução
+<h4>📃 Obstáculos à reprodução</h4>
 
 <a name="LDE-q693"><code>LDE-q693</code></a>
 
@@ -6108,7 +6108,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 <a name="LDE-3-04-04"><code>LDE-3-04-04</code></a>
 
-#### 📃 Casamento e celibato
+<h4>📃 Casamento e celibato</h4>
 
 <a name="LDE-q695"><code>LDE-q695</code></a>
 
@@ -6145,7 +6145,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 <a name="LDE-3-04-05"><code>LDE-3-04-05</code></a>
 
-#### 📃 Poligamia
+<h4>📃 Poligamia</h4>
 
 <a name="LDE-q700"><code>LDE-q700</code></a>
 
@@ -6167,7 +6167,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 <a name="LDE-3-05"><code>LDE-3-05</code></a>
 
-### 📑 05. Da lei de conservação
+<h3>📑 05. Da lei de conservação</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -6175,7 +6175,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 <a name="LDE-3-05-01"><code>LDE-3-05-01</code></a>
 
-#### 📃 Instinto de conservação
+<h4>📃 Instinto de conservação</h4>
 
 <a name="LDE-q702"><code>LDE-q702</code></a>
 
@@ -6193,7 +6193,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 <a name="LDE-3-05-02"><code>LDE-3-05-02</code></a>
 
-#### 📃 Meios de conservação
+<h4>📃 Meios de conservação</h4>
 
 <a name="LDE-q704"><code>LDE-q704</code></a>
 
@@ -6242,7 +6242,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 <a name="LDE-3-05-03"><code>LDE-3-05-03</code></a>
 
-#### 📃 Gozo dos bens terrenos
+<h4>📃 Gozo dos bens terrenos</h4>
 
 <a name="LDE-q711"><code>LDE-q711</code></a>
 
@@ -6280,7 +6280,7 @@ a. Perto da morte física, ou da morte moral?
 
 <a name="LDE-3-05-04"><code>LDE-3-05-04</code></a>
 
-#### 📃 Necessário e supérfluo
+<h4>📃 Necessário e supérfluo</h4>
 
 <a name="LDE-q715"><code>LDE-q715</code></a>
 
@@ -6305,7 +6305,7 @@ a. Perto da morte física, ou da morte moral?
 
 <a name="LDE-3-05-05"><code>LDE-3-05-05</code></a>
 
-#### 📃 Privações voluntárias. Mortificações
+<h4>📃 Privações voluntárias. Mortificações</h4>
 
 <a name="LDE-q718"><code>LDE-q718</code></a>
 
@@ -6368,7 +6368,7 @@ a. Haverá privações voluntárias que sejam meritórias?
 
 <a name="LDE-3-06"><code>LDE-3-06</code></a>
 
-### 📑 06. Da lei de destruição
+<h3>📑 06. Da lei de destruição</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -6376,7 +6376,7 @@ a. Haverá privações voluntárias que sejam meritórias?
 
 <a name="LDE-3-06-01"><code>LDE-3-06-01</code></a>
 
-#### 📃 Destruição necessária e destruição abusiva
+<h4>📃 Destruição necessária e destruição abusiva</h4>
 
 <a name="LDE-q728"><code>LDE-q728</code></a>
 
@@ -6432,7 +6432,7 @@ a. O instinto de destruição teria sido dado aos seres vivos por desígnios pro
 
 <a name="LDE-3-06-02"><code>LDE-3-06-02</code></a>
 
-#### 📃 Flagelos destruidores
+<h4>📃 Flagelos destruidores</h4>
 
 <a name="LDE-q737"><code>LDE-q737</code></a>
 
@@ -6480,7 +6480,7 @@ b. Mas nem por isso as vítimas desses flagelos deixam de o ser.
 
 <a name="LDE-3-06-03"><code>LDE-3-06-03</code></a>
 
-#### 📃 Guerras
+<h4>📃 Guerras</h4>
 
 <a name="LDE-q742"><code>LDE-q742</code></a>
 
@@ -6511,7 +6511,7 @@ a. Desde que a guerra deve ter por efeito produzir o advento da liberdade, como 
 
 <a name="LDE-3-06-04"><code>LDE-3-06-04</code></a>
 
-#### 📃 Assassínio
+<h4>📃 Assassínio</h4>
 
 <a name="LDE-q746"><code>LDE-q746</code></a>
 
@@ -6549,7 +6549,7 @@ a. Desde que a guerra deve ter por efeito produzir o advento da liberdade, como 
 
 <a name="LDE-3-06-05"><code>LDE-3-06-05</code></a>
 
-#### 📃 Crueldade
+<h4>📃 Crueldade</h4>
 
 <a name="LDE-q752"><code>LDE-q752</code></a>
 
@@ -6584,7 +6584,7 @@ a. Desde que a guerra deve ter por efeito produzir o advento da liberdade, como 
 
 <a name="LDE-3-06-06"><code>LDE-3-06-06</code></a>
 
-#### 📃 Duelo
+<h4>📃 Duelo</h4>
 
 <a name="LDE-q757"><code>LDE-q757</code></a>
 
@@ -6617,7 +6617,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 <a name="LDE-3-06-07"><code>LDE-3-06-07</code></a>
 
-#### 📃 Pena de morte
+<h4>📃 Pena de morte</h4>
 
 <a name="LDE-q760"><code>LDE-q760</code></a>
 
@@ -6662,7 +6662,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 <a name="LDE-3-07"><code>LDE-3-07</code></a>
 
-### 📑 07. Da lei de sociedade
+<h3>📑 07. Da lei de sociedade</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -6670,7 +6670,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 <a name="LDE-3-07-01"><code>LDE-3-07-01</code></a>
 
-#### 📃 Necessidade da vida social
+<h4>📃 Necessidade da vida social</h4>
 
 <a name="LDE-q766"><code>LDE-q766</code></a>
 
@@ -6695,7 +6695,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 <a name="LDE-3-07-02"><code>LDE-3-07-02</code></a>
 
-#### 📃 Vida de insulamento. Voto de silêncio
+<h4>📃 Vida de insulamento. Voto de silêncio</h4>
 
 <a name="LDE-q769"><code>LDE-q769</code></a>
 
@@ -6731,7 +6731,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 <a name="LDE-3-07-03"><code>LDE-3-07-03</code></a>
 
-#### 📃 Laços de família
+<h4>📃 Laços de família</h4>
 
 <a name="LDE-q773"><code>LDE-q773</code></a>
 
@@ -6756,7 +6756,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 <a name="LDE-3-08"><code>LDE-3-08</code></a>
 
-### 📑 08. Da lei do progresso
+<h3>📑 08. Da lei do progresso</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -6764,7 +6764,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 <a name="LDE-3-08-01"><code>LDE-3-08-01</code></a>
 
-#### 📃 Estado de natureza
+<h4>📃 Estado de natureza</h4>
 
 <a name="LDE-q776"><code>LDE-q776</code></a>
 
@@ -6789,7 +6789,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 <a name="LDE-3-08-02"><code>LDE-3-08-02</code></a>
 
-#### 📃 Marcha do progresso
+<h4>📃 Marcha do progresso</h4>
 
 <a name="LDE-q779"><code>LDE-q779</code></a>
 
@@ -6852,7 +6852,7 @@ a. Que se deve pensar dos que tentam deter a marcha do progresso e fazer que a H
 
 <a name="LDE-3-08-03"><code>LDE-3-08-03</code></a>
 
-#### 📃 Povos degenerados
+<h4>📃 Povos degenerados</h4>
 
 <a name="LDE-q786"><code>LDE-q786</code></a>
 
@@ -6898,7 +6898,7 @@ b. Assim, pode dar-se que os homens mais civilizados tenham sido selvagens e ant
 
 <a name="LDE-3-08-04"><code>LDE-3-08-04</code></a>
 
-#### 📃 Civilização
+<h4>📃 Civilização</h4>
 
 <a name="LDE-q790"><code>LDE-q790</code></a>
 
@@ -6937,7 +6937,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 <a name="LDE-3-08-05"><code>LDE-3-08-05</code></a>
 
-#### 📃 Progresso da legislação humana
+<h4>📃 Progresso da legislação humana</h4>
 
 <a name="LDE-q794"><code>LDE-q794</code></a>
 
@@ -6967,7 +6967,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 <a name="LDE-3-08-06"><code>LDE-3-08-06</code></a>
 
-#### 📃 Influência do Espiritismo no progresso
+<h4>📃 Influência do Espiritismo no progresso</h4>
 
 <a name="LDE-q798"><code>LDE-q798</code></a>
 
@@ -7002,7 +7002,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 <a name="LDE-3-09"><code>LDE-3-09</code></a>
 
-### 📑 09. Da lei de igualdade
+<h3>📑 09. Da lei de igualdade</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -7010,7 +7010,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 <a name="LDE-3-09-01"><code>LDE-3-09-01</code></a>
 
-#### 📃 Igualdade natural
+<h4>📃 Igualdade natural</h4>
 
 <a name="LDE-q803"><code>LDE-q803</code></a>
 
@@ -7024,7 +7024,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 <a name="LDE-3-09-02"><code>LDE-3-09-02</code></a>
 
-#### 📃 Desigualdade das aptidões
+<h4>📃 Desigualdade das aptidões</h4>
 
 <a name="LDE-q804"><code>LDE-q804</code></a>
 
@@ -7048,7 +7048,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 <a name="LDE-3-09-03"><code>LDE-3-09-03</code></a>
 
-#### 📃 Desigualdades sociais
+<h4>📃 Desigualdades sociais</h4>
 
 <a name="LDE-q806"><code>LDE-q806</code></a>
 
@@ -7071,7 +7071,7 @@ a. Algum dia essa desigualdade desaparecerá?
 
 <a name="LDE-3-09-04"><code>LDE-3-09-04</code></a>
 
-#### 📃 Desigualdade das riquezas
+<h4>📃 Desigualdade das riquezas</h4>
 
 <a name="LDE-q808"><code>LDE-q808</code></a>
 
@@ -7120,7 +7120,7 @@ a. Será possível que todos se entendam?
 
 <a name="LDE-3-09-05"><code>LDE-3-09-05</code></a>
 
-#### 📃 As provas de riqueza e de miséria
+<h4>📃 As provas de riqueza e de miséria</h4>
 
 <a name="LDE-q814"><code>LDE-q814</code></a>
 
@@ -7153,7 +7153,7 @@ a. Será possível que todos se entendam?
 
 <a name="LDE-3-09-06"><code>LDE-3-09-06</code></a>
 
-#### 📃 Igualdade dos direitos do homem e da mulher
+<h4>📃 Igualdade dos direitos do homem e da mulher</h4>
 
 <a name="LDE-q817"><code>LDE-q817</code></a>
 
@@ -7196,7 +7196,7 @@ a. Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a
 
 <a name="LDE-3-09-07"><code>LDE-3-09-07</code></a>
 
-#### 📃 Igualdade perante o túmulo
+<h4>📃 Igualdade perante o túmulo</h4>
 
 <a name="LDE-q823"><code>LDE-q823</code></a>
 
@@ -7221,7 +7221,7 @@ a. Mas a suntuosidade dos monumentos fúnebres não é antes devida, as mais das
 
 <a name="LDE-3-10"><code>LDE-3-10</code></a>
 
-### 📑 10. Da lei de liberdade
+<h3>📑 10. Da lei de liberdade</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -7229,7 +7229,7 @@ a. Mas a suntuosidade dos monumentos fúnebres não é antes devida, as mais das
 
 <a name="LDE-3-10-01"><code>LDE-3-10-01</code></a>
 
-#### 📃 Liberdade natural
+<h4>📃 Liberdade natural</h4>
 
 <a name="LDE-q825"><code>LDE-q825</code></a>
 
@@ -7260,7 +7260,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 <a name="LDE-3-10-02"><code>LDE-3-10-02</code></a>
 
-#### 📃 Escravidão
+<h4>📃 Escravidão</h4>
 
 <a name="LDE-q829"><code>LDE-q829</code></a>
 
@@ -7292,7 +7292,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 <a name="LDE-3-10-03"><code>LDE-3-10-03</code></a>
 
-#### 📃 Liberdade de pensar
+<h4>📃 Liberdade de pensar</h4>
 
 <a name="LDE-q833"><code>LDE-q833</code></a>
 
@@ -7310,7 +7310,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 <a name="LDE-3-10-04"><code>LDE-3-10-04</code></a>
 
-#### 📃 Liberdade de consciência
+<h4>📃 Liberdade de consciência</h4>
 
 <a name="LDE-q835"><code>LDE-q835</code></a>
 
@@ -7360,7 +7360,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 <a name="LDE-3-10-05"><code>LDE-3-10-05</code></a>
 
-#### 📃 Livre-arbítrio
+<h4>📃 Livre-arbítrio</h4>
 
 <a name="LDE-q843"><code>LDE-q843</code></a>
 
@@ -7414,7 +7414,7 @@ a. Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram 
 
 <a name="LDE-3-10-06"><code>LDE-3-10-06</code></a>
 
-#### 📃 Fatalidade
+<h4>📃 Fatalidade</h4>
 
 <a name="LDE-q851"><code>LDE-q851</code></a>
 
@@ -7523,7 +7523,7 @@ a. Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam 
 
 <a name="LDE-3-10-07"><code>LDE-3-10-07</code></a>
 
-#### 📃 Conhecimento do futuro
+<h4>📃 Conhecimento do futuro</h4>
 
 <a name="LDE-q868"><code>LDE-q868</code></a>
 
@@ -7557,7 +7557,7 @@ a. Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam 
 
 <a name="LDE-3-10-08"><code>LDE-3-10-08</code></a>
 
-#### 📃 Resumo teórico do móvel das ações humanas
+<h4>📃 Resumo teórico do móvel das ações humanas</h4>
 
 <a name="LDE-q872"><code>LDE-q872</code></a>
 
@@ -7591,7 +7591,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 <a name="LDE-3-11"><code>LDE-3-11</code></a>
 
-### 📑 11. Da lei de justiça, de amor, e de caridade
+<h3>📑 11. Da lei de justiça, de amor, e de caridade</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -7599,7 +7599,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 <a name="LDE-3-11-01"><code>LDE-3-11-01</code></a>
 
-#### 📃 Justiça e direitos naturais
+<h4>📃 Justiça e direitos naturais</h4>
 
 <a name="LDE-q873"><code>LDE-q873</code></a>
 
@@ -7650,7 +7650,7 @@ a. Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que
 
 <a name="LDE-3-11-02"><code>LDE-3-11-02</code></a>
 
-#### 📃 Direito de propriedade. Roubo
+<h4>📃 Direito de propriedade. Roubo</h4>
 
 <a name="LDE-q880"><code>LDE-q880</code></a>
 
@@ -7709,7 +7709,7 @@ a. Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que
 
 <a name="LDE-3-11-03"><code>LDE-3-11-03</code></a>
 
-#### 📃 Caridade e amor do próximo
+<h4>📃 Caridade e amor do próximo</h4>
 
 <a name="LDE-q886"><code>LDE-q886</code></a>
 
@@ -7761,7 +7761,7 @@ a. Dar-se-á reproveis a esmola?
 
 <a name="LDE-3-11-04"><code>LDE-3-11-04</code></a>
 
-#### 📃 Amor materno e filial
+<h4>📃 Amor materno e filial</h4>
 
 <a name="LDE-q890"><code>LDE-q890</code></a>
 
@@ -7786,7 +7786,7 @@ a. Dar-se-á reproveis a esmola?
 
 <a name="LDE-3-12"><code>LDE-3-12</code></a>
 
-### 📑 12. Da perfeição moral
+<h3>📑 12. Da perfeição moral</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -7794,7 +7794,7 @@ a. Dar-se-á reproveis a esmola?
 
 <a name="LDE-3-12-01"><code>LDE-3-12-01</code></a>
 
-#### 📃 As virtudes e os vícios
+<h4>📃 As virtudes e os vícios</h4>
 
 <a name="LDE-q893"><code>LDE-q893</code></a>
 
@@ -7892,7 +7892,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 <a name="LDE-3-12-02"><code>LDE-3-12-02</code></a>
 
-#### 📃 Paixões
+<h4>📃 Paixões</h4>
 
 <a name="LDE-q907"><code>LDE-q907</code></a>
 
@@ -7940,7 +7940,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 <a name="LDE-3-12-03"><code>LDE-3-12-03</code></a>
 
-#### 📃 O egoísmo
+<h4>📃 O egoísmo</h4>
 
 <a name="LDE-q913"><code>LDE-q913</code></a>
 
@@ -7990,7 +7990,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 <a name="LDE-3-12-04"><code>LDE-3-12-04</code></a>
 
-#### 📃 Caracteres do homem de bem
+<h4>📃 Caracteres do homem de bem</h4>
 
 <a name="LDE-q918"><code>LDE-q918</code></a>
 
@@ -8019,7 +8019,7 @@ a. Como, em tal caso, julgar da pureza das intenções e da sinceridade do escri
 
 <a name="LDE-3-12-05"><code>LDE-3-12-05</code></a>
 
-#### 📃 Conhecimento de si mesmo
+<h4>📃 Conhecimento de si mesmo</h4>
 
 <a name="LDE-q919"><code>LDE-q919</code></a>
 
@@ -8042,11 +8042,11 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 <a name="LDE-4"><code>LDE-4</code></a>
 
-## 🗂️ Parte 4. Das esperanças e consolações
+<h2>🗂️ Parte 4. Das esperanças e consolações</h2>
 
 <a name="LDE-4-01"><code>LDE-4-01</code></a>
 
-### 📑 1. Das penas e gozos terrestres
+<h3>📑 1. Das penas e gozos terrestres</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -8054,7 +8054,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 <a name="LDE-4-01-01"><code>LDE-4-01-01</code></a>
 
-#### 📃 Felicidade e infelicidade relativas
+<h4>📃 Felicidade e infelicidade relativas</h4>
 
 <a name="LDE-q920"><code>LDE-q920</code></a>
 
@@ -8158,7 +8158,7 @@ a. Acharíeis então justo que o filho de um homem altamente colocado na socieda
 
 <a name="LDE-4-01-02"><code>LDE-4-01-02</code></a>
 
-#### 📃 Perda dos entes queridos
+<h4>📃 Perda dos entes queridos</h4>
 
 <a name="LDE-q934"><code>LDE-q934</code></a>
 
@@ -8189,7 +8189,7 @@ a. Acharíeis então justo que o filho de um homem altamente colocado na socieda
 
 <a name="LDE-4-01-03"><code>LDE-4-01-03</code></a>
 
-#### 📃 Decepções. Ingratidão. Afeições destruídas
+<h4>📃 Decepções. Ingratidão. Afeições destruídas</h4>
 
 <a name="LDE-q937"><code>LDE-q937</code></a>
 
@@ -8211,7 +8211,7 @@ a. Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá na
 
 <a name="LDE-4-01-04"><code>LDE-4-01-04</code></a>
 
-#### 📃 Uniões antipáticas
+<h4>📃 Uniões antipáticas</h4>
 
 <a name="LDE-q939"><code>LDE-q939</code></a>
 
@@ -8233,7 +8233,7 @@ a. Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 <a name="LDE-4-01-05"><code>LDE-4-01-05</code></a>
 
-#### 📃 Temor da morte
+<h4>📃 Temor da morte</h4>
 
 <a name="LDE-q941"><code>LDE-q941</code></a>
 
@@ -8257,7 +8257,7 @@ a. Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 <a name="LDE-4-01-06"><code>LDE-4-01-06</code></a>
 
-#### 📃 Desgosto da vida. Suicídio
+<h4>📃 Desgosto da vida. Suicídio</h4>
 
 <a name="LDE-q943"><code>LDE-q943</code></a>
 
@@ -8366,7 +8366,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 <a name="LDE-4-02"><code>LDE-4-02</code></a>
 
-### 📑 2. Das penas e gozos futuros
+<h3>📑 2. Das penas e gozos futuros</h3>
 
  <a href="#LDE">🔝 topo</a>
 
@@ -8374,7 +8374,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 <a name="LDE-4-02-01"><code>LDE-4-02-01</code></a>
 
-#### 📃 O nada. Vida futura
+<h4>📃 O nada. Vida futura</h4>
 
 <a name="LDE-q958"><code>LDE-q958</code></a>
 
@@ -8402,7 +8402,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 <a name="LDE-4-02-02"><code>LDE-4-02-02</code></a>
 
-#### 📃 Intuição das penas e gozos futuros
+<h4>📃 Intuição das penas e gozos futuros</h4>
 
 <a name="LDE-q960"><code>LDE-q960</code></a>
 
@@ -8428,7 +8428,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 <a name="LDE-4-02-03"><code>LDE-4-02-03</code></a>
 
-#### 📃 Intervenção de Deus nas penas e recompensas
+<h4>📃 Intervenção de Deus nas penas e recompensas</h4>
 
 <a name="LDE-q963"><code>LDE-q963</code></a>
 
@@ -8455,7 +8455,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 <a name="LDE-4-02-04"><code>LDE-4-02-04</code></a>
 
-#### 📃 Natureza das penas e gozos futuros
+<h4>📃 Natureza das penas e gozos futuros</h4>
 
 <a name="LDE-q965"><code>LDE-q965</code></a>
 
@@ -8590,7 +8590,7 @@ a. Serão um castigo para o culpado essa divulgação de todos os nossos atos re
 
 <a name="LDE-4-02-05"><code>LDE-4-02-05</code></a>
 
-#### 📃 Penas temporais
+<h4>📃 Penas temporais</h4>
 
 <a name="LDE-q983"><code>LDE-q983</code></a>
 
@@ -8645,7 +8645,7 @@ a. Serão um castigo para o culpado essa divulgação de todos os nossos atos re
 
 <a name="LDE-4-02-06"><code>LDE-4-02-06</code></a>
 
-#### 📃 Expiação e arrependimento
+<h4>📃 Expiação e arrependimento</h4>
 
 <a name="LDE-q990"><code>LDE-q990</code></a>
 
@@ -8745,7 +8745,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 <a name="LDE-4-02-07"><code>LDE-4-02-07</code></a>
 
-#### 📃 Duração das penas futuras
+<h4>📃 Duração das penas futuras</h4>
 
 <a name="LDE-q1003"><code>LDE-q1003</code></a>
 
@@ -8826,7 +8826,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 <a name="LDE-4-02-08"><code>LDE-4-02-08</code></a>
 
-#### 📃 Ressurreição da carne
+<h4>📃 Ressurreição da carne</h4>
 
 <a name="LDE-q1010"><code>LDE-q1010</code></a>
 
@@ -8850,7 +8850,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 
 <a name="LDE-4-02-09"><code>LDE-4-02-09</code></a>
 
-#### 📃 Paraíso, inferno e purgatório
+<h4>📃 Paraíso, inferno e purgatório</h4>
 
 <a name="LDE-q1012"><code>LDE-q1012</code></a>
 
@@ -8915,13 +8915,13 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 <a name="LDE-5"><code>LDE-5</code></a>
 
-## 🗂️ Parte 5. Conclusão
+<h2>🗂️ Parte 5. Conclusão</h2>
 
 ---
 
 <a name="LDE-5-01"><code>LDE-5-01</code></a>
 
-### 📃 Conclusão 01
+<h3>📃 Conclusão 01</h3>
 
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do Espiritismo, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da Humanidade uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias. Pois bem! sabei, vós que não credes senão no que pertence ao mundo material, que dessa mesa, que gira e vos faz sorrir desdenhosamente, saiu uma ciência, assim como a solução dos problemas que nenhuma filosofia pudera ainda resolver. Apelo para todos os adversários de boa-fé e os adjuro a que digam se se deram ao trabalho de estudar o que criticam. Porque, em boa lógica, a crítica só tem valor quando o crítico é conhecedor daquilo de que fala. Zombar de uma coisa que se não conhece, que se não sondou com o escalpelo do observador consciencioso, não é criticar, é dar prova de leviandade e triste mostra de falta de critério. Certamente que, se houvéssemos apresentado esta filosofia como obra de um cérebro humano, menos desdenhoso tratamento encontraria e teria merecido as honras do exame dos que pretendem dirigir a opinião. Vem ela, porém, dos Espíritos. Que absurdo! Mal lhe dispensam um simples olhar. Julgam-na pelo título, como o macaco da fábula julgava da noz pela casca. Fazei, se quiserdes, abstração da sua origem. Suponde que este livro é obra de um homem e dizei, do íntimo e em consciência, se, depois de o terdes lido **seriamente**, achais nele matéria para zombaria. 
 
@@ -8931,7 +8931,7 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 
 <a name="LDE-5-02"><code>LDE-5-02</code></a>
 
-### 📃 Conclusão 02
+<h3>📃 Conclusão 02</h3>
 
 O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de admirar que tenha por adversários os materialistas. Como o materialismo é uma doutrina cujos adeptos mal ousam confessar que o são (prova de que não se consideram muito fortes e têm a dominá-los a consciência), eles se acobertam com o manto da razão e da ciência. E, coisa estranha, os mais céticos chegam a falar em nome da religião, que não conhecem e não compreendem melhor que ao Espiritismo. Por ponto de mira tomam o maravilhoso e o sobrenatural, que não admitem. Ora, dizem, pois que o Espiritismo se funda no maravilhoso, não pode deixar de ser uma suposição ridícula. Não refletem que, condenando, sem restrições, o **maravilhoso** e o **sobrenatural**, também condenam a religião. Com efeito, a religião se funda na revelação e nos milagres. Ora, que é a revelação, senão um conjunto de comunicações extraterrenas? Todos os autores sagrados, desde Moisés, têm falado dessa espécie de comunicações. Que são os milagres, senão fatos maravilhosos e sobrenaturais, por excelência, visto que, no sentido litúrgico, constituem derrogações das Leis da Natureza? Logo, rejeitando o maravilhoso e o sobrenatural, eles rejeitam as bases mesmas da religião. Não é deste ponto de vista, porém, que devemos encarar a questão. Ao Espiritismo não compete examinar se há ou não milagres, isto é, se em certos casos houve Deus por bem derrogar as leis eternas que regem o Universo. Permite, a este respeito, inteira liberdade de crença. Diz e prova que os fenômenos em que se baseia, de sobrenaturais só têm a aparência. E parecem tais a algumas pessoas, apenas porque são insólitos e diferentes dos fatos conhecidos. Não são, contudo, mais sobrenaturais do que todos os fenômenos, cuja explicação a Ciência hoje dá e que pareceram maravilhosos noutra época. Todos os fenômenos espíritas, sem exceção, resultam de leis gerais. Revelam-nos uma das forças da Natureza, força desconhecida, ou, por melhor dizer, incompreendida até agora, mas que a observação demonstra estar na ordem das coisas. Assim, pois, o Espiritismo se apoia menos no maravilhoso e no sobrenatural do que a própria religião. Conseguintemente, os que o atacam por esse lado mostram que o não conhecem e, ainda quando fossem os maiores sábios, lhes diríamos: se a vossa ciência, que vos instruiu em tantas coisas, não vos ensinou que o domínio da Natureza é infinito, sois apenas meio sábios. 
 
@@ -8941,7 +8941,7 @@ O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de
 
 <a name="LDE-5-03"><code>LDE-5-03</code></a>
 
-### 📃 Conclusão 03
+<h3>📃 Conclusão 03</h3>
 
 Dizeis que desejais curar o vosso século de uma mania que ameaça invadir o mundo. Preferiríeis que o mundo fosse invadido pela incredulidade que procurais propagar? A que se deve atribuir o relaxamento dos laços de família e a maior parte das desordens que minam a sociedade, senão à ausência de toda crença? Demonstrando a existência e a imortalidade da alma, o Espiritismo reaviva a fé no futuro, levanta os ânimos abatidos, faz suportar com resignação as vicissitudes da vida. Ousaríeis chamar a isto um mal? Duas doutrinas se defrontam: uma, que nega o futuro; outra, que lhe proclama e prova a existência; uma, que nada explica, outra, que explica tudo e que, por isso mesmo, se dirige à razão; uma, que é a sanção do egoísmo; outra, que oferece base à justiça, à caridade e ao amor do próximo. A primeira somente mostra o presente e aniquila toda esperança; a segunda consola e desvenda o vasto campo do futuro. Qual a mais perniciosa?
 
@@ -8953,7 +8953,7 @@ Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e 
 
 <a name="LDE-5-04"><code>LDE-5-04</code></a>
 
-### 📃 Conclusão 04 [^26]
+<h3>📃 Conclusão 04 [^26]</h3>
 
 O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, de amor e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e os povos, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante. Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos que marcham à testa da civilização. ([LDE-q789](#LDE-q789) e [LDE-q793](#LDE-q793)) A todos estes respeitos, no entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que não o será mais do que a presente a que lhe há de suceder? Sê-lo-á, pela força das coisas. Primeiro, porque, com as gerações, todos os dias se extinguem alguns campeões dos velhos abusos, o que permite à sociedade formar-se de elementos novos, livres dos velhos preconceitos. Em segundo lugar, porque, desejando o progresso, o homem estuda os obstáculos e se aplica a removê-los. Desde que é incontestável o movimento progressivo, não há que duvidar do progresso vindouro. O homem quer ser feliz e é natural esse desejo. Ora, buscando progredir, o que ele procura é aumentar a soma da sua felicidade, sem o que o progresso careceria de objeto. Em que consistiria para ele o progresso, se lhe não devesse melhorar a posição? Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele próprio dirigirá o progresso para essa senda e o Espiritismo lhe oferecerá a mais poderosa alavanca para alcançar tal objetivo. 
 
@@ -8963,7 +8963,7 @@ O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, 
 
 <a name="LDE-5-05"><code>LDE-5-05</code></a>
 
-### 📃 Conclusão 05
+<h3>📃 Conclusão 05</h3>
 
 Os que dizem que as crenças espíritas ameaçam invadir o mundo, proclamam, **ipso facto**, a força do Espiritismo, porque jamais poderia tornar-se universal uma ideia sem fundamento e destituída de lógica. Assim, se o Espiritismo se implanta por toda parte, se, principalmente nas classes cultas, recruta adeptos, como todos facilmente reconhecerão, é que tem um fundo de verdade. Baldados, contra essa tendência, serão todos os esforços dos seus detratores e a prova é que o próprio ridículo, de que procuram cobri-lo, longe de lhe amortecer o ímpeto, parece ter-lhe dado novo vigor, resultado que plenamente justifica o que repetidas vezes os Espíritos hão dito: “_Não vos inquieteis com a oposição; tudo o que contra vós fizerem se tornará a vosso favor e **os vossos maiores adversários, sem o quererem, servirão à vossa causa**. Contra a vontade de Deus não poderá prevalecer a má vontade dos homens._”
 
@@ -8977,7 +8977,7 @@ Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o
 
 <a name="LDE-5-06"><code>LDE-5-06</code></a>
 
-### 📃 Conclusão 06
+<h3>📃 Conclusão 06</h3>
 
 Falsíssima ideia formaria do Espiritismo quem julgasse que a sua força lhe vem da prática das manifestações materiais e que, portanto, obstando-se a tais manifestações, se lhe terá minado a base. Sua força está na sua filosofia, no apelo que dirige à razão, ao bom senso. Na antiguidade, era objeto de estudos misteriosos, que cuidadosamente se ocultavam do vulgo. Hoje, para ninguém tem segredos. Fala uma linguagem clara, sem ambiguidades. Nada há nele de místico, nada de alegorias suscetíveis de falsas interpretações. Quer ser por todos compreendido, porque chegados são os tempos de fazer-se que os homens conheçam a verdade. Longe de se opor à difusão da luz, deseja-a para todo o mundo. Não reclama crença cega; quer que o homem saiba por que crê. Apoiando-se na razão, será sempre mais forte do que os que se apoiam no nada. Os obstáculos que tentassem oferecer à liberdade das manifestações poderiam pôr-lhe fim? Não, porque produziriam o efeito de todas as perseguições: o de excitar a curiosidade e o desejo de conhecer o que foi proibido. De outro lado, se as manifestações espíritas fossem privilégio de um único homem, sem dúvida que, segregado esse homem, as manifestações cessariam. Infelizmente para os seus adversários, elas estão ao alcance de toda gente e todos a elas recorrem, desde o mais pequenino até o mais graduado, desde o palácio até a mansarda. Poderão proibir que sejam obtidas em público. Sabe-se, porém, precisamente que em público não é onde melhor se dão e sim na intimidade. Ora, podendo todos ser médiuns, quem poderá impedir que uma família, no seu lar; um indivíduo, no silêncio de seu gabinete; o prisioneiro, no seu cubículo, entrem em comunicação com os Espíritos, a despeito dos esbirros e mesmo na presença deles?
 
@@ -8994,7 +8994,7 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 
 <a name="LDE-5-07"><code>LDE-5-07</code></a>
 
-### 📃 Conclusão 07
+<h3>📃 Conclusão 07</h3>
 
 O Espiritismo se apresenta sob três aspectos diferentes: o das manifestações, o dos princípios e da filosofia que delas decorrem e o da aplicação desses princípios. Daí, três classes, ou, antes, três graus de adeptos: 1o os que creem nas manifestações e se limitam a comprová-las; para esses, o Espiritismo é uma ciência experimental; 2o os que lhe percebem as consequências morais; 3o os que praticam ou se esforçam por praticar essa moral. Qualquer que seja o ponto de vista, científico ou moral, sob que considerem esses estranhos fenômenos, todos compreendem constituírem eles uma ordem, inteiramente nova, de ideias, que surge e da qual não pode deixar de resultar uma profunda modificação no estado da Humanidade e compreendem igualmente que essa modificação não pode deixar de operar-se no sentido do bem.
 
@@ -9020,7 +9020,7 @@ O terceiro efeito é o de estimular no homem a indulgência para com os defeitos
 
 <a name="LDE-5-08"><code>LDE-5-08</code></a>
 
-### 📃 Conclusão 08
+<h3>📃 Conclusão 08</h3>
 
 Perguntam algumas pessoas: Ensinam os Espíritos qualquer moral nova, qualquer coisa superior ao que disse o Cristo? Se a moral deles não é senão a do Evangelho, de que serve o Espiritismo? Este raciocínio se assemelha notavelmente ao do califa Omar, com relação à Biblioteca de Alexandria: “_Se ela não contém_”, dizia ele, “_mais do que o que está no Alcorão, é inútil. Logo deve ser queimada. Se contém coisa diversa, é nociva. Logo, também deve ser queimada._” Não, o Espiritismo não traz moral diferente da de Jesus. Perguntamos, então, por nossa vez: Antes que viesse o Cristo, não tinham os homens a lei dada por Deus a Moisés? A doutrina do Cristo não se acha contida no Decálogo? Dir-se-á, por isso, que a moral de Jesus era inútil? Perguntaremos, ainda, aos que negam utilidade à moral espírita: Por que tão pouco praticada é a do Cristo? E por que, exatamente os que com justiça lhe proclamam a sublimidade, são os primeiros a violar-lhe o preceito capital: o da caridade universal? Os Espíritos vêm não só confirmá-la, mas também mostrar-nos a sua utilidade prática. Tornam inteligíveis e patentes verdades que haviam sido ensinadas sob a forma alegórica. E, justamente com a moral, trazem-nos a definição dos mais abstratos problemas da Psicologia.
 
@@ -9036,7 +9036,7 @@ As comunicações com os seres de além-túmulo deram em resultado fazer-nos com
 
 <a name="LDE-5-09"><code>LDE-5-09</code></a>
 
-### 📃 Conclusão 09
+<h3>📃 Conclusão 09</h3>
 
 Os adversários do Espiritismo não se esqueceram de armar-se contra ele de algumas divergências de opiniões sobre certos pontos de doutrina. Não é de admirar que, no início de uma ciência, quando ainda são incompletas as observações e cada um a considera do seu ponto de vista, apareçam sistemas contraditórios, mas três quartos desses sistemas já caíram diante de um estudo mais aprofundado, a começar pelo que atribuía todas as comunicações ao Espírito do mal, como se a Deus fora impossível enviar bons Espíritos aos homens: doutrina absurda, porque os fatos a desmentem; ímpia, porque importa na negação do poder e da bondade do Criador. Os Espíritos sempre disseram que nos não inquietássemos com essas divergências e que a unidade se estabeleceria. Ora, a unidade já se fez quanto à maioria dos pontos e as divergências tendem cada vez mais a desaparecer. Tendo-se-lhes perguntado: Enquanto se não faz a unidade, sobre que pode o homem, imparcial e desinteressado, basear-se para formar juízo? Eles responderam:
 
@@ -9058,13 +9058,13 @@ FIM DA OBRA ORIGINAL
 
 <a name="LDE-6"><code>LDE-6</code></a>
 
-## 🗂️ Parte 6. Pós-textual
+<h2>🗂️ Parte 6. Pós-textual</h2>
 
 ---
 
 <a name="LDE-6-01"><code>LDE-6-01</code></a>
 
-### 📃 1. Nota explicativa [^27]
+<h3>📃 1. Nota explicativa [^27]</h3>
 
 > Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 *Revista Espírita* de 1868)
 
