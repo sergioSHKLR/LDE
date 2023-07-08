@@ -1371,7 +1371,7 @@ a. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio,
 ---
 
 #### LDE-2-01-06
-📃 Escala espírita
+**📃 Escala espírita**
 
 <a name="LDE-q100"><code>LDE-qX</code></a>
 
@@ -1392,7 +1392,7 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 ---
 
 #### LDE-2-01-07
-📃 3ª ordem – Espíritos imperfeitos
+**📃 3ª ordem – Espíritos imperfeitos**
 
 <a name="LDE-q101"><code>LDE-qX</code></a>
 
@@ -1449,7 +1449,7 @@ Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os d
 ---
 
 #### LDE-2-01-08
-📃 2ª ordem – Bons Espíritos
+**📃 2ª ordem – Bons Espíritos**
 
 <a name="LDE-q107"><code>LDE-qX</code></a>
 
@@ -1488,7 +1488,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 ---
 
 #### LDE-2-01-09
-📃 1ª ordem – Espíritos puros
+**📃 1ª ordem – Espíritos puros**
 
 <a name="LDE-q112"><code>LDE-qX</code></a>
 
@@ -1505,7 +1505,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 ---
 
 #### LDE-2-01-10
-📃 Progressão dos Espíritos
+**📃 Progressão dos Espíritos**
 
 <a name="LDE-q114"><code>LDE-qX</code></a>
 
@@ -1607,7 +1607,7 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 ---
 
 #### LDE-2-01-11
-📃 Anjos e demônios
+**📃 Anjos e demônios**
 
 <a name="LDE-q128"><code>LDE-qX</code></a>
 
@@ -1657,7 +1657,7 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 ---
 
 #### LDE-2-02-01
-📃 Objetivo da encarnação
+**📃 Objetivo da encarnação**
 
 <a name="LDE-q132"><code>LDE-qX</code></a>
 
@@ -1679,7 +1679,7 @@ a. Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se i
 ---
 
 #### LDE-2-02-02
-📃 A alma
+**📃 A alma**
 
 <a name="LDE-q134"><code>LDE-qX</code></a>
 
