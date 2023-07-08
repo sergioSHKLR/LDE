@@ -4,7 +4,10 @@
   blockquote > blockquote {border-left: 2px solid grey; font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 90% }
   code > a:hover {font-style: normal; font-weight: normal;}
   .bible {border-left: 2px solid brown;}
+
 </style>
+
+<script src="https://hypothes.is/embed.js" async></script>
 
 <a name="LDE"><code>LDE</code></a>
 
