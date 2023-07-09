@@ -8306,8 +8306,8 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 <h2>🗂️ Parte 4. Das esperanças e consolações</h2>
 
-- [`LDE-4-01` 📑 1- Das penas e gozos terrestres](#LDE-4-01)
-- [`LDE-4-02` 📑 2- Das penas e gozos futuros](#LDE-4-02)
+- [`LDE-4-01` 📑 1. Das penas e gozos terrestres](#LDE-4-01)
+- [`LDE-4-02` 📑 2. Das penas e gozos futuros](#LDE-4-02)
 
  <a href="#LDE">🔼</a>
 
