@@ -18,7 +18,7 @@
   - [`lde.0` 🗂️ Parte 0. Pré-textual](#LDE-0)
   - [`lde.1` 🗂️ Parte 1. Das causas primárias](#LDE-1)
   - [`lde.2` 🗂️ Parte 2. Do mundo espírita](#LDE-2)
-  - [`lde.3` 🗂️ Parte 3. Das Leis morais](#LDE-3)
+  - [`lde.3` 🗂️ Parte 3. Das leis morais](#LDE-3)
   - [`lde.4` 🗂️ Parte 4. Das esperanças e consolações](#LDE-4)
   - [`lde.5` 🗂️ Parte 5. Conclusão](#LDE-5)
   - [`lde.6` 🗂️ Parte 6. Pós-textual](#LDE-6)
@@ -28,6 +28,12 @@
 <a name="LDE-0"><code>LDE-0</code></a>
 
 <h2>🗂️ Parte 0. Pré-textual</h2>
+
+---
+
+    - [`lde.0.01` 📃 Folha de rosto](#LDE-0-01)
+    - [`lde.0.02` 📑 Introdução](#LDE-0-02)
+    - [`lde.0.03` 📃 Prolegômenos](#LDE-0-03)
 
 ---
 
@@ -58,6 +64,26 @@ ISBN 978-85-7328-728-8
 <a name="LDE-0-02"><code>LDE-0-02</code></a>
 
 <h3>📑 Introdução</h3>
+
+---
+
+      - [`lde.0.02.01` 📃 Introdução 01](#LDE-0-02-01)
+      - [`lde.0.02.02` 📃 Introdução 02](#LDE-0-02-02)
+      - [`lde.0.02.03` 📃 Introdução 03](#LDE-0-02-03)
+      - [`lde.0.02.04` 📃 Introdução 04](#LDE-0-02-04)
+      - [`lde.0.02.05` 📃 Introdução 05](#LDE-0-02-05)
+      - [`lde.0.02.06` 📃 Introdução 06](#LDE-0-02-06)
+      - [`lde.0.02.07` 📃 Introdução 07](#LDE-0-02-07)
+      - [`lde.0.02.08` 📃 Introdução 08](#LDE-0-02-08)
+      - [`lde.0.02.09` 📃 Introdução 09](#LDE-0-02-09)
+      - [`lde.0.02.10` 📃 Introdução 10](#LDE-0-02-10)
+      - [`lde.0.02.11` 📃 Introdução 11](#LDE-0-02-11)
+      - [`lde.0.02.12` 📃 Introdução 12](#LDE-0-02-12)
+      - [`lde.0.02.13` 📃 Introdução 13](#LDE-0-02-13)
+      - [`lde.0.02.14` 📃 Introdução 14](#LDE-0-02-14)
+      - [`lde.0.02.15` 📃 Introdução 15](#LDE-0-02-15)
+      - [`lde.0.02.16` 📃 Introdução 16](#LDE-0-02-16)
+      - [`lde.0.02.17` 📃 Introdução 17](#LDE-0-02-17)
 
 ---
 
