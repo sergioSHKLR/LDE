@@ -31,15 +31,11 @@
 
 <h2>🗂️ Parte 0. Pré-textual</h2>
 
- <a href="#LDE">🔼</a>
-
----
-
 - [`LDE-0-01` 📃 Folha de rosto](#LDE-0-01)
 - [`LDE-0-02` 📑 Introdução](#LDE-0-02)
 - [`LDE-0-03` 📃 Prolegômenos](#LDE-0-03)
 
- <a href="#LDE-0">🔼</a>
+ <a href="#LDE">🔼</a>
 
 ---
 
@@ -562,16 +558,12 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <h2>🗂️ Parte 1. Das causas primárias</h2>
 
- <a href="#LDE">🔼</a>
-
----
-
 - [`LDE-1-01` 📑 1. De Deus](#LDE-1-01)
 - [`LDE-1-02` 📑 2. Dos elementos gerais do Universo](#LDE-1-02)
 - [`LDE-1-03` 📑 3. Da Criação](#LDE-1-03)
 - [`LDE-1-04` 📑 4. Do princípio vital](#LDE-1-04)
 
- <a href="#LDE-1">🔼</a>
+ <a href="#LDE">🔼</a>
 
 ---
 
@@ -1294,16 +1286,6 @@ a. Por que nem sempre é guia infalível a razão?
 
 <h2>🗂️ Parte 2. Do mundo espírita</h2>
 
- <a href="#LDE">🔼</a>
-
----
-
-<a name="LDE-2-01"><code>LDE-2-01</code></a>
-
-<h3>📑 01. Dos Espíritos</h3>
-
----
-
 - [`LDE-2-01` 📑 01. Dos Espíritos](#LDE-2-01)
 - [`LDE-2-02` 📑 02. Da encarnação dos espíritos](#LDE-2-02)
 - [`LDE-2-03` 📑 03. Da volta do Espírito à vida espiritual](#LDE-2-03-)
@@ -1316,7 +1298,7 @@ a. Por que nem sempre é guia infalível a razão?
 - [`LDE-2-10` 📑 10. Das ocupações e missões dos Espíritos](#LDE-2-10)
 - [`LDE-2-11` 📑 11. Dos três reinos](#LDE-2-11)
 
- <a href="#LDE-2">🔼</a>
+ <a href="#LDE">🔼</a>
 
 ---
 
@@ -3740,7 +3722,7 @@ a. Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e 
 #️⃣ 365. Por que alguns homens muito inteligentes, o que indica acharem-se encarnados neles Espíritos superiores, são ao mesmo tempo profundamente viciosos?
 >“_É que não são ainda bastante puros os Espíritos encarnados nesses homens, que, então, e por isso, cedem à influência de outros Espíritos mais imperfeitos. O Espírito progride em insensível marcha ascendente, mas o progresso não se efetua simultaneamente em todos os sentidos. Durante um período da sua existência, ele se adianta em ciência; durante outro, em moralidade._”
 
-<a name="LDE-q366"><code>LDE-366X</code></a>
+<a name="LDE-q366"><code>LDE-q366</code></a>
 
 #️⃣ 366. Que se deve pensar da opinião dos que pretendem que as diferentes faculdades intelectuais e morais do homem resultam da encarnação, nele, de outros tantos Espíritos, diferentes entre si, cada um com uma aptidão especial?
 >“_Refletindo, reconhecereis que é absurda. O Espírito tem que ter todas as aptidões. Para progredir, precisa de uma vontade única. Se o homem fosse um amálgama de Espíritos, essa vontade não existiria e ele careceria de individualidade, pois que, por sua morte, todos aqueles Espíritos formariam um bando de pássaros escapados da gaiola. Queixa-se, amiúde, o homem de não compreender certas coisas e, no entanto, curioso é ver-se como multiplica as dificuldades, quando tem ao seu alcance explicações muito simples e naturais. Ainda neste caso tomam o efeito pela causa. Fazem, com relação à criatura humana, o que, com relação a Deus, faziam os pagãos, que acreditavam em tantos deuses quantos eram os fenômenos no Universo, se bem que as pessoas sensatas, com eles coexistentes, apenas viam em tais fenômenos efeitos provindos de uma causa única — Deus._”
@@ -5647,11 +5629,24 @@ b. Esse período de humanização principia na Terra?
 
 <h2>🗂️ Parte 3. Das leis morais</h2>
 
+- [`LDE-3-01` 📑 01- Da lei divina ou natural](#LDE-3-01)
+- [`LDE-3-02` 📑 02- Da lei de adoração](#LDE-3-02)
+- [`LDE-3-03` 📑 03- Da lei do trabalho](#LDE-3-03)
+- [`LDE-3-04` 📑 04- Da lei de reprodução](#LDE-3-04)
+- [`LDE-3-05` 📑 05- Da lei de conservação](#LDE-3-05)
+- [`LDE-3-06` 📑 06- Da lei de destruição](#LDE-3-06)
+- [`LDE-3-07` 📑 07- Da lei de sociedade](#LDE-3-07)
+- [`LDE-3-08` 📑 08- Da lei do progresso](#LDE-3-08)
+- [`LDE-3-09` 📑 09- Da lei de igualdade](#LDE-3-09)
+- [`LDE-3-10` 📑 10- Da lei de liberdade](#LDE-3-10)
+- [`LDE-3-11` 📑 11- Da lei de justiça, de amor, e de caridade](#LDE-3-11)
+- [`LDE-3-12` 📑 12- Da perfeição moral](#LDE-3-12)
+
  <a href="#LDE">🔼</a>
 
----
+ ---
 
-<a name="LDE-3-01"><code>LDE-3-01</code></a>
+ <a name="LDE-3-01"><code>LDE-3-01</code></a>
 
 <h3>📑 01. Da lei divina ou natural</h3>
 
