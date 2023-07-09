@@ -9358,9 +9358,11 @@ FIM DA OBRA ORIGINAL
 
 <h2>🗂️ Parte 6. Pós-textual</h2>
 
+- [`LDE-6-01` 📃 1. Nota explicativa](#LDE-6-01)
+
  <a href="#LDE">🔼</a>
 
----
+ ---
 
 <a name="LDE-6-01"><code>LDE-6-01</code></a>
 
