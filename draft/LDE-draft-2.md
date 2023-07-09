@@ -558,6 +558,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <h2>🗂️ Parte 1. Das causas primárias</h2>
 
+<a name="LDE-0"><code>LDE-0</code></a>
+
 ---
 
 - [`LDE-1-01` 📑 1- De Deus](#LDE-1-01)
@@ -8289,6 +8291,10 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 <h2>🗂️ Parte 4. Das esperanças e consolações</h2>
 
+<a name="LDE-0"><code>LDE-0</code></a>
+
+---
+
 <a name="LDE-4-01"><code>LDE-4-01</code></a>
 
 <h3>📑 1. Das penas e gozos terrestres</h3>
@@ -9179,6 +9185,10 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 <h2>🗂️ Parte 5. Conclusão</h2>
 
+<a name="LDE-0"><code>LDE-0</code></a>
+
+---
+
 - [`LDE-5-01` 📃 Conclusão 01](#LDE-5-01-01)
 - [`LDE-5-02` 📃 Conclusão 02](#LDE-5-02-02)
 - [`LDE-5-03` 📃 Conclusão 03](#LDE-5-03-03)
@@ -9331,6 +9341,8 @@ FIM DA OBRA ORIGINAL
 <a name="LDE-6"><code>LDE-6</code></a>
 
 <h2>🗂️ Parte 6. Pós-textual</h2>
+
+<a name="LDE-0"><code>LDE-0</code></a>
 
 ---
 
