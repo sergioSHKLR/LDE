@@ -126,9 +126,9 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 | **Emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
 |---|---|---|---|
 | 📔 | livro | obra completa | `LDE` |
-| 🗂️ | parte | subdivisão da obra | `LDE.X` |
-| 📑 | capítulo | subdivisão de partes | `LDE.X.X` |
-| 📃 | seção | subdivisão de capítulos | `LDE.X.X.X` |
+| 🗂️ | parte | subdivisão da obra | `LDE-X` |
+| 📑 | capítulo | subdivisão de partes | `LDE-X-XX` |
+| 📃 | seção | subdivisão de capítulos | `LDE-X-XX-XX` |
 | #️⃣ | questão | pergunta, reposta e comentário * | `LDE.qX` |
 
 /* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
@@ -165,30 +165,30 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 ```
-LDE.X.X.X
- |  | | |
- |  | | └── 📃 seção
- |  | | 
- |  | └── 📑 capítulo
+LDE-X-XX-XX
+ |  |  |  |
+ |  |  |  └── 📃 seção
+ |  |  | 
+ |  |  └── 📑 capítulo
  |  |
  |  └── 🗂️ parte
  |
  └── 📔 livro
 ```
 
-E em especial no LDE, o código para questões é modificado de `LDE.X.X.X.X` para:
+E em especial no LDE, o código para questões é modificado de `LDE-X-XX-XX-XXXX` para:
 
 ```
-LDE.qXa
- |   ||
- |   |└── sub-questão
+LDE-qXXXXa
+ |   |   |
+ |   |   └── sub-questão
  |   |
  |   └── #️⃣ questão
  |
  └── 📔 livro
 ```
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE.q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`).
 
 [🔼](#-o-livro-dos-espíritos)
 
