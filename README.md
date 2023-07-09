@@ -1,6 +1,8 @@
 # 👻 O Livro dos Espíritos
 Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
+Primeiro sub *repo* de [doutrina.org](https://sergioSHKLR.github.com/doutrina)
+
 **Sumário**
 
   - [0. Direto ao ponto](#0-direto-ao-ponto)
