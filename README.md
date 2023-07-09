@@ -197,6 +197,8 @@ Como ilustrado acima, usamos três letras para o livro, um dígito para partes, 
 
 (Em produção)
 
+[🔼](#-o-livro-dos-espíritos)
+
 ## 8. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (*tablets* e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
