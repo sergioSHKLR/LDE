@@ -17,13 +17,13 @@
 
 # Sumário
 
-- [`LDE-0` 🗂️ Parte 0- Pré-textual](#LDE-0)
-- [`LDE-1` 🗂️ Parte 1- Das causas primárias](#LDE-1)
-- [`LDE-2` 🗂️ Parte 2- Do mundo espírita](#LDE-2)
-- [`LDE-3` 🗂️ Parte 3- Das leis morais](#LDE-3)
-- [`LDE-4` 🗂️ Parte 4- Das esperanças e consolações](#LDE-4)
-- [`LDE-5` 🗂️ Parte 5- Conclusão](#LDE-5)
-- [`LDE-6` 🗂️ Parte 6- Pós-textual](#LDE-6)
+- [`LDE-0` 🗂️ Parte 0. Pré-textual](#LDE-0)
+- [`LDE-1` 🗂️ Parte 1. Das causas primárias](#LDE-1)
+- [`LDE-2` 🗂️ Parte 2. Do mundo espírita](#LDE-2)
+- [`LDE-3` 🗂️ Parte 3. Das leis morais](#LDE-3)
+- [`LDE-4` 🗂️ Parte 4. Das esperanças e consolações](#LDE-4)
+- [`LDE-5` 🗂️ Parte 5. Conclusão](#LDE-5)
+- [`LDE-6` 🗂️ Parte 6. Pós-textual](#LDE-6)
 
 ---
 
@@ -36,6 +36,8 @@
 - [`LDE-0-01` 📃 Folha de rosto](#LDE-00-1)
 - [`LDE-0-02` 📑 Introdução](#LDE-00-2)
 - [`LDE-0-03` 📃 Prolegômenos](#LDE-00-3)
+
+ <a href="#LDE">🔝</a>
 
 ---
 
@@ -60,7 +62,7 @@ Copyright © 1944 by<br />
 Federação Espírita Brasileira (FEB)<br />
 ISBN 978-85-7328-728-8
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0">🔝</a>
 
 ---
 <a name="LDE-0-02"><code>LDE-0-02</code></a>
@@ -97,7 +99,7 @@ Para se designarem coisas novas são precisos termos novos. Assim o exige a clar
 
 Como especialidade, **O Livro dos Espíritos** contém a Doutrina Espírita; como generalidade, prende-se à doutrina **espiritualista**, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -129,7 +131,7 @@ Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espí
 
 Passemos agora ao objeto principal desta instrução preliminar. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -161,7 +163,7 @@ Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstân
 
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro escamoteador um sábio professor de Física a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso razão para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero gracejo? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão fastidioso para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais austeras, veneráveis e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -185,7 +187,7 @@ O objeto a que se adapta o lápis, não passando de mero instrumento, completame
 
 A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de **médiuns**, isto é — meios ou intermediários entre os Espíritos e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há médiuns de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -205,7 +207,7 @@ Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossa
 
 Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -293,7 +295,7 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 
 Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos Espíritos superiores. Vejamos agora as objeções que se lhe contrapõem. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -317,7 +319,7 @@ Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao 
 
 O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria razão e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a Humanidade se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama razão não é muitas vezes senão orgulho disfarçado e quem quer que se considere infalível apresenta-se como igual a Deus. Dirigimo-nos, pois, aos ponderados, que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao apogeu, nem que a Natureza lhe tenha facultado ler a última página do seu livro. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -331,7 +333,7 @@ O que caracteriza um estudo sério é a continuidade que se lhe dá. Será de ad
 
 Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões ociosas os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à turba dos Espíritos mentirosos e frívolos, sempre à espreita de ocasiões propícias para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de doidivanas, que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas sisudas, haveis de comportar-vos com toda a sisudez, na mais ampla acepção do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os Espíritos superiores vos abandonarão, como faz um professor com os discípulos negligentes. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -347,7 +349,7 @@ Que respondem a essa evidência os antagonistas? — Sois vítimas do charlatani
 
 Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a Doutrina Espírita, que já conta milhões de adeptos, só os recruta entre os ignorantes? Os fenômenos em que ela se baseia são tão extraordinários que concebemos a existência da dúvida. O que, porém, não podemos admitir é a pretensão de alguns incrédulos, a de terem o monopólio do bom senso e que, sem guardarem as conveniências e respeitarem o valor moral de seus adversários, tachem, com desplante, de ineptos os que lhes não seguem o parecer. Aos olhos de qualquer pessoa judiciosa, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma presunção, no mínimo, a seu favor, visto ter logrado prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com futilidades. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -372,7 +374,7 @@ Como variante dessa opinião, temos a dos que não veem, nas comunicações esp�
 
 Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -389,7 +391,7 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -413,7 +415,7 @@ Inegavelmente a substituição dos Espíritos pode dar lugar a uma porção de e
 
 Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de matizes característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -431,7 +433,7 @@ A contradição, demais, nem sempre é tão real quanto possa parecer. Não vemo
 
 Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepção invariável, compreende-se que os Espíritos, como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da vida, outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu ponto de vista. Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **Deus**. Será: o princípio de todas as coisas, o criador do Universo, a inteligência suprema, o infinito, o grande Espírito etc. Em definitiva, será sempre Deus. Citemos, finalmente, a classificação dos Espíritos. Eles formam uma série ininterrupta, desde o mais ínfimo grau até o grau superior. A classificação é, pois, arbitrária. Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a Botânica pelo sistema de Linneu, ou pelo de Jussieu, ou pelo de Tournefort, nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma similitude que escapara a um primeiro exame. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -441,7 +443,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -459,7 +461,7 @@ Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as de
 
 Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis pormenores? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las ajuizadas. Sim, é, do mesmo modo que o papão e o lobisomem. Quando, porém, elas deixam de ter medo, estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras epilepsias causadas pelo abalo de cérebros delicados. Bem frágil seria a religião se, por não infundir terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o Espiritismo lhe faculta, desde que ela os saiba utilizar. Ele mostra a realidade das coisas e só com isso neutraliza os funestos efeitos de um temor exagerado. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -489,7 +491,7 @@ A esse argumento retrucam os adversários, perguntando, a seu turno, por que os 
 
 Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem súplicas que os façam voltar? Se o médium obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a clarividência. Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria vontade dele, é que o médium obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -505,7 +507,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 **Allan Kardec**
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0-02">🔝</a>
 
 ---
 
@@ -548,7 +550,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > **João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito de Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.**
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0">🔝</a>
 
 ---
 
