@@ -80,8 +80,8 @@ Analisando a divisão do livro em partes, decidimos nomear a seção anterior à
 
 Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
-- respostas dos Espíritos (entre aspas) serão em itálico, destacadas em _blockquote_ (linha cinza vertical, simples).
-- comentários de Kardec serão _nested blockquotes_ (linha cinza vertical, dupla).
+- respostas dos Espíritos (entre aspas) serão em itálico, destacadas em _blockquote_ (linha vertical, simples).
+- comentários de Kardec serão _nested blockquotes_ (linha vertical, dupla).
 - trechos bíblicos serão em itálico identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo.
 - trechos originalmente realçados em _itálico_ foram mudados para **negrito**.
 
