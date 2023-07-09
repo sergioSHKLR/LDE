@@ -558,7 +558,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <h2>🗂️ Parte 1. Das causas primárias</h2>
 
-<a name="LDE-0"><code>LDE-0</code></a>
+ <a href="#LDE-0">🔝</a>
 
 ---
 
