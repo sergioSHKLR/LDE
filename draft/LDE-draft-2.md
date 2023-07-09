@@ -1322,6 +1322,8 @@ a. Por que nem sempre é guia infalível a razão?
 
 <a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
 
+<h4>📑 01- Dos Espíritos</h4>
+
 ---
 
 - [`LDE-2-01-01` 📃 Origem e natureza dos Espíritos](#LDE-2-01-01)
