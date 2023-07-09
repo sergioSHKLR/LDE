@@ -621,10 +621,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <h4>📃 Provas da existência de Deus</h4>
 
- <a href="#LDE-1-01">⤴️</a>
-
----
-
 <a name="LDE-q4"><code>LDE-q4</code></a>
 
 #️⃣ 4. Onde se pode encontrar a prova da existência de Deus?
@@ -714,7 +710,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-<a name="LDE-1-04-04"><code>LDE-1-01-04</code></a>
+<a name="LDE-1-01-04"><code>LDE-1-01-04</code></a>
 
 <h4>📃 Panteísmo</h4>
 
