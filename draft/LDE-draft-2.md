@@ -33,9 +33,9 @@
 
 ---
 
-- [`LDE-0-01` 📃 Folha de rosto](#LDE-00-01)
-- [`LDE-0-02` 📑 Introdução](#LDE-00-02)
-- [`LDE-0-03` 📃 Prolegômenos](#LDE-00-03)
+- [`LDE-0-01` 📃 Folha de rosto](#LDE-0-01)
+- [`LDE-0-02` 📑 Introdução](#LDE-0-02)
+- [`LDE-0-03` 📃 Prolegômenos](#LDE-0-03)
 
  <a href="#LDE">🔝</a>
 
