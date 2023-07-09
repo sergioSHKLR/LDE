@@ -39,7 +39,7 @@
 - [`LDE-0-02` 📑 Introdução](#LDE-0-02)
 - [`LDE-0-03` 📃 Prolegômenos](#LDE-0-03)
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-0">🔝</a>
 
 ---
 
@@ -90,6 +90,8 @@ ISBN 978-85-7328-728-8
 - [`LDE-0-02-15` 📃 Introdução 15](#LDE-00-2-1515)
 - [`LDE-0-02-16` 📃 Introdução 16](#LDE-00-2-1616)
 - [`LDE-0-02-17` 📃 Introdução 17](#LDE-00-2-1717)
+
+ <a href="#LDE-0">🔝</a>
 
 ---
 
@@ -564,10 +566,12 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-- [`LDE-1-01` 📑 1- De Deus](#LDE-1-01)
-- [`LDE-1-02` 📑 2- Dos elementos gerais do Universo](#LDE-1-02)
-- [`LDE-1-03` 📑 3- Da Criação](#LDE-1-03)
-- [`LDE-1-04` 📑 4- Do princípio vital](#LDE-1-04)
+- [`LDE-1-01` 📑 1. De Deus](#LDE-1-01)
+- [`LDE-1-02` 📑 2. Dos elementos gerais do Universo](#LDE-1-02)
+- [`LDE-1-03` 📑 3. Da Criação](#LDE-1-03)
+- [`LDE-1-04` 📑 4. Do princípio vital](#LDE-1-04)
+
+ <a href="#LDE-1">🔝</a>
 
 ---
 
@@ -581,6 +585,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 - [`LDE-1-01-02` 📃 Provas da existência de Deus](#LDE-1-01-02)
 - [`LDE-1-01-03` 📃 Atributos da Divindade](#LDE-1-01-03)
 - [`LDE-1-01-04` 📃 Panteísmo](#LDE-1-01-04)
+
+ <a href="#LDE-1-01">🔝</a>
 
 ---
 
@@ -607,7 +613,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 > > Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-01">🔝</a>
 
 ---
 
@@ -615,7 +621,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <h4>📃 Provas da existência de Deus</h4>
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-01">🔝</a>
 
 ---
 
@@ -662,7 +668,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > >
 > > Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-01">🔝</a>
 
 ---
 
@@ -704,7 +710,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > >
 > > **É soberanamente justo e bom.** A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus.
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-01">🔝</a>
 
 ---
 
@@ -731,7 +737,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > >
 > > A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou.
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-01">🔝</a>
 
 ---
 
@@ -745,6 +751,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 - [`LDE-1-02-02` 📃 Espírito e matéria](#LDE-1-02-02)
 - [`LDE-1-02-03` 📃 Propriedades da matéria](#LDE-1-02-03)
 - [`LDE-1-02-04` 📃 Espaço universal](#LDE-1-02-04)
+
+ <a href="#LDE-1-02">🔝</a>
 
 ---
 
@@ -774,7 +782,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >“_Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender._”
 > > Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-02">🔝</a>
 
 ---
 
@@ -836,7 +844,7 @@ a. Esse fluido será o que designamos pelo nome de eletricidade?
 >“_As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos._”
 > > Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-02">🔝</a>
 
 ---
 
@@ -886,7 +894,7 @@ a. Não parece que esta teoria dá razão aos que não admitem na matéria senã
 a. Essa forma é constante ou variável?
 >“_Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-02">🔝</a>
 
 ---
 
@@ -905,7 +913,7 @@ a. Essa forma é constante ou variável?
 #️⃣ 36. O vácuo absoluto existe em alguma parte no Espaço universal?
 >“_Não, não há o vácuo. O que te parece vazio está ocupado por matéria que te escapa aos sentidos e aos instrumentos._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-02">🔝</a>
 
 ---
 
@@ -921,6 +929,8 @@ a. Essa forma é constante ou variável?
 - [`LDE-1-03-04` 📃 Diversidade das raças humanas](#LDE-1-03-04)
 - [`LDE-1-03-05` 📃 Pluralidade dos mundos](#LDE-1-03-05)
 - [`LDE-1-03-06` 📃 Considerações e concordâncias bíblicas concernentes à Criação](#LDE-1-03-06)
+
+ <a href="#LDE-1-03">🔝</a>
 
 ---
 
@@ -966,7 +976,7 @@ a. Essa forma é constante ou variável?
 #️⃣ 42. Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 >“_Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-03">🔝</a>
 
 ---
 
@@ -1011,7 +1021,7 @@ a. Essa forma é constante ou variável?
 #️⃣ 49. Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
 >“_O princípio das coisas está nos segredos de Deus. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-03">🔝</a>
 
 ---
 
@@ -1031,7 +1041,7 @@ a. Essa forma é constante ou variável?
 >
 > > O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-03">🔝</a>
 
 ---
 
@@ -1057,7 +1067,7 @@ a. Estas diferenças constituem espécies distintas?
 #️⃣ 54. Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
 >“_Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-03">🔝</a>
 
 ---
 
@@ -1089,7 +1099,7 @@ a. Estas diferenças constituem espécies distintas?
 >
 > > As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-03">🔝</a>
 
 ---
 
@@ -1128,6 +1138,8 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 - [`LDE-1-04-01` 📃 Seres orgânicos e inorgânicos](#LDE-1-04-01)
 - [`LDE-1-04-02` 📃 A vida e a morte](#LDE-1-04-02)
 - [`LDE-1-04-03` 📃 Inteligência e instinto](#LDE-1-04-03)
+
+ <a href="#LDE-1-04">🔝</a>
 
 ---
 
@@ -1185,7 +1197,7 @@ a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente
 >
 > > O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-04">🔝</a>
 
 ---
 
@@ -1225,7 +1237,7 @@ a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desor
 > >
 > > O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-04">🔝</a>
 
 ---
 
@@ -1278,7 +1290,7 @@ a. Por que nem sempre é guia infalível a razão?
 > >
 > > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-1-04">🔝</a>
 
 ---
 
@@ -1308,6 +1320,8 @@ a. Por que nem sempre é guia infalível a razão?
 - [`LDE-2-10` 📑 10- Das ocupações e missões dos Espíritos](#LDE-2-10)
 - [`LDE-2-11` 📑 11- Dos três reinos](#LDE-2-11)
 
+ <a href="#LDE-2">🔝</a>
+
 ---
 
 <a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
@@ -1325,6 +1339,8 @@ a. Por que nem sempre é guia infalível a razão?
 - [`LDE-2-01-09` 📃 1ª ordem – Espíritos puros](#LDE-2-01-09)
 - [`LDE-2-01-10` 📃 Progressão dos Espíritos](#LDE-2-01-10)
 - [`LDE-2-01-11` 📃 Anjos e demônios](#LDE-2-01-11)
+
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1374,7 +1390,7 @@ a. Por que nem sempre é guia infalível a razão?
 #️⃣ 83. Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
 >“_Há muitas coisas que não compreendeis, porque tendes limitada a inteligência. Isso, porém, não é razão para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos Espíritos não tem fim. É tudo o que podemos, por agora, dizer._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1402,7 +1418,7 @@ a. Por que nem sempre é guia infalível a razão?
 #️⃣ 87. Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 >“_Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os Espíritos são uma das potências da natureza e os instrumentos de que Deus se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1448,7 +1464,7 @@ a. Todos os Espíritos irradiam com igual força?
 >
 > > Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1476,7 +1492,7 @@ a. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio,
 #️⃣ 95. O invólucro semimaterial do Espírito tem formas determinadas e pode ser perceptível?
 >“_Tem a forma que o Espírito queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1504,7 +1520,7 @@ a. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio,
 #️⃣ 99. Os da terceira ordem são todos essencialmente maus?
 >“_Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os levianos ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na malícia do que na malvadez e cujo prazer consiste em mistificar e causar pequenas contrariedades, de que se riem._” 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1526,7 +1542,7 @@ Esta divisão nos pareceu perfeitamente racional e com caracteres bem positivado
 
 Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de confiança ou de estima que mereçam. É, de certo modo, a chave da ciência espírita, porquanto só ele pode explicar as anomalias que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos Espíritos. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre gradual o progresso deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1584,7 +1600,7 @@ Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, 
 
 Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1624,7 +1640,7 @@ Podem ser divididos em quatro grupos principais:
 
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1642,7 +1658,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1743,7 +1759,7 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 >
 > > Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há Espíritos que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o Espírito, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1789,7 +1805,7 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 > >
 > > Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da verdade etc. Os modernos representaram os anjos, os puros Espíritos, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo. 
 
- <a href="#LDE">🔝</a>
+ <a href="#LDE-2-01">🔝</a>
 
 ---
 
@@ -1803,11 +1819,15 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 - [`LDE-2-02-02` 📃 A alma](#LDE-2-02-02)
 - [`LDE-2-02-03` 📃 Materialismo](#LDE-2-02-03)
 
+ <a href="#LDE-2">🔝</a>
+
 ---
 
 <a name="LDE-2-02-01"><code>LDE-2-02-01</code></a>
 
 <h4>📃 Objetivo da encarnação</h4>
+
+ <a href="#LDE-2-02">🔝</a>
 
 <a name="LDE-q132"><code>LDE-q132</code></a>
 
