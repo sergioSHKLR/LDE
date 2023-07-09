@@ -1342,8 +1342,6 @@ a. Por que nem sempre é guia infalível a razão?
 
 ---
 
-<a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
-
 <h4>📃 Origem e natureza dos Espíritos</h4>
 
 <a name="LDE-q76"><code>LDE-q76</code></a>
