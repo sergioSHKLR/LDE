@@ -10,10 +10,11 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
   - [4. Obra original](#4-obra-original)
   - [5. Método](#5-método)
   - [6. Padronização](#6-padronização)
-  - [7. Controle de Qualidade](#7-controle-de-qualidade)
-  - [8. Autor](#8-autor)
-  - [9. Agradecimentos](#9-agradecimentos)
-  - [10. Notas](#10-notas)
+  - [7. Navegação]()
+  - [8. Controle de Qualidade](#7-controle-de-qualidade)
+  - [9. Autor](#8-autor)
+  - [10. Agradecimentos](#9-agradecimentos)
+  - [11. Notas](#10-notas)
 
 ## 0. Direto ao ponto                       
 
@@ -190,7 +191,11 @@ Como ilustrado acima, usamos três letras para o livro, um dígito para partes, 
 
 [🔼](#-o-livro-dos-espíritos)
 
-## 7. Controle de Qualidade
+## 7. Navegação
+
+(Em produção)
+
+## 8. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (*tablets* e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
@@ -198,13 +203,13 @@ Em caso de erros, por favor, entrem em contato conosco para assegurar que a devi
 
 [🔼](#-o-livro-dos-espíritos)
 
-## 8. Autor
+## 9. Autor
 
 Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
 
 [🔼](#-o-livro-dos-espíritos)
 
-## 9. Agradecimentos
+## 10. Agradecimentos
 
 À Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, e Palm Beach, na Flórida, e o de Washington D.C, todos nos EUA. Também à Brian Foster (*in memoriam*) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom, de Largo, Flórida, EUA. Em especial, à João Neto, de Uberlândia, Minas Gerais, Brasil, programador e quem nos economizou meses de fastidiosa digitação e revisão. Adicionalmente, ele criou *scripts* que possibilitam a conversão (duplex) do formato MD para vários outros.
 
@@ -218,7 +223,7 @@ Deus abençoa, sempre!
 
 [🔼](#-o-livro-dos-espíritos)
 
-## 10. Notas
+## 11. Notas
 
 - **LDE-vYYYY-MM-DD.md** e seus variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
