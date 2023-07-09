@@ -9436,7 +9436,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
  <a href="#LDE-6">🔼</a>
 
-📑 Notas de rodapé
+<h5>📑 Notas de rodapé</h5>
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
 
