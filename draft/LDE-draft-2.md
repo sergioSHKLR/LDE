@@ -748,7 +748,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 - [`LDE-1-02-03` 📃 Propriedades da matéria](#LDE-1-02-03)
 - [`LDE-1-02-04` 📃 Espaço universal](#LDE-1-02-04)
 
- <a href="#LDE-1-02">⤴️</a>
+ <a href="#LDE-1">⤴️</a>
 
 ---
 
