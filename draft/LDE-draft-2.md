@@ -11,11 +11,11 @@
 
 <a name="LDE"><code>LDE</code></a>
 
-<h1>👻 O LIVRO DOS ESPÍRITOS (draft-2)</h1>
+<h1>👻 O LIVRO DOS ESPÍRITOS</h1>
 
----
+**v.2023-07-09**
 
-# Sumário
+**Sumário**
 
 - [`LDE-0` 🗂️ Parte 0. Pré-textual](#LDE-0)
 - [`LDE-1` 🗂️ Parte 1. Das causas primárias](#LDE-1)
