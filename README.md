@@ -72,7 +72,7 @@ Consideramos estas escolhas de formatações demasiada sutis (não chamam a aten
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDE.1` 🗂️ Parte 1 como `LDE.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDE.5` 🗂️ Parte 5, decidimos por dar-lhes o nome de `LDE.6` 🗂️ Parte 6 e o título de Pós-textual.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDE-1` 🗂️ Parte 1 como `LDE-0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDE-5` 🗂️ Parte 5, decidimos por dar-lhes o nome de `LDE-6` 🗂️ Parte 6 e o título de Pós-textual.
 
 [🔼](#-o-livro-dos-espíritos)
 
