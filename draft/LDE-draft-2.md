@@ -586,7 +586,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 - [`LDE-1-01-03` 📃 Atributos da Divindade](#LDE-1-01-03)
 - [`LDE-1-01-04` 📃 Panteísmo](#LDE-1-01-04)
 
- <a href="#LDE-1-01">⤴️</a>
+ <a href="#LDE-1">⤴️</a>
 
 ---
 
