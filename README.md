@@ -113,11 +113,11 @@ Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Indi
 
 **emoji** | **Abreviação** | **Livro** |
 |---|---|---|
-|  👻 | LDE | O Livro dos Espíritos |
-|  ✒️ | LDM | O Livro dos Médiuns |
-|  🕊️ | ESE | O Evangelho segundo o Espiritismo |
-|  🔥 | CEU | O Céu e o Inferno |
-|  🌱 | GEN | A Gênese |
+| 👻 | LDE | O Livro dos Espíritos |
+| ✒️ | LDM | O Livro dos Médiuns |
+| 🕊️ | ESE | O Evangelho segundo o Espiritismo |
+| 🔥 | CEU | O Céu e o Inferno |
+| 🌱 | GEN | A Gênese |
 
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
