@@ -111,7 +111,7 @@ E disse Jesus:
 ### 6.2. Legenda
 Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
-**Emoji** | **Abreviação** | **Livro** |
+|**Emoji** | **Abreviação** | **Livro** |
 |---|---|---|
 | 👻 | LDE | O Livro dos Espíritos |
 | ✒️ | LDM | O Livro dos Médiuns |
@@ -136,6 +136,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 | **Emoji** | **Descrição** | **Conteúdo** |
 |---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo |
+
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
 | 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
