@@ -558,7 +558,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <h2>🗂️ Parte 1. Das causas primárias</h2>
 
- <a href="#LDE-0">🔝</a>
+ <a href="#LDE">🔝</a>
 
 ---
 
@@ -8291,7 +8291,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 <h2>🗂️ Parte 4. Das esperanças e consolações</h2>
 
-<a name="LDE-0"><code>LDE-0</code></a>
+ <a href="#LDE">🔝</a>
 
 ---
 
@@ -9185,7 +9185,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 <h2>🗂️ Parte 5. Conclusão</h2>
 
-<a name="LDE-0"><code>LDE-0</code></a>
+ <a href="#LDE">🔝</a>
 
 ---
 
@@ -9342,7 +9342,7 @@ FIM DA OBRA ORIGINAL
 
 <h2>🗂️ Parte 6. Pós-textual</h2>
 
-<a name="LDE-0"><code>LDE-0</code></a>
+ <a href="#LDE">🔝</a>
 
 ---
 
