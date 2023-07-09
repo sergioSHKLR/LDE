@@ -91,7 +91,8 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 #### 6.1.1 Questões
 
-LDE.q3
+`LDE.q3`
+
 #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
 
 > “_Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens._”
