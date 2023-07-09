@@ -556,6 +556,13 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
+- [`lde.1.01.01` 📃 Deus e o infinito](#LDE-1-01-01)
+- [`lde.1.01.02` 📃 Provas da existência de Deus](#LDE-1-01-02)
+- [`lde.1.01.03` 📃 Atributos da Divindade](#LDE-1-01-03)
+- [`lde.1.01.04` 📃 Panteísmo](#LDE-1-01-04)
+
+---
+
 <a name="LDE-1-01"><code>LDE-1-01</code></a>
 
 <h3>📑 1. De Deus</h3>
@@ -716,6 +723,13 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 <a name="LDE-1-02"><code>LDE-1-02</code></a>
 
 <h3>📑 2. Dos elementos gerais do Universo</h3>
+
+---
+
+- [`lde.1.02.01` 📃 Conhecimento do princípio das coisas](#LDE-1-02-01)
+- [`lde.1.02.02` 📃 Espírito e matéria](#LDE-1-02-02)
+- [`lde.1.02.03` 📃 Propriedades da matéria](#LDE-1-02-03)
+- [`lde.1.02.04` 📃 Espaço universal](#LDE-1-02-04)
 
 ---
 
