@@ -15,6 +15,16 @@
 
 ---
 
+  - [`lde.0` 🗂️ Parte 0. Pré-textual](#LDE-0)
+  - [`lde.1` 🗂️ Parte 1. Das causas primárias](#LDE-1)
+  - [`lde.2` 🗂️ Parte 2. Do mundo espírita](#LDE-2)
+  - [`lde.3` 🗂️ Parte 3. Das Leis morais](#LDE-3)
+  - [`lde.4` 🗂️ Parte 4. Das esperanças e consolações](#LDE-4)
+  - [`lde.5` 🗂️ Parte 5. Conclusão](#LDE-5)
+  - [`lde.6` 🗂️ Parte 6. Pós-textual](#LDE-6)
+
+---
+
 <a name="LDE-0"><code>LDE-0</code></a>
 
 <h2>🗂️ Parte 0. Pré-textual</h2>
