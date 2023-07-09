@@ -5629,18 +5629,18 @@ b. Esse período de humanização principia na Terra?
 
 <h2>🗂️ Parte 3. Das leis morais</h2>
 
-- [`LDE-3-01` 📑 01- Da lei divina ou natural](#LDE-3-01)
-- [`LDE-3-02` 📑 02- Da lei de adoração](#LDE-3-02)
-- [`LDE-3-03` 📑 03- Da lei do trabalho](#LDE-3-03)
-- [`LDE-3-04` 📑 04- Da lei de reprodução](#LDE-3-04)
-- [`LDE-3-05` 📑 05- Da lei de conservação](#LDE-3-05)
-- [`LDE-3-06` 📑 06- Da lei de destruição](#LDE-3-06)
-- [`LDE-3-07` 📑 07- Da lei de sociedade](#LDE-3-07)
-- [`LDE-3-08` 📑 08- Da lei do progresso](#LDE-3-08)
-- [`LDE-3-09` 📑 09- Da lei de igualdade](#LDE-3-09)
-- [`LDE-3-10` 📑 10- Da lei de liberdade](#LDE-3-10)
-- [`LDE-3-11` 📑 11- Da lei de justiça, de amor, e de caridade](#LDE-3-11)
-- [`LDE-3-12` 📑 12- Da perfeição moral](#LDE-3-12)
+- [`LDE-3-01` 📑 01. Da lei divina ou natural](#LDE-3-01)
+- [`LDE-3-02` 📑 02. Da lei de adoração](#LDE-3-02)
+- [`LDE-3-03` 📑 03. Da lei do trabalho](#LDE-3-03)
+- [`LDE-3-04` 📑 04. Da lei de reprodução](#LDE-3-04)
+- [`LDE-3-05` 📑 05. Da lei de conservação](#LDE-3-05)
+- [`LDE-3-06` 📑 06. Da lei de destruição](#LDE-3-06)
+- [`LDE-3-07` 📑 07. Da lei de sociedade](#LDE-3-07)
+- [`LDE-3-08` 📑 08. Da lei do progresso](#LDE-3-08)
+- [`LDE-3-09` 📑 09. Da lei de igualdade](#LDE-3-09)
+- [`LDE-3-10` 📑 10. Da lei de liberdade](#LDE-3-10)
+- [`LDE-3-11` 📑 11. Da lei de justiça, de amor, e de caridade](#LDE-3-11)
+- [`LDE-3-12` 📑 12. Da perfeição moral](#LDE-3-12)
 
  <a href="#LDE">🔼</a>
 
@@ -8306,9 +8306,12 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
 <h2>🗂️ Parte 4. Das esperanças e consolações</h2>
 
+- [`LDE-4-01` 📑 1- Das penas e gozos terrestres](#LDE-4-01)
+- [`LDE-4-02` 📑 2- Das penas e gozos futuros](#LDE-4-02)
+
  <a href="#LDE">🔼</a>
 
----
+ ---
 
 <a name="LDE-4-01"><code>LDE-4-01</code></a>
 
@@ -9200,19 +9203,17 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 <h2>🗂️ Parte 5. Conclusão</h2>
 
+- [`LDE-5-01` 📃 Conclusão 01](#LDE-5-01)
+- [`LDE-5-02` 📃 Conclusão 02](#LDE-5-02)
+- [`LDE-5-03` 📃 Conclusão 03](#LDE-5-03)
+- [`LDE-5-04` 📃 Conclusão 04](#LDE-5-04)
+- [`LDE-5-05` 📃 Conclusão 05](#LDE-5-05)
+- [`LDE-5-06` 📃 Conclusão 06](#LDE-5-06)
+- [`LDE-5-07` 📃 Conclusão 07](#LDE-5-07)
+- [`LDE-5-08` 📃 Conclusão 08](#LDE-5-08)
+- [`LDE-5-09` 📃 Conclusão 09](#LDE-5-09)
+
  <a href="#LDE">🔼</a>
-
----
-
-- [`LDE-5-01` 📃 Conclusão 01](#LDE-5-01-01)
-- [`LDE-5-02` 📃 Conclusão 02](#LDE-5-02-02)
-- [`LDE-5-03` 📃 Conclusão 03](#LDE-5-03-03)
-- [`LDE-5-04` 📃 Conclusão 04 [^26]](#LDE-5-04)
-- [`LDE-5-05` 📃 Conclusão 05](#LDE-5-05-05)
-- [`LDE-5-06` 📃 Conclusão 06](#LDE-5-06-06)
-- [`LDE-5-07` 📃 Conclusão 07](#LDE-5-07-07)
-- [`LDE-5-08` 📃 Conclusão 08](#LDE-5-08-08)
-- [`LDE-5-09` 📃 Conclusão 09](#LDE-5-09-09)
 
 ---
 
