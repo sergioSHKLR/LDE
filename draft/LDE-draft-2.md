@@ -31,6 +31,8 @@
 
 <h2>🗂️ Parte 0. Pré-textual</h2>
 
+ <a href="#LDE">🔝</a>
+
 ---
 
 - [`LDE-0-01` 📃 Folha de rosto](#LDE-0-01)
