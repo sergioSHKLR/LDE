@@ -27,7 +27,7 @@ Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.or
 
 ## 1. Objetivo
 
-Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
+Intencionamos criar versões mais dinâmicas das cinco obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
 [🔼](#-o-livro-dos-espíritos)
 
