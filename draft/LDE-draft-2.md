@@ -1304,23 +1304,23 @@ a. Por que nem sempre é guia infalível a razão?
 
 ---
 
-- [`LDE-2-01` 📑 01- Dos Espíritos](#LDE-2-01)
-- [`LDE-2-02` 📑 02- Da encarnação dos espíritos](#LDE-2-02)
-- [`LDE-2-03` 📑 03- Da volta do Espírito à vida espiritual](#LDE-2-03-)
-- [`LDE-2-04` 📑 04- Da pluralidade das existências](#LDE-2-04)
-- [`LDE-2-05` 📑 05- Considerações sobre a pluralidade das existências](#LDE-2-05)
-- [`LDE-2-06` 📑 06- Da vida espírita](#LDE-2-06)
-- [`LDE-2-07` 📑 07- Da volta do Espírito à vida corporal](#LDE-2-07-)
-- [`LDE-2-08` 📑 08- Da emancipação da alma](#LDE-2-08)
-- [`LDE-2-09` 📑 09- Da intervenção dos Espíritos no mundo corporal](#LDE-2-09)
-- [`LDE-2-10` 📑 10- Das ocupações e missões dos Espíritos](#LDE-2-10)
-- [`LDE-2-11` 📑 11- Dos três reinos](#LDE-2-11)
+- [`LDE-2-01` 📑 01. Dos Espíritos](#LDE-2-01)
+- [`LDE-2-02` 📑 02. Da encarnação dos espíritos](#LDE-2-02)
+- [`LDE-2-03` 📑 03. Da volta do Espírito à vida espiritual](#LDE-2-03-)
+- [`LDE-2-04` 📑 04. Da pluralidade das existências](#LDE-2-04)
+- [`LDE-2-05` 📑 05. Considerações sobre a pluralidade das existências](#LDE-2-05)
+- [`LDE-2-06` 📑 06. Da vida espírita](#LDE-2-06)
+- [`LDE-2-07` 📑 07. Da volta do Espírito à vida corporal](#LDE-2-07-)
+- [`LDE-2-08` 📑 08. Da emancipação da alma](#LDE-2-08)
+- [`LDE-2-09` 📑 09. Da intervenção dos Espíritos no mundo corporal](#LDE-2-09)
+- [`LDE-2-10` 📑 10. Das ocupações e missões dos Espíritos](#LDE-2-10)
+- [`LDE-2-11` 📑 11. Dos três reinos](#LDE-2-11)
 
  <a href="#LDE-2">⤴️</a>
 
 ---
 
-<a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
+<a name="LDE-2-01"><code>LDE-2-01</code></a>
 
 <h4>📑 01- Dos Espíritos</h4>
 
@@ -1341,6 +1341,8 @@ a. Por que nem sempre é guia infalível a razão?
  <a href="#LDE-2-01">⤴️</a>
 
 ---
+
+<a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
 
 <h4>📃 Origem e natureza dos Espíritos</h4>
 
