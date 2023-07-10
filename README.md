@@ -156,8 +156,11 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 ### 6.3. Hierarquia 
 
 <div style="font-family: 'Courier Prime', monospace;">
+
 📔 livro
+
  |
+ 
  └── 🗂️ parte
       |
       └── 📑 capítulo
@@ -167,6 +170,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
                 └── #️⃣ questão
 
 ✝️ ─ trecho bíblico
+
 </div>
 
 ### 6.4. Código mestre
