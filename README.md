@@ -195,7 +195,7 @@ Como ilustrado acima, usamos três letras para o livro, um dígito para partes, 
 
 ## 7. Navegação
 
-(Em produção)
+De modo a evitar um sumário extremamente longo, decidimos por dividi-lo em partes incrementais. Ao começo do livro temos o sumário das partes e ao começo dos capítulos temos o sumário de seções. Ao término de cada segmento, você encontra este emoji 🔼, que ao ser clicado, lhe retorna ao nível imediatamente superior (por exemplo, de seção para capítulo ou de capítulo para parte).
 
 [🔼](#-o-livro-dos-espíritos)
 
