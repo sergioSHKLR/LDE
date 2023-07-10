@@ -155,7 +155,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 
 ### 6.3. Hierarquia 
 
-<div style="font-family: 'Courier New';">
+<div style="font-family: 'Courier Prime', monospace;">
 📔 livro
  |
  └── 🗂️ parte
