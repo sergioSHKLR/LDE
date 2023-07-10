@@ -173,7 +173,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-```
+<pre>
 LDE-X-XX-XX
  |  |  |  |
  |  |  |  └── 📃 seção
@@ -183,11 +183,11 @@ LDE-X-XX-XX
  |  └── 🗂️ parte
  |
  └── 📔 livro
-```
+</pre>
 
 E em especial no LDE, o código para questões é modificado de `LDE-X-XX-XX-XXXX` para:
 
-```
+<pre>
 LDE-qXXXXa
  |   |   |
  |   |   └── sub-questão
@@ -195,7 +195,7 @@ LDE-qXXXXa
  |   └── #️⃣ questão
  |
  └── 📔 livro
-```
+</pre>
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`).
 
