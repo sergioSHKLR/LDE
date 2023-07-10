@@ -1,6 +1,6 @@
 # 👻 O Livro dos Espíritos
 
-Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org)
+1️⃣ Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org)
 
 **Sumário**
 
