@@ -60,7 +60,9 @@ Copyright © 1944 by<br />
 Federação Espírita Brasileira (FEB)<br />
 ISBN 978-85-7328-728-8
 
- <a href="#LDE-0">🔼</a>
+<code>⚠️ A obra original sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.</code>
+
+<a href="#LDE-0">🔼</a>
 
 ---
 <a name="LDE-0-02"><code>LDE-0-02</code></a>
