@@ -147,6 +147,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 | **Emoji** | **Descrição** | **Conteúdo** |
 |---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo |
+| 👉 | segmento relacionado | questões, capítulos, etc |
 
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
