@@ -30,7 +30,7 @@
 
 ---
 
-<a name="LDE-0-01">`LDE-0-01`
+### `LDE-0-01`
 
 ### 📃 Folha de rosto
 
@@ -40,22 +40,22 @@ Filosofia Espiritualista
 
 Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns — recebidos e coordenados
 
-por **Allan Kardec**.`
+por **Allan Kardec**.
 Tradução de Guillon Ribeiro
 
-Título do original francês`
-Le livre des esprits`
+Título do original francês
+Le livre des esprits
 (Paris, 18 de abril de 1857)
 
-Copyright © 1944 by`
-Federação Espírita Brasileira (FEB)`
+Copyright © 1944 by
+Federação Espírita Brasileira (FEB)
 ISBN 978-85-7328-728-8
 
 [🔼](#LDE-0)
 
 ---
 
-<a name="LDE-0-02">`LDE-0-02`
+### `LDE-0-02`
 
 ### 📑 Introdução
 
@@ -502,7 +502,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ---
 
-<a name="LDE-0-03">`LDE-0-03`
+### `LDE-0-03`
 
 ### 📃 Prolegômenos
 
@@ -558,7 +558,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-<a name="LDE-1-01">`LDE-1-01`
+### `LDE-1-01`
 
 ### 📑 1. De Deus
 
@@ -732,7 +732,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 ---
 
-<a name="LDE-1-02">`LDE-1-02`
+### `LDE-1-02`
 
 ### 📑 2. Dos elementos gerais do Universo
 
@@ -930,7 +930,7 @@ a. Essa forma é constante ou variável?
 
 ---
 
-<a name="LDE-1-03">`LDE-1-03`
+### `LDE-1-03`
 
 ### 📑 3. Da Criação
 
@@ -1163,7 +1163,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ---
 
-<a name="LDE-1-04">`LDE-1-04`
+### `LDE-1-04`
 
 ### 📑 4. Do princípio vital
 
@@ -1366,7 +1366,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 ---
 
-<a name="LDE-2-01">`LDE-2-01`
+### `LDE-2-01`
 
 #### 📑 01- Dos Espíritos
 
@@ -1897,7 +1897,7 @@ a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as 
 
 ---
 
-<a name="LDE-2-02">`LDE-2-02`
+### `LDE-2-02`
 
 ### 📑 02. Da encarnação dos espíritos
 
@@ -2091,7 +2091,7 @@ a. Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 ---
 
-<a name="LDE-2-03">`LDE-2-03`
+### `LDE-2-03`
 
 ### 📑 03. Da volta do Espírito à vida espiritual
 
@@ -2261,7 +2261,7 @@ a. A separação se dá instantaneamente por brusca transição? Haverá alguma 
 
 ---
 
-<a name="LDE-2-04">`LDE-2-04`
+### `LDE-2-04`
 
 ### 📑 04. Da pluralidade das existências
 
@@ -2815,7 +2815,7 @@ a. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina 
 
 ---
 
-<a name="LDE-2-05">`LDE-2-05`
+### `LDE-2-05`
 
 ### 📑 05. Considerações sobre a pluralidade das existências
 
@@ -2928,7 +2928,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 ---
 
-<a name="LDE-2-06">`LDE-2-06`
+### `LDE-2-06`
 
 ### 📑 06. Da vida espírita
 
@@ -3830,7 +3830,7 @@ a. Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 
 ---
 
-<a name="LDE-2-07">`LDE-2-07`
+### `LDE-2-07`
 
 ### 📑 07. Da volta do Espírito à vida corporal
 
@@ -4422,7 +4422,7 @@ a. Poderá também ser pior, isto é, poderá o Espírito cometer, numa existên
 
 ---
 
-<a name="LDE-2-08">`LDE-2-08`
+### `LDE-2-08`
 
 ### 📑 08. Da emancipação da alma
 
@@ -4923,7 +4923,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ---
 
-<a name="LDE-2-09">`LDE-2-09`
+### `LDE-2-09`
 
 ### 📑 09. Da intervenção dos Espíritos no mundo corporal
 
@@ -5810,7 +5810,7 @@ a. Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmula
 
 ---
 
-<a name="LDE-2-10">`LDE-2-10`
+### `LDE-2-10`
 
 ### 📑 10. Das ocupações e missões dos Espíritos
 
@@ -6033,7 +6033,7 @@ a. Nenhuma parte tendo na produção do bem que dessas calamidades passageiras p
 
 ---
 
-<a name="LDE-2-11">`LDE-2-11`
+### `LDE-2-11`
 
 ### 📑 11. Dos três reinos
 
@@ -6316,7 +6316,7 @@ b. Esse período de humanização principia na Terra?
 
  ---
 
- <a name="LDE-3-01">`LDE-3-01`
+ ### `LDE-3-01`
 
 ### 📑 01. Da lei divina ou natural
 
@@ -6610,7 +6610,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 
 ---
 
-<a name="LDE-3-02">`LDE-3-02`
+### `LDE-3-02`
 
 ### 📑 02. Da lei de adoração
 
@@ -6857,7 +6857,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 ---
 
-<a name="LDE-3-03">`LDE-3-03`
+### `LDE-3-03`
 
 ### 📑 03. Da lei do trabalho
 
@@ -6962,7 +6962,7 @@ a. Então, que há de fazer o velho que precisa trabalhar para viver e não pode
 
 ---
 
-<a name="LDE-3-04">`LDE-3-04`
+### `LDE-3-04`
 
 ### 📑 04. Da lei de reprodução
 
@@ -7123,7 +7123,7 @@ a. Entretanto, há espécies de seres vivos, animais e plantas, cuja reproduçã
 
 ---
 
-<a name="LDE-3-05">`LDE-3-05`
+### `LDE-3-05`
 
 ### 📑 05. Da lei de conservação
 
@@ -7355,7 +7355,7 @@ a. Haverá privações voluntárias que sejam meritórias?
 
 ---
 
-<a name="LDE-3-06">`LDE-3-06`
+### `LDE-3-06`
 
 ### 📑 06. Da lei de destruição
 
@@ -7696,7 +7696,7 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 ---
 
-<a name="LDE-3-07">`LDE-3-07`
+### `LDE-3-07`
 
 ### 📑 07. Da lei de sociedade
 
@@ -7804,7 +7804,7 @@ a. E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 ---
 
-<a name="LDE-3-08">`LDE-3-08`
+### `LDE-3-08`
 
 ### 📑 08. Da lei do progresso
 
@@ -8083,7 +8083,7 @@ a. Não será também porque, criando novas necessidades, suscita paixões novas
 
 ---
 
-<a name="LDE-3-09">`LDE-3-09`
+### `LDE-3-09`
 
 ### 📑 09. Da lei de igualdade
 
@@ -8327,7 +8327,7 @@ a. Mas a suntuosidade dos monumentos fúnebres não é antes devida, as mais das
 
 ---
 
-<a name="LDE-3-10">`LDE-3-10`
+### `LDE-3-10`
 
 ### 📑 10. Da lei de liberdade
 
@@ -8737,7 +8737,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ---
 
-<a name="LDE-3-11">`LDE-3-11`
+### `LDE-3-11`
 
 ### 📑 11. Da lei de justiça, de amor, e de caridade
 
@@ -8951,7 +8951,7 @@ a. Dar-se-á reproveis a esmola?
 
 ---
 
-<a name="LDE-3-12">`LDE-3-12`
+### `LDE-3-12`
 
 ### 📑 12. Da perfeição moral
 
@@ -9240,7 +9240,7 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 
  ---
 
-<a name="LDE-4-01">`LDE-4-01`
+### `LDE-4-01`
 
 ### 📑 1. Das penas e gozos terrestres
 
@@ -9600,7 +9600,7 @@ b. Quais, nesse caso, as consequências de tal ato?
 
 ---
 
-<a name="LDE-4-02">`LDE-4-02`
+### `LDE-4-02`
 
 ### 📑 2. Das penas e gozos futuros
 
@@ -10211,7 +10211,7 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 
 ---
 
-<a name="LDE-5-01">`LDE-5-01`
+### `LDE-5-01`
 
 ### 📃 Conclusão 01
 
@@ -10221,7 +10221,7 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 
 ---
 
-<a name="LDE-5-02">`LDE-5-02`
+### `LDE-5-02`
 
 ### 📃 Conclusão 02
 
@@ -10231,7 +10231,7 @@ O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de
 
 ---
 
-<a name="LDE-5-03">`LDE-5-03`
+### `LDE-5-03`
 
 ### 📃 Conclusão 03
 
@@ -10243,7 +10243,7 @@ Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e 
 
 ---
 
-<a name="LDE-5-04">`LDE-5-04`
+### `LDE-5-04`
 
 ### 📃 Conclusão 04
 
@@ -10253,7 +10253,7 @@ O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, 
 
 ---
 
-<a name="LDE-5-05">`LDE-5-05`
+### `LDE-5-05`
 
 ### 📃 Conclusão 05
 
@@ -10267,7 +10267,7 @@ Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o
 
 ---
 
-<a name="LDE-5-06">`LDE-5-06`
+### `LDE-5-06`
 
 ### 📃 Conclusão 06
 
@@ -10284,7 +10284,7 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 
 ---
 
-<a name="LDE-5-07">`LDE-5-07`
+### `LDE-5-07`
 
 ### 📃 Conclusão 07
 
@@ -10310,7 +10310,7 @@ O terceiro efeito é o de estimular no homem a indulgência para com os defeitos
 
 ---
 
-<a name="LDE-5-08">`LDE-5-08`
+### `LDE-5-08`
 
 ### 📃 Conclusão 08
 
@@ -10326,7 +10326,7 @@ As comunicações com os seres de além-túmulo deram em resultado fazer-nos com
 
 ---
 
-<a name="LDE-5-09">`LDE-5-09`
+### `LDE-5-09`
 
 ### 📃 Conclusão 09
 
@@ -10352,7 +10352,7 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 ---
 
-<a name="LDE-6-01">`LDE-6-01`
+### `LDE-6-01`
 
 ### 📃 1. Nota explicativa
 
