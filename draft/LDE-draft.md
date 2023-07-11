@@ -1,5 +1,4 @@
-
-<a name="LDE">`LDE`
+# `LDE`
 
 # 👻 O Livro dos Espíritos
 
