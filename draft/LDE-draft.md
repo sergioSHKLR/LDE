@@ -1,7 +1,7 @@
 # `LDE`
 # 👻 O Livro dos Espíritos
 
-`⚠️ A obra original sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.`
+>`⚠️ A obra original sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.`
 
 **v2023-07-09**
 
