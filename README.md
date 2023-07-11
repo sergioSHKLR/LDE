@@ -167,7 +167,6 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
                 |     
                 └── #️⃣ questão
 
-✝️ ─ trecho bíblico
 </pre>
 
 ### 6.4. Código mestre
