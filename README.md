@@ -166,7 +166,6 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
            └── 📃 seção
                 |     
                 └── #️⃣ questão
-
 </pre>
 
 ### 6.4. Código mestre
