@@ -2,7 +2,7 @@
 
 # 👻 O Livro dos Espíritos
 
-`⚠️ A obra original sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.</code><br />
+`⚠️ A obra original sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.`
 
 **v2023-07-09**
 
@@ -40,15 +40,15 @@ Filosofia Espiritualista
 
 Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns — recebidos e coordenados
 
-por **Allan Kardec**.<br />
+por **Allan Kardec**.`
 Tradução de Guillon Ribeiro
 
-Título do original francês<br />
-Le livre des esprits<br />
+Título do original francês`
+Le livre des esprits`
 (Paris, 18 de abril de 1857)
 
-Copyright © 1944 by<br />
-Federação Espírita Brasileira (FEB)<br />
+Copyright © 1944 by`
+Federação Espírita Brasileira (FEB)`
 ISBN 978-85-7328-728-8
 
  <a href="#LDE-0">🔼</a>
