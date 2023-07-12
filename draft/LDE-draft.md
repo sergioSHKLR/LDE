@@ -161,9 +161,11 @@ As primeiras manifestações inteligentes se produziram por meio de mesas que se
 Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e isto constitui nova circunstância digna de nota) indicou outro. Foi um desses seres invisíveis quem aconselhou a adaptação de um lápis a uma cesta ou a outro objeto. Colocada em cima de uma folha de papel, a cesta é posta em movimento pela mesma potência oculta que move as mesas; mas, em vez de um simples movimento regular, o lápis traça por si mesmo caracteres formando palavras, frases, dissertações de muitas páginas sobre as mais altas questões de filosofia, de moral, de metafísica, de psicologia etc., e com tanta rapidez quanta se se escrevesse com a mão.
 
 O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:
+
 >👻 Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
 
 Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito legível, esta frase:
+
 >👻 Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.
 
 O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.
@@ -342,7 +344,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de **Jesus**:
 
-✝️ <p style="color:red">Têm olhos e não veem; têm ouvidos e não ouvem.</p> **Mateus, cap. 13, vers. 14**
+>✝️ Têm olhos e não veem; têm ouvidos e não ouvem. **Mateus, cap. 13, vers. 14**
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
@@ -359,7 +361,7 @@ Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conheci
 
 Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho:
 
-✝️ Os grandes serão rebaixados e os pequenos serão elevados. Mateus, cap. 18, vers. 4
+>✝️ Os grandes serão rebaixados e os pequenos serão elevados. **Mateus, cap. 18, vers. 4**
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados. 
 
@@ -762,9 +764,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 >
 >👻 Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
-
-> a. Que definição podeis dar da matéria?
-
+>
+>`a`. Que definição podeis dar da matéria?
 >
 >👻 A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.
 >
@@ -775,9 +776,9 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ Que é o espírito?
 >
 >👻 O princípio inteligente do Universo.
-
-> a. Qual a natureza íntima do espírito?
-
+>
+>`a`. Qual a natureza íntima do espírito?
+>
 >👻 Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
 
 >##### `lde-q24`
@@ -791,10 +792,9 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 >
 >👻 São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.
-
-> a. Essa união é igualmente necessária para a manifestação do espírito? 
-> (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
-
+>
+>`a`. Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
+>
 >👻 É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
 
 >##### `lde-q26`
@@ -808,9 +808,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ Há então dois elementos gerais do Universo: a matéria e o espírito?
 >
 >👻 Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
-
-> a. Esse fluido será o que designamos pelo nome de eletricidade?
-
+>
+>`a`. Esse fluido será o que designamos pelo nome de eletricidade?
 >
 >👻 Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
 
@@ -864,9 +863,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >👻 Sim e é isso o que se deve entender, quando dizemos que tudo está em tudo! [^6]
 >
 >👴🏻 O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
-
-> a. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
-
+>
+>`a`. Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 >
 >👻 É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
 
@@ -875,9 +873,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ As moléculas têm forma determinada?
 >
 >👻 Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
-
-> a. Essa forma é constante ou variável?
-
+>
+>`a`. Essa forma é constante ou variável?
 >
 >👻 Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar. 
 
@@ -938,9 +935,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >
 >👻 Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras
 >
->‘Deus disse: Faça-se a luz e a luz foi feita’. 
->
->✝️ Gênesis, cap. 1, vers. 3
+>✝️ Deus disse: Faça-se a luz e a luz foi feita. **Gênesis, cap. 1, vers. 3**
 
 >##### `lde-q39`
 >
@@ -1056,9 +1051,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ O homem surgiu em muitos pontos do globo?
 >
 >👻 Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
-
-> a. Estas diferenças constituem espécies distintas?
-
+>
+>`a`. Estas diferenças constituem espécies distintas?
 >
 >👻 Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?
 
@@ -1110,23 +1104,23 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 #### `lde-1-03-06`
 #### 📃 Considerações e concordâncias bíblicas concernentes à Criação
 
->##### `lde-q59`
->
->#️⃣ Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
+##### `lde-q59`
 
->A objeção que se lhe pode fazer é a de estar em contradição com o texto dos livros sagrados. Mas um exame sério mostrará que essa contradição é mais aparente do que real e que decorre da interpretação dada ao que muitas vezes só tinha sentido alegórico. A questão de ter sido Adão, como primeiro homem, a origem exclusiva da Humanidade, não é a única a cujo respeito as crenças religiosas tiveram que se modificar. O movimento da Terra pareceu, em determinada época, tão em oposição às letras sagradas, que não houve gênero de perseguições a que essa teoria não tivesse servido de pretexto, e, no entanto, a Terra gira, malgrado os anátemas, não podendo ninguém hoje contestá-lo, sem agravo à sua própria razão.
+#️⃣ Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 
-> Diz também a **Bíblia** que o mundo foi criado em seis dias e põe a época da sua criação há quatro mil anos, mais ou menos, antes da Era Cristã. Anteriormente, a Terra não existia; foi tirada do nada: o texto é formal. Eis, porém, que a Ciência positiva, a inexorável Ciência, prova o contrário. A história da formação do globo terráqueo está escrita em caracteres irrecusáveis no mundo fóssil, achando-se provado que os seis dias da criação indicam outros tantos períodos, cada um de, talvez, muitas centenas de milhares de anos. Isto não é um sistema, uma doutrina, uma opinião isolada; é um fato tão certo como o do movimento da Terra e que a Teologia não pode negar-se a admitir, o que demonstra evidentemente o erro em que se está sujeito a cair tomando ao pé da letra expressões de uma linguagem frequentemente figurada. Dever-se-á daí concluir que a **Bíblia** é um erro? Não; a conclusão a tirar-se é que os homens se equivocaram ao interpretá-la.
+A objeção que se lhe pode fazer é a de estar em contradição com o texto dos livros sagrados. Mas um exame sério mostrará que essa contradição é mais aparente do que real e que decorre da interpretação dada ao que muitas vezes só tinha sentido alegórico. A questão de ter sido Adão, como primeiro homem, a origem exclusiva da Humanidade, não é a única a cujo respeito as crenças religiosas tiveram que se modificar. O movimento da Terra pareceu, em determinada época, tão em oposição às letras sagradas, que não houve gênero de perseguições a que essa teoria não tivesse servido de pretexto, e, no entanto, a Terra gira, malgrado os anátemas, não podendo ninguém hoje contestá-lo, sem agravo à sua própria razão.
 
-> Escavando os arquivos da Terra, a Ciência descobriu em que ordem os seres vivos lhe apareceram na superfície, ordem que está de acordo com o que diz em **Gênesis**, havendo apenas a notar-se a diferença de que essa obra, em vez de executada milagrosamente por Deus em algumas horas, se realizou, sempre pela sua vontade, mas conforme a lei das forças da Natureza, em alguns milhões de anos. Ficou sendo Deus, por isso, menor e menos poderoso? Perdeu em sublimidade a sua obra, por não ter o prestígio da instantaneidade? Indubitavelmente, não. Fora mister fazer-se da Divindade bem mesquinha idéia, para se não reconhecer a sua onipotência nas leis eternas que ela estabeleceu para regerem os mundos. A Ciência, longe de apoucar a obra divina, no-la mostra sob aspecto mais grandioso e mais acorde com as noções que temos do poder e da majestade de Deus, pela razão mesma de ela se haver efetuado sem derrogação das Leis da Natureza.
+Diz também a **Bíblia** que o mundo foi criado em seis dias e põe a época da sua criação há quatro mil anos, mais ou menos, antes da Era Cristã. Anteriormente, a Terra não existia; foi tirada do nada: o texto é formal. Eis, porém, que a Ciência positiva, a inexorável Ciência, prova o contrário. A história da formação do globo terráqueo está escrita em caracteres irrecusáveis no mundo fóssil, achando-se provado que os seis dias da criação indicam outros tantos períodos, cada um de, talvez, muitas centenas de milhares de anos. Isto não é um sistema, uma doutrina, uma opinião isolada; é um fato tão certo como o do movimento da Terra e que a Teologia não pode negar-se a admitir, o que demonstra evidentemente o erro em que se está sujeito a cair tomando ao pé da letra expressões de uma linguagem frequentemente figurada. Dever-se-á daí concluir que a **Bíblia** é um erro? Não; a conclusão a tirar-se é que os homens se equivocaram ao interpretá-la.
 
-> De acordo, neste ponto, com Moisés, a Ciência coloca o homem em último lugar na ordem da criação dos seres vivos. Moisés, porém, indica, como o do dilúvio universal, o ano 1654 [^7] da formação do mundo, ao passo que a Geologia nos aponta o grande cataclismo como anterior ao aparecimento do homem, atendendo a que, até hoje, não se encontrou, nas camadas primitivas, traço algum de sua presença, nem da dos animais de igual categoria, do ponto de vista físico. Contudo, nada prova que isso seja impossível. Muitas descobertas já fizeram surgir dúvidas a tal respeito. Pode dar-se que, de um momento para outro, se adquira a certeza material da anterioridade da raça humana e então se reconhecerá que, a esse propósito, como a tantos outros, o texto bíblico encerra uma figura. A questão está em saber se o cataclismo geológico é o mesmo a que assistiu Noé. Ora, o tempo necessário à formação das camadas fósseis não permite confundi-los e, desde que se achem vestígios da existência do homem antes da grande catástrofe, provado ficará, ou que Adão não foi o primeiro homem, ou que a sua criação se perde na noite dos tempos. Contra a evidência não há raciocínios possíveis; forçoso será aceitar-se esse fato, como se aceitaram o do movimento da Terra e os seis períodos da Criação.
+Escavando os arquivos da Terra, a Ciência descobriu em que ordem os seres vivos lhe apareceram na superfície, ordem que está de acordo com o que diz em **Gênesis**, havendo apenas a notar-se a diferença de que essa obra, em vez de executada milagrosamente por Deus em algumas horas, se realizou, sempre pela sua vontade, mas conforme a lei das forças da Natureza, em alguns milhões de anos. Ficou sendo Deus, por isso, menor e menos poderoso? Perdeu em sublimidade a sua obra, por não ter o prestígio da instantaneidade? Indubitavelmente, não. Fora mister fazer-se da Divindade bem mesquinha idéia, para se não reconhecer a sua onipotência nas leis eternas que ela estabeleceu para regerem os mundos. A Ciência, longe de apoucar a obra divina, no-la mostra sob aspecto mais grandioso e mais acorde com as noções que temos do poder e da majestade de Deus, pela razão mesma de ela se haver efetuado sem derrogação das Leis da Natureza.
 
-> A existência do homem antes do dilúvio geológico ainda é, com efeito, hipotética. Eis aqui, porém, alguma coisa que o é menos. Admitindo-se que o homem tenha aparecido pela primeira vez na Terra 4.000 anos antes do Cristo e que, 1.650 anos mais tarde, toda a raça humana foi destruída, com exceção de uma só família, resulta que o povoamento da Terra data apenas de Noé, ou seja: de 2.350 anos antes da nossa era. Ora, quando os hebreus emigraram para o Egito, por volta de 1700 a.C., encontraram esse país muito povoado e já bastante adiantado em civilização. A História prova que, nessa época, as Índias e outros países também estavam florescentes, sem mesmo se ter em conta a cronologia de certos povos, que remonta a uma época muito mais afastada. Teria sido preciso, nesse caso, que de 2300 a 1700 a.C., isto é, num espaço de 600 anos, não somente a posteridade de um único homem houvesse podido povoar todos os imensos países então conhecidos, suposto que os outros não o fossem, mas também que, nesse curto lapso de tempo, a espécie humana houvesse podido elevar-se da ignorância absoluta do estado primitivo ao mais alto grau de desenvolvimento intelectual, o que é contrário a todas as leis antropológicas.
+De acordo, neste ponto, com Moisés, a Ciência coloca o homem em último lugar na ordem da criação dos seres vivos. Moisés, porém, indica, como o do dilúvio universal, o ano 1654 [^7] da formação do mundo, ao passo que a Geologia nos aponta o grande cataclismo como anterior ao aparecimento do homem, atendendo a que, até hoje, não se encontrou, nas camadas primitivas, traço algum de sua presença, nem da dos animais de igual categoria, do ponto de vista físico. Contudo, nada prova que isso seja impossível. Muitas descobertas já fizeram surgir dúvidas a tal respeito. Pode dar-se que, de um momento para outro, se adquira a certeza material da anterioridade da raça humana e então se reconhecerá que, a esse propósito, como a tantos outros, o texto bíblico encerra uma figura. A questão está em saber se o cataclismo geológico é o mesmo a que assistiu Noé. Ora, o tempo necessário à formação das camadas fósseis não permite confundi-los e, desde que se achem vestígios da existência do homem antes da grande catástrofe, provado ficará, ou que Adão não foi o primeiro homem, ou que a sua criação se perde na noite dos tempos. Contra a evidência não há raciocínios possíveis; forçoso será aceitar-se esse fato, como se aceitaram o do movimento da Terra e os seis períodos da Criação.
 
-> A diversidade das raças corrobora, igualmente, esta opinião. O clima e os costumes produzem, é certo, modificações no caráter físico; sabe-se, porém, até onde pode ir a influência dessas causas. Entretanto, o exame fisiológico demonstra haver, entre certas raças, diferenças constitucionais mais profundas do que as que o clima é capaz de determinar. O cruzamento das raças dá origem aos tipos intermediários. Ele tende a apagar os caracteres extremos, mas não os cria; apenas produz variedades. Ora, para que tenha havido cruzamento de raças, preciso era que houvesse raças distintas. Como, porém, se explicará a existência delas, atribuindo-se-lhes uma origem comum e, sobretudo, tão pouco afastada? Como se há de admitir que, em poucos séculos, alguns descendentes de Noé se tenham transformado ao ponto de produzirem a raça etíope, por exemplo? Tão pouco admissível é semelhante metamorfose, quanto à hipótese de uma origem comum para o lobo e o cordeiro, para o elefante e o pulgão, para o pássaro e o peixe. Ainda uma vez: nada pode prevalecer contra a evidência dos fatos.
+A existência do homem antes do dilúvio geológico ainda é, com efeito, hipotética. Eis aqui, porém, alguma coisa que o é menos. Admitindo-se que o homem tenha aparecido pela primeira vez na Terra 4.000 anos antes do Cristo e que, 1.650 anos mais tarde, toda a raça humana foi destruída, com exceção de uma só família, resulta que o povoamento da Terra data apenas de Noé, ou seja: de 2.350 anos antes da nossa era. Ora, quando os hebreus emigraram para o Egito, por volta de 1700 a.C., encontraram esse país muito povoado e já bastante adiantado em civilização. A História prova que, nessa época, as Índias e outros países também estavam florescentes, sem mesmo se ter em conta a cronologia de certos povos, que remonta a uma época muito mais afastada. Teria sido preciso, nesse caso, que de 2300 a 1700 a.C., isto é, num espaço de 600 anos, não somente a posteridade de um único homem houvesse podido povoar todos os imensos países então conhecidos, suposto que os outros não o fossem, mas também que, nesse curto lapso de tempo, a espécie humana houvesse podido elevar-se da ignorância absoluta do estado primitivo ao mais alto grau de desenvolvimento intelectual, o que é contrário a todas as leis antropológicas.
 
-> Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo. 
+A diversidade das raças corrobora, igualmente, esta opinião. O clima e os costumes produzem, é certo, modificações no caráter físico; sabe-se, porém, até onde pode ir a influência dessas causas. Entretanto, o exame fisiológico demonstra haver, entre certas raças, diferenças constitucionais mais profundas do que as que o clima é capaz de determinar. O cruzamento das raças dá origem aos tipos intermediários. Ele tende a apagar os caracteres extremos, mas não os cria; apenas produz variedades. Ora, para que tenha havido cruzamento de raças, preciso era que houvesse raças distintas. Como, porém, se explicará a existência delas, atribuindo-se-lhes uma origem comum e, sobretudo, tão pouco afastada? Como se há de admitir que, em poucos séculos, alguns descendentes de Noé se tenham transformado ao ponto de produzirem a raça etíope, por exemplo? Tão pouco admissível é semelhante metamorfose, quanto à hipótese de uma origem comum para o lobo e o cordeiro, para o elefante e o pulgão, para o pássaro e o peixe. Ainda uma vez: nada pode prevalecer contra a evidência dos fatos.
+
+Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo. 
 
 [🔼](#lde-1-03)
 
@@ -1146,7 +1140,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 #### `lde-1-04-01`
 #### 📃 Seres orgânicos e inorgânicos
 
-*Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.*
+Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
 
 >##### `lde-q60`
 >
@@ -1177,9 +1171,9 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ Vimos que o espírito e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
 >
 >👻 É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento, como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio.
-
-> a. Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
-
+>
+>`a`. Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
+>
 >👻 Isto é consequência do que dissemos.
 
 >##### `lde-q65`
@@ -1199,9 +1193,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
 >
 >👻 Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.
-
-> a. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
-
+>
+>`a`. Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
 >
 >👻 Sim, é isso.
 >
@@ -1219,9 +1212,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ Qual a causa da morte dos seres orgânicos?
 >
 >👻 Esgotamento dos órgãos.
-
-> a. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
-
+>
+>`a`. Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
 >
 >👻 Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
 
@@ -1279,9 +1271,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 >#️⃣ Qual a fonte da inteligência?
 >
 >👻 Já o dissemos; a inteligência universal.
-
-> a. Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
-
+>
+>`a`. Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
 >
 >👻 Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
 
@@ -1452,7 +1443,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Para vós, não; para nós, sim. O Espírito é, se quiserdes, uma chama, um clarão, ou uma centelha etérea.
 
-> a. Essa chama ou centelha tem cor?
+>`a`. Essa chama ou centelha tem cor?
 
 >
 >👻 Tem uma cor que, para vós, vai do escuro ao brilho do rubi, conforme o Espírito é mais ou menos puro.
@@ -1465,7 +1456,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim, mas fazem-no com a rapidez do pensamento.
 
-> a. O pensamento não é a própria alma que se transporta?
+>`a`. O pensamento não é a própria alma que se transporta?
 
 >
 >👻 Quando o pensamento está em alguma parte, a alma também aí está, pois que é a alma que pensa. O pensamento é um atributo.
@@ -1488,7 +1479,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não pode haver divisão de um mesmo Espírito, mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um Espírito em muitos lugares ao mesmo tempo. Vês o Sol? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide.
 
-> a. Todos os Espíritos irradiam com igual força?
+>`a`. Todos os Espíritos irradiam com igual força?
 
 >
 >👻 Longe disso. Essa força depende do grau de pureza de cada um.
@@ -1516,7 +1507,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Do fluido universal de cada globo, razão por que não é idêntico em todos os mundos. Passando de um mundo a outro, o Espírito muda de envoltório, como mudais de roupa.
 
-> a. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio, tomam um perispírito mais grosseiro?
+>`a`. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio, tomam um perispírito mais grosseiro?
 
 >
 >👻 É necessário que se revistam da vossa matéria, já o dissemos.
@@ -1709,7 +1700,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Deus criou todos os Espíritos simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à perfeição, pelo conhecimento da verdade, para aproximá-los de si. Nesta perfeição é que eles encontram a pura e eterna felicidade. Passando pelas provas que Deus lhes impõe é que os Espíritos adquirem aquele conhecimento. Uns aceitam submissos essas provas e chegam mais depressa à meta que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da perfeição e da prometida felicidade.
 
-> a. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as crianças, ignorantes e inexperientes, só adquirindo pouco a pouco os conhecimentos de que carecem com o percorrerem as diferentes fases da vida?
+>`a`. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as crianças, ignorantes e inexperientes, só adquirindo pouco a pouco os conhecimentos de que carecem com o percorrerem as diferentes fases da vida?
 
 >
 >👻 Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor docilidade. Mas a vida do homem tem termo, ao passo que a dos Espíritos se prolonga ao infinito.
@@ -1758,7 +1749,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 O livre-arbítrio se desenvolve à medida que o Espírito adquire a consciência de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma causa independente da vontade do Espírito. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
 
->a. Donde vêm as influências que sobre ele se exercem?
+>`a`. Donde vêm as influências que sobre ele se exercem?
 >
 >👻 Dos Espíritos imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás.
 
@@ -1883,7 +1874,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. Deus, que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem mérito.
 
-> a. Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
+>`a`. Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
 
 >
 >👻 Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos. 
@@ -1901,7 +1892,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Um Espírito encarnado.
 
-> a. Que era a alma antes de se unir ao corpo?
+>`a`. Que era a alma antes de se unir ao corpo?
 
 >
 >👻 Espírito.
@@ -1917,7 +1908,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Há o laço que liga a alma ao corpo.
 
-> a. De que natureza é esse laço?
+>`a`. De que natureza é esse laço?
 
 >
 >👻 Semimaterial, isto é, de natureza intermédia entre o Espírito e o corpo. É preciso que seja assim para que os dois possam comunicar-se um com o outro. Por meio desse laço é que o Espírito atua sobre a matéria e reciprocamente.
@@ -1936,7 +1927,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 O corpo não é mais do que envoltório, repetimo-lo constantemente.
 
-> a. Pode o corpo existir sem a alma?
+>`a`. Pode o corpo existir sem a alma?
 
 >
 >👻 Pode; entretanto, desde que cessa a vida do corpo, a alma o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a morte do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica.
@@ -1974,7 +1965,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por alma o fluido vital, essa teoria tem razão de ser; se se entende por alma o Espírito encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
 
-> a. Entretanto, alguns Espíritos deram essa definição.
+>`a`. Entretanto, alguns Espíritos deram essa definição.
 
 >Os Espíritos ignorantes podem tomar o efeito pela causa.
 >A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
@@ -2015,7 +2006,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
 
-> a. Que se deve pensar da opinião dos que situam a alma num centro vital?
+>`a`. Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 >
 >👻 Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais. 
@@ -2076,7 +2067,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim; jamais a perde. Que seria ela, se não a conservasse?
 
-> a. Como comprova a alma a sua individualidade, uma vez que não tem mais corpo material?
+>`a`. Como comprova a alma a sua individualidade, uma vez que não tem mais corpo material?
 
 >
 >👻 Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito.
@@ -2110,7 +2101,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 A vida do Espírito é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a alma retoma a vida eterna.
 
-> a. Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo atingido a perfeição, não estão sujeitos a sofrer mais prova alguma?
+>`a`. Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo atingido a perfeição, não estão sujeitos a sofrer mais prova alguma?
 
 >
 >👻 Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais. 
@@ -2136,7 +2127,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Rotos os laços que a retinham, ela se desprende.
 
-> a. A separação se dá instantaneamente por brusca transição? Haverá alguma linha de demarcação nitidamente traçada entre a vida e a morte?
+>`a`. A separação se dá instantaneamente por brusca transição? Haverá alguma linha de demarcação nitidamente traçada entre a vida e a morte?
 
 >
 >👻 Não; a alma se desprende gradualmente, não se escapa como um pássaro cativo a que se restitua subitamente a liberdade. Aqueles dois estados se tocam e confundem, de sorte que o Espírito se solta pouco a pouco dos laços que o prendiam. **Estes laços se desatam, não se quebram**.
@@ -2249,7 +2240,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sofrendo a prova de uma nova existência.
 
-> a. Como realiza essa nova existência? Será pela sua transformação como Espírito?
+>`a`. Como realiza essa nova existência? Será pela sua transformação como Espírito?
 
 >
 >👻 Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.
@@ -2328,7 +2319,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior.
 
-> a. Podemos então reaparecer muitas vezes na Terra?
+>`a`. Podemos então reaparecer muitas vezes na Terra?
 
 >
 >👻 Certamente.
@@ -2350,7 +2341,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta.
 
-> a. Não se seria mais feliz permanecendo na condição de Espírito?
+>`a`. Não se seria mais feliz permanecendo na condição de Espírito?
 
 >
 >👻 Não, não; estacionar-se-ia e o que se quer é caminhar para Deus.
@@ -2361,7 +2352,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim, do mesmo modo que vós em outros. Todos os mundos são solidários: o que não se faz num faz-se noutro.
 
-> a. Assim, homens há que estão na Terra pela primeira vez?
+>`a`. Assim, homens há que estão na Terra pela primeira vez?
 
 >
 >👻 Muitos, e em graus diversos de adiantamento.
@@ -2377,7 +2368,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o Espírito, saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau.
 
-> a. Como se explica então a pluralidade de suas existências em um mesmo globo?
+>`a`. Como se explica então a pluralidade de suas existências em um mesmo globo?
 
 >
 >👻 De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência.
@@ -2388,7 +2379,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim, quando em missão, com o objetivo de auxiliarem o progresso, caso em que aceitam alegres as tribulações de tal existência, por lhes proporcionar meio de se adiantarem.
 
-> a. Mas não pode dar-se também por expiação? Não pode Deus degredar para mundos inferiores Espíritos rebeldes?
+>`a`. Mas não pode dar-se também por expiação? Não pode Deus degredar para mundos inferiores Espíritos rebeldes?
 
 >
 >👻 Os Espíritos podem conservar-se estacionários, mas não retrogradam. Em caso de estacionamento, a punição deles consiste em não avançarem, em recomeçarem, no meio conveniente à sua natureza, as existências mal-empregadas.
@@ -2440,7 +2431,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os Espíritos, depende do grau da elevação destes.
 
-> a. Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnará?
+>`a`. Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnará?
 
 >
 >👻 O grau da sua elevação.
@@ -2459,7 +2450,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Há e mesmo esse envoltório se torna tão etéreo que para vós é como se não existisse. Esse o estado dos Espíritos puros.
 
-> a. Parece resultar daí que, entre o estado correspondente às últimas encarnações e o de Espírito puro, não há linha divisória perfeitamente demarcada; não?
+>`a`. Parece resultar daí que, entre o estado correspondente às últimas encarnações e o de Espírito puro, não há linha divisória perfeitamente demarcada; não?
 
 >
 >👻 Semelhante demarcação não existe. A diferença entre um e outro estado se vai apagando pouco a pouco e acaba por ser imperceptível, tal qual se dá com a noite às primeiras claridades do alvorecer.
@@ -2501,7 +2492,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 De infância relativa, pois já são almas desenvolvidas, visto que já nutrem paixões.
 
-> a. Então, as paixões são um sinal de desenvolvimento?
+>`a`. Então, as paixões são um sinal de desenvolvimento?
 
 >
 >👻 De desenvolvimento, sim; de perfeição, porém, não. São sinal de atividade e de consciência do **eu**, porquanto, na alma primitiva, a inteligência e a vida se acham no estado de germe.
@@ -2514,7 +2505,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não, pois o que o homem julga perfeito longe está da perfeição. Há qualidades que lhe são desconhecidas e incompreensíveis. Poderá ser tão perfeito quanto o comporte a sua natureza terrena, mas isso não é a perfeição absoluta. Dá-se com o Espírito o que se verifica com a criança que, por mais precoce que seja, tem de passar pela juventude, antes de chegar à idade da madureza; e também com o enfermo que, para recobrar a saúde, tem que passar pela convalescença. Demais, ao Espírito cumpre progredir em ciência e em moral. Se somente se adiantou num sentido, importa se adiante no outro, para atingir o extremo superior da escala. Contudo, quanto mais o homem se adiantar na sua vida atual, tanto menos longas e penosas lhe serão as provas que se seguirem.
 
-> a. Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
+>`a`. Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
 
 >
 >👻 Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. **Só o descuidoso permanece sempre no mesmo ponto**.
@@ -2531,7 +2522,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não, visto que não pode degenerar.
 
-> a. A alma de um homem perverso pode tornar-se a de um homem de bem?
+>`a`. A alma de um homem perverso pode tornar-se a de um homem de bem?
 
 >
 >👻 Sim, se se arrependeu. Isso constitui então uma recompensa.
@@ -2552,7 +2543,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim, é exatamente isso. Eles se melhoram nessas provas, evitando o mal e praticando o bem; porém, somente ao cabo de mais ou menos longo tempo, conforme os esforços que empreguem; somente após muitas encarnações ou depurações sucessivas, atingem a finalidade para que tendem.
 
-> a. É o corpo que influi sobre o Espírito para que este se melhore, ou o Espírito que influi sobre o corpo?
+>`a`. É o corpo que influi sobre o Espírito para que este se melhore, ou o Espírito que influi sobre o corpo?
 
 >
 >👻 Teu Espírito é tudo; teu corpo é simples veste que apodrece: eis tudo.
@@ -2572,7 +2563,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Algumas vezes o é muito mais, porquanto pode dar-se que muito mais já tenha vivido e adquirido maior soma de experiência, sobretudo se progrediu.
 
-> a. Pode então o Espírito de uma criança ser mais adiantado que o de seu pai?
+>`a`. Pode então o Espírito de uma criança ser mais adiantado que o de seu pai?
 
 >
 >👻 Isso é muito frequente. Não o vedes vós mesmos tão amiudadas vezes na Terra?
@@ -2589,7 +2580,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 A curta duração da vida da criança pode representar, para o Espírito que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui **provação ou expiação para os pais**.
 
-> a. Que sucede ao Espírito de uma criança que morre pequenina?
+>`a`. Que sucede ao Espírito de uma criança que morre pequenina?
 
 >
 >👻 Recomeça outra existência.
@@ -2652,7 +2643,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um Espírito a quem tenhais estado presos pelos laços da consanguinidade.
 
-> a. Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um Espírito que haja pertencido a outra raça, ou que haja vivido em condição muito diversa. [^11]
+>`a`. Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um Espírito que haja pertencido a outra raça, ou que haja vivido em condição muito diversa. [^11]
 
 >👻 É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que Deus formulou as Leis da Natureza.
 
@@ -2674,7 +2665,7 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
 >Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-> a. Donde se originam as parecenças morais que costuma haver entre pais e filhos?
+>`a`. Donde se originam as parecenças morais que costuma haver entre pais e filhos?
 
 >
 >👻 É que uns e outros são Espíritos simpáticos, que reciprocamente se atraíram pela analogia dos pendores.
@@ -2754,7 +2745,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Guarda vaga lembrança, que lhe dá o que se chama ideias inatas.
 
-> a. Não é, então, quimérica a teoria das ideias inatas?
+>`a`. Não é, então, quimérica a teoria das ideias inatas?
 
 >
 >👻 Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o Espírito sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o Espírito, é o em que, na existência precedente, ele ficou.
@@ -2782,7 +2773,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 É uma lembrança que ele conserva do que sabia como Espírito antes de encarnar, mas o orgulho amiudadamente abafa esse sentimento.
 
-> a. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Espírita, que se observam em todos os povos?
+>`a`. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Espírita, que se observam em todos os povos?
 
 >
 >👻 Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição. 
@@ -2938,7 +2929,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Espírito errante, que aspira a novo destino, que espera.
 
-> a. Quanto podem durar esses intervalos?
+>`a`. Quanto podem durar esses intervalos?
 
 >
 >👻 Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de erraticidade, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o Espírito terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
@@ -3017,7 +3008,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim, há mundos particularmente destinados aos seres errantes, mundos que lhes podem servir de habitação temporária, espécies de bivaques, de campos onde descansem de uma demasiado longa erraticidade, estado este sempre um tanto penoso. São, entre os outros mundos, posições intermédias, graduadas de acordo com a natureza dos Espíritos que a elas podem ter acesso e onde eles gozam de maior ou menor bem-estar.
 
-> a. Os Espíritos que habitam esses mundos podem deixá-los livremente?
+>`a`. Os Espíritos que habitam esses mundos podem deixá-los livremente?
 
 >
 >👻 Sim, os Espíritos que se encontram nesses mundos podem deixá-los, a fim de irem aonde devam ir. Figurai-os como bandos de aves que pousam numa ilha, para aí aguardarem que se lhes refaçam as forças, a fim de seguirem seu destino.
@@ -3034,7 +3025,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não, a condição deles é meramente temporária.
 
-> a. Esses mundos são ao mesmo tempo habitados por seres corpóreos?
+>`a`. Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 
    >👻 Não; estéril é neles a superfície. Os que os habitam de nada precisam.
 
@@ -3111,7 +3102,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Ainda isto depende da elevação que tenham conquistado. Muitas vezes, apenas o entreveem, **porém, nem sempre lhes é permitido revelá-lo**. Quando o veem, parece-lhes presente. À medida que se aproxima de Deus, tanto mais claramente o Espírito descortina o futuro. Depois da morte, a alma vê e apreende num golpe de vista **suas passadas migrações**, mas não pode ver o que Deus lhe reserva. Para que tal aconteça, preciso é que, ao cabo de múltiplas existências, se haja integrado nele.
 
-> a. Os Espíritos que alcançaram a perfeição absoluta têm conhecimento completo do futuro?
+>`a`. Os Espíritos que alcançaram a perfeição absoluta têm conhecimento completo do futuro?
 
 >
 >👻 Completo não se pode dizer, por isso que só Deus é soberano Senhor e ninguém o pode igualar.
@@ -3122,7 +3113,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Só os Espíritos superiores o veem e compreendem. Os inferiores o sentem e adivinham.
 
-> a. Quando um Espírito inferior diz que Deus lhe proíbe ou permite uma coisa, como sabe que isso lhe vem dele?
+>`a`. Quando um Espírito inferior diz que Deus lhe proíbe ou permite uma coisa, como sabe que isso lhe vem dele?
 
 >
 >👻 Ele não vê a Deus, mas sente a sua soberania e, quando não deva ser feita alguma coisa ou dita uma palavra, percebe, como por intuição, a proibição de fazê-la ou dizê-la. Não tendes vós mesmos pressentimentos, que se vos afiguram avisos secretos, para fazerdes, ou não, isto ou aquilo? O mesmo nos acontece, se bem que em grau mais alto, pois compreendes que, sendo mais sutil do que as vossas a essência dos Espíritos, podem estes receber melhor as advertências divinas.
@@ -3164,7 +3155,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim, percebe mesmo sons imperceptíveis para os vossos sentidos obtusos.
 
-> a. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
+>`a`. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
 
 >
 >👻 Todas as percepções constituem atributos do Espírito e lhe são inerentes ao ser. Quando o reveste um corpo material, elas só lhe chegam pelo conduto dos órgãos. Deixam, porém, de estar localizadas, em se achando ele na condição de Espírito livre.
@@ -3263,7 +3254,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Ele próprio escolhe o gênero de provas por que há de passar e nisso consiste o seu livre-arbítrio.
 
-> a. Não é Deus, então, quem lhe impõe as tribulações da vida, como castigo?
+>`a`. Não é Deus, então, quem lhe impõe as tribulações da vida, como castigo?
 
 >
 >👻 Nada ocorre sem a permissão de Deus, porquanto foi Deus quem estabeleceu todas as leis que regem o Universo. Ide agora perguntar por que decretou Ele esta lei e não aquela. Dando ao Espírito a liberdade de escolher, Deus lhe deixa a inteira responsabilidade de seus atos e das consequências que estes tiverem. Nada lhe estorva o futuro; abertos se lhe acham, assim, o caminho do bem, como o do mal. Se vier a sucumbir, restar-lhe-á a consolação de que nem tudo se lhe acabou e que a Bondade divina lhe concede a liberdade de recomeçar o que foi malfeito. Ademais, cumpre se distinga o que é obra da vontade de Deus do que o é da vontade do homem. Se um perigo vos ameaça, não fostes vós quem o criou e sim Deus. Vosso, porém, foi o desejo de a ele vos expordes, por haverdes visto nisso um meio de progredirdes, e Deus o permitiu.
@@ -3280,7 +3271,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Forçoso é que seja posto num meio onde possa sofrer a prova que pediu. Pois bem! É necessário que haja analogia. Para lutar contra o instinto do roubo, preciso é que se ache em contato com gente dada à prática de roubar.
 
-> a. Assim, se não houvesse na Terra gente de maus costumes, o Espírito não encontraria aí meio apropriado ao sofrimento de certas provas?
+>`a`. Assim, se não houvesse na Terra gente de maus costumes, o Espírito não encontraria aí meio apropriado ao sofrimento de certas provas?
 
 >
 >👻 E seria isso de lastimar-se? É o que ocorre nos mundos superiores, onde o mal não penetra. Eis por que, nesses mundos, só há Espíritos bons. Fazei que em breve o mesmo se dê na Terra.
@@ -3297,7 +3288,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Deus lhe supre a inexperiência, traçando-lhe o caminho que deve seguir, como fazeis com a criancinha. Deixa-o, porém, pouco a pouco, à medida que o seu livre-arbítrio se desenvolve, senhor de proceder à escolha e só então é que muitas vezes lhe acontece extraviar-se, tomando o mau caminho, por desatender os conselhos dos bons Espíritos. A isso é que se pode chamar a queda do homem.
 
-> a. Quando o Espírito goza do livre-arbítrio, a escolha, que lhe cabe, da existência corporal depende sempre, exclusivamente, de sua vontade, ou essa existência lhe pode ser imposta, como expiação, pela vontade de Deus?
+>`a`. Quando o Espírito goza do livre-arbítrio, a escolha, que lhe cabe, da existência corporal depende sempre, exclusivamente, de sua vontade, ou essa existência lhe pode ser imposta, como expiação, pela vontade de Deus?
 
 >
 >👻 Deus sabe esperar, não apressa a expiação. Todavia, pode impor certa existência a um Espírito, quando este, pela sua inferioridade ou má vontade, não se mostra apto a compreender o que lhe seria mais útil, e quando vê que tal existência servirá para a purificação e o progresso do Espírito, ao mesmo tempo que lhe sirva de expiação.
@@ -3342,7 +3333,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 O desejo que então alimenta pode influir na escolha que venha a fazer, dependendo isso da intenção que o anime. Dá-se, porém, que, como Espírito livre, quase sempre vê as coisas de modo diferente. O Espírito por si só é quem faz a escolha; entretanto, ainda uma vez o dizemos, possível lhe é fazê-la, mesmo na vida material, por isso que há sempre momentos em que o Espírito se torna independente da matéria que lhe serve de habitação.
 
-> a. Não é decerto como expiação, ou como prova, que muita gente deseja as grandezas e as riquezas. Será?
+>`a`. Não é decerto como expiação, ou como prova, que muita gente deseja as grandezas e as riquezas. Será?
 
 >
 >👻 Indubitavelmente, não. A matéria deseja essa grandeza para gozá-la e o Espírito para conhecer-lhe as vicissitudes.
@@ -3400,7 +3391,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Muito grande. Os Espíritos têm uns sobre os outros a autoridade correspondente ao grau de superioridade que hajam alcançado, autoridade que eles exercem por um ascendente moral irresistível.
 
-> a. Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são superiores?
+>`a`. Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são superiores?
 
 >
 >👻 Eu disse: irresistível.
@@ -3411,7 +3402,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não; pois que os pequenos serão elevados e os grandes rebaixados. Lê os salmos.
 
-> a. Como devemos entender essa elevação e esse rebaixamento?
+>`a`. Como devemos entender essa elevação e esse rebaixamento?
 
 >👻 Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse **Jesus**:
 >
@@ -3481,7 +3472,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Perfeitamente e, assim, de geração em geração.
 
-> a. Como é que os que se conheceram na Terra se reconhecem no mundo dos Espíritos?
+>`a`. Como é que os que se conheceram na Terra se reconhecem no mundo dos Espíritos?
 
 >
 >👻 Vemos a nossa vida pretérita e lemos nela como em um livro. Vendo a dos nossos amigos e dos nossos inimigos, aí vemos a passagem deles da vida corporal à outra.
@@ -3603,7 +3594,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Todos o serão. Um Espírito, que hoje está numa esfera inferior, ascenderá, aperfeiçoando-se, à em que se acha tal outro Espírito. E ainda mais depressa se dará o encontro dos dois, se o mais elevado, por suportar mal as provas a que esteja submetido, permanecer estacionário.
 
-> a. Mas, se o quisesse, poderia lembrar-se delas?
+>`a`. Mas, se o quisesse, poderia lembrar-se delas?
 
 >
 >👻 Pode lembrar-se dos mais minuciosos pormenores e incidentes, assim relativos aos fatos, como até aos seus pensamentos. Não o faz, porém, desde que não tenha utilidade.
@@ -3631,7 +3622,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Como veste imprestável, que o embaraçava, sentindo-se feliz por estar livre dela.
 
-> a. Que sensação lhe causa o espetáculo do seu corpo em decomposição?
+>`a`. Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 
 >
 >👻 Quase sempre se conserva indiferente a isso, como a uma coisa que em nada o interessa.
@@ -3719,7 +3710,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Os Espíritos acodem nesse dia ao chamado dos que da Terra lhes dirigem seus pensamentos, como o fazem noutro dia qualquer.
 
-> a. Mas o de finados é, para eles, um dia especial de reunião junto de suas sepulturas?
+>`a`. Mas o de finados é, para eles, um dia especial de reunião junto de suas sepulturas?
 
 >
 >👻 Nesse dia, em maior número se reúnem nas necrópoles, porque então também é maior, em tais lugares, o das pessoas que os chamam pelo pensamento. Porém, cada Espírito vai lá somente pelos seus amigos e não pela multidão dos indiferentes.
@@ -3753,7 +3744,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Afeição particular do Espírito por determinados lugares; inferioridade moral. Que importa este ou aquele canto da Terra a um Espírito elevado? Não sabe ele que sua alma se reunirá às dos que lhe são caros, embora fiquem separados os seus respectivos ossos?
 
-> a. Deve-se considerar futilidade a reunião dos despojos mortais de todos os membros de uma família?
+>`a`. Deve-se considerar futilidade a reunião dos despojos mortais de todos os membros de uma família?
 
 >
 >👻 Não; é um costume piedoso e um testemunho de simpatia que dão os que assim procedem aos que lhes foram entes queridos. Conquanto destituída de importância para os Espíritos, essa reunião é útil aos homens: mais concentradas se tornam suas recordações.
@@ -3770,7 +3761,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Frequentemente assiste, mas, algumas vezes, se ainda está perturbado, não percebe o que se passa.
 
-> a. Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
+>`a`. Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 
 >
 >👻 Mais ou menos, conforme o sentimento que as anima.
@@ -3816,7 +3807,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Pressentem-na, como sucede ao cego que se aproxima do fogo. Sabem que têm de retomar um corpo, como sabeis que tendes de morrer um dia, mas ignoram quando isso se dará. 👉 ([`lde-q166`](#lde-q166))
 
-> a. Então, a reencarnação é uma necessidade da vida espírita, como a morte o é da vida corporal?
+>`a`. Então, a reencarnação é uma necessidade da vida espírita, como a morte o é da vida corporal?
 
 >
 >👻 Certamente; assim é.
@@ -3851,7 +3842,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Pode também escolher o corpo, porquanto as imperfeições que este apresente ainda serão, para o Espírito, provas que lhe auxiliarão o progresso, se vencer os obstáculos que lhe oponha. Nem sempre, porém, lhe é permitida a escolha do seu invólucro corpóreo; mas, simplesmente, a faculdade de pedir que seja tal ou qual.
 
-> a. Poderia o Espírito recusar, à última hora, tomar o corpo por ele escolhido?
+>`a`. Poderia o Espírito recusar, à última hora, tomar o corpo por ele escolhido?
 
 >
 >👻 Se recusasse, sofreria muito mais do que aquele que não tentasse
@@ -3932,7 +3923,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Escolhe outro.
 
-> a. Qual a utilidade dessas mortes prematuras?
+>`a`. Qual a utilidade dessas mortes prematuras?
 
 >
 >👻 Dão-lhes causa, as mais das vezes, as imperfeições da matéria.
@@ -3997,7 +3988,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Alguns há, efetivamente, a cujos corpos nunca nenhum Espírito esteve destinado. Nada tinha que se efetuar para eles. Tais crianças então só vêm por seus pais.
 
-> a. Pode chegar a termo de nascimento um ser dessa natureza?
+>`a`. Pode chegar a termo de nascimento um ser dessa natureza?
 
 >
 >👻 Algumas vezes; mas não vive.
@@ -4044,7 +4035,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 São as do Espírito nele encarnado. Quanto mais puro é esse Espírito, tanto mais propenso ao bem é o homem.
 
->a. Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o homem vicioso a de um Espírito mau?
+>`a`. Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o homem vicioso a de um Espírito mau?
 
 >
 >👻 Sim, mas, dize antes que o homem vicioso é a encarnação de um Espírito imperfeito, pois, do contrário, poderias fazer crer na existência de Espíritos sempre maus, a que chamais demônios.
@@ -4100,7 +4091,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 O exercício das faculdades depende dos órgãos que lhes servem de instrumento. A grosseria da matéria as enfraquece.
 
-> a. Assim, o invólucro material é obstáculo à livre manifestação das faculdades do Espírito, como um vidro opaco o é à livre irradiação da luz?
+>`a`. Assim, o invólucro material é obstáculo à livre manifestação das faculdades do Espírito, como um vidro opaco o é à livre irradiação da luz?
 
 >
 >👻 É, como vidro muito opaco.
@@ -4119,7 +4110,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não confundais o efeito com a causa. O Espírito dispõe sempre das faculdades que lhe são próprias. Ora, não são os órgãos que dão as faculdades, e sim estas que impulsionam o desenvolvimento dos órgãos.
 
-> a. Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva unicamente do estado do Espírito?
+>`a`. Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva unicamente do estado do Espírito?
 
 >
 >👻 O termo — unicamente — não exprime com toda a exatidão o que ocorre. O princípio dessa diversidade reside nas qualidades do Espírito, que pode ser mais ou menos adiantado. Cumpre, porém, se leve em conta a influência da matéria, que mais ou menos lhe cerceia o exercício de suas faculdades.
@@ -4145,7 +4136,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Os que habitam corpos de idiotas são Espíritos sujeitos a uma punição. Sofrem por efeito do constrangimento que experimentam e da impossibilidade em que estão de se manifestarem mediante órgãos não desenvolvidos ou desmantelados.
 
-> a. Não há, pois, fundamento para dizer-se que os órgãos nada influem sobre as faculdades?
+>`a`. Não há, pois, fundamento para dizer-se que os órgãos nada influem sobre as faculdades?
 
 >
 >👻 Nunca dissemos que os órgãos não têm influência. Têm-na muito grande sobre a manifestação das faculdades, mas não são eles a origem destas. Aqui está a diferença. Um músico excelente, com um instrumento defeituoso, não dará a ouvir boa música, o que não fará que deixe de ser bom músico.
@@ -4158,7 +4149,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 É uma expiação decorrente do abuso que fizeram de certas faculdades. É um estacionamento temporário.
 
-> a. Pode assim o corpo de um idiota conter um Espírito que tenha animado um homem de gênio em precedente existência?
+>`a`. Pode assim o corpo de um idiota conter um Espírito que tenha animado um homem de gênio em precedente existência?
 
 >
 >👻 Certo. O gênio se torna por vezes um flagelo, quando dele abusa o homem.
@@ -4177,7 +4168,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 O Espírito, quando em liberdade, recebe diretamente suas impressões e diretamente exerce sua ação sobre a matéria. Encarnado, porém, ele se encontra em condições muito diversas e na contingência de só o fazer com o auxílio de órgãos especiais. Altere-se uma parte ou o conjunto de tais órgãos e eis que se lhe interrompem, no que destes dependam, sua ação ou suas impressões. Se perde os olhos, fica cego; se o ouvido, torna-se surdo etc. Imagina agora que seja o órgão que preside às manifestações da inteligência o atacado ou modificado, parcial ou inteiramente, e fácil te será compreender que, só tendo o Espírito a seu serviço órgãos incompletos ou alterados, uma perturbação resultará de que ele, por si mesmo e no seu foro íntimo, tem perfeita consciência, mas cujo curso não lhe está nas mãos deter.
 
-> a. Então, o desorganizado é sempre o corpo e não o Espírito?
+>`a`. Então, o desorganizado é sempre o corpo e não o Espírito?
 
 >
 >👻 Exatamente, mas convém não perder de vista que, assim como o Espírito atua sobre a matéria, também esta reage sobre ele, dentro de certos limites, e que pode acontecer impressionar-se o Espírito temporariamente com a alteração dos órgãos pelos quais se manifesta e recebe as impressões. Pode mesmo suceder que, com a continuação, durando longo tempo a loucura, a repetição dos mesmos atos acabe por exercer sobre o Espírito uma influência, de que ele não se libertará senão depois de se haver libertado de toda impressão material.
@@ -4272,7 +4263,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Reconhecer-se, não. Podem, porém, sentir-se atraídos um para o outro. E, frequentemente, diversa não é a causa de íntimas ligações fundadas em sincera afeição. Um do outro dois seres se aproximam devido a circunstâncias aparentemente fortuitas, mas que na realidade resultam da atração de dois Espíritos, **que se buscam reciprocamente por entre a multidão**.
 
-> a. Não lhes seria mais agradável reconhecerem-se?
+>`a`. Não lhes seria mais agradável reconhecerem-se?
 
 >
 >👻 Nem sempre. A recordação das passadas existências teria inconvenientes maiores do que imaginais. Depois de mortos, reconhecer-se-ão e saberão que tempo passaram juntos. 👉 ([`lde-q392`](#lde-q392))
@@ -4362,7 +4353,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Até certo ponto, assim é. Preciso se torna, porém, levar em conta a melhora que se possa ter operado no Espírito e as resoluções que ele haja tomado na erraticidade. Pode suceder que a existência atual seja muito melhor que a precedente.
 
-> a. Poderá também ser pior, isto é, poderá o Espírito cometer, numa existência, faltas que não praticou na precedente?
+>`a`. Poderá também ser pior, isto é, poderá o Espírito cometer, numa existência, faltas que não praticou na precedente?
 
 >
 >👻 Depende do seu adiantamento. Se não souber triunfar das provas, possivelmente será arrastado a novas faltas, consequentes, então, da posição que escolheu. Mas, em geral, estas faltas denotam mais um estacionamento que uma retrogradação, porquanto o Espírito é suscetível de se adiantar ou de parar, nunca, porém, de retroceder.
@@ -4492,7 +4483,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Provêm da liberdade do Espírito que se emancipa e que, emancipado, goza de suas faculdades com maior amplitude. Também são, frequentemente, conselhos que outros Espíritos dão.
 
-> a. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, não os podemos aproveitar?
+>`a`. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, não os podemos aproveitar?
 
 >
 >👻 Essas ideias, em regra, mais dizem respeito ao mundo dos Espíritos do que ao mundo corpóreo. Pouco importa que comumente o Espírito as esqueça, quando unido ao corpo. Na ocasião oportuna, voltar-lhe-ão como inspiração de momento.
@@ -4596,7 +4587,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não; pelo Espírito. O Espírito tem consciência de si, mas não pode comunicar-se.
 
-> a. Por quê?
+>`a`. Por quê?
 
 >
 >👻 Porque a isso se opõe o estado do corpo. E esse estado especial dos órgãos vos prova que no homem há alguma coisa mais do que o corpo, pois que, então, o corpo já não funciona e, no entanto, o Espírito se mostra ativo.
@@ -4798,7 +4789,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim, do trabalho sempre resulta o progresso e a dissipação do véu que encobre as coisas.
 
-> a. Esta faculdade tem qualquer ligação com a organização física?
+>`a`. Esta faculdade tem qualquer ligação com a organização física?
 
 >
 >👻 Incontestavelmente, o organismo influi para a sua existência. Há organismos que lhe são refratários.
@@ -4829,7 +4820,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 É sempre a alma a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria.
 
-> a. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
+>`a`. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 >
 >👻 Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente. 
@@ -4929,7 +4920,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Muitas vezes chegam a conhecer o que desejaríeis ocultar de vós mesmos. Nem atos, nem pensamentos se lhes podem dissimular.
 
-> a. Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do que a esconder dessa mesma pessoa depois de morta?
+>`a`. Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do que a esconder dessa mesma pessoa depois de morta?
 
 >
 >👻 Certamente. Quando vos julgais muito ocultos, é comum terdes ao vosso lado uma multidão de Espíritos que vos observam.
@@ -4991,7 +4982,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Para que sofrais como eles sofrem.
 
-> a. E isso lhes diminui os sofrimentos?
+>`a`. E isso lhes diminui os sofrimentos?
 
 >
 >👻 Não, mas fazem-no por inveja, por não poderem suportar que haja seres felizes.
@@ -5118,7 +5109,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sim e muito importante, bem como o magnetismo, que é a causa originária de tais fenômenos. O charlatanismo, porém, os tem amiúde explorado e exagerado, de sorte a lançá-los ao ridículo.
 
-> a. De que natureza são, em geral, os Espíritos que concorrem para a produção desta espécie de fenômenos?
+>`a`. De que natureza são, em geral, os Espíritos que concorrem para a produção desta espécie de fenômenos?
 
 >
 >👻 Pouco elevada. Supondes que Espíritos superiores se deleitem com tais coisas?
@@ -5184,7 +5175,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Sem dúvida e quase sempre vos protegem como Espíritos, de acordo com o poder de que dispõem.
 
-> a. São sensíveis à afeição que lhes conservamos?
+>`a`. São sensíveis à afeição que lhes conservamos?
 
 >
 >👻 Muito sensíveis, mas esquecem-se dos que os olvidam. 
@@ -5226,7 +5217,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 O Espírito fica obrigado a vos assistir, uma vez que aceitou esse encargo. Cabe-lhe, porém, o direito de escolher, para seus protegidos, seres que lhe sejam simpáticos. Para alguns, é um prazer; para outros, missão ou dever.
 
-> a. Dedicando-se a uma pessoa, renuncia o Espírito a proteger outros indivíduos?
+>`a`. Dedicando-se a uma pessoa, renuncia o Espírito a proteger outros indivíduos?
 
 >
 >👻 Não, mas protege-os menos exclusivamente.
@@ -5297,7 +5288,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Constitui isso um mérito que lhe é levado em conta, seja para seu progresso, seja para sua felicidade. Sente-se ditoso quando vê bem-sucedidos os seus esforços, o que representa, para ele, um triunfo, como triunfo é, para um preceptor, os bons êxitos do seu educando.
 
-> a. É responsável pelo mau resultado de seus esforços?
+>`a`. É responsável pelo mau resultado de seus esforços?
 
 >
 >👻 Não, pois que fez o que de si dependia.
@@ -5314,7 +5305,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Como quereis saber nomes para vós inexistentes? Supondes que Espíritos só há os que conheceis?
 
-> a. Como então o podemos invocar, se o não conhecemos?
+>`a`. Como então o podemos invocar, se o não conhecemos?
 
 >
 >👻 Dai-lhe o nome que quiserdes, o de Espírito superior que vos inspire simpatia ou veneração. O vosso protetor acudirá ao apelo que com esse nome lhe dirigirdes, visto que todos os bons Espíritos são irmãos e se assistem mutuamente.
@@ -5374,7 +5365,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não raro, desempenham missão temporária; porém, as mais das vezes, são apenas atraídos pela identidade de pensamentos e sentimentos, assim para o bem como para o mal.
 
-> a. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos podem ser bons ou maus, não?
+>`a`. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos podem ser bons ou maus, não?
 
 >
 >👻 Sim, qualquer que seja o seu caráter, o homem sempre encontra Espíritos que com ele simpatizem.
@@ -5483,7 +5474,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Certamente, pois que te aconselham.
 
-> a. Exercem essa influência por outra forma que não apenas pelos pensamentos que sugerem, isto é, têm ação direta sobre o cumprimento das coisas?
+>`a`. Exercem essa influência por outra forma que não apenas pelos pensamentos que sugerem, isto é, têm ação direta sobre o cumprimento das coisas?
 
 >
 >👻 Sim, mas nunca atuam fora das Leis da Natureza.
@@ -5514,7 +5505,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Pura imaginação. O homem gosta do maravilhoso e não se contenta com as maravilhas da Natureza.
 
-> a. Podem os Espíritos que dirigem os acontecimentos terrenos ter obstada sua ação por Espíritos que queiram o contrário?
+>`a`. Podem os Espíritos que dirigem os acontecimentos terrenos ter obstada sua ação por Espíritos que queiram o contrário?
 
 >
 >👻 O que Deus quer se executa. Se houver demora na execução, ou lhe surjam obstáculos, é porque Ele assim o quis.
@@ -5525,7 +5516,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Eles se comprazem em vos causar aborrecimentos que representam para vós provas destinadas a exercitar a vossa paciência. Cansam-se, porém, quando veem que nada conseguem. Entretanto, não seria justo, nem acertado, imputar-lhes todas as decepções que experimentais e de que sois os principais culpados pela vossa irreflexão. Fica certo de que, se a tua louça se quebra, é mais por desazo teu do que por culpa dos Espíritos.
 
-> a. Destes, os que provocam contrariedades obram impelidos por animosidade pessoal, ou assim procedem contra qualquer, sem motivo determinado, por pura malícia?
+>`a`. Destes, os que provocam contrariedades obram impelidos por animosidade pessoal, ou assim procedem contra qualquer, sem motivo determinado, por pura malícia?
 
 >
 >👻 Por uma e outra coisa. Às vezes os que assim vos molestam são inimigos que granjeastes nesta ou em precedente existência. Doutras vezes, nenhum motivo há.
@@ -5536,7 +5527,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Muitas vezes reconhecem a injustiça com que procederam e o mal que causaram, mas, também, não é raro que continuem a perseguir-vos, cheios de animosidade, se Deus o permitir, por ainda vos experimentar.
 
-> a. Pode-se pôr termo a isso? Por que meio?
+>`a`. Pode-se pôr termo a isso? Por que meio?
 
 >
 >👻 Podeis. Orando por eles e lhes retribuindo o mal com o bem, acabarão compreendendo a injustiça do proceder deles. Ademais, se souberdes colocar-vos acima de suas maquinações, deixar-vos-ão, por verificarem que nada lucram.
@@ -5558,7 +5549,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Algumas vezes, como prova. Quase sempre, porém, recusam, como se recusa à criança a satisfação de um pedido inconsiderado.
 
-> a. São os bons ou os maus Espíritos que concedem esses favores?
+>`a`. São os bons ou os maus Espíritos que concedem esses favores?
 
 >
 >👻 Uns e outros. Depende da intenção. As mais das vezes, entretanto, os que os concedem são os Espíritos que vos querem arrastar para o mal e que encontram meio fácil de o conseguirem, facilitando-vos os gozos que a riqueza proporciona.
@@ -5575,7 +5566,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Agradecei primeiramente a Deus, sem cuja permissão nada se faz; depois, aos bons Espíritos que foram os agentes da sua vontade.
 
-> a. Que sucederia se nos esquecêssemos de agradecer?
+>`a`. Que sucederia se nos esquecêssemos de agradecer?
 
 >
 >👻 O que sucede aos ingratos.
@@ -5597,7 +5588,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Tudo tem uma razão de ser e nada acontece sem a permissão de Deus.
 
-> a. Objetivam sempre o homem esses fenômenos?
+>`a`. Objetivam sempre o homem esses fenômenos?
 
 >
 >👻 Às vezes têm, como imediata razão de ser, o homem. Na maioria dos casos, entretanto, têm por único motivo o restabelecimento do equilíbrio e da harmonia das forças físicas da Natureza.
@@ -5613,7 +5604,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Tão pouco destituída é de fundamento, que ainda está muito aquém da verdade.
 
-> a. Poderá então haver Espíritos que habitem o interior da Terra e presidam aos fenômenos geológicos?
+>`a`. Poderá então haver Espíritos que habitem o interior da Terra e presidam aos fenômenos geológicos?
 
 >
 >👻 Tais Espíritos não habitam positivamente a Terra. Presidem aos fenômenos e os dirigem de acordo com as atribuições que têm. Dia virá em que recebereis a explicação de todos esses fenômenos e os compreendereis melhor.
@@ -5624,7 +5615,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Que foram ou que o serão.
 
-> a. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarquia espírita?
+>`a`. Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarquia espírita?
 
 >
 >👻 Isso é conforme seja mais ou menos material, mais ou menos inteligente o papel que desempenhem. Uns mandam, outros executam. Os que executam coisas materiais são sempre de ordem inferior, assim entre os Espíritos, como entre os homens.
