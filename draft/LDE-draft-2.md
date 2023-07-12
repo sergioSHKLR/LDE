@@ -996,7 +996,6 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 >
 >O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se.
 
-
 #### `LDE-1-04-03` 📃 Inteligência e instinto
 
 >##### `LDE-q71`
@@ -1111,7 +1110,6 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >✍🏻`Há muitas coisas que não compreendeis, porque tendes limitada a inteligência. Isso, porém, não é razão para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos Espíritos não tem fim. É tudo o que podemos, por agora, dizer.
 
-
 #### `LDE-2-01-02`
 
 #### 📃 Mundo normal primitivo
@@ -1139,7 +1137,6 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 >
 >✍🏻 Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os Espíritos são uma das potências da natureza e os instrumentos de que Deus se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados.
-
 
 #### `LDE-2-01-03` 📃 Forma e ubiquidade dos Espíritos
 
@@ -1195,7 +1192,6 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👴🏻 Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos.
 
-
 #### `LDE-2-01-04` 📃 Perispírito
 
 >##### `LDE-q93`
@@ -1224,7 +1220,6 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >✍🏻 Tem a forma que o Espírito queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável.
 
-
 #### `LDE-2-01-05` 📃 Diferentes ordens de Espíritos
 
 >##### `LDE-q96`
@@ -1250,7 +1245,6 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os da terceira ordem são todos essencialmente maus?
 >
 >✍🏻 Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os levianos ou **estouvados**, mais perturbadores do que malignos, que se comprazem antes na malícia do que na malvadez e cujo prazer consiste em mistificar e causar pequenas contrariedades, de que se riem.
-
 
 #### `LDE-2-01-06` 📃 Escala espírita
 
@@ -1472,7 +1466,6 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👴🏻 Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há Espíritos que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o Espírito, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio.
 
-
 #### `LDE-2-01-11` 📃 Anjos e demônios
 
 >##### `LDE-q128`
@@ -1515,9 +1508,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da verdade etc. Os modernos representaram os anjos, os puros Espíritos, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
 
-
 ### `LDE-2-02` 📑 02. Da encarnação dos espíritos
-
 
 #### `LDE-2-02-01` 📃 Objetivo da encarnação
 
@@ -1540,7 +1531,6 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
 >
 >✍🏻 Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos.
-
 
 #### `LDE-2-02-02` 📃 A alma
 
@@ -1677,7 +1667,6 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >✍🏻 Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais.
 
-
 #### `LDE-2-02-03` 📃 Materialismo
 
 >##### `LDE-q147`
@@ -1700,9 +1689,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro.
 
-
 ### `LDE-2-03` 📑 03. Da volta do Espírito à vida espiritual
-
 
 #### `LDE-2-03-01` 📃 A alma após a morte. Vida eterna.
 
