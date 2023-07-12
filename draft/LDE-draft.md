@@ -41,16 +41,12 @@ por **Allan Kardec**.
 
 Tradução de Guillon Ribeiro
 
-Título do original francês
-
-Le livre des esprits
-
+Título do original francês<br />
+Le livre des esprits<br />
 (Paris, 18 de abril de 1857)
 
-Copyright © 1944 by
-
-Federação Espírita Brasileira (FEB)
-
+Copyright © 1944 by<br />
+Federação Espírita Brasileira (FEB)<br />
 ISBN 978-85-7328-728-8
 
 [🔼](#lde-0)
