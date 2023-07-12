@@ -1442,9 +1442,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os Espíritos têm forma determinada, limitada e constante?
 >
 >👻 Para vós, não; para nós, sim. O Espírito é, se quiserdes, uma chama, um clarão, ou uma centelha etérea.
-
+>
 >🇦. Essa chama ou centelha tem cor?
-
 >
 >👻 Tem uma cor que, para vós, vai do escuro ao brilho do rubi, conforme o Espírito é mais ou menos puro.
 >
@@ -1455,9 +1454,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os Espíritos gastam algum tempo para percorrer o Espaço?
 >
 >👻 Sim, mas fazem-no com a rapidez do pensamento.
-
+>
 >🇦. O pensamento não é a própria alma que se transporta?
-
 >
 >👻 Quando o pensamento está em alguma parte, a alma também aí está, pois que é a alma que pensa. O pensamento é um atributo.
 
@@ -1480,7 +1478,6 @@ a. Por que nem sempre é guia infalível a razão?
 >👻 Não pode haver divisão de um mesmo Espírito, mas cada um é um centro que irradia para diversos lados. Isso é que faz parecer estar um Espírito em muitos lugares ao mesmo tempo. Vês o Sol? É um somente. No entanto, irradia em todos os sentidos e leva muito longe os seus raios. Contudo, não se divide.
 
 >🇦. Todos os Espíritos irradiam com igual força?
-
 >
 >👻 Longe disso. Essa força depende do grau de pureza de cada um.
 >
@@ -1508,7 +1505,6 @@ a. Por que nem sempre é guia infalível a razão?
 >👻 Do fluido universal de cada globo, razão por que não é idêntico em todos os mundos. Passando de um mundo a outro, o Espírito muda de envoltório, como mudais de roupa.
 
 >🇦. Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio, tomam um perispírito mais grosseiro?
-
 >
 >👻 É necessário que se revistam da vossa matéria, já o dissemos.
 
@@ -1701,7 +1697,6 @@ a. Por que nem sempre é guia infalível a razão?
 >👻 Deus criou todos os Espíritos simples e ignorantes, isto é, sem saber. A cada um deu determinada missão, com o fim de esclarecê-los e de os fazer chegar progressivamente à perfeição, pelo conhecimento da verdade, para aproximá-los de si. Nesta perfeição é que eles encontram a pura e eterna felicidade. Passando pelas provas que Deus lhes impõe é que os Espíritos adquirem aquele conhecimento. Uns aceitam submissos essas provas e chegam mais depressa à meta que lhes foi destinada. Outros só a suportam lamentando e, pela falta em que desse modo incorrem, permanecem afastados da perfeição e da prometida felicidade.
 
 >🇦. Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as crianças, ignorantes e inexperientes, só adquirindo pouco a pouco os conhecimentos de que carecem com o percorrerem as diferentes fases da vida?
-
 >
 >👻 Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor docilidade. Mas a vida do homem tem termo, ao passo que a dos Espíritos se prolonga ao infinito.
 
@@ -1748,7 +1743,7 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Como podem os Espíritos, em sua origem, quando ainda não têm consciência de si mesmos, gozar da liberdade de escolha entre o bem e o mal? Há neles algum princípio, qualquer tendência que os encaminhe para uma senda de preferência a outra?
 >
 >👻 O livre-arbítrio se desenvolve à medida que o Espírito adquire a consciência de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma causa independente da vontade do Espírito. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
-
+>
 >🇦. Donde vêm as influências que sobre ele se exercem?
 >
 >👻 Dos Espíritos imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás.
@@ -1873,9 +1868,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Têm necessidade de encarnação os Espíritos que, desde o princípio, seguiram o caminho do bem?
 >
 >👻 Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. Deus, que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem mérito.
-
+>
 >🇦. Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso não os isenta dos sofrimentos da vida corporal?
-
 >
 >👻 Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos. 
 
@@ -1891,14 +1885,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Que é a alma?
 >
 >👻 Um Espírito encarnado.
-
+>
 >🇦. Que era a alma antes de se unir ao corpo?
-
 >
 >👻 Espírito.
-
+>
 >🇧. As almas e os Espíritos são, portanto, idênticos, a mesma coisa?
-
 >
 >👻 Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a alma é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem.
 
@@ -1907,9 +1899,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Há no homem alguma outra coisa além da alma e do corpo?
 >
 >👻 Há o laço que liga a alma ao corpo.
-
+>
 >🇦. De que natureza é esse laço?
-
 >
 >👻 Semimaterial, isto é, de natureza intermédia entre o Espírito e o corpo. É preciso que seja assim para que os dois possam comunicar-se um com o outro. Por meio desse laço é que o Espírito atua sobre a matéria e reciprocamente.
 >
@@ -1926,14 +1917,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ A alma independe do princípio vital?
 >
 >👻 O corpo não é mais do que envoltório, repetimo-lo constantemente.
-
+>
 >🇦. Pode o corpo existir sem a alma?
-
 >
 >👻 Pode; entretanto, desde que cessa a vida do corpo, a alma o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a morte do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica.
-
+>
 >🇧. Que seria o nosso corpo, se não tivesse alma?
-
 >
 >👻 Simples massa de carne sem inteligência, tudo o que quiserdes, exceto um homem.
 
@@ -1964,9 +1953,9 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Que se deve pensar da teoria da alma subdividida em tantas partes quantos são os músculos e presidindo assim a cada uma das funções do corpo?
 >
 >👻 Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por alma o fluido vital, essa teoria tem razão de ser; se se entende por alma o Espírito encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
-
+>
 >🇦. Entretanto, alguns Espíritos deram essa definição.
-
+>
 >Os Espíritos ignorantes podem tomar o efeito pela causa.
 >A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
 
@@ -2005,9 +1994,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ A alma tem, no corpo, sede determinada e circunscrita?
 >
 >👻 Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
-
+>
 >🇦. Que se deve pensar da opinião dos que situam a alma num centro vital?
-
 >
 >👻 Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais. 
 
@@ -2066,14 +2054,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ A alma, após a morte, conserva a sua individualidade?
 >
 >👻 Sim; jamais a perde. Que seria ela, se não a conservasse?
-
+>
 >🇦. Como comprova a alma a sua individualidade, uma vez que não tem mais corpo material?
-
 >
 >👻 Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito.
-
+>
 >🇧. A alma nada leva consigo deste mundo?
-
 >
 >👻 Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra.
 
@@ -2100,9 +2086,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Em que sentido se deve entender a vida eterna?
 >
 >👻 A vida do Espírito é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a alma retoma a vida eterna.
-
+>
 >🇦. Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo atingido a perfeição, não estão sujeitos a sofrer mais prova alguma?
-
 >
 >👻 Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais. 
 
@@ -2126,9 +2111,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Como se opera a separação da alma e do corpo?
 >
 >👻 Rotos os laços que a retinham, ela se desprende.
-
+>
 >🇦. A separação se dá instantaneamente por brusca transição? Haverá alguma linha de demarcação nitidamente traçada entre a vida e a morte?
-
 >
 >👻 Não; a alma se desprende gradualmente, não se escapa como um pássaro cativo a que se restitua subitamente a liberdade. Aqueles dois estados se tocam e confundem, de sorte que o Espírito se solta pouco a pouco dos laços que o prendiam. **Estes laços se desatam, não se quebram**.
 >
@@ -2239,19 +2223,16 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Como pode a alma, que não alcançou a perfeição durante a vida corpórea, acabar de depurar-se?
 >
 >👻 Sofrendo a prova de uma nova existência.
-
+>
 >🇦. Como realiza essa nova existência? Será pela sua transformação como Espírito?
-
 >
 >👻 Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.
-
+>
 >🇧. A alma passa então por muitas existências corporais?
-
 >
 >👻 Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles.
-
+>
 >🇨. Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
-
 >
 >👻 Evidentemente.
 
@@ -2318,14 +2299,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ A cada nova existência corporal a alma passa de um mundo para outro, ou pode ter muitas no mesmo globo?
 >
 >👻 Pode viver muitas vezes no mesmo globo, se não se adiantou bastante para passar a um mundo superior.
-
+>
 >🇦. Podemos então reaparecer muitas vezes na Terra?
-
 >
 >👻 Certamente.
-
+>
 >🇧. Podemos voltar a este, depois de termos vivido em outros mundos?
-
 >
 >👻 Sem dúvida. É possível que já tenhais vivido algures e na Terra.
 
@@ -2340,9 +2319,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Haverá alguma vantagem em voltar-se a habitar a Terra?
 >
 >👻 Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta.
-
+>
 >🇦. Não se seria mais feliz permanecendo na condição de Espírito?
-
 >
 >👻 Não, não; estacionar-se-ia e o que se quer é caminhar para Deus.
 
@@ -2351,14 +2329,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Depois de haverem encarnado noutros mundos, podem os Espíritos encarnar neste, sem que jamais aí tenham estado?
 >
 >👻 Sim, do mesmo modo que vós em outros. Todos os mundos são solidários: o que não se faz num faz-se noutro.
-
+>
 >🇦. Assim, homens há que estão na Terra pela primeira vez?
-
 >
 >👻 Muitos, e em graus diversos de adiantamento.
-
+>
 >🇧. Pode-se reconhecer, por um indício qualquer, que um Espírito está pela primeira vez na Terra?
-
 >
 >👻 Nenhuma utilidade teria isso.
 
@@ -2367,9 +2343,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Para chegar à perfeição e à suprema felicidade, destino final de todos os homens, tem o Espírito que passar pela fieira de todos os mundos existentes no Universo?
 >
 >👻 Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o Espírito, saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau.
-
+>
 >🇦. Como se explica então a pluralidade de suas existências em um mesmo globo?
-
 >
 >👻 De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência.
 
@@ -2378,14 +2353,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Podem os Espíritos encarnar em um mundo relativamente inferior a outro onde já viveram?
 >
 >👻 Sim, quando em missão, com o objetivo de auxiliarem o progresso, caso em que aceitam alegres as tribulações de tal existência, por lhes proporcionar meio de se adiantarem.
-
+>
 >🇦. Mas não pode dar-se também por expiação? Não pode Deus degredar para mundos inferiores Espíritos rebeldes?
-
 >
 >👻 Os Espíritos podem conservar-se estacionários, mas não retrogradam. Em caso de estacionamento, a punição deles consiste em não avançarem, em recomeçarem, no meio conveniente à sua natureza, as existências mal-empregadas.
-
+>
 >🇧. Quais os que têm de recomeçar a mesma existência?
-
 >
 >👻 Os que faliram em suas missões ou em suas provas.
 
@@ -2430,9 +2403,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Tem o Espírito a faculdade de escolher o mundo em que passe a habitar?
 >
 >👻 Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os Espíritos, depende do grau da elevação destes.
-
+>
 >🇦. Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnará?
-
 >
 >👻 O grau da sua elevação.
 
@@ -2449,9 +2421,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Haverá mundos em que o Espírito, deixando de revestir corpos materiais, só tenha por envoltório o perispírito?
 >
 >👻 Há e mesmo esse envoltório se torna tão etéreo que para vós é como se não existisse. Esse o estado dos Espíritos puros.
-
+>
 >🇦. Parece resultar daí que, entre o estado correspondente às últimas encarnações e o de Espírito puro, não há linha divisória perfeitamente demarcada; não?
-
 >
 >👻 Semelhante demarcação não existe. A diferença entre um e outro estado se vai apagando pouco a pouco e acaba por ser imperceptível, tal qual se dá com a noite às primeiras claridades do alvorecer.
 
@@ -2491,9 +2462,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ As dos nossos selvagens são almas no estado de infância?
 >
 >👻 De infância relativa, pois já são almas desenvolvidas, visto que já nutrem paixões.
-
+>
 >🇦. Então, as paixões são um sinal de desenvolvimento?
-
 >
 >👻 De desenvolvimento, sim; de perfeição, porém, não. São sinal de atividade e de consciência do **eu**, porquanto, na alma primitiva, a inteligência e a vida se acham no estado de germe.
 >
@@ -2504,9 +2474,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Pode alguém, por um proceder impecável na vida atual, transpor todos os graus da escala do aperfeiçoamento e tornar-se Espírito puro, sem passar por outros graus intermédios?
 >
 >👻 Não, pois o que o homem julga perfeito longe está da perfeição. Há qualidades que lhe são desconhecidas e incompreensíveis. Poderá ser tão perfeito quanto o comporte a sua natureza terrena, mas isso não é a perfeição absoluta. Dá-se com o Espírito o que se verifica com a criança que, por mais precoce que seja, tem de passar pela juventude, antes de chegar à idade da madureza; e também com o enfermo que, para recobrar a saúde, tem que passar pela convalescença. Demais, ao Espírito cumpre progredir em ciência e em moral. Se somente se adiantou num sentido, importa se adiante no outro, para atingir o extremo superior da escala. Contudo, quanto mais o homem se adiantar na sua vida atual, tanto menos longas e penosas lhe serão as provas que se seguirem.
-
+>
 >🇦. Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma existência futura menos prenhe de amarguras?
-
 >
 >👻 Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. **Só o descuidoso permanece sempre no mesmo ponto**.
 
@@ -2521,9 +2490,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ É possível que, em nova encarnação, a alma de um homem de bem anime o corpo de um celerado?
 >
 >👻 Não, visto que não pode degenerar.
-
+>
 >🇦. A alma de um homem perverso pode tornar-se a de um homem de bem?
-
 >
 >👻 Sim, se se arrependeu. Isso constitui então uma recompensa.
 >
@@ -2542,9 +2510,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulações da existência corpórea, segue-se que a vida material seja uma espécie de **crisol** ou de **depurador**, por onde têm que passar todos os seres do mundo espírita para alcançarem a perfeição?
 >
 >👻 Sim, é exatamente isso. Eles se melhoram nessas provas, evitando o mal e praticando o bem; porém, somente ao cabo de mais ou menos longo tempo, conforme os esforços que empreguem; somente após muitas encarnações ou depurações sucessivas, atingem a finalidade para que tendem.
-
+>
 >🇦. É o corpo que influi sobre o Espírito para que este se melhore, ou o Espírito que influi sobre o corpo?
-
 >
 >👻 Teu Espírito é tudo; teu corpo é simples veste que apodrece: eis tudo.
 >
@@ -2562,9 +2529,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Poderá ser tão adiantado quanto o de um adulto o Espírito de uma criança que morreu em tenra idade?
 >
 >👻 Algumas vezes o é muito mais, porquanto pode dar-se que muito mais já tenha vivido e adquirido maior soma de experiência, sobretudo se progrediu.
-
+>
 >🇦. Pode então o Espírito de uma criança ser mais adiantado que o de seu pai?
-
 >
 >👻 Isso é muito frequente. Não o vedes vós mesmos tão amiudadas vezes na Terra?
 
@@ -2579,9 +2545,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Por que tão frequentemente a vida se interrompe na infância?
 >
 >👻 A curta duração da vida da criança pode representar, para o Espírito que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui **provação ou expiação para os pais**.
-
+>
 >🇦. Que sucede ao Espírito de uma criança que morre pequenina?
-
 >
 >👻 Recomeça outra existência.
 >
@@ -2642,9 +2607,9 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços de família, com o fazê-los anteriores à existência atual.
 >
 >👻 Ela os distende; não os destrói. Fundando-se o parentesco em afeições anteriores, menos precários são os laços existentes entre os membros de uma mesma família. Essa doutrina amplia os deveres da fraternidade, porquanto, no vosso vizinho, ou no vosso servo, pode achar-se um Espírito a quem tenhais estado presos pelos laços da consanguinidade.
-
+>
 >🇦. Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que qualquer pode ter tido por pai um Espírito que haja pertencido a outra raça, ou que haja vivido em condição muito diversa. [^11]
-
+>
 >👻 É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que Deus formulou as Leis da Natureza.
 
 >##### `lde-q206`
@@ -2664,9 +2629,8 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >#️⃣ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
 >Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
-
+>
 >🇦. Donde se originam as parecenças morais que costuma haver entre pais e filhos?
-
 >
 >👻 É que uns e outros são Espíritos simpáticos, que reciprocamente se atraíram pela analogia dos pendores.
 
@@ -2744,9 +2708,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Encarnado, conserva o Espírito algum vestígio das percepções que teve e dos conhecimentos que adquiriu nas existências anteriores?
 >
 >👻 Guarda vaga lembrança, que lhe dá o que se chama ideias inatas.
-
+>
 >🇦. Não é, então, quimérica a teoria das ideias inatas?
-
 >
 >👻 Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o Espírito sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o Espírito, é o em que, na existência precedente, ele ficou.
 
@@ -2772,9 +2735,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Dever-se-ão atribuir a uma lembrança retrospectiva o sentimento instintivo que o homem, mesmo selvagem, possui da existência de Deus e o pressentimento da vida futura?
 >
 >👻 É uma lembrança que ele conserva do que sabia como Espírito antes de encarnar, mas o orgulho amiudadamente abafa esse sentimento.
-
+>
 >🇦. Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Espírita, que se observam em todos os povos?
-
 >
 >👻 Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição. 
 
@@ -2928,9 +2890,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Que é a alma no intervalo das encarnações?
 >
 >👻 Espírito errante, que aspira a novo destino, que espera.
-
+>
 >🇦. Quanto podem durar esses intervalos?
-
 >
 >👻 Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de erraticidade, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o Espírito terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
 
@@ -3007,9 +2968,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Há, de fato, como já foi dito, mundos que servem de estações ou pontos de repouso aos Espíritos errantes?
 >
 >👻 Sim, há mundos particularmente destinados aos seres errantes, mundos que lhes podem servir de habitação temporária, espécies de bivaques, de campos onde descansem de uma demasiado longa erraticidade, estado este sempre um tanto penoso. São, entre os outros mundos, posições intermédias, graduadas de acordo com a natureza dos Espíritos que a elas podem ter acesso e onde eles gozam de maior ou menor bem-estar.
-
+>
 >🇦. Os Espíritos que habitam esses mundos podem deixá-los livremente?
-
 >
 >👻 Sim, os Espíritos que se encontram nesses mundos podem deixá-los, a fim de irem aonde devam ir. Figurai-os como bandos de aves que pousam numa ilha, para aí aguardarem que se lhes refaçam as forças, a fim de seguirem seu destino.
 
@@ -3101,9 +3061,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ E o futuro, os Espíritos o conhecem?
 >
 >👻 Ainda isto depende da elevação que tenham conquistado. Muitas vezes, apenas o entreveem, **porém, nem sempre lhes é permitido revelá-lo**. Quando o veem, parece-lhes presente. À medida que se aproxima de Deus, tanto mais claramente o Espírito descortina o futuro. Depois da morte, a alma vê e apreende num golpe de vista **suas passadas migrações**, mas não pode ver o que Deus lhe reserva. Para que tal aconteça, preciso é que, ao cabo de múltiplas existências, se haja integrado nele.
-
+>
 >🇦. Os Espíritos que alcançaram a perfeição absoluta têm conhecimento completo do futuro?
-
 >
 >👻 Completo não se pode dizer, por isso que só Deus é soberano Senhor e ninguém o pode igualar.
 
@@ -3112,14 +3071,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os Espíritos veem a Deus?
 >
 >👻 Só os Espíritos superiores o veem e compreendem. Os inferiores o sentem e adivinham.
-
+>
 >🇦. Quando um Espírito inferior diz que Deus lhe proíbe ou permite uma coisa, como sabe que isso lhe vem dele?
-
 >
 >👻 Ele não vê a Deus, mas sente a sua soberania e, quando não deva ser feita alguma coisa ou dita uma palavra, percebe, como por intuição, a proibição de fazê-la ou dizê-la. Não tendes vós mesmos pressentimentos, que se vos afiguram avisos secretos, para fazerdes, ou não, isto ou aquilo? O mesmo nos acontece, se bem que em grau mais alto, pois compreendes que, sendo mais sutil do que as vossas a essência dos Espíritos, podem estes receber melhor as advertências divinas.
-
+>
 >🇧. Deus transmite diretamente a ordem ao Espírito, ou por intermédio de outros Espíritos?
-
 >
 >👻 Ela não lhe vem direta de Deus. Para se comunicar com Deus, é-lhe necessário ser digno disso. Deus lhe transmite suas ordens por intermédio dos Espíritos imediatamente superiores em perfeição e instrução.
 
@@ -3154,9 +3111,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Percebe os sons?
 >
 >👻 Sim, percebe mesmo sons imperceptíveis para os vossos sentidos obtusos.
-
+>
 >🇦. No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
-
 >
 >👻 Todas as percepções constituem atributos do Espírito e lhe são inerentes ao ser. Quando o reveste um corpo material, elas só lhe chegam pelo conduto dos órgãos. Deixam, porém, de estar localizadas, em se achando ele na condição de Espírito livre.
 
@@ -3253,9 +3209,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Quando na erraticidade, antes de começar nova existência corporal, tem o Espírito consciência e previsão do que lhe sucederá no curso da vida terrena?
 >
 >👻 Ele próprio escolhe o gênero de provas por que há de passar e nisso consiste o seu livre-arbítrio.
-
+>
 >🇦. Não é Deus, então, quem lhe impõe as tribulações da vida, como castigo?
-
 >
 >👻 Nada ocorre sem a permissão de Deus, porquanto foi Deus quem estabeleceu todas as leis que regem o Universo. Ide agora perguntar por que decretou Ele esta lei e não aquela. Dando ao Espírito a liberdade de escolher, Deus lhe deixa a inteira responsabilidade de seus atos e das consequências que estes tiverem. Nada lhe estorva o futuro; abertos se lhe acham, assim, o caminho do bem, como o do mal. Se vier a sucumbir, restar-lhe-á a consolação de que nem tudo se lhe acabou e que a Bondade divina lhe concede a liberdade de recomeçar o que foi malfeito. Ademais, cumpre se distinga o que é obra da vontade de Deus do que o é da vontade do homem. Se um perigo vos ameaça, não fostes vós quem o criou e sim Deus. Vosso, porém, foi o desejo de a ele vos expordes, por haverdes visto nisso um meio de progredirdes, e Deus o permitiu.
 
@@ -3270,9 +3225,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Como pode o Espírito desejar nascer entre gente de má vida?
 >
 >👻 Forçoso é que seja posto num meio onde possa sofrer a prova que pediu. Pois bem! É necessário que haja analogia. Para lutar contra o instinto do roubo, preciso é que se ache em contato com gente dada à prática de roubar.
-
+>
 >🇦. Assim, se não houvesse na Terra gente de maus costumes, o Espírito não encontraria aí meio apropriado ao sofrimento de certas provas?
-
 >
 >👻 E seria isso de lastimar-se? É o que ocorre nos mundos superiores, onde o mal não penetra. Eis por que, nesses mundos, só há Espíritos bons. Fazei que em breve o mesmo se dê na Terra.
 
@@ -3287,9 +3241,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Como pode o Espírito, que, em sua origem, é simples, ignorante e carecido de experiência, escolher uma existência com conhecimento de causa e ser responsável por essa escolha?
 >
 >👻 Deus lhe supre a inexperiência, traçando-lhe o caminho que deve seguir, como fazeis com a criancinha. Deixa-o, porém, pouco a pouco, à medida que o seu livre-arbítrio se desenvolve, senhor de proceder à escolha e só então é que muitas vezes lhe acontece extraviar-se, tomando o mau caminho, por desatender os conselhos dos bons Espíritos. A isso é que se pode chamar a queda do homem.
-
+>
 >🇦. Quando o Espírito goza do livre-arbítrio, a escolha, que lhe cabe, da existência corporal depende sempre, exclusivamente, de sua vontade, ou essa existência lhe pode ser imposta, como expiação, pela vontade de Deus?
-
 >
 >👻 Deus sabe esperar, não apressa a expiação. Todavia, pode impor certa existência a um Espírito, quando este, pela sua inferioridade ou má vontade, não se mostra apto a compreender o que lhe seria mais útil, e quando vê que tal existência servirá para a purificação e o progresso do Espírito, ao mesmo tempo que lhe sirva de expiação.
 
@@ -3332,9 +3285,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Pode o Espírito proceder à escolha de suas provas, enquanto encarnado?
 >
 >👻 O desejo que então alimenta pode influir na escolha que venha a fazer, dependendo isso da intenção que o anime. Dá-se, porém, que, como Espírito livre, quase sempre vê as coisas de modo diferente. O Espírito por si só é quem faz a escolha; entretanto, ainda uma vez o dizemos, possível lhe é fazê-la, mesmo na vida material, por isso que há sempre momentos em que o Espírito se torna independente da matéria que lhe serve de habitação.
-
+>
 >🇦. Não é decerto como expiação, ou como prova, que muita gente deseja as grandezas e as riquezas. Será?
-
 >
 >👻 Indubitavelmente, não. A matéria deseja essa grandeza para gozá-la e o Espírito para conhecer-lhe as vicissitudes.
 
@@ -3390,9 +3342,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Da existência de diferentes ordens de Espíritos, resulta para estes alguma hierarquia de poderes? Há entre eles subordinação e autoridade?
 >
 >👻 Muito grande. Os Espíritos têm uns sobre os outros a autoridade correspondente ao grau de superioridade que hajam alcançado, autoridade que eles exercem por um ascendente moral irresistível.
-
+>
 >🇦. Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são superiores?
-
 >
 >👻 Eu disse: irresistível.
 
@@ -3401,9 +3352,9 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ O poder e a consideração de que um homem gozou na Terra lhe dão supremacia no mundo dos Espíritos?
 >
 >👻 Não; pois que os pequenos serão elevados e os grandes rebaixados. Lê os salmos.
-
+>
 >🇦. Como devemos entender essa elevação e esse rebaixamento?
-
+>
 >👻 Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse **Jesus**:
 >
 >> Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado? 
@@ -3471,9 +3422,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os Espíritos se reconhecem por terem coabitado a Terra? O filho reconhece o pai, o amigo reconhece o seu amigo?
 >
 >👻 Perfeitamente e, assim, de geração em geração.
-
+>
 >🇦. Como é que os que se conheceram na Terra se reconhecem no mundo dos Espíritos?
-
 >
 >👻 Vemos a nossa vida pretérita e lemos nela como em um livro. Vendo a dos nossos amigos e dos nossos inimigos, aí vemos a passagem deles da vida corporal à outra.
 
@@ -3593,9 +3543,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Podem tornar-se de futuro simpáticos, Espíritos que presentemente não o são?
 >
 >👻 Todos o serão. Um Espírito, que hoje está numa esfera inferior, ascenderá, aperfeiçoando-se, à em que se acha tal outro Espírito. E ainda mais depressa se dará o encontro dos dois, se o mais elevado, por suportar mal as provas a que esteja submetido, permanecer estacionário.
-
+>
 >🇦. Mas, se o quisesse, poderia lembrar-se delas?
-
 >
 >👻 Pode lembrar-se dos mais minuciosos pormenores e incidentes, assim relativos aos fatos, como até aos seus pensamentos. Não o faz, porém, desde que não tenha utilidade.
 
@@ -3621,9 +3570,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Como considera o Espírito o corpo de que vem de separar-se?
 >
 >👻 Como veste imprestável, que o embaraçava, sentindo-se feliz por estar livre dela.
-
+>
 >🇦. Que sensação lhe causa o espetáculo do seu corpo em decomposição?
-
 >
 >👻 Quase sempre se conserva indiferente a isso, como a uma coisa que em nada o interessa.
 
@@ -3709,9 +3657,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ O dia da comemoração dos mortos é, para os Espíritos, mais solene do que os outros dias? Apraz-lhes ir ao encontro dos que vão orar nos cemitérios sobre seus túmulos?
 >
 >👻 Os Espíritos acodem nesse dia ao chamado dos que da Terra lhes dirigem seus pensamentos, como o fazem noutro dia qualquer.
-
+>
 >🇦. Mas o de finados é, para eles, um dia especial de reunião junto de suas sepulturas?
-
 >
 >👻 Nesse dia, em maior número se reúnem nas necrópoles, porque então também é maior, em tais lugares, o das pessoas que os chamam pelo pensamento. Porém, cada Espírito vai lá somente pelos seus amigos e não pela multidão dos indiferentes.
 
@@ -3743,9 +3690,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Qual a origem do desejo que certas pessoas exprimem de ser enterradas antes num lugar do que noutro? Será que preferirão, depois de mortas, vir a tal lugar? E essa importância dada a uma coisa tão material constitui indício de inferioridade do Espírito?
 >
 >👻 Afeição particular do Espírito por determinados lugares; inferioridade moral. Que importa este ou aquele canto da Terra a um Espírito elevado? Não sabe ele que sua alma se reunirá às dos que lhe são caros, embora fiquem separados os seus respectivos ossos?
-
+>
 >🇦. Deve-se considerar futilidade a reunião dos despojos mortais de todos os membros de uma família?
-
 >
 >👻 Não; é um costume piedoso e um testemunho de simpatia que dão os que assim procedem aos que lhes foram entes queridos. Conquanto destituída de importância para os Espíritos, essa reunião é útil aos homens: mais concentradas se tornam suas recordações.
 
@@ -3760,9 +3706,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ O Espírito assiste ao seu enterro?
 >
 >👻 Frequentemente assiste, mas, algumas vezes, se ainda está perturbado, não percebe o que se passa.
-
+>
 >🇦. Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
-
 >
 >👻 Mais ou menos, conforme o sentimento que as anima.
 
@@ -3806,9 +3751,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Sabem os Espíritos em que época reencarnarão?
 >
 >👻 Pressentem-na, como sucede ao cego que se aproxima do fogo. Sabem que têm de retomar um corpo, como sabeis que tendes de morrer um dia, mas ignoram quando isso se dará. 👉 ([`lde-q166`](#lde-q166))
-
+>
 >🇦. Então, a reencarnação é uma necessidade da vida espírita, como a morte o é da vida corporal?
-
 >
 >👻 Certamente; assim é.
 
@@ -3841,9 +3785,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Cabe ao Espírito a escolha do corpo em que encarne, ou somente a do gênero de vida que lhe sirva de prova?
 >
 >👻 Pode também escolher o corpo, porquanto as imperfeições que este apresente ainda serão, para o Espírito, provas que lhe auxiliarão o progresso, se vencer os obstáculos que lhe oponha. Nem sempre, porém, lhe é permitida a escolha do seu invólucro corpóreo; mas, simplesmente, a faculdade de pedir que seja tal ou qual.
-
+>
 >🇦. Poderia o Espírito recusar, à última hora, tomar o corpo por ele escolhido?
-
 >
 >👻 Se recusasse, sofreria muito mais do que aquele que não tentasse
 >prova alguma.
@@ -3922,9 +3865,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Que faz o Espírito, se o corpo que ele escolheu morre antes de se verificar o nascimento?
 >
 >👻 Escolhe outro.
-
+>
 >🇦. Qual a utilidade dessas mortes prematuras?
-
 >
 >👻 Dão-lhes causa, as mais das vezes, as imperfeições da matéria.
 
@@ -3987,9 +3929,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Entre os natimortos alguns haverá que não tenham sido destinados à encarnação de Espíritos?
 >
 >👻 Alguns há, efetivamente, a cujos corpos nunca nenhum Espírito esteve destinado. Nada tinha que se efetuar para eles. Tais crianças então só vêm por seus pais.
-
+>
 >🇦. Pode chegar a termo de nascimento um ser dessa natureza?
-
 >
 >👻 Algumas vezes; mas não vive.
 
@@ -4034,9 +3975,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Qual a origem das qualidades morais, boas ou más, do homem?
 >
 >👻 São as do Espírito nele encarnado. Quanto mais puro é esse Espírito, tanto mais propenso ao bem é o homem.
-
+>
 >🇦. Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o homem vicioso a de um Espírito mau?
-
 >
 >👻 Sim, mas, dize antes que o homem vicioso é a encarnação de um Espírito imperfeito, pois, do contrário, poderias fazer crer na existência de Espíritos sempre maus, a que chamais demônios.
 
@@ -4090,9 +4030,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Após sua união com o corpo, exerce o Espírito, com liberdade plena, suas faculdades?
 >
 >👻 O exercício das faculdades depende dos órgãos que lhes servem de instrumento. A grosseria da matéria as enfraquece.
-
+>
 >🇦. Assim, o invólucro material é obstáculo à livre manifestação das faculdades do Espírito, como um vidro opaco o é à livre irradiação da luz?
-
 >
 >👻 É, como vidro muito opaco.
 >
@@ -4109,9 +4048,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Da influência dos órgãos se pode inferir a existência de uma relação entre o desenvolvimento dos do cérebro e o das faculdades morais e intelectuais?
 >
 >👻 Não confundais o efeito com a causa. O Espírito dispõe sempre das faculdades que lhe são próprias. Ora, não são os órgãos que dão as faculdades, e sim estas que impulsionam o desenvolvimento dos órgãos.
-
+>
 >🇦. Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva unicamente do estado do Espírito?
-
 >
 >👻 O termo — unicamente — não exprime com toda a exatidão o que ocorre. O princípio dessa diversidade reside nas qualidades do Espírito, que pode ser mais ou menos adiantado. Cumpre, porém, se leve em conta a influência da matéria, que mais ou menos lhe cerceia o exercício de suas faculdades.
 >
@@ -4135,9 +4073,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Que objetivo visa a Providência criando seres desgraçados, como os cretinos e os idiotas?
 >
 >👻 Os que habitam corpos de idiotas são Espíritos sujeitos a uma punição. Sofrem por efeito do constrangimento que experimentam e da impossibilidade em que estão de se manifestarem mediante órgãos não desenvolvidos ou desmantelados.
-
+>
 >🇦. Não há, pois, fundamento para dizer-se que os órgãos nada influem sobre as faculdades?
-
 >
 >👻 Nunca dissemos que os órgãos não têm influência. Têm-na muito grande sobre a manifestação das faculdades, mas não são eles a origem destas. Aqui está a diferença. Um músico excelente, com um instrumento defeituoso, não dará a ouvir boa música, o que não fará que deixe de ser bom músico.
 >
@@ -4148,9 +4085,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Qual será o mérito da existência de seres que, como os cretinos e os idiotas, não podendo fazer o bem nem o mal, se acham incapacitados de progredir?
 >
 >👻 É uma expiação decorrente do abuso que fizeram de certas faculdades. É um estacionamento temporário.
-
+>
 >🇦. Pode assim o corpo de um idiota conter um Espírito que tenha animado um homem de gênio em precedente existência?
-
 >
 >👻 Certo. O gênio se torna por vezes um flagelo, quando dele abusa o homem.
 >
@@ -4167,9 +4103,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Qual, na loucura, a situação do Espírito?
 >
 >👻 O Espírito, quando em liberdade, recebe diretamente suas impressões e diretamente exerce sua ação sobre a matéria. Encarnado, porém, ele se encontra em condições muito diversas e na contingência de só o fazer com o auxílio de órgãos especiais. Altere-se uma parte ou o conjunto de tais órgãos e eis que se lhe interrompem, no que destes dependam, sua ação ou suas impressões. Se perde os olhos, fica cego; se o ouvido, torna-se surdo etc. Imagina agora que seja o órgão que preside às manifestações da inteligência o atacado ou modificado, parcial ou inteiramente, e fácil te será compreender que, só tendo o Espírito a seu serviço órgãos incompletos ou alterados, uma perturbação resultará de que ele, por si mesmo e no seu foro íntimo, tem perfeita consciência, mas cujo curso não lhe está nas mãos deter.
-
+>
 >🇦. Então, o desorganizado é sempre o corpo e não o Espírito?
-
 >
 >👻 Exatamente, mas convém não perder de vista que, assim como o Espírito atua sobre a matéria, também esta reage sobre ele, dentro de certos limites, e que pode acontecer impressionar-se o Espírito temporariamente com a alteração dos órgãos pelos quais se manifesta e recebe as impressões. Pode mesmo suceder que, com a continuação, durando longo tempo a loucura, a repetição dos mesmos atos acabe por exercer sobre o Espírito uma influência, de que ele não se libertará senão depois de se haver libertado de toda impressão material.
 
@@ -4262,9 +4197,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Podem dois seres, que se conheceram e estimaram, encontrar-se noutra existência corporal e reconhecer-se?
 >
 >👻 Reconhecer-se, não. Podem, porém, sentir-se atraídos um para o outro. E, frequentemente, diversa não é a causa de íntimas ligações fundadas em sincera afeição. Um do outro dois seres se aproximam devido a circunstâncias aparentemente fortuitas, mas que na realidade resultam da atração de dois Espíritos, **que se buscam reciprocamente por entre a multidão**.
-
+>
 >🇦. Não lhes seria mais agradável reconhecerem-se?
-
 >
 >👻 Nem sempre. A recordação das passadas existências teria inconvenientes maiores do que imaginais. Depois de mortos, reconhecer-se-ão e saberão que tempo passaram juntos. 👉 ([`lde-q392`](#lde-q392))
 
@@ -4352,9 +4286,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Sendo os pendores instintivos uma reminiscência do seu passado, dar-se-á que, pelo estudo desses pendores, seja possível ao homem conhecer as faltas que cometeu?
 >
 >👻 Até certo ponto, assim é. Preciso se torna, porém, levar em conta a melhora que se possa ter operado no Espírito e as resoluções que ele haja tomado na erraticidade. Pode suceder que a existência atual seja muito melhor que a precedente.
-
+>
 >🇦. Poderá também ser pior, isto é, poderá o Espírito cometer, numa existência, faltas que não praticou na precedente?
-
 >
 >👻 Depende do seu adiantamento. Se não souber triunfar das provas, possivelmente será arrastado a novas faltas, consequentes, então, da posição que escolheu. Mas, em geral, estas faltas denotam mais um estacionamento que uma retrogradação, porquanto o Espírito é suscetível de se adiantar ou de parar, nunca, porém, de retroceder.
 
@@ -4482,9 +4415,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Dá-se também que, durante o sono, ou quando nos achamos apenas ligeiramente adormecidos, acodem-nos ideias que nos parecem excelentes e que se nos apagam da memória, apesar dos esforços que façamos para retê-las. Donde vêm essas ideias?
 >
 >👻 Provêm da liberdade do Espírito que se emancipa e que, emancipado, goza de suas faculdades com maior amplitude. Também são, frequentemente, conselhos que outros Espíritos dão.
-
+>
 >🇦. De que servem essas ideias e esses conselhos, desde que, por esquecê-los, não os podemos aproveitar?
-
 >
 >👻 Essas ideias, em regra, mais dizem respeito ao mundo dos Espíritos do que ao mundo corpóreo. Pouco importa que comumente o Espírito as esqueça, quando unido ao corpo. Na ocasião oportuna, voltar-lhe-ão como inspiração de momento.
 
@@ -4586,9 +4518,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os letárgicos e os catalépticos, em geral, veem e ouvem o que em derredor se diz e faz, sem que possam exprimir que estão vendo e ouvindo. É pelos olhos e pelos ouvidos que têm essas percepções?
 >
 >👻 Não; pelo Espírito. O Espírito tem consciência de si, mas não pode comunicar-se.
-
+>
 >🇦. Por quê?
-
 >
 >👻 Porque a isso se opõe o estado do corpo. E esse estado especial dos órgãos vos prova que no homem há alguma coisa mais do que o corpo, pois que, então, o corpo já não funciona e, no entanto, o Espírito se mostra ativo.
 
@@ -4788,9 +4719,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ A dupla vista é suscetível de desenvolver-se pelo exercício?
 >
 >👻 Sim, do trabalho sempre resulta o progresso e a dissipação do véu que encobre as coisas.
-
+>
 >🇦. Esta faculdade tem qualquer ligação com a organização física?
-
 >
 >👻 Incontestavelmente, o organismo influi para a sua existência. Há organismos que lhe são refratários.
 
@@ -4819,9 +4749,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Poder-se-ia atribuir a uma espécie de segunda vista a perspicácia de algumas pessoas que, sem nada apresentarem de extraordinário, apreciam as coisas com mais precisão do que outras?
 >
 >👻 É sempre a alma a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria.
-
+>
 >🇦. Pode esta faculdade, em alguns casos, dar a presciência das coisas?
-
 >
 >👻 Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente. 
 
@@ -4919,9 +4848,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Podem os Espíritos conhecer os nossos mais secretos pensamentos?
 >
 >👻 Muitas vezes chegam a conhecer o que desejaríeis ocultar de vós mesmos. Nem atos, nem pensamentos se lhes podem dissimular.
-
+>
 >🇦. Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do que a esconder dessa mesma pessoa depois de morta?
-
 >
 >👻 Certamente. Quando vos julgais muito ocultos, é comum terdes ao vosso lado uma multidão de Espíritos que vos observam.
 
@@ -4981,14 +4909,12 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Com que fim os Espíritos imperfeitos nos induzem ao mal?
 >
 >👻 Para que sofrais como eles sofrem.
-
+>
 >🇦. E isso lhes diminui os sofrimentos?
-
 >
 >👻 Não, mas fazem-no por inveja, por não poderem suportar que haja seres felizes.
-
+>
 >🇧. De que natureza é o sofrimento que procuram infligir aos outros?
-
 >
 >👻 Os que resultam de ser de ordem inferior a criatura e de estar afastada de Deus.
 
@@ -5108,9 +5034,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Desempenham os Espíritos algum papel nos fenômenos que se dão com os indivíduos chamados convulsionários?
 >
 >👻 Sim e muito importante, bem como o magnetismo, que é a causa originária de tais fenômenos. O charlatanismo, porém, os tem amiúde explorado e exagerado, de sorte a lançá-los ao ridículo.
-
+>
 >🇦. De que natureza são, em geral, os Espíritos que concorrem para a produção desta espécie de fenômenos?
-
 >
 >👻 Pouco elevada. Supondes que Espíritos superiores se deleitem com tais coisas?
 
@@ -5174,9 +5099,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os parentes e amigos, que nos precederam na outra vida, maior simpatia nos votam do que os Espíritos que nos são estranhos?
 >
 >👻 Sem dúvida e quase sempre vos protegem como Espíritos, de acordo com o poder de que dispõem.
-
+>
 >🇦. São sensíveis à afeição que lhes conservamos?
-
 >
 >👻 Muito sensíveis, mas esquecem-se dos que os olvidam. 
 
@@ -5216,9 +5140,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ É voluntária ou obrigatória a missão do Espírito protetor?
 >
 >👻 O Espírito fica obrigado a vos assistir, uma vez que aceitou esse encargo. Cabe-lhe, porém, o direito de escolher, para seus protegidos, seres que lhe sejam simpáticos. Para alguns, é um prazer; para outros, missão ou dever.
-
+>
 >🇦. Dedicando-se a uma pessoa, renuncia o Espírito a proteger outros indivíduos?
-
 >
 >👻 Não, mas protege-os menos exclusivamente.
 
@@ -5287,9 +5210,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ O Espírito protetor, que consegue trazer ao bom caminho o seu protegido, lucra algum bem para si?
 >
 >👻 Constitui isso um mérito que lhe é levado em conta, seja para seu progresso, seja para sua felicidade. Sente-se ditoso quando vê bem-sucedidos os seus esforços, o que representa, para ele, um triunfo, como triunfo é, para um preceptor, os bons êxitos do seu educando.
-
+>
 >🇦. É responsável pelo mau resultado de seus esforços?
-
 >
 >👻 Não, pois que fez o que de si dependia.
 
@@ -5304,9 +5226,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Poderemos sempre saber o nome do Espírito nosso protetor ou anjo de guarda?
 >
 >👻 Como quereis saber nomes para vós inexistentes? Supondes que Espíritos só há os que conheceis?
-
+>
 >🇦. Como então o podemos invocar, se o não conhecemos?
-
 >
 >👻 Dai-lhe o nome que quiserdes, o de Espírito superior que vos inspire simpatia ou veneração. O vosso protetor acudirá ao apelo que com esse nome lhe dirigirdes, visto que todos os bons Espíritos são irmãos e se assistem mutuamente.
 
@@ -5364,9 +5285,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Os Espíritos que conosco simpatizam atuam em cumprimento de missão?
 >
 >👻 Não raro, desempenham missão temporária; porém, as mais das vezes, são apenas atraídos pela identidade de pensamentos e sentimentos, assim para o bem como para o mal.
-
+>
 >🇦. Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos podem ser bons ou maus, não?
-
 >
 >👻 Sim, qualquer que seja o seu caráter, o homem sempre encontra Espíritos que com ele simpatizem.
 
@@ -5473,9 +5393,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Exercem os Espíritos alguma influência nos acontecimentos da vida?
 >
 >👻 Certamente, pois que te aconselham.
-
+>
 >🇦. Exercem essa influência por outra forma que não apenas pelos pensamentos que sugerem, isto é, têm ação direta sobre o cumprimento das coisas?
-
 >
 >👻 Sim, mas nunca atuam fora das Leis da Natureza.
 >
@@ -5504,9 +5423,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Que se deve pensar das balas encantadas, de que falam algumas lendas e que fatalmente atingem o alvo?
 >
 >👻 Pura imaginação. O homem gosta do maravilhoso e não se contenta com as maravilhas da Natureza.
-
+>
 >🇦. Podem os Espíritos que dirigem os acontecimentos terrenos ter obstada sua ação por Espíritos que queiram o contrário?
-
 >
 >👻 O que Deus quer se executa. Se houver demora na execução, ou lhe surjam obstáculos, é porque Ele assim o quis.
 
@@ -5517,7 +5435,6 @@ a. Por que nem sempre é guia infalível a razão?
 >👻 Eles se comprazem em vos causar aborrecimentos que representam para vós provas destinadas a exercitar a vossa paciência. Cansam-se, porém, quando veem que nada conseguem. Entretanto, não seria justo, nem acertado, imputar-lhes todas as decepções que experimentais e de que sois os principais culpados pela vossa irreflexão. Fica certo de que, se a tua louça se quebra, é mais por desazo teu do que por culpa dos Espíritos.
 
 >🇦. Destes, os que provocam contrariedades obram impelidos por animosidade pessoal, ou assim procedem contra qualquer, sem motivo determinado, por pura malícia?
-
 >
 >👻 Por uma e outra coisa. Às vezes os que assim vos molestam são inimigos que granjeastes nesta ou em precedente existência. Doutras vezes, nenhum motivo há.
 
@@ -5528,7 +5445,6 @@ a. Por que nem sempre é guia infalível a razão?
 >👻 Muitas vezes reconhecem a injustiça com que procederam e o mal que causaram, mas, também, não é raro que continuem a perseguir-vos, cheios de animosidade, se Deus o permitir, por ainda vos experimentar.
 
 >🇦. Pode-se pôr termo a isso? Por que meio?
-
 >
 >👻 Podeis. Orando por eles e lhes retribuindo o mal com o bem, acabarão compreendendo a injustiça do proceder deles. Ademais, se souberdes colocar-vos acima de suas maquinações, deixar-vos-ão, por verificarem que nada lucram.
 >
