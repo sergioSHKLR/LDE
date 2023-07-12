@@ -1270,102 +1270,99 @@ a. Por que nem sempre é guia infalível a razão?
 
 #### `LDE-2-01-07` 📃 3ª ordem – Espíritos imperfeitos
 
-##### `LDE-q101`
+>##### `LDE-q101`
+>
+>#️⃣ Caracteres gerais. — Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
+>
+>Nem todos são essencialmente maus. Em alguns há mais leviandade, irreflexão e malícia do que verdadeira maldade. Uns não fazem o bem nem o mal; mas, pelo simples fato de não fazerem o bem, já denotam a sua inferioridade. Outros, ao contrário, se comprazem no mal e rejubilam quando uma ocasião se lhes depara de praticá-lo.
+>
+>A inteligência pode achar-se neles aliada à maldade ou à malícia; seja, porém, qual for o grau que tenham alcançado de desenvolvimento intelectual, suas ideias são pouco elevadas e mais ou menos abjetos seus sentimentos.
+>
+>Restritos conhecimentos têm das coisas do mundo espírita e o pouco que sabem se confunde com as ideias e preconceitos da vida corporal. Não nos podem dar mais do que noções errôneas e incompletas; entretanto, nas suas comunicações, mesmo imperfeitas, o observador atento encontra a confirmação das grandes verdades ensinadas pelos Espíritos superiores.
+>
+>Na linguagem de que usam se lhes revela o caráter. Todo Espírito que, em suas comunicações, trai um mau pensamento, pode ser classificado na terceira ordem. Conseguintemente, todo mau pensamento que nos é sugerido vem de um Espírito desta ordem. Eles veem a felicidade dos bons e esse espetáculo lhes constitui incessante tormento, porque os faz experimentar todas as angústias que a inveja e o ciúme podem causar.
+>
+>Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa impressão é muitas vezes mais penosa do que a realidade. Sofrem, pois, verdadeiramente, pelos males de que padeceram em vida e pelos que ocasionam aos outros. E, como sofrem por longo tempo, julgam que sofrerão para sempre. Deus, para puni-los, quer que assim julguem.
+>
+>Podem compor cinco classes principais.
 
-#️⃣ Caracteres gerais. — Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
+>##### `LDE-q102`
+>
+>#️⃣ Décima classe. Espíritos impuros. — São inclinados ao mal, de que fazem o objeto de suas preocupações.
+>
+>Como Espíritos, dão conselhos pérfidos, sopram a discórdia e a desconfiança e se mascaram de todas as maneiras para melhor enganar. Ligam-se aos homens de caráter bastante fraco para cederem às suas sugestões, a fim de induzi-los à perdição, satisfeitos com o conseguirem retardar-lhes o adiantamento, fazendo-os sucumbir nas provas por que passam.
+>
+>Nas manifestações, os Espíritos se dão a conhecer pela linguagem. A trivialidade e a grosseria das expressões, neles, como nos homens, é sempre indício de inferioridade moral, mas também intelectual. Suas comunicações exprimem a baixeza de seus pendores e, se tentam iludir, falando com sensatez, não conseguem sustentar por muito tempo o papel e acabam sempre por se traírem.
+>
+>Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nomes de demônios, maus gênios, Espíritos do mal.
+>
+>Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
 
-Nem todos são essencialmente maus. Em alguns há mais leviandade, irreflexão e malícia do que verdadeira maldade. Uns não fazem o bem nem o mal; mas, pelo simples fato de não fazerem o bem, já denotam a sua inferioridade. Outros, ao contrário, se comprazem no mal e rejubilam quando uma ocasião se lhes depara de praticá-lo.
+>##### `LDE-q103`
+>
+>#️⃣ Nona classe. Espíritos levianos. — São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a verdade. Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os Espíritos vulgarmente tratados de **duendes**, **trasgos**, **gnomos**, **diabretes**. Acham-se sob a dependência dos Espíritos superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
+>
+>Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
 
-A inteligência pode achar-se neles aliada à maldade ou à malícia; seja, porém, qual for o grau que tenham alcançado de desenvolvimento intelectual, suas ideias são pouco elevadas e mais ou menos abjetos seus sentimentos.
+>##### `LDE-q104`
+>
+>#️⃣ Oitava classe. Espíritos pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
 
-Restritos conhecimentos têm das coisas do mundo espírita e o pouco que sabem se confunde com as ideias e preconceitos da vida corporal. Não nos podem dar mais do que noções errôneas e incompletas; entretanto, nas suas comunicações, mesmo imperfeitas, o observador atento encontra a confirmação das grandes verdades ensinadas pelos Espíritos superiores.
+>##### `LDE-q105`
+>
+>#️⃣ Sétima classe. Espíritos neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
 
-Na linguagem de que usam se lhes revela o caráter. Todo Espírito que, em suas comunicações, trai um mau pensamento, pode ser classificado na terceira ordem. Conseguintemente, todo mau pensamento que nos é sugerido vem de um Espírito desta ordem. Eles veem a felicidade dos bons e esse espetáculo lhes constitui incessante tormento, porque os faz experimentar todas as angústias que a inveja e o ciúme podem causar.
-
-Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa impressão é muitas vezes mais penosa do que a realidade. Sofrem, pois, verdadeiramente, pelos males de que padeceram em vida e pelos que ocasionam aos outros. E, como sofrem por longo tempo, julgam que sofrerão para sempre. Deus, para puni-los, quer que assim julguem.
-
-Podem compor cinco classes principais.
-
-##### `LDE-q102`
-
-#️⃣ Décima classe. Espíritos impuros. — São inclinados ao mal, de que fazem o objeto de suas preocupações.
-
-Como Espíritos, dão conselhos pérfidos, sopram a discórdia e a desconfiança e se mascaram de todas as maneiras para melhor enganar. Ligam-se aos homens de caráter bastante fraco para cederem às suas sugestões, a fim de induzi-los à perdição, satisfeitos com o conseguirem retardar-lhes o adiantamento, fazendo-os sucumbir nas provas por que passam.
-
-Nas manifestações, os Espíritos se dão a conhecer pela linguagem. A trivialidade e a grosseria das expressões, neles, como nos homens, é sempre indício de inferioridade moral, mas também intelectual. Suas comunicações exprimem a baixeza de seus pendores e, se tentam iludir, falando com sensatez, não conseguem sustentar por muito tempo o papel e acabam sempre por se traírem.
-
-Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nomes de demônios, maus gênios, Espíritos do mal.
-
-Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
-
-##### `LDE-q103`
-
-#️⃣ Nona classe. Espíritos levianos. — São ignorantes, maliciosos, irrefletidos e zombeteiros. Metem-se em tudo, a tudo respondem, sem se incomodarem com a verdade. Gostam de causar pequenos desgostos e ligeiras alegrias, de intrigar, de induzir maldosamente em erro, por meio de mistificações e de espertezas. A esta classe pertencem os Espíritos vulgarmente tratados de **duendes**, **trasgos**, **gnomos**, **diabretes**. Acham-se sob a dependência dos Espíritos superiores, que muitas vezes os empregam, como fazemos com os nossos servidores.
-
-Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
-
-##### `LDE-q104`
-
-#️⃣ Oitava classe. Espíritos pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
-
-##### `LDE-q105`
-
-#️⃣ Sétima classe. Espíritos neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
-
-##### `LDE-q106`
-
-#️⃣ Sexta classe. Espíritos batedores e perturbadores. — Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente.
-
-Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares.
-
+>##### `LDE-q106`
+>
+>#️⃣ Sexta classe. Espíritos batedores e perturbadores. — Estes Espíritos, propriamente falando, não formam uma classe distinta pelas suas qualidades pessoais. Podem caber em todas as classes da terceira ordem. Manifestam geralmente sua presença por efeitos sensíveis e físicos, como pancadas, movimento e deslocamento anormal de corpos sólidos, agitação do ar etc. Afiguram-se, mais do que outros, presos à matéria. Parecem ser os agentes principais das vicissitudes dos elementos do Globo, quer atuem sobre o ar, a água, o fogo, os corpos duros, quer nas entranhas da terra. Reconhece-se que esses fenômenos não derivam de uma causa fortuita ou física, quando denotam caráter intencional e inteligente.
+>
+>Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares.
 
 #### `LDE-2-01-08` 📃 2ª ordem – Bons Espíritos
 
-##### `LDE-q107`
+>##### `LDE-q107`
+>
+>#️⃣ Caracteres gerais. — Predominância do Espírito sobre a matéria; desejo do bem. Suas qualidades e poderes para o bem estão em relação com o grau de adiantamento que hajam alcançado; uns têm a ciência, outros a sabedoria e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam Espíritos perfeitos.
+>
+>Compreendem Deus e o infinito e já gozam da felicidade dos bons. São felizes pelo bem que fazem e pelo mal que impedem. O amor que os une lhes é fonte de inefável ventura, que não tem a perturbá-la nem a inveja, nem os remorsos, nem nenhuma das más paixões que constituem o tormento dos Espíritos imperfeitos. Todos, entretanto, ainda têm que passar por provas, até que atinjam a perfeição.
+>
+>Como Espíritos, suscitam bons pensamentos, desviam os homens da senda do mal, protegem na vida os que se lhes mostram dignos de proteção e neutralizam a influência dos Espíritos imperfeitos sobre aqueles a quem não lhes é grato sofrê-la.
+>
+>Quando encarnados, são bondosos e benevolentes com os seus semelhantes. Não os movem o orgulho, nem o egoísmo, ou a ambição. Não experimentam ódio, rancor, inveja ou ciúme e fazem o bem pelo bem.
+>
+>A esta ordem pertencem os Espíritos designados, nas crenças vulgares, pelos nomes de **bons gênios**, **gênios protetores**, **Espíritos do bem**. Em épocas de superstições e de ignorância, eles hão sido elevados à categoria de divindades benfazejas.
+>
+>Podem ser divididos em quatro grupos principais:
 
-#️⃣ Caracteres gerais. — Predominância do Espírito sobre a matéria; desejo do bem. Suas qualidades e poderes para o bem estão em relação com o grau de adiantamento que hajam alcançado; uns têm a ciência, outros a sabedoria e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam Espíritos perfeitos.
+>##### `LDE-q108`
+>
+>#️⃣ Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 
-Compreendem Deus e o infinito e já gozam da felicidade dos bons. São felizes pelo bem que fazem e pelo mal que impedem. O amor que os une lhes é fonte de inefável ventura, que não tem a perturbá-la nem a inveja, nem os remorsos, nem nenhuma das más paixões que constituem o tormento dos Espíritos imperfeitos. Todos, entretanto, ainda têm que passar por provas, até que atinjam a perfeição.
+>##### `LDE-q109`
+>
+>#️⃣ Quarta classe. Espíritos sábios. — Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
 
-Como Espíritos, suscitam bons pensamentos, desviam os homens da senda do mal, protegem na vida os que se lhes mostram dignos de proteção e neutralizam a influência dos Espíritos imperfeitos sobre aqueles a quem não lhes é grato sofrê-la.
+>##### `LDE-q110`
+>
+>#️⃣ Terceira classe. Espíritos de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
 
-Quando encarnados, são bondosos e benevolentes com os seus semelhantes. Não os movem o orgulho, nem o egoísmo, ou a ambição. Não experimentam ódio, rancor, inveja ou ciúme e fazem o bem pelo bem.
-
-A esta ordem pertencem os Espíritos designados, nas crenças vulgares, pelos nomes de **bons gênios**, **gênios protetores**, **Espíritos do bem**. Em épocas de superstições e de ignorância, eles hão sido elevados à categoria de divindades benfazejas.
-
-Podem ser divididos em quatro grupos principais:
-
-##### `LDE-q108`
-
-#️⃣ Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
-
-##### `LDE-q109`
-
-#️⃣ Quarta classe. Espíritos sábios. — Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
-
-##### `LDE-q110`
-
-#️⃣ Terceira classe. Espíritos de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
-
-##### `LDE-q111`
-
-#️⃣ Segunda classe. Espíritos superiores. — Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
-
-Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo.
-
+>##### `LDE-q111`
+>
+>#️⃣ Segunda classe. Espíritos superiores. — Esses em si reúnem a ciência, a sabedoria e a bondade. Da linguagem que empregam se exala sempre a benevolência; é uma linguagem invariavelmente digna, elevada e, muitas vezes, sublime. Sua superioridade os torna mais aptos do que os outros a nos darem noções exatas sobre as coisas do mundo incorpóreo, dentro dos limites do que é permitido ao homem saber. Comunicam-se complacentemente com os que procuram de boa-fé a verdade e cuja alma já está bastante desprendida das ligações terrenas para compreendê-la. Afastam-se, porém, daqueles a quem só a curiosidade impele, ou que, por influência da matéria, fogem à prática do bem.
+>
+>Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo.
 
 #### `LDE-2-01-09` 📃 1ª ordem – Espíritos puros
 
-##### `LDE-q112`
+>##### `LDE-q112`
+>
+>#️⃣ Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
 
-#️⃣ Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
-
-##### `LDE-q113`
-
-#️⃣ Primeira classe. Classe única. — Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
-
-Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
-
+>##### `LDE-q113`
+>
+>#️⃣ Primeira classe. Classe única. — Os Espíritos que a compõem percorreram todos os graus da escala e se despojaram de todas as impurezas da matéria. Tendo alcançado a soma de perfeição de que é suscetível a criatura, não têm mais que sofrer provas, nem expiações. Não estando mais sujeitos à reencarnação em corpos perecíveis, realizam a vida eterna no seio de Deus.
+>
+>Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma **ociosidade monótona, a transcorrer em perpétua contemplação**. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjos, arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
 
 #### `LDE-2-01-10` 📃 Progressão dos Espíritos
 
