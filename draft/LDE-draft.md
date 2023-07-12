@@ -549,21 +549,18 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 #### `lde-1-01-01`
 #### 📃 Deus e o infinito
 
----
 >##### `lde-q1`
 >
 >#️⃣ O que é Deus?
 >
 >✍🏻 Deus é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]
 
----
 >##### `lde-q2`
 >
 >#️⃣ Que se deve entender por infinito?
 >
 >✍🏻 O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
 
----
 >##### `lde-q3`
 >
 >#️⃣ Poder-se-ia dizer que Deus é o infinito?
