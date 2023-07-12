@@ -1859,9 +1859,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de Deus, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de Deus suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do Cristo. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 >
->> Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido 
->
->> ✝️ Mateus, cap. 24, vers. 29 e 34
+>✝️ Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido. **Mateus, cap. 24, vers. 29 e 34**
 >
 >Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 >
@@ -2916,47 +2914,47 @@ a. Por que nem sempre é guia infalível a razão?
 
 > Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de Deus. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma religião que proclama ser Deus a bondade e a razão por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da ciência, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma religião fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a religião e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da Terra e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
->> Quando desciam da montanha (depois da transfiguração), **Jesus** lhes fez esta recomendação: 
+>✝️ Quando desciam da montanha (depois da transfiguração), **Jesus** lhes fez esta recomendação: 
 >
->> — Não faleis a ninguém do que acabastes de ver, até que o Filho do homem tenha ressuscitado dentre os mortos.
+> — Não faleis a ninguém do que acabastes de ver, até que o Filho do homem tenha ressuscitado dentre os mortos.
 >
->> Perguntaram-lhe então seus discípulos:
+> Perguntaram-lhe então seus discípulos:
 >
->> — Por que dizem os escribas ser preciso que primeiro venha Elias?
+> — Por que dizem os escribas ser preciso que primeiro venha Elias?
 >
->> Respondeu-lhes **Jesus**:
+> Respondeu-lhes **Jesus**:
 >
->> — É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem.
+> — É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem.
 >
->> Compreenderam então seus discípulos que era de João Batista que Ele lhes falava. 
+> Compreenderam então seus discípulos que era de João Batista que Ele lhes falava. 
 >
->> ✝️ Mateus, cap. 17, vers. 9 a 13.
+> **Mateus, cap. 17, vers. 9 a 13**
 
-> Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
+Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
 
-> Em suma, como quer que opinemos acerca da reencarnação, quer a aceitemos, quer não, isso não constituirá motivo para que deixemos de sofrê-la, desde que ela exista, malgrado todas as crenças em contrário. O essencial está em que o ensino dos Espíritos é eminentemente cristão; apoia-se na imortalidade da alma, nas penas e recompensas futuras, na Justiça de Deus, no livre-arbítrio do homem, na moral do Cristo. Logo, não é antirreligioso.
+Em suma, como quer que opinemos acerca da reencarnação, quer a aceitemos, quer não, isso não constituirá motivo para que deixemos de sofrê-la, desde que ela exista, malgrado todas as crenças em contrário. O essencial está em que o ensino dos Espíritos é eminentemente cristão; apoia-se na imortalidade da alma, nas penas e recompensas futuras, na Justiça de Deus, no livre-arbítrio do homem, na moral do Cristo. Logo, não é antirreligioso.
 
-> Temos raciocinado, abstraindo, como dissemos, de qualquer ensinamento espírita que, para certas pessoas, carece de autoridade. Não é somente porque veio dos Espíritos que nós e tantos outros nos fizemos adeptos da pluralidade das existências. É porque essa Doutrina nos pareceu a mais lógica e porque só ela resolve questões até então insolúveis.
+Temos raciocinado, abstraindo, como dissemos, de qualquer ensinamento espírita que, para certas pessoas, carece de autoridade. Não é somente porque veio dos Espíritos que nós e tantos outros nos fizemos adeptos da pluralidade das existências. É porque essa Doutrina nos pareceu a mais lógica e porque só ela resolve questões até então insolúveis.
 
-> Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente adotado e não houvéramos hesitado um segundo mais em renunciar às ideias que esposávamos. Sendo demonstrado o erro, muito mais que perder do que ganhar tem o amor-próprio, com o se obstinar na sustentação de uma ideia falsa. Assim, também, tê-la-íamos repelido, mesmo que provindo dos Espíritos, se nos parecera contrária à razão, como repelimos muitas outras, pois sabemos, por experiência, que não se deve aceitar cegamente tudo o que venha deles, da mesma forma que se não deve adotar às cegas tudo que proceda dos homens. O melhor título que, ao nosso ver, recomenda a ideia da reencarnação é o de ser, antes de tudo, lógica. Outro, no entanto, ela apresenta: o de a confirmarem os fatos, fatos positivos e, por bem dizer, materiais, que um estudo atento e criterioso revela a quem se dê ao trabalho de observar com paciência e perseverança e diante dos quais não há mais lugar para a dúvida. Quando esses fatos se houverem vulgarizado, como os da formação e do movimento da Terra, forçoso será que todos se rendam à evidência e os que se lhes colocaram em oposição ver-se-ão constrangidos a desdizer-se.
+Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente adotado e não houvéramos hesitado um segundo mais em renunciar às ideias que esposávamos. Sendo demonstrado o erro, muito mais que perder do que ganhar tem o amor-próprio, com o se obstinar na sustentação de uma ideia falsa. Assim, também, tê-la-íamos repelido, mesmo que provindo dos Espíritos, se nos parecera contrária à razão, como repelimos muitas outras, pois sabemos, por experiência, que não se deve aceitar cegamente tudo o que venha deles, da mesma forma que se não deve adotar às cegas tudo que proceda dos homens. O melhor título que, ao nosso ver, recomenda a ideia da reencarnação é o de ser, antes de tudo, lógica. Outro, no entanto, ela apresenta: o de a confirmarem os fatos, fatos positivos e, por bem dizer, materiais, que um estudo atento e criterioso revela a quem se dê ao trabalho de observar com paciência e perseverança e diante dos quais não há mais lugar para a dúvida. Quando esses fatos se houverem vulgarizado, como os da formação e do movimento da Terra, forçoso será que todos se rendam à evidência e os que se lhes colocaram em oposição ver-se-ão constrangidos a desdizer-se.
 
-> Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que Deus, por misericórdia, lhe concedeu.
+Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que Deus, por misericórdia, lhe concedeu.
 
-> As próprias palavras de **Jesus** não permitem dúvida a tal respeito. 
+As próprias palavras de **Jesus** não permitem dúvida a tal respeito. 
 
->Respondendo a Nicodemos, disse **Jesus**:
+>✝️ Respondendo a Nicodemos, disse **Jesus**:
 >
->— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.
+> — Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.
 >
->Disse-lhe Nicodemos:
+> Disse-lhe Nicodemos:
 >
->— Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?
+> — Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?
 >
->Respondeu **Jesus**:
+> Respondeu **Jesus**:
 >
->— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.
+> — Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.
 >
->✝️ João, cap. 3, vers. 3 a 7
+> **João, cap. 3, vers. 3 a 7**
 
 > 👉 ([`lde-q101`](#lde-q101)) 
 
@@ -3497,9 +3495,7 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse **Jesus**:
 >
->> Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado? 
->
->> ✝️ Mateus, cap. 23, vers. 12
+>✝️ Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado? **Mateus, cap. 23, vers. 12**
 
 >##### `lde-q276`
 >
@@ -5136,9 +5132,8 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Por que meio podemos neutralizar a influência dos maus Espíritos?
 >
 >👻 Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que **Jesus**, na oração dominical, vos ensinou a dizer:
->‘Senhor! não nos deixes cair em tentação, mas livra-nos do mal’. 
->
->✝️ Mateus, cap. 6, vers. 13
+
+>✝️ Senhor! não nos deixes cair em tentação, mas livra-nos do mal. **Mateus, cap. 6, vers. 13**
 
 >##### `lde-q470`
 >
@@ -6583,9 +6578,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 >
 >👻 **Jesus** disse:
 >
->— Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.
->
->✝️ Mateus, cap. 7, vers. 12
+>✝️ Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis. **Mateus, cap. 7, vers. 12**
 
 >##### `lde-q633`
 >
@@ -6675,9 +6668,7 @@ a. Visto que o homem traz em sua consciência a Lei de Deus, que necessidade hav
 >
 >👻 O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe.
 >
->‘Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra’
->
->✝️ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4
+>✝️ Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra. **Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4**
 >
 >, disse-o **Jesus**, a propósito do óbolo da viúva.
 
@@ -6863,9 +6854,7 @@ a. Como é que certas pessoas, que oram muito, são, não obstante, de mau cará
 >
 >👻 Aos homens disse o Cristo:
 >
->‘Amai-vos uns aos outros.’
->
->✝️ Mateus, cap. 22, vers. 39
+>✝️ Amai-vos uns aos outros. **Mateus, cap. 22, vers. 39**
 >
 >Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
 
@@ -7745,13 +7734,15 @@ a. Mas não há casos em que a honra se acha verdadeiramente empenhada e em que 
 
 >##### `lde-q764`
 >
->#️⃣ Disse **Jesus**: Quem matou com a espada, pela espada perecerá (✝️ Mateus, cap. 21, vers. 51-52). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+>#️⃣ Disse **Jesus**:
+>
+>✝️ Quem matou com a espada, pela espada perecerá **Mateus, cap. 21, vers. 51-52**.
+>
+>Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 >
 >👻 Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de **Jesus**. Não vos disse Ele também:
 >
->‘Perdoai aos vossos inimigos.’? 
->
->✝️ Mateus, cap. 6, vers. 14-15
+>✝️ Perdoai aos vossos inimigos.? **Mateus, cap. 6, vers. 14-15**
 >
 >E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem? 
 >##### `lde-q765`
@@ -8292,11 +8283,9 @@ a. Será possível que todos se entendam?
 >
 >👴🏻 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que **Jesus** disse:
 >
->Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus. 
+>✝️ Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus. **Mateus, cap. 19, vers. 16-30**
 >
->👴🏻 ✝️ Mateus, cap. 19, vers. 16-30
-
-👉 ([`lde-q266`](#lde-q266))
+>👉 ([`lde-q266`](#lde-q266))
 
 [🔼](#lde)
 
@@ -8765,9 +8754,9 @@ Há fatalidade, portanto, nos acontecimentos que se apresentam, por serem estes 
 
 No que concerne à morte é que o homem se acha submetido, em absoluto, à inexorável lei da fatalidade, por isso que não pode escapar à sentença que lhe marca o termo da existência, nem ao gênero de morte que haja de cortar a esta o fio.
 
-Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que **Jesus** nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos: >Não nos deixes sucumbir à tentação, mas livra-nos do mal. 
->
->✝️ Mateus, cap. 6, vers. 9-13
+Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que **Jesus** nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos:
+
+>✝️ Não nos deixes sucumbir à tentação, mas livra-nos do mal. **Mateus, cap. 6, vers. 9-13**
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
 
@@ -8818,7 +8807,11 @@ a. Que é o que determina esses direitos?
 >
 >#️⃣ Posto de parte o direito que a lei humana consagra, qual a base da justiça, segundo a lei natural?
 >
->👻 Disse o Cristo: "Queira cada um para os outros o que quereria para si mesmo." (✝️ Livro, cap. X, vers. Y) No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
+>👻 Disse o Cristo: 
+>
+>✝️ Queira cada um para os outros o que quereria para si mesmo. **Livro, cap. X, vers. Y**.
+>
+>No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
 >
 >👴🏻 Efetivamente, o critério da verdadeira justiça está em querer cada um para os outros o que para si mesmo quereria e não em querer para si o que quereria para os outros, o que absolutamente não é a mesma coisa. Não sendo natural que haja quem deseje o mal para si, desde que cada um tome por modelo o seu desejo pessoal, é evidente que nunca ninguém desejará para o seu semelhante senão o bem. Em todos os tempos e sob o império de todas as crenças, sempre o homem se esforçou para que prevalecesse o seu direito pessoal. **A sublimidade da religião cristã está em que ela tomou o direito pessoal por base do direito do próximo.**
 
@@ -8869,15 +8862,11 @@ a. Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que
 >
 >👻 Não disse Deus:
 >
->‘Não roubarás?’
->
->✝️ Êxodo, cap. 20, vers. 15
+>✝️ Não roubarás.? **Êxodo, cap. 20, vers. 15**
 >
 >E **Jesus** não disse:
 >
->‘Dai a César o que é de César.’?
->
->✝️ Mateus, cap. 22, vers. 21
+>✝️ Dai a César o que é de César.? **Mateus, cap. 22, vers. 21**
 >
 >👴🏻 O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
@@ -8920,15 +8909,18 @@ a. Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que
 >
 >👴🏻 O amor e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de **Jesus**:
 >
->👴🏻 **Amai-vos uns aos outros como irmãos.**
->
->👴🏻 ✝️ Mateus, cap. 22, vers. 39
+>✝️ Amai-vos uns aos outros como irmãos. **Mateus, cap. 22, vers. 39**
 >
 >👴🏻 A caridade, segundo **Jesus**, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 
 >##### `lde-q887`
 >
->#️⃣ **Jesus** também disse: Amai mesmo os vossos inimigos. Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos? (✝️ Mateus, cap. 5, vers. 44)
+>#️⃣ **Jesus** também disse: 
+>
+>✝️ Amai mesmo os vossos inimigos. **Mateus, cap. 5, vers. 44**
+>
+>Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos? 
+>
 >Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que **Jesus** entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
 >##### `lde-q888`
@@ -8942,9 +8934,9 @@ a. Dar-se-á reproveis a esmola?
 >👻 Não; o que merece reprovação não é a esmola, mas a maneira por que habitualmente é dada. O homem de bem, que compreende a caridade de acordo com **Jesus**, vai ao encontro do desgraçado, sem esperar que este lhe estenda a mão.
 >A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
 >Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse **Jesus**:
->Ignore a vossa mão esquerda o que a direita der. 
 >
->✝️ Mateus, cap. 6, vers. 3
+>✝️ Ignore a vossa mão esquerda o que a direita der. **Mateus, cap. 6, vers. 3**
+>
 >Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
 >Deve-se distinguir a esmola, propriamente dita, da beneficência. Nem sempre o mais necessitado é o que pede. O temor de uma humilhação detém o verdadeiro pobre, que muita vez sofre sem se queixar. A esse é que o homem verdadeiramente humano sabe ir procurar, sem ostentação.
 >Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa Deus os mundos. O amor é a lei de atração para os seres vivos e organizados. A atração é a lei de amor para a matéria inorgânica.
@@ -9079,9 +9071,8 @@ b. Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fa
 >#️⃣ Incorre em culpa o homem, por estudar os defeitos alheios?
 >
 >👻 Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de **Jesus**:
->‘Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.’ 
 >
->✝️ Mateus, cap. 7, vers. 3
+>✝️ Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio. **Mateus, cap. 7, vers. 3**
 
 >##### `lde-q904`
 >
@@ -9329,9 +9320,8 @@ a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisa
 >#️⃣ Criando novas necessidades, a civilização não constitui uma fonte de novas aflições?
 >
 >👻 Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de **Jesus**:
->‘Bem-aventurados os que sofrem, pois que serão consolados’. 
 >
->✝️ Mateus, cap. 5, vers. 4
+>✝️ Bem-aventurados os que sofrem, pois que serão consolados. **Mateus, cap. 5, vers. 4**
 
 >##### `lde-q927`
 >
@@ -10075,34 +10065,39 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 >#️⃣ Assim, as penas impostas jamais o são por toda a eternidade?
 >
 >👻 Interrogai o vosso bom senso, a vossa razão e perguntai-lhes se uma condenação perpétua, motivada por alguns momentos de erro, não seria a negação da bondade de Deus. Que é, com efeito, a duração da vida, ainda quando de cem anos, em face da eternidade? Eternidade! Compreendeis bem esta palavra? Sofrimentos, torturas sem-fim, sem esperanças, por causa de algumas faltas! O vosso juízo não repele semelhante ideia? Que os antigos tenham considerado o Senhor do Universo um Deus terrível, cioso e vingativo, concebe-se. Na ignorância em que se achavam, atribuíam à divindade as paixões dos homens. Esse, todavia, não é o Deus dos cristãos, que classifica como virtudes primordiais o amor, a caridade, a misericórdia, o esquecimento das ofensas. Poderia Ele carecer das qualidades, cuja posse prescreve, como um dever, às suas criaturas? Não haverá contradição em se lhe atribuir a bondade infinita e a vingança também infinita? Dizeis que, acima de tudo, Ele é justo e que o homem não lhe compreende a justiça, mas a justiça não exclui a bondade e Ele não seria bom se condenasse a eternas e horríveis penas a maioria das suas criaturas. Teria o direito de fazer da justiça uma obrigação para seus filhos, se lhes não desse meio de compreendê-la? Aliás, no fazer que a duração das penas dependa dos esforços do culpado não está toda a sublimidade da justiça unida à bondade? Aí é que se encontra a verdade desta sentença: 
->*A cada um segundo as suas obras*. 
 >
->✝️ Romanos, cap. 2, vers. 6
+>✝️ A cada um segundo as suas obras. **Romanos, cap. 2, vers. 6**
 >
 >**Santo Agostinho**
->Aplicai-vos, por todos os meios ao vosso alcance, em combater, em aniquilar a ideia da eternidade das penas, ideia blasfematória da justiça e da bondade de Deus, gérmen fecundo da incredulidade, do materialismo e da indiferença que invadiram as massas humanas, desde que as inteligências começaram a desenvolver-se. O Espírito, prestes a esclarecer-se, ou mesmo apenas desbastado, logo lhe apreendeu a monstruosa injustiça. Sua razão a repele e, então, raro é que não englobe no mesmo repúdio a pena que o revolta e o Deus a quem a atribui. Daí os males sem conta que hão desabado sobre vós e aos quais vimos trazer remédio. Tanto mais fácil será a tarefa que vos apontamos, quanto é certo que todas as autoridades em quem se apoiam os defensores de tal crença evitaram todas pronunciar-se formalmente a respeito. Nem os concílios, nem os Pais da Igreja resolveram essa grave questão. Muito embora, segundo os evangelistas e tomadas ao pé da letra as palavras emblemáticas do Cristo, Ele tenha ameaçado os culpados com um fogo que se não extingue, com um fogo eterno, absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado **eternamente**.
+>
+>👻 Aplicai-vos, por todos os meios ao vosso alcance, em combater, em aniquilar a ideia da eternidade das penas, ideia blasfematória da justiça e da bondade de Deus, gérmen fecundo da incredulidade, do materialismo e da indiferença que invadiram as massas humanas, desde que as inteligências começaram a desenvolver-se. O Espírito, prestes a esclarecer-se, ou mesmo apenas desbastado, logo lhe apreendeu a monstruosa injustiça. Sua razão a repele e, então, raro é que não englobe no mesmo repúdio a pena que o revolta e o Deus a quem a atribui. Daí os males sem conta que hão desabado sobre vós e aos quais vimos trazer remédio. Tanto mais fácil será a tarefa que vos apontamos, quanto é certo que todas as autoridades em quem se apoiam os defensores de tal crença evitaram todas pronunciar-se formalmente a respeito. Nem os concílios, nem os Pais da Igreja resolveram essa grave questão. Muito embora, segundo os evangelistas e tomadas ao pé da letra as palavras emblemáticas do Cristo, Ele tenha ameaçado os culpados com um fogo que se não extingue, com um fogo eterno, absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado **eternamente**.
 >Pobres ovelhas desgarradas, aprendei a ver aproximar-se de vós o Bom Pastor, que, longe de vos banir para todo o sempre de sua presença, vem pessoalmente ao vosso encontro, para vos reconduzir ao aprisco. Filhos pródigos, deixai o vosso voluntário exílio; encaminhai vossos passos para a morada paterna. O Pai vos estende os braços e está sempre pronto a festejar o vosso regresso ao seio da família.
 >
 >**Lamennais**
->Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: eternidade das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. Eternidade dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa razão humana, porém, tal como a tendes, ela é uma dádiva de Deus e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por eterno o mal. Somente Deus é eterno e não poderia ter criado o mal eterno; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um Deus intrinsecamente bom, absolutamente poderoso, essencialmente justo.
+>
+>👻 Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: eternidade das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. Eternidade dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa razão humana, porém, tal como a tendes, ela é uma dádiva de Deus e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por eterno o mal. Somente Deus é eterno e não poderia ter criado o mal eterno; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um Deus intrinsecamente bom, absolutamente poderoso, essencialmente justo.
 >
 >**Platão**
->Gravitar para a unidade divina, eis o fim da Humanidade. Para atingi-lo, três coisas são necessárias: a justiça, o amor e a ciência. Três coisas lhe são opostas e contrárias: a ignorância, o ódio e a injustiça. Pois bem! digo-vos, em verdade, que mentis a estes princípios fundamentais, comprometendo a ideia de Deus, com o lhe exagerardes a severidade. Duplamente a comprometeis, deixando que no Espírito da criatura penetre a suposição de que há nela mais clemência, mais virtude, amor e verdadeira justiça, do que atribuís ao ser infinito. Destruís mesmo a ideia do inferno, tornando-o ridículo e inadmissível às vossas crenças, como o é aos vossos corações o horrendo espetáculo das execuções, das fogueiras e das torturas da Idade Média! Pois quê! Quando banida se acha para sempre das legislações humanas a era das cegas represálias, é que esperais mantê-la no ideal? Oh! crede-me, crede-me, irmãos em Deus e em **Jesus** Cristo, crede-me: ou vos resignais a deixar que pereçam nas vossas mãos todos os vossos dogmas, de preferência a que se modifiquem, ou, então, vivificai-os, abrindo-os aos benfazejos eflúvios que os Bons, neste momento, derramam neles. A ideia do inferno, com as suas fornalhas ardentes, com as suas caldeiras a ferver, pôde ser tolerada, isto é, perdoável, num século de ferro; porém, no século XIX, não passa de vão fantasma, próprio, quando muito, para amedrontar criancinhas e em que estas, crescendo um pouco, logo deixam de crer. Se persistirdes nessa mitologia aterradora, engendrareis a incredulidade, mãe de toda a desorganização social. Tremo, entrevendo toda uma ordem social abalada e a ruir sobre os seus fundamentos, por falta de sanção penal. Homens de fé ardente e viva, vanguardeiros do dia da luz, mãos à obra, não para manter fábulas que envelheceram e se desacreditaram, mas para reavivar, revivificar a verdadeira sanção penal, sob formas condizentes com os vossos costumes, os vossos sentimentos e as luzes da vossa época.
->Quem é, com efeito, o culpado? É aquele que, por um desvio, por um falso movimento da alma, se afasta do objetivo da Criação, que consiste no culto harmonioso do belo, do bem, idealizados pelo arquétipo humano, pelo Homem-Deus, por **Jesus** Cristo.
+>
+>👻 Gravitar para a unidade divina, eis o fim da Humanidade. Para atingi-lo, três coisas são necessárias: a justiça, o amor e a ciência. Três coisas lhe são opostas e contrárias: a ignorância, o ódio e a injustiça. Pois bem! digo-vos, em verdade, que mentis a estes princípios fundamentais, comprometendo a ideia de Deus, com o lhe exagerardes a severidade. Duplamente a comprometeis, deixando que no Espírito da criatura penetre a suposição de que há nela mais clemência, mais virtude, amor e verdadeira justiça, do que atribuís ao ser infinito. Destruís mesmo a ideia do inferno, tornando-o ridículo e inadmissível às vossas crenças, como o é aos vossos corações o horrendo espetáculo das execuções, das fogueiras e das torturas da Idade Média! Pois quê! Quando banida se acha para sempre das legislações humanas a era das cegas represálias, é que esperais mantê-la no ideal? Oh! crede-me, crede-me, irmãos em Deus e em **Jesus**, crede-me: ou vos resignais a deixar que pereçam nas vossas mãos todos os vossos dogmas, de preferência a que se modifiquem, ou, então, vivificai-os, abrindo-os aos benfazejos eflúvios que os Bons, neste momento, derramam neles. A ideia do inferno, com as suas fornalhas ardentes, com as suas caldeiras a ferver, pôde ser tolerada, isto é, perdoável, num século de ferro; porém, no século XIX, não passa de vão fantasma, próprio, quando muito, para amedrontar criancinhas e em que estas, crescendo um pouco, logo deixam de crer. Se persistirdes nessa mitologia aterradora, engendrareis a incredulidade, mãe de toda a desorganização social. Tremo, entrevendo toda uma ordem social abalada e a ruir sobre os seus fundamentos, por falta de sanção penal. Homens de fé ardente e viva, vanguardeiros do dia da luz, mãos à obra, não para manter fábulas que envelheceram e se desacreditaram, mas para reavivar, revivificar a verdadeira sanção penal, sob formas condizentes com os vossos costumes, os vossos sentimentos e as luzes da vossa época.
+>
+>Quem é, com efeito, o culpado? É aquele que, por um desvio, por um falso movimento da alma, se afasta do objetivo da Criação, que consiste no culto harmonioso do belo, do bem, idealizados pelo arquétipo humano, pelo Homem-Deus, por **Jesus**.
+>
 >Que é o castigo? A consequência natural, derivada desse falso movimento; uma certa soma de dores necessária a desgostá-lo da sua deformidade, pela experimentação do sofrimento. O castigo é o aguilhão que estimula a alma, pela amargura, a se dobrar sobre si mesma e a buscar o porto de salvação. O castigo só tem por fim a reabilitação, a redenção. Querê-lo eterno, por uma falta não eterna, é negar-lhe toda a razão de ser.
+>
 >Oh! em verdade vos digo, cessai, cessai de pôr em paralelo, na sua eternidade, o Bem, essência do Criador, com o Mal, essência da criatura. Fora criar uma penalidade injustificável. Afirmai, ao contrário, o abrandamento gradual dos castigos e das penas pelas transmigrações e consagrareis a unidade divina, tendo unidos o sentimento e a razão.
 >
 >**Paulo, apóstolo.**
-
+>
 >👴🏻 Com o atrativo de recompensas e temor de castigos, procura-se estimular o homem para o bem e desviá-lo do mal. Se esses castigos, porém, lhe são apresentados de forma que a sua razão se recuse a admiti-los, nenhuma influência terão sobre ele. Longe disso, rejeitará tudo: a forma e o fundo. Se, ao contrário, lhe apresentarem o futuro de maneira lógica, ele não o repelirá. O Espiritismo lhe dá essa explicação.
 >
->👴🏻 A doutrina da eternidade das penas, em sentido absoluto, faz do Ente supremo um Deus implacável. Seria lógico dizer-se, de um soberano, que é muito bom, muito magnânimo, muito indulgente, que só quer a felicidade dos que o cercam, mas que ao mesmo tempo é cioso, vingativo, de inflexível rigor e que pune com o castigo extremo as três quartas partes dos seus súditos, por uma ofensa ou uma infração de suas leis, mesmo quando praticada pelos que não as conheciam? Não haveria aí contradição? Ora, pode Deus ser menos bom do que o seria um homem?
+>A doutrina da eternidade das penas, em sentido absoluto, faz do Ente supremo um Deus implacável. Seria lógico dizer-se, de um soberano, que é muito bom, muito magnânimo, muito indulgente, que só quer a felicidade dos que o cercam, mas que ao mesmo tempo é cioso, vingativo, de inflexível rigor e que pune com o castigo extremo as três quartas partes dos seus súditos, por uma ofensa ou uma infração de suas leis, mesmo quando praticada pelos que não as conheciam? Não haveria aí contradição? Ora, pode Deus ser menos bom do que o seria um homem?
 >
->👴🏻 Outra contradição. Pois que Deus tudo sabe, sabia, ao criar uma alma, se esta viria a falir ou não. Ela, pois, desde a sua formação, foi destinada à desgraça eterna. Será isto possível, racional? Com a doutrina das penas relativas, tudo se justifica. Deus sabia, sem dúvida, que ela faliria, mas lhe deu meios de se instruir pela sua própria experiência, mediante suas próprias faltas. É necessário que expie seus erros, para melhor se firmar no bem, mas a porta da esperança não se lhe fecha para sempre e Deus faz que, dos esforços que ela empregue para o conseguir, dependa a sua redenção. Isto toda gente pode compreender e a mais meticulosa lógica pode admitir. Menos céticos haveria, se deste ponto de vista fossem apresentadas as penas futuras.
+>Outra contradição. Pois que Deus tudo sabe, sabia, ao criar uma alma, se esta viria a falir ou não. Ela, pois, desde a sua formação, foi destinada à desgraça eterna. Será isto possível, racional? Com a doutrina das penas relativas, tudo se justifica. Deus sabia, sem dúvida, que ela faliria, mas lhe deu meios de se instruir pela sua própria experiência, mediante suas próprias faltas. É necessário que expie seus erros, para melhor se firmar no bem, mas a porta da esperança não se lhe fecha para sempre e Deus faz que, dos esforços que ela empregue para o conseguir, dependa a sua redenção. Isto toda gente pode compreender e a mais meticulosa lógica pode admitir. Menos céticos haveria, se deste ponto de vista fossem apresentadas as penas futuras.
 >
->👴🏻 Na linguagem vulgar, a palavra eterno é muitas vezes empregada figuradamente, para designar uma coisa de longa duração, cujo termo não se prevê, embora se saiba muito bem que esse termo existe. Dizemos, por exemplo, os gelos eternos das altas montanhas, dos polos, embora saibamos, de um lado, que o mundo físico pode ter fim e, de outro lado, que o estado dessas regiões pode mudar pelo deslocamento normal do eixo da Terra, ou por um cataclismo. Assim, neste caso, o vocábulo eterno não quer dizer perpétuo ao infinito. Quando sofremos de uma enfermidade duradoura, dizemos que o nosso mal é eterno. Que há, pois, de admirar em que Espíritos que sofrem há anos, há séculos, há milênios mesmo, assim também se exprimam? Não esqueçamos, principalmente, que, não lhes permitindo a sua inferioridade divisar o ponto extremo do caminho, creem que terão de sofrer sempre, o que lhes é uma punição.
+>Na linguagem vulgar, a palavra eterno é muitas vezes empregada figuradamente, para designar uma coisa de longa duração, cujo termo não se prevê, embora se saiba muito bem que esse termo existe. Dizemos, por exemplo, os gelos eternos das altas montanhas, dos polos, embora saibamos, de um lado, que o mundo físico pode ter fim e, de outro lado, que o estado dessas regiões pode mudar pelo deslocamento normal do eixo da Terra, ou por um cataclismo. Assim, neste caso, o vocábulo eterno não quer dizer perpétuo ao infinito. Quando sofremos de uma enfermidade duradoura, dizemos que o nosso mal é eterno. Que há, pois, de admirar em que Espíritos que sofrem há anos, há séculos, há milênios mesmo, assim também se exprimam? Não esqueçamos, principalmente, que, não lhes permitindo a sua inferioridade divisar o ponto extremo do caminho, creem que terão de sofrer sempre, o que lhes é uma punição.
 >
->👴🏻 Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo moral 👉 ([`lde-q974`](#lde-q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá. 
+>Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo moral 👉 ([`lde-q974`](#lde-q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá. 
 
 [🔼](#lde)
 
@@ -10126,7 +10121,7 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 >
 >👴🏻 Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
 >
->👴🏻 É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita, ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado. 
+>É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita, ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado. 
 
 [🔼](#lde)
 
@@ -10141,9 +10136,12 @@ a. Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, exp
 >
 >👻 Já respondemos a esta pergunta. As penas e os gozos são inerentes ao grau de perfeição dos Espíritos. Cada um tira de si mesmo o princípio de sua felicidade ou de sua desgraça. E como eles estão por toda parte, nenhum lugar circunscrito ou fechado existe especialmente destinado a uma ou outra coisa. Quanto aos encarnados, esses são mais ou menos felizes ou desgraçados, conforme é mais ou menos adiantado o mundo em que habitam.
 
-a. De acordo, então, com o que vindes de dizer, o inferno e o paraíso não existem, tais como o homem os imagina?
+>##### `lde-q1012`
+>
+>#️⃣ De acordo, então, com o que vindes de dizer, o inferno e o paraíso não existem, tais como o homem os imagina?
 >
 >👻 São simples alegorias: por toda parte há Espíritos ditosos e inditosos. Entretanto, conforme também já dissemos, os Espíritos de uma mesma ordem se reúnem por simpatia; mas podem reunir-se onde queiram, quando são perfeitos.
+>
 >👴🏻 A localização absoluta das regiões das penas e das recompensas só na imaginação do homem existe. Provém da sua tendência a materializar e circunscrever as coisas, cuja essência infinita não lhe é possível compreender.
 
 >##### `lde-q1013`
@@ -10151,6 +10149,7 @@ a. De acordo, então, com o que vindes de dizer, o inferno e o paraíso não exi
 >#️⃣ Que se deve entender por purgatório?
 >
 >👻 Dores físicas e morais: o tempo da expiação. Quase sempre, na Terra é que fazeis o vosso purgatório e que Deus vos obriga a expiar as vossas faltas.
+>
 >👴🏻 O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos Espíritos imperfeitos, que se acham em expiação até alcançarem a purificação completa, que os elevará à categoria dos Espíritos bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
 
 >##### `lde-q1014`
@@ -10159,7 +10158,9 @@ a. De acordo, então, com o que vindes de dizer, o inferno e o paraíso não exi
 >
 >👻 É que falam uma linguagem que possa ser compreendida pelas pessoas que os interrogam. Quando estas se mostram imbuídas de certas ideias, eles evitam chocá-las muito bruscamente, a fim de lhes não ferir as convicções. Se um Espírito dissesse a um muçulmano, sem precauções oratórias, que Maomé não foi profeta, seria muito mal acolhido.
 
-a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, porém, se explica que, interrogados acerca da situação em que se achavam, alguns Espíritos tenham respondido que sofriam as torturas do inferno ou do purgatório?
+>##### `lde-q1014`
+>
+>#️⃣ Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, porém, se explica que, interrogados acerca da situação em que se achavam, alguns Espíritos tenham respondido que sofriam as torturas do inferno ou do purgatório?
 >
 >👻 Quando são inferiores e ainda não completamente desmaterializados, os Espíritos conservam uma parte de suas ideias terrenas e, para dar suas impressões, se servem dos termos que lhes são familiares. Acham-se num meio que só imperfeitamente lhes permite sondar o futuro. Essa a causa de alguns Espíritos errantes, ou recém-desencarnados, falarem como o fariam se estivessem encarnados. **Inferno** se pode traduzir por uma vida de provações, extremamente dolorosa, com a **incerteza** de haver outra melhor; **purgatório**, por uma vida também de provações, mas com a consciência de melhor futuro. Quando experimentas uma grande dor, não costumas dizer que sofres como um danado? Tudo isso são apenas palavras e sempre ditas em sentido figurado.
 
@@ -10180,9 +10181,10 @@ a. Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, po
 >#️⃣ Alguns Espíritos disseram estar habitando o quarto, o quinto céus etc. Que queriam dizer com isso?
 >
 >👻 Perguntando-lhes que céu habitam, é que formais ideia de muitos céus dispostos como os andares de uma casa. Eles, então, respondem de acordo com a vossa linguagem. Por estas palavras — quarto e quinto céus —, porém, exprimem diferentes graus de purificação e, por conseguinte, de felicidade. É exatamente como quando se pergunta a um Espírito se está no inferno. Se for desgraçado, dirá — sim, porque, para ele, **inferno** é sinônimo de sofrimento. Sabe, porém, muito bem que não é uma fornalha. Um pagão diria estar no **Tártaro**.
+>
 >👴🏻 O mesmo ocorre com outras expressões análogas, tais como: cidade das flores, cidade dos eleitos, primeira, segunda, ou terceira esfera etc., que apenas são alegorias usadas por alguns Espíritos, quer como figuras, quer, algumas vezes, por ignorância da realidade das coisas, e até das mais simples noções científicas.
 >
->👴🏻 De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das recompensas e, sobretudo, de acordo com a opinião de que a Terra era o centro do Universo, de que o firmamento formava uma abóbada e que havia uma região das estrelas, **o céu era situado no alto e o inferno embaixo**. Daí as expressões: subir ao céu, estar no mais alto dos céus, ser precipitado nos infernos. Hoje, que a Ciência demonstrou ser a Terra apenas, entre tantos milhões de outros, um dos menores mundos, sem importância especial; que traçou a história da sua formação e lhe descreveu a constituição; que provou ser infinito o Espaço, não haver alto nem baixo no Universo, teve-se que renunciar a situar o céu acima das nuvens e o inferno nos lugares inferiores. Quanto ao purgatório, nenhum lugar lhe fora designado. Estava reservado ao Espiritismo dar de tudo isso a explicação mais racional, mais grandiosa e, ao mesmo tempo, mais consoladora para a Humanidade. Pode-se assim dizer que trazemos em nós mesmos o nosso inferno e o nosso paraíso. O purgatório, achamo-lo na encarnação, nas vidas corporais ou físicas.
+>De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das recompensas e, sobretudo, de acordo com a opinião de que a Terra era o centro do Universo, de que o firmamento formava uma abóbada e que havia uma região das estrelas, **o céu era situado no alto e o inferno embaixo**. Daí as expressões: subir ao céu, estar no mais alto dos céus, ser precipitado nos infernos. Hoje, que a Ciência demonstrou ser a Terra apenas, entre tantos milhões de outros, um dos menores mundos, sem importância especial; que traçou a história da sua formação e lhe descreveu a constituição; que provou ser infinito o Espaço, não haver alto nem baixo no Universo, teve-se que renunciar a situar o céu acima das nuvens e o inferno nos lugares inferiores. Quanto ao purgatório, nenhum lugar lhe fora designado. Estava reservado ao Espiritismo dar de tudo isso a explicação mais racional, mais grandiosa e, ao mesmo tempo, mais consoladora para a Humanidade. Pode-se assim dizer que trazemos em nós mesmos o nosso inferno e o nosso paraíso. O purgatório, achamo-lo na encarnação, nas vidas corporais ou físicas.
 
 >##### `lde-q1018`
 >
