@@ -1930,7 +1930,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 >##### `lde-q134b`
 >
->🇧. As almas e os Espíritos são, portanto, idênticos, a mesma coisa?
+>#️⃣. As almas e os Espíritos são, portanto, idênticos, a mesma coisa?
 >
 >👻 Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a alma é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem.
 
@@ -1968,7 +1968,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 >##### `lde-q136b`
 >
->🇧. Que seria o nosso corpo, se não tivesse alma?
+>#️⃣. Que seria o nosso corpo, se não tivesse alma?
 >
 >👻 Simples massa de carne sem inteligência, tudo o que quiserdes, exceto um homem.
 
@@ -2111,9 +2111,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito.
 
->##### `lde-q150b
+>##### `lde-q150b`
 >
->🇧. A alma nada leva consigo deste mundo?
+>#️⃣. A alma nada leva consigo deste mundo?
 >
 >👻 Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra.
 
@@ -2288,13 +2288,15 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.
 
->##### `lde-q166b
+>##### `lde-q166b`
 >
->🇧. A alma passa então por muitas existências corporais?
+>#️⃣. A alma passa então por muitas existências corporais?
 >
 >👻 Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles.
+
+>##### `lde-q166c`
 >
->🇨. Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
+>#️⃣. Parece resultar desse princípio que a alma, depois de haver deixado um corpo, toma outro, ou, então, que reencarna em novo corpo. É assim que se deve entender?
 >
 >👻 Evidentemente.
 
@@ -2368,9 +2370,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Certamente.
 
->##### `lde-q173b
+>##### `lde-q173b`
 >
->🇧. Podemos voltar a este, depois de termos vivido em outros mundos?
+>#️⃣. Podemos voltar a este, depois de termos vivido em outros mundos?
 >
 >👻 Sem dúvida. É possível que já tenhais vivido algures e na Terra.
 
@@ -2404,9 +2406,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Muitos, e em graus diversos de adiantamento.
 
->##### `lde-q176b
+>##### `lde-q176b`
 >
->🇧. Pode-se reconhecer, por um indício qualquer, que um Espírito está pela primeira vez na Terra?
+>#️⃣. Pode-se reconhecer, por um indício qualquer, que um Espírito está pela primeira vez na Terra?
 >
 >👻 Nenhuma utilidade teria isso.
 
@@ -2434,9 +2436,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Os Espíritos podem conservar-se estacionários, mas não retrogradam. Em caso de estacionamento, a punição deles consiste em não avançarem, em recomeçarem, no meio conveniente à sua natureza, as existências mal-empregadas.
 
->##### `lde-q178b
+>##### `lde-q178b`
 >
->🇧. Quais os que têm de recomeçar a mesma existência?
+>#️⃣. Quais os que têm de recomeçar a mesma existência?
 >
 >👻 Os que faliram em suas missões ou em suas provas.
 
@@ -2813,9 +2815,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o Espírito sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o Espírito, é o em que, na existência precedente, ele ficou.
 
->##### `lde-q218b
+>##### `lde-q218b`
 >
->🇧. Grande conexão deve então haver entre duas existências consecutivas?
+>#️⃣. Grande conexão deve então haver entre duas existências consecutivas?
 >
 >👻 Nem sempre, tão grande quanto talvez o suponhas, dado que bem diferentes são, muitas vezes, as posições do Espírito nas duas e que, no intervalo de uma a outra, pode ele ter progredido. 👉 ([`lde-q216`](#lde-q216))
 
@@ -3000,9 +3002,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de erraticidade, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o Espírito terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
 
->##### `lde-q224b
+>##### `lde-q224b`
 >
->🇧. Essa duração depende da vontade do Espírito, ou lhe pode ser imposta como expiação?
+>#️⃣. Essa duração depende da vontade do Espírito, ou lhe pode ser imposta como expiação?
 >
 >👻 É uma consequência do livre-arbítrio. Os Espíritos sabem perfeitamente o que fazem. Mas, também, para alguns, constitui uma punição que Deus lhes inflige. Outros pedem que ela se prolongue, a fim de continuarem estudos que só na condição de Espírito livre podem efetuar-se com proveito.
 
@@ -3099,21 +3101,27 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Não; estéril é neles a superfície. Os que os habitam de nada precisam.
 
->##### `lde-q236b
+>##### `lde-q236b`
 >
->🇧. É permanente essa esterilidade e decorre da natureza especial que apresentam?
+>#️⃣. É permanente essa esterilidade e decorre da natureza especial que apresentam?
 >
 >👻 Não; são estéreis transitoriamente.
+
+>##### `lde-q236c`
 >
->🇨. Os mundos dessa categoria carecem então de belezas naturais?
+>#️⃣. Os mundos dessa categoria carecem então de belezas naturais?
 >
 >👻 A Natureza reflete as belezas da imensidade, que não são menos admiráveis do que aquilo a que dais o nome de belezas naturais.
+
+>##### `lde-q236d`
 >
->🇩. Sendo transitório o estado de semelhantes mundos, a Terra pertencerá algum dia ao número deles?
+>#️⃣. Sendo transitório o estado de semelhantes mundos, a Terra pertencerá algum dia ao número deles?
 >
 >👻 Já pertenceu.
+
+>##### `lde-q236e`
 >
->🇪. Em que época?
+>#️⃣. Em que época?
 >
 >👻 Durante a sua formação.
 >
@@ -3192,9 +3200,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Ele não vê a Deus, mas sente a sua soberania e, quando não deva ser feita alguma coisa ou dita uma palavra, percebe, como por intuição, a proibição de fazê-la ou dizê-la. Não tendes vós mesmos pressentimentos, que se vos afiguram avisos secretos, para fazerdes, ou não, isto ou aquilo? O mesmo nos acontece, se bem que em grau mais alto, pois compreendes que, sendo mais sutil do que as vossas a essência dos Espíritos, podem estes receber melhor as advertências divinas.
 
->##### `lde-q244b
+>##### `lde-q244b`
 >
->🇧. Deus transmite diretamente a ordem ao Espírito, ou por intermédio de outros Espíritos?
+>#️⃣. Deus transmite diretamente a ordem ao Espírito, ou por intermédio de outros Espíritos?
 >
 >👻 Ela não lhe vem direta de Deus. Para se comunicar com Deus, é-lhe necessário ser digno disso. Deus lhe transmite suas ordens por intermédio dos Espíritos imediatamente superiores em perfeição e instrução.
 
@@ -3684,9 +3692,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Pode lembrar-se dos mais minuciosos pormenores e incidentes, assim relativos aos fatos, como até aos seus pensamentos. Não o faz, porém, desde que não tenha utilidade.
 
->##### `lde-q303b
+>##### `lde-q303b`
 >
->🇧. Entrevê o Espírito o objetivo da vida terrestre com relação à vida futura?
+>#️⃣. Entrevê o Espírito o objetivo da vida terrestre com relação à vida futura?
 >
 >👻 Certo que o vê e compreende muito melhor do que em vida do seu corpo. Compreende a necessidade da sua purificação para chegar ao infinito e percebe que em cada existência deixa algumas impurezas.
 
@@ -3803,9 +3811,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Nesse dia, em maior número se reúnem nas necrópoles, porque então também é maior, em tais lugares, o das pessoas que os chamam pelo pensamento. Porém, cada Espírito vai lá somente pelos seus amigos e não pela multidão dos indiferentes.
 
->##### `lde-q321b
+>##### `lde-q321b`
 >
->🇧. Sob que forma aí comparecem e como os veríamos, se pudessem tornar-se visíveis?
+>#️⃣. Sob que forma aí comparecem e como os veríamos, se pudessem tornar-se visíveis?
 >
 >👻 Sob a que tinham quando encarnados.
 
@@ -4088,9 +4096,9 @@ a. Por que nem sempre é guia infalível a razão?
 >
 >👻 Algumas vezes; mas não vive.
 
->##### `lde-q356b
+>##### `lde-q356b`
 >
->🇧. Segue-se daí que toda criança que vive após o nascimento tem forçosamente encarnado em si um Espírito?
+>#️⃣. Segue-se daí que toda criança que vive após o nascimento tem forçosamente encarnado em si um Espírito?
 >
 >👻 Que seria ela, se assim não acontecesse? Não seria um ser humano.
 
@@ -5099,7 +5107,7 @@ a. Por que nem sempre é guia infalível a razão?
 
 >##### `lde-q465b`
 >
->🇧. De que natureza é o sofrimento que procuram infligir aos outros?
+>#️⃣. De que natureza é o sofrimento que procuram infligir aos outros?
 >
 >👻 Os que resultam de ser de ordem inferior a criatura e de estar afastada de Deus.
 
@@ -5693,8 +5701,10 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Que sucederia se nos esquecêssemos de agradecer?
 >
 >👻 O que sucede aos ingratos.
+
+>##### `lde-q535b`
 >
->🇧. No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
+>#️⃣. No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 >
 >👻 Assim é, de fato, mas importa ver o fim. Pagarão bem caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar. 
 
@@ -5716,8 +5726,10 @@ a. Por que nem sempre é guia infalível a razão?
 >#️⃣ Objetivam sempre o homem esses fenômenos?
 >
 >👻 Às vezes têm, como imediata razão de ser, o homem. Na maioria dos casos, entretanto, têm por único motivo o restabelecimento do equilíbrio e da harmonia das forças físicas da Natureza.
+
+>##### `lde-q536b`
 >
->🇧. Concebemos perfeitamente que a vontade de Deus seja a causa primária, nisto como em tudo; porém, sabendo que os Espíritos exercem ação sobre a matéria e que são os agentes da vontade de Deus, perguntamos se alguns dentre eles não exercerão certa influência sobre os elementos para os agitar, acalmar ou dirigir?
+>#️⃣. Concebemos perfeitamente que a vontade de Deus seja a causa primária, nisto como em tudo; porém, sabendo que os Espíritos exercem ação sobre a matéria e que são os agentes da vontade de Deus, perguntamos se alguns dentre eles não exercerão certa influência sobre os elementos para os agitar, acalmar ou dirigir?
 >
 >👻 Evidentemente. Nem poderia ser de outro modo. Deus não exerce ação direta sobre a matéria. Ele encontra agentes dedicados em todos os graus da escala dos mundos.
 
