@@ -81,7 +81,7 @@ Le livre des esprits<br />
 
 <a name="LDE-0-02-01"><code>LDE-0-02-01</code></a>
 
-<h4>:page_with_curl: 01</h4>
+<p>:page_with_curl: 01</p>
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **espiritismo**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo **espiritualismo** a acepção que lhe é própria. Diremos, pois, que a Doutrina **Espírita** ou o **Espiritismo** tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
@@ -93,7 +93,7 @@ Como especialidade, :ghost: **O Livro dos Espíritos** contém a Doutrina Espír
 
 <a name="LDE-0-02-02"><code>LDE-0-02-02</code></a>
 
-<h4>:page_with_curl: 02</h4>
+<p>:page_with_curl: 02</p>
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra **alma**. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
@@ -125,7 +125,7 @@ Passemos agora ao objeto principal desta instrução preliminar.
 
 <a name="LDE-0-02-03"><code>LDE-0-02-03</code></a>
 
-<h4>:page_with_curl: 03</h4>
+<p>:page_with_curl: 03</p>
 
 Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contraditores. Vamos tentar responder a algumas das objeções destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a pretensão de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de boa-fé, aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo leviano e precipitadamente formado.
 
@@ -157,7 +157,7 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 <a name="LDE-0-02-04"><code>LDE-0-02-04</code></a>
 
-<h4>:page_with_curl: 04</h4>
+<p>:page_with_curl: 04</p>
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior
 
@@ -181,7 +181,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 <a name="LDE-0-02-05"><code>LDE-0-02-05</code></a>
 
-<h4>:page_with_curl: 05</h4>
+<p>:page_with_curl: 05</p>
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -201,7 +201,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 
 <a name="LDE-0-02-06"><code>LDE-0-02-06</code></a>
 
-<h4>:page_with_curl: 06</h4>
+<p>:page_with_curl: 06</p>
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -284,12 +284,12 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos Espíritos superiores. Vejamos agora as objeções que se lhe contrapõem. 
 
 <a href="#LDE-0-02">:arrow_up_small:</a>
-
+r
 ---
 
 <a name="LDE-0-02-07"><code>LDE-0-02-07</code></a>
 
-<h4>:page_with_curl: 07</h4>
+<p>:page_with_curl: 07</p>
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -313,7 +313,7 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 <a name="LDE-0-02-08"><code>LDE-0-02-08</code></a>
 
-<h4>:page_with_curl: 08</h4>
+<p>:page_with_curl: 08</p>
 
 Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita, que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam a priori, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
@@ -327,7 +327,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 
 <a name="LDE-0-02-09"><code>LDE-0-02-09</code></a>
 
-<h4>:page_with_curl: 09</h4>
+<p>:page_with_curl: 09</p>
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 
@@ -343,7 +343,7 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 
 <a name="LDE-0-02-10"><code>LDE-0-02-10</code></a>
 
-<h4>:page_with_curl: 10</h4>
+<p>:page_with_curl: 10</p>
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -367,7 +367,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 <a name="LDE-0-02-11"><code>LDE-0-02-11</code></a>
 
-<h4>:page_with_curl: 11</h4>
+<p>:page_with_curl: 11</p>
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
@@ -385,7 +385,7 @@ devendo esta sentença entender-se com relação à categoria em que cada um de 
 
 <a name="LDE-0-02-12"><code>LDE-0-02-12</code></a>
 
-<h4>:page_with_curl: 12</h4>
+<p>:page_with_curl: 12</p>
 
 Um fato demonstrado pela observação e confirmado pelos próprios Espíritos é o de que os Espíritos inferiores muitas vezes usurpam nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, Sócrates, Júlio César, Carlos Magno, Fénelon, Napoleão, Washington entre outros, tenham realmente animado essas personagens? Esta dúvida existe mesmo entre alguns adeptos fervorosos da Doutrina Espírita, os quais admitem a intervenção e a manifestação dos Espíritos, mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, bem difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão autêntico como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -409,7 +409,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 <a name="LDE-0-02-13"><code>LDE-0-02-13</code></a>
 
-<h4>:page_with_curl: 13</h4>
+<p>:page_with_curl: 13</p>
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
 
@@ -427,7 +427,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 <a name="LDE-0-02-14"><code>LDE-0-02-14</code></a>
 
-<h4>:page_with_curl: 14</h4>
+<p>:page_with_curl: 14</p>
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**. 
 
@@ -437,7 +437,7 @@ Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito d
 
 <a name="LDE-0-02-15"><code>LDE-0-02-15</code></a>
 
-<h4>:page_with_curl: 15</h4>
+<p>:page_with_curl: 15</p>
 
 Há também pessoas que vêem perigo por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a razão alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao Espiritismo. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos loucos e maníacos os estudos da Matemática, da Medicina, da Música, da Filosofia e outros têm produzido? Dever-se-ia, em consequência, banir esses estudos? Que prova isso? Nos trabalhos corporais, estropiam-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da inteligência, estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao Espírito. Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da plenitude das suas faculdades. No seu gênero, ele é, como homem, um mártir do trabalho.
 
@@ -455,7 +455,7 @@ Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo 
 
 <a name="LDE-0-02-16"><code>LDE-0-02-16</code></a>
 
-<h4>:page_with_curl: 16</h4>
+<p>:page_with_curl: 16</p>
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 
@@ -485,7 +485,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 <a name="LDE-0-02-17"><code>LDE-0-02-17</code></a>
 
-<h4>:page_with_curl: 17</h4>
+<p>:page_with_curl: 17</p>
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 
@@ -570,7 +570,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 <a name="LDE-1-01-01"><code>LDE-1-01-01</code></a>
 
-<h4>:page_with_curl: Deus e o infinito</h4>
+<p>:page_with_curl: Deus e o infinito</p>
 
 <a name="LDE-q1"><code>LDE-q1</code></a>
 :hash: 1. O que é Deus?
@@ -595,7 +595,7 @@ Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer 
 
 <a name="LDE-1-01-02"><code>LDE-1-01-02</code></a>
 
-<h4>:page_with_curl: Provas da existência de Deus</h4>
+<p>:page_with_curl: Provas da existência de Deus</p>
 
 <a name="LDE-q4"><code>LDE-q4</code></a>
 :hash: 4. Onde se pode encontrar a prova da existência de Deus?
@@ -647,7 +647,7 @@ Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela 
 
 <a name="LDE-1-01-03"><code>LDE-1-01-03</code></a>
 
-<h4>:page_with_curl: Atributos da Divindade</h4>
+<p>:page_with_curl: Atributos da Divindade</p>
 
 <a name="LDE-q10"><code>LDE-q10</code></a>
 :hash: 10. Pode o homem compreender a natureza íntima de Deus?
@@ -689,7 +689,7 @@ A inferioridade das faculdades do homem não lhe permite compreender a natureza 
 
 <a name="LDE-1-01-04"><code>LDE-1-01-04</code></a>
 
-<h4>:page_with_curl: Panteísmo</h4>
+<p>:page_with_curl: Panteísmo</p>
 
 <a name="LDE-q14"><code>LDE-q14</code></a>
 :hash: 14. Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
@@ -729,7 +729,7 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 
 <a name="LDE-1-02-01"><code>LDE-1-02-01</code></a>
 
-<h4>:page_with_curl: Conhecimento do princípio das coisas</h4>
+<p>:page_with_curl: Conhecimento do princípio das coisas</p>
 
 <a name="LDE-q17"><code>LDE-q17</code></a>
 :hash: 17. É dado ao homem conhecer o princípio das coisas?
@@ -759,7 +759,7 @@ Por essas comunicações é que o homem adquire, dentro de certos limites, o con
 
 <a name="LDE-1-02-02"><code>LDE-1-02-02</code></a>
 
-<h4>:page_with_curl: Espírito e matéria</h4>
+<p>:page_with_curl: Espírito e matéria</p>
 
 <a name="LDE-q21"><code>LDE-q21</code></a>
 :hash: 21. A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
@@ -827,7 +827,7 @@ Um fato patente domina todas as hipóteses: vemos matéria destituída de inteli
 
 <a name="LDE-1-02-03"><code>LDE-1-02-03</code></a>
 
-<h4>:page_with_curl: Propriedades da matéria</h4>
+<p>:page_with_curl: Propriedades da matéria</p>
 
 <a name="LDE-q29"><code>LDE-q29</code></a>
 :hash: 29. A ponderabilidade é um atributo essencial da matéria?
@@ -881,7 +881,7 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 
 <a name="LDE-1-02-04"><code>LDE-1-02-04</code></a>
 
-<h4>:page_with_curl: Espaço universal</h4>
+<p>:page_with_curl: Espaço universal</p>
 
 <a name="LDE-q35"><code>LDE-q35</code></a>
 :hash: 35. O Espaço universal é infinito ou limitado?
@@ -915,7 +915,7 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 
 <a name="LDE-1-03-01"><code>LDE-1-03-01</code></a>
 
-<h4>:page_with_curl: Formação dos mundos</h4>
+<p>:page_with_curl: Formação dos mundos</p>
 
 *O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
 
@@ -961,7 +961,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 
 <a name="LDE-1-03-02"><code>LDE-1-03-02</code></a>
 
-<h4>:page_with_curl: Formação dos seres vivos</h4>
+<p>:page_with_curl: Formação dos seres vivos</p>
 
 <a name="LDE-q43"><code>LDE-q43</code></a>
 :hash: 43. Quando começou a Terra a ser povoada?
@@ -1006,7 +1006,7 @@ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para forma
 
 <a name="LDE-1-03-03"><code>LDE-1-03-03</code></a>
 
-<h4>:page_with_curl: Povoamento da Terra. Adão</h4>
+<p>:page_with_curl: Povoamento da Terra. Adão</p>
 
 <a name="LDE-q50"><code>LDE-q50</code></a>
 :hash: 50. A espécie humana começou por um único homem?
@@ -1026,7 +1026,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 
 <a name="LDE-1-03-04"><code>LDE-1-03-04</code></a>
 
-<h4>:page_with_curl: Diversidade das raças humanas</h4>
+<p>:page_with_curl: Diversidade das raças humanas</p>
 
 <a name="LDE-q52"><code>LDE-q52</code></a>
 :hash: 52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
@@ -1054,7 +1054,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 
 <a name="LDE-1-03-05"><code>LDE-1-03-05</code></a>
 
-<h4>:page_with_curl: Pluralidade dos mundos</h4>
+<p>:page_with_curl: Pluralidade dos mundos</p>
 
 <a name="LDE-q55"><code>LDE-q55</code></a>
 :hash: 55. São habitados todos os globos que se movem no Espaço?
@@ -1086,7 +1086,7 @@ As condições de existência dos seres que habitam os diferentes mundos hão de
 
 <a name="LDE-1-03-06"><code>LDE-1-03-06</code></a>
 
-<h4>:page_with_curl: Considerações e concordâncias bíblicas concernentes à Criação</h4>
+<p>:page_with_curl: Considerações e concordâncias bíblicas concernentes à Criação</p>
 
 <a name="LDE-q59"><code>LDE-q59</code></a>
 :hash: 59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
@@ -1123,7 +1123,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 <a name="LDE-1-04-01"><code>LDE-1-04-01</code></a>
 
-<h4>:page_with_curl: Seres orgânicos e inorgânicos</h4>
+<p>:page_with_curl: Seres orgânicos e inorgânicos</p>
 
 *Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.*
 
@@ -1184,7 +1184,7 @@ O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão
 
 <a name="LDE-1-04-02"><code>LDE-1-04-02</code></a>
 
-<h4>:page_with_curl: A vida e a morte</h4>
+<p>:page_with_curl: A vida e a morte</p>
 
 <a name="LDE-q68"><code>LDE-q68</code></a>
 :hash: 68. Qual a causa da morte dos seres orgânicos?
@@ -1226,7 +1226,7 @@ O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maio
 
 <a name="LDE-1-04-03"><code>LDE-1-04-03</code></a>
 
-<h4>:page_with_curl: Inteligência e instinto</h4>
+<p>:page_with_curl: Inteligência e instinto</p>
 
 <a name="LDE-q71"><code>LDE-q71</code></a>
 :hash: 71. A inteligência é atributo do princípio vital?
@@ -1303,7 +1303,7 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 <a name="LDE-2-01"><code>LDE-2-01</code></a>
 
-<h4>:bookmark_tabs: 01- Dos Espíritos</h4>
+<p>:bookmark_tabs: 01- Dos Espíritos</p>
 
 - [`LDE-2-01-01` :page_with_curl: Origem e natureza dos Espíritos](#LDE-2-01-01)
 - [`LDE-2-01-02` :page_with_curl: Mundo normal primitivo](#LDE-2-01-02)
@@ -1321,7 +1321,7 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 ---
 
-<h4>:page_with_curl: Origem e natureza dos Espíritos</h4>
+<p>:page_with_curl: Origem e natureza dos Espíritos</p>
 
 <a name="LDE-q76"><code>LDE-q76</code></a>
 :hash: 76. Que definição se pode dar dos Espíritos?
@@ -1372,7 +1372,7 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 
 <a name="LDE-2-01-02"><code>LDE-2-01-02</code></a>
 
-<h4>:page_with_curl: Mundo normal primitivo</h4>
+<p>:page_with_curl: Mundo normal primitivo</p>
 
 <a name="LDE-q84"><code>LDE-q84</code></a>
 :hash: 84. Os Espíritos constituem um mundo à parte, fora daquele que vemos?
@@ -1400,7 +1400,7 @@ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem d
 
 <a name="LDE-2-01-03"><code>LDE-2-01-03</code></a>
 
-<h4>:page_with_curl: Forma e ubiquidade dos Espíritos</h4>
+<p>:page_with_curl: Forma e ubiquidade dos Espíritos</p>
 
 <a name="LDE-q88"><code>LDE-q88</code></a>
 :hash: 88. Os Espíritos têm forma determinada, limitada e constante?
@@ -1453,7 +1453,7 @@ Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensam
 
 <a name="LDE-2-01-04"><code>LDE-2-01-04</code></a>
 
-<h4>:page_with_curl: Perispírito</h4>
+<p>:page_with_curl: Perispírito</p>
 
 <a name="LDE-q93"><code>LDE-q93</code></a>
 :hash: 93. O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns, está sempre envolto numa substância qualquer?
@@ -1483,7 +1483,7 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 <a name="LDE-2-01-05"><code>LDE-2-01-05</code></a>
 
-<h4>:page_with_curl: Diferentes ordens de Espíritos</h4>
+<p>:page_with_curl: Diferentes ordens de Espíritos</p>
 
 <a name="LDE-q96"><code>LDE-q96</code></a>
 :hash: 96. São iguais os Espíritos, ou há entre eles qualquer hierarquia?
@@ -1511,7 +1511,7 @@ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância
 
 <a name="LDE-2-01-06"><code>LDE-2-01-06</code></a>
 
-<h4>:page_with_curl: Escala espírita</h4>
+<p>:page_with_curl: Escala espírita</p>
 
 <a name="LDE-q100"><code>LDE-q100</code></a>
 :hash: 100. Observações preliminares. — A classificação dos Espíritos se baseia no grau de adiantamento deles, nas qualidades que já adquiriram e nas imperfeições de que ainda terão de despojar-se. Esta classificação, aliás, nada tem de absoluta. Apenas no seu conjunto cada categoria apresenta caráter definido.
@@ -1532,7 +1532,7 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 
 <a name="LDE-2-01-07"><code>LDE-2-01-07</code></a>
 
-<h4>:page_with_curl: 3ª ordem – Espíritos imperfeitos</h4>
+<p>:page_with_curl: 3ª ordem – Espíritos imperfeitos</p>
 
 <a name="LDE-q101"><code>LDE-q101</code></a>
 :hash: 101. Caracteres gerais. — Predominância da matéria sobre o espírito. Propensão para o mal. Ignorância, orgulho, egoísmo e todas as paixões que lhes são consequentes.
@@ -1584,7 +1584,7 @@ Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os d
 
 <a name="LDE-2-01-08"><code>LDE-2-01-08</code></a>
 
-<h4>:page_with_curl: 2ª ordem – Bons Espíritos</h4>
+<p>:page_with_curl: 2ª ordem – Bons Espíritos</p>
 
 <a name="LDE-q107"><code>LDE-q107</code></a>
 :hash: 107. Caracteres gerais. — Predominância do Espírito sobre a matéria; desejo do bem. Suas qualidades e poderes para o bem estão em relação com o grau de adiantamento que hajam alcançado; uns têm a ciência, outros a sabedoria e a bondade. Os mais adiantados reúnem o saber às qualidades morais. Não estando ainda completamente desmaterializados, conservam mais ou menos, conforme a categoria que ocupem, os traços da existência corporal, assim na forma da linguagem, como nos hábitos, entre os quais se descobrem mesmo algumas de suas manias. De outro modo, seriam Espíritos perfeitos.
@@ -1619,7 +1619,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 <a name="LDE-2-01-09"><code>LDE-2-01-09</code></a>
 
-<h4>:page_with_curl: 1ª ordem – Espíritos puros</h4>
+<p>:page_with_curl: 1ª ordem – Espíritos puros</p>
 
 <a name="LDE-q112"><code>LDE-q112</code></a>
 :hash: 112. Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
@@ -1635,7 +1635,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 <a name="LDE-2-01-10"><code>LDE-2-01-10</code></a>
 
-<h4>:page_with_curl: Progressão dos Espíritos</h4>
+<p>:page_with_curl: Progressão dos Espíritos</p>
 
 <a name="LDE-q114"><code>LDE-q114</code></a>
 :hash: 114. Os Espíritos são bons ou maus por natureza, ou são eles mesmos que se melhoram?
@@ -1737,7 +1737,7 @@ Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são E
 
 <a name="LDE-2-01-11"><code>LDE-2-01-11</code></a>
 
-<h4>:page_with_curl: Anjos e demônios</h4>
+<p>:page_with_curl: Anjos e demônios</p>
 
 <a name="LDE-q128"><code>LDE-q128</code></a>
 :hash: 128. Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial, de natureza diferente da dos outros Espíritos?
@@ -1795,7 +1795,7 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 <a name="LDE-2-02-01"><code>LDE-2-02-01</code></a>
 
-<h4>:page_with_curl: Objetivo da encarnação</h4>
+<p>:page_with_curl: Objetivo da encarnação</p>
 
 <a href="#LDE-2-02">:arrow_up_small:</a>
 
@@ -1822,7 +1822,7 @@ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém
 
 <a name="LDE-2-02-02"><code>LDE-2-02-02</code></a>
 
-<h4>:page_with_curl: A alma</h4>
+<p>:page_with_curl: A alma</p>
 
 <a name="LDE-q134"><code>LDE-q134</code></a>
 :hash: 134. Que é a alma?
@@ -1941,7 +1941,7 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 <a name="LDE-2-02-03"><code>LDE-2-02-03</code></a>
 
-<h4>:page_with_curl: Materialismo</h4>
+<p>:page_with_curl: Materialismo</p>
 
 <a name="LDE-q147"><code>LDE-q147</code></a>
 :hash: 147. Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a ciência da Natureza, são, com tanta frequência, levados ao materialismo?
@@ -1978,7 +1978,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 <a name="LDE-2-03-01"><code>LDE-2-03-01</code></a>
 
-<h4>:page_with_curl: A alma após a morte. Vida eterna.</h4>
+<p>:page_with_curl: A alma após a morte. Vida eterna.</p>
 
 <a name="LDE-q149"><code>LDE-q149</code></a>
 :hash: 149. Que sucede à alma no instante da morte?
@@ -2031,7 +2031,7 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 
 <a name="LDE-2-03-02"><code>LDE-2-03-02</code></a>
 
-<h4>:page_with_curl: Separação da alma e do corpo</h4>
+<p>:page_with_curl: Separação da alma e do corpo</p>
 
 <a name="LDE-q154"><code>LDE-q154</code></a>
 :hash: 154. É dolorosa a separação da alma e do corpo?
@@ -2142,7 +2142,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 <a name="LDE-2-04-01"><code>LDE-2-04-01</code></a>
 
-<h4>:page_with_curl: A reencarnação</h4>
+<p>:page_with_curl: A reencarnação</p>
 
 <a name="LDE-q166"><code>LDE-q166</code></a>
 :hash: 166. Como pode a alma, que não alcançou a perfeição durante a vida corpórea, acabar de depurar-se?
@@ -2190,7 +2190,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 <a name="LDE-2-04-02"><code>LDE-2-04-02</code></a>
 
-<h4>:page_with_curl: Justiça da reencarnação</h4>
+<p>:page_with_curl: Justiça da reencarnação</p>
 
 <a name="LDE-q171"><code>LDE-q171</code></a>
 :hash: 171. Em que se funda o dogma da reencarnação?
@@ -2211,7 +2211,7 @@ O homem, que tem consciência da sua inferioridade, haure consoladora esperança
 
 <a name="LDE-2-04-03"><code>LDE-2-04-03</code></a>
 
-<h4>:page_with_curl: Encarnação nos diferentes mundos</h4>
+<p>:page_with_curl: Encarnação nos diferentes mundos</p>
 
 <a name="LDE-q172"><code>LDE-q172</code></a>
 :hash: 172. As nossas diversas existências corporais se verificam todas na Terra?
@@ -2363,7 +2363,7 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 
 <a name="LDE-2-04-04"><code>LDE-2-04-04</code></a>
 
-<h4>:page_with_curl: Transmigrações progressivas</h4>
+<p>:page_with_curl: Transmigrações progressivas</p>
 
 <a name="LDE-q189"><code>LDE-q189</code></a>
 :hash: 189. Desde o início de sua formação, goza o Espírito da plenitude de suas faculdades?
@@ -2439,7 +2439,7 @@ O suco da vide nos oferece um símile material dos diferentes graus da depuraç�
 
 <a name="LDE-2-04-05"><code>LDE-2-04-05</code></a>
 
-<h4>:page_with_curl: Sorte das crianças depois da morte</h4>
+<p>:page_with_curl: Sorte das crianças depois da morte</p>
 
 <a name="LDE-q197"><code>LDE-q197</code></a>
 :hash: 197. Poderá ser tão adiantado quanto o de um adulto o Espírito de uma criança que morreu em tenra idade?
@@ -2478,7 +2478,7 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 
 <a name="LDE-2-04-06"><code>LDE-2-04-06</code></a>
 
-<h4>:page_with_curl: Sexos nos Espíritos</h4>
+<p>:page_with_curl: Sexos nos Espíritos</p>
 
 <a name="LDE-q200"><code>LDE-q200</code></a>
 :hash: 200. Têm sexos os Espíritos?
@@ -2503,7 +2503,7 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 
 <a name="LDE-2-04-07"><code>LDE-2-04-07</code></a>
 
-<h4>:page_with_curl: Parentesco, filiação</h4>
+<p>:page_with_curl: Parentesco, filiação</p>
 
 <a name="LDE-q203"><code>LDE-q203</code></a>
 :hash: 203. Transmitem os pais aos filhos uma parcela de suas almas, ou se limitam a lhes dar a vida animal a que, mais tarde, outra alma vem adicionar a vida moral?
@@ -2534,7 +2534,7 @@ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Vist
 
 <a name="LDE-2-04-08"><code>LDE-2-04-08</code></a>
 
-<h4>:page_with_curl: Parecenças físicas e morais</h4>
+<p>:page_with_curl: Parecenças físicas e morais</p>
 
 <a name="LDE-q207"><code>LDE-q207</code></a>
 :hash: 207. Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirão também alguma parecença moral? [^12]
@@ -2603,7 +2603,7 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 
 <a name="LDE-2-04-09"><code>LDE-2-04-09</code></a>
 
-<h4>:page_with_curl: Ideias inatas</h4>
+<p>:page_with_curl: Ideias inatas</p>
 
 <a name="LDE-q218"><code>LDE-q218</code></a>
 :hash: 218. Encarnado, conserva o Espírito algum vestígio das percepções que teve e dos conhecimentos que adquiriu nas existências anteriores?
@@ -2776,7 +2776,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 <a name="LDE-2-06-01"><code>LDE-2-06-01</code></a>
 
-<h4>:page_with_curl: Espíritos errantes</h4>
+<p>:page_with_curl: Espíritos errantes</p>
 
 <a name="LDE-q223"><code>LDE-q223</code></a>
 :hash: 223. A alma reencarna logo depois de se haver separado do corpo?
@@ -2851,7 +2851,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 
 <a name="LDE-2-06-02"><code>LDE-2-06-02</code></a>
 
-<h4>:page_with_curl: Mundos transitórios</h4>
+<p>:page_with_curl: Mundos transitórios</p>
 
 <a name="LDE-q234"><code>LDE-q234</code></a>
 :hash: 234. Há, de fato, como já foi dito, mundos que servem de estações ou pontos de repouso aos Espíritos errantes?
@@ -2905,7 +2905,7 @@ Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum h
 
 <a name="LDE-2-06-03"><code>LDE-2-06-03</code></a>
 
-<h4>:page_with_curl: Percepções, sensações e sofrimentos dos Espíritos</h4>
+<p>:page_with_curl: Percepções, sensações e sofrimentos dos Espíritos</p>
 
 <a href="#LDE">:arrow_up_small:</a>
 
@@ -3041,7 +3041,7 @@ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e q
 
 <a name="LDE-2-06-04"><code>LDE-2-06-04</code></a>
 
-<h4>:page_with_curl: Ensaio teórico da sensação nos Espíritos</h4>
+<p>:page_with_curl: Ensaio teórico da sensação nos Espíritos</p>
 
 <a name="LDE-q257"><code>LDE-q257</code></a>
 :hash: 257. O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenômenos espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
@@ -3078,7 +3078,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 <a name="LDE-2-06-05"><code>LDE-2-06-05</code></a>
 
-<h4>:page_with_curl: Escolha das provas</h4>
+<p>:page_with_curl: Escolha das provas</p>
 
 <a name="LDE-q258"><code>LDE-q258</code></a>
 :hash: 258. Quando na erraticidade, antes de começar nova existência corporal, tem o Espírito consciência e previsão do que lhe sucederá no curso da vida terrena?
@@ -3199,7 +3199,7 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 <a name="LDE-2-06-06"><code>LDE-2-06-06</code></a>
 
-<h4>:page_with_curl: As relações no além-túmulo</h4>
+<p>:page_with_curl: As relações no além-túmulo</p>
 
 <a name="LDE-q274"><code>LDE-q274</code></a>
 :hash: 274. Da existência de diferentes ordens de Espíritos, resulta para estes alguma hierarquia de poderes? Há entre eles subordinação e autoridade?
@@ -3312,7 +3312,7 @@ Tal uma grande cidade onde os homens de todas as classes e de todas as condiçõ
 
 <a name="LDE-2-06-07"><code>LDE-2-06-07</code></a>
 
-<h4>:page_with_curl: Relações de simpatia e de antipatia entre os Espíritos. Metades eternas</h4>
+<p>:page_with_curl: Relações de simpatia e de antipatia entre os Espíritos. Metades eternas</p>
 
 <a name="LDE-q291"><code>LDE-q291</code></a>
 :hash: 291. Além da simpatia geral, oriunda da semelhança que entre eles exista, votam-se os Espíritos recíprocas afeições particulares?
@@ -3394,7 +3394,7 @@ A teoria das metades eternas encerra uma simples figura, representativa da uniã
 
 <a name="LDE-2-06-08"><code>LDE-2-06-08</code></a>
 
-<h4>:page_with_curl: Recordação da existência corpórea</h4>
+<p>:page_with_curl: Recordação da existência corpórea</p>
 
 <a name="LDE-q304"><code>LDE-q304</code></a>
 :hash: 304. Lembra-se o Espírito da sua existência corporal?
@@ -3501,7 +3501,7 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 
 <a name="LDE-2-06-09"><code>LDE-2-06-09</code></a>
 
-<h4>:page_with_curl: Comemoração dos mortos. Funerais</h4>
+<p>:page_with_curl: Comemoração dos mortos. Funerais</p>
 
 <a name="LDE-q320"><code>LDE-q320</code></a>
 :hash: 320. Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
@@ -3596,7 +3596,7 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 
 <a name="LDE-2-07-01"><code>LDE-2-07-01</code></a>
 
-<h4>:page_with_curl: Prelúdio da volta</h4>
+<p>:page_with_curl: Prelúdio da volta</p>
 
 <a name="LDE-q330"><code>LDE-q330</code></a>
 :hash: 330. Sabem os Espíritos em que época reencarnarão?
@@ -3687,7 +3687,7 @@ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará
 
 <a name="LDE-2-07-02"><code>LDE-2-07-02</code></a>
 
-<h4>:page_with_curl: União do espírito e do corpo</h4>
+<p>:page_with_curl: União do espírito e do corpo</p>
 
 <a name="LDE-q344"><code>LDE-q344</code></a>
 :hash: 344. Em que momento a alma se une ao corpo?
@@ -3795,7 +3795,7 @@ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará
 
 <a name="LDE-2-07-03"><code>LDE-2-07-03</code></a>
 
-<h4>:page_with_curl: Faculdades morais e intelectuais do homem</h4>
+<p>:page_with_curl: Faculdades morais e intelectuais do homem</p>
 
 <a name="LDE-q361"><code>LDE-q361</code></a>
 :hash: 361. Qual a origem das qualidades morais, boas ou más, do homem?
@@ -3840,7 +3840,7 @@ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de
 
 <a name="LDE-2-07-04"><code>LDE-2-07-04</code></a>
 
-<h4>:page_with_curl: Influência do corpo</h4>
+<p>:page_with_curl: Influência do corpo</p>
 
 <a name="LDE-q367"><code>LDE-q367</code></a>
 :hash: 367. Unindo-se ao corpo, o Espírito se identifica com a matéria?
@@ -3882,7 +3882,7 @@ Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada
 
 <a name="LDE-2-07-05"><code>LDE-2-07-05</code></a>
 
-<h4>:page_with_curl: Idiotismo, loucura</h4>
+<p>:page_with_curl: Idiotismo, loucura</p>
 
 <a name="LDE-q371"><code>LDE-q371</code></a>
 :hash: 371. Tem algum fundamento o pretender-se que a alma dos cretinos e dos idiotas é de natureza inferior?
@@ -3949,7 +3949,7 @@ A superioridade moral nem sempre guarda proporção com a superioridade intelect
 
 <a name="LDE-2-07-06"><code>LDE-2-07-06</code></a>
 
-<h4>:page_with_curl: A infância</h4>
+<p>:page_with_curl: A infância</p>
 
 <a name="LDE-q379"><code>LDE-q379</code></a>
 :hash: 379. É tão desenvolvido, quanto o de um adulto, o Espírito que anima o corpo de uma criança?
@@ -4001,7 +4001,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 <a name="LDE-2-07-07"><code>LDE-2-07-07</code></a>
 
-<h4>:page_with_curl: Simpatia e antipatia materiais</h4>
+<p>:page_with_curl: Simpatia e antipatia materiais</p>
 
 <a name="LDE-q386"><code>LDE-q386</code></a>
 :hash: 386. Podem dois seres, que se conheceram e estimaram, encontrar-se noutra existência corporal e reconhecer-se?
@@ -4044,7 +4044,7 @@ Não conheceis o que a inocência das crianças oculta. Não sabeis o que elas s
 
 <a name="LDE-2-07-08"><code>LDE-2-07-08</code></a>
 
-<h4>:page_with_curl: Esquecimento do passado</h4>
+<p>:page_with_curl: Esquecimento do passado</p>
 
 <a name="LDE-q392"><code>LDE-q392</code></a>
 :hash: 392. Por que perde o Espírito encarnado a lembrança do seu passado?
@@ -4134,7 +4134,7 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 <a name="LDE-2-08-01"><code>LDE-2-08-01</code></a>
 
-<h4>:page_with_curl: O sono e os sonhos</h4>
+<p>:page_with_curl: O sono e os sonhos</p>
 
 <a name="LDE-q400"><code>LDE-q400</code></a>
 :hash: 400. O Espírito encarnado permanece de bom grado no seu envoltório corporal?
@@ -4222,7 +4222,7 @@ Os sonhos são efeito da emancipação da alma, que mais independente se torna p
 
 <a name="LDE-2-08-02"><code>LDE-2-08-02</code></a>
 
-<h4>:page_with_curl: Visitas espíritas entre pessoas vivas</h4>
+<p>:page_with_curl: Visitas espíritas entre pessoas vivas</p>
 
 <a name="LDE-q413"><code>LDE-q413</code></a>
 :hash: 413. Do princípio da emancipação da alma parece decorrer que temos duas existências simultâneas: a do corpo, que nos permite a vida de relação ostensiva; e a da alma, que nos proporciona a vida de relação oculta. É assim?
@@ -4262,7 +4262,7 @@ Pelo termo antigos se devem entender os laços de amizade contraída em existên
 
 <a name="LDE-2-08-03"><code>LDE-2-08-03</code></a>
 
-<h4>:page_with_curl: Transmissão oculta do pensamento</h4>
+<p>:page_with_curl: Transmissão oculta do pensamento</p>
 
 <a name="LDE-q419"><code>LDE-q419</code></a>
 :hash: 419. Que é o que dá causa a que uma ideia, a de uma descoberta, por exemplo, surja em muitos pontos ao mesmo tempo?
@@ -4289,7 +4289,7 @@ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que 
 
 <a name="LDE-2-08-04"><code>LDE-2-08-04</code></a>
 
-<h4>:page_with_curl: Letargia, catalepsia, mortes aparentes</h4>
+<p>:page_with_curl: Letargia, catalepsia, mortes aparentes</p>
 
 <a name="LDE-q422"><code>LDE-q422</code></a>
 :hash: 422. Os letárgicos e os catalépticos, em geral, veem e ouvem o que em derredor se diz e faz, sem que possam exprimir que estão vendo e ouvindo. É pelos olhos e pelos ouvidos que têm essas percepções?
@@ -4319,7 +4319,7 @@ A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporári
 
 <a name="LDE-2-08-05"><code>LDE-2-08-05</code></a>
 
-<h4>:page_with_curl: Sonambulismo</h4>
+<p>:page_with_curl: Sonambulismo</p>
 
 <a name="LDE-q425"><code>LDE-q425</code></a>
 :hash: 425. O sonambulismo natural tem alguma relação com os sonhos? Como explicá-lo?
@@ -4403,7 +4403,7 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 <a name="LDE-2-08-06"><code>LDE-2-08-06</code></a>
 
-<h4>:page_with_curl: Êxtase</h4>
+<p>:page_with_curl: Êxtase</p>
 
 <a name="LDE-q439"><code>LDE-q439</code></a>
 :hash: 439. Que diferença há entre o êxtase e o sonambulismo?
@@ -4451,7 +4451,7 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 
 <a name="LDE-2-08-07"><code>LDE-2-08-07</code></a>
 
-<h4>:page_with_curl: Dupla vista</h4>
+<p>:page_with_curl: Dupla vista</p>
 
 <a name="LDE-q447"><code>LDE-q447</code></a>
 :hash: 447. O fenômeno a que se dá a designação de **dupla vista** tem alguma relação com o sonho e o sonambulismo?
@@ -4511,7 +4511,7 @@ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, e
 
 <a name="LDE-2-08-08"><code>LDE-2-08-08</code></a>
 
-<h4>:page_with_curl: Resumo teórico do sonambulismo, do êxtase e da dupla vista</h4>
+<p>:page_with_curl: Resumo teórico do sonambulismo, do êxtase e da dupla vista</p>
 
 <a name="LDE-q455"><code>LDE-q455</code></a>
 :hash: 455. Os fenômenos do sonambulismo natural se produzem espontaneamente e independem de qualquer causa exterior conhecida. Em certas pessoas dotadas de especial organização, porém, podem ser provocados artificialmente, pela ação do agente magnético.
@@ -4588,7 +4588,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 <a name="LDE-2-09-01"><code>LDE-2-09-01</code></a>
 
-<h4>:page_with_curl: Faculdade que têm os Espíritos de penetrar os nossos pensamentos</h4>
+<p>:page_with_curl: Faculdade que têm os Espíritos de penetrar os nossos pensamentos</p>
 
 <a name="LDE-q456"><code>LDE-q456</code></a>
 :hash: 456. Veem os Espíritos tudo o que fazemos?
@@ -4616,7 +4616,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 <a name="LDE-2-09-02"><code>LDE-2-09-02</code></a>
 
-<h4>:page_with_curl: Influência oculta dos Espíritos em nossos pensamentos e atos</h4>
+<p>:page_with_curl: Influência oculta dos Espíritos em nossos pensamentos e atos</p>
 
 <a name="LDE-q459"><code>LDE-q459</code></a>
 :hash: 459. Influem os Espíritos em nossos pensamentos e em nossos atos?
@@ -4712,7 +4712,7 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 
 <a name="LDE-2-09-03"><code>LDE-2-09-03</code></a>
 
-<h4>:page_with_curl: Possessos</h4>
+<p>:page_with_curl: Possessos</p>
 
 <a name="LDE-q473"><code>LDE-q473</code></a>
 :hash: 473. Pode um Espírito tomar temporariamente o invólucro corporal de uma pessoa viva, isto é, introduzir-se num corpo animado e obrar em lugar do outro que se acha encarnado neste corpo?
@@ -4762,7 +4762,7 @@ O vocábulo possesso, na sua acepção vulgar, supõe a existência de demônios
 
 <a name="LDE-2-09-04"><code>LDE-2-09-04</code></a>
 
-<h4>:page_with_curl: Convulsionários</h4>
+<p>:page_with_curl: Convulsionários</p>
 
 <a name="LDE-q481"><code>LDE-q481</code></a>
 :hash: 481. Desempenham os Espíritos algum papel nos fenômenos que se dão com os indivíduos chamados convulsionários?
@@ -4797,7 +4797,7 @@ Visto que esses fenômenos dependem de uma causa física e da ação de certos E
 
 <a name="LDE-2-09-05"><code>LDE-2-09-05</code></a>
 
-<h4>:page_with_curl: Afeição que os Espíritos votam a certas pessoas</h4>
+<p>:page_with_curl: Afeição que os Espíritos votam a certas pessoas</p>
 
 <a name="LDE-q484"><code>LDE-q484</code></a>
 :hash: 484. Os Espíritos se afeiçoam de preferência a certas pessoas?
@@ -4841,7 +4841,7 @@ Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as conside
 
 <a name="LDE-2-09-06"><code>LDE-2-09-06</code></a>
 
-<h4>:page_with_curl: Anjos da guarda. Espíritos protetores, familiares ou simpáticos</h4>
+<p>:page_with_curl: Anjos da guarda. Espíritos protetores, familiares ou simpáticos</p>
 
 <a name="LDE-q489"><code>LDE-q489</code></a>
 :hash: 489. Há Espíritos que se ligam particularmente a um indivíduo para protegê-lo?
@@ -5059,7 +5059,7 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 
 <a name="LDE-2-09-07"><code>LDE-2-09-07</code></a>
 
-<h4>:page_with_curl: Pressentimentos</h4>
+<p>:page_with_curl: Pressentimentos</p>
 
 <a name="LDE-q522"><code>LDE-q522</code></a>
 :hash: 522. O pressentimento é sempre um aviso do Espírito protetor?
@@ -5084,7 +5084,7 @@ Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consci
 
 <a name="LDE-2-09-08"><code>LDE-2-09-08</code></a>
 
-<h4>:page_with_curl: Influência dos Espíritos nos acontecimentos da vida</h4>
+<p>:page_with_curl: Influência dos Espíritos nos acontecimentos da vida</p>
 
 <a name="LDE-q525"><code>LDE-q525</code></a>
 :hash: 525. Exercem os Espíritos alguma influência nos acontecimentos da vida?
@@ -5188,7 +5188,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 
 <a name="LDE-2-09-09"><code>LDE-2-09-09</code></a>
 
-<h4>:page_with_curl: Ação dos Espíritos nos fenômenos da Natureza</h4>
+<p>:page_with_curl: Ação dos Espíritos nos fenômenos da Natureza</p>
 
 <a name="LDE-q536"><code>LDE-q536</code></a>
 :hash: 536. São devidos a causas fortuitas, ou, ao contrário, têm todos um fim providencial, os grandes fenômenos da Natureza, os que se consideram como perturbação dos elementos?
@@ -5241,7 +5241,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 
 <a name="LDE-2-09-10"><code>LDE-2-09-10</code></a>
 
-<h4>:page_with_curl: Os Espíritos durante os combates</h4>
+<p>:page_with_curl: Os Espíritos durante os combates</p>
 
 <a name="LDE-q541"><code>LDE-541X</code></a>
 :hash: 541. Durante uma batalha, há Espíritos assistindo e amparando cada um dos exércitos?
@@ -5298,7 +5298,7 @@ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no prime
 
 <a name="LDE-2-09-11"><code>LDE-2-09-11</code></a>
 
-<h4>:page_with_curl: Pactos</h4>
+<p>:page_with_curl: Pactos</p>
 
 <a name="LDE-q549"><code>LDE-q549</code></a>
 :hash: 549. Algo de verdade haverá nos pactos com os maus Espíritos?
@@ -5318,7 +5318,7 @@ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores na
 
 <a name="LDE-2-09-12"><code>LDE-2-09-12</code></a>
 
-<h4>:page_with_curl: Poder oculto. Talismãs. Feiticeiros</h4>
+<p>:page_with_curl: Poder oculto. Talismãs. Feiticeiros</p>
 
 <a name="LDE-q551"><code>LDE-q551</code></a>
 :hash: 551. Pode um homem mau, com o auxílio de um mau Espírito que lhe seja dedicado, fazer mal ao seu próximo?
@@ -5364,7 +5364,7 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 <a name="LDE-2-09-13"><code>LDE-2-09-13</code></a>
 
-<h4>:page_with_curl: Bênçãos e maldições</h4>
+<p>:page_with_curl: Bênçãos e maldições</p>
 
 <a name="LDE-q557"><code>LDE-q551</code></a>
 :hash: 557. Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem são lançadas?
@@ -5593,7 +5593,7 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 
 <a name="LDE-2-11-01"><code>LDE-2-11-01</code></a>
 
-<h4>:page_with_curl: Os minerais e as plantas</h4>
+<p>:page_with_curl: Os minerais e as plantas</p>
 
 <a name="LDE-q585"><code>LDE-q585</code></a>
 :hash: 585. Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes: a dos seres orgânicos e a dos inorgânicos? Segundo alguns, a espécie humana forma uma quarta classe. Qual destas divisões é preferível?
@@ -5640,7 +5640,7 @@ O organismo humano nos proporciona exemplo de movimentos análogos, sem particip
 
 <a name="LDE-2-11-02"><code>LDE-2-11-02</code></a>
 
-<h4>:page_with_curl: Os animais e o homem</h4>
+<p>:page_with_curl: Os animais e o homem</p>
 
 <a name="LDE-q592"><code>LDE-q592</code></a>
 :hash: 592. Se, pelo que toca à inteligência, comparamos o homem e os animais, parece difícil estabelecer-se uma linha de demarcação entre aquele e estes, porquanto alguns animais mostram, sob esse aspecto, notória superioridade sobre certos homens. Pode essa linha de demarcação ser estabelecida de modo preciso?
@@ -5787,7 +5787,7 @@ Há sempre anéis que ligam as extremidades da cadeia dos seres e dos acontecime
 
 <a name="LDE-2-11-03"><code>LDE-2-11-03</code></a>
 
-<h4>:page_with_curl: Metempsicose</h4>
+<p>:page_with_curl: Metempsicose</p>
 
 <a name="LDE-q611"><code>LDE-q611</code></a>
 :hash: 611. O terem os seres vivos uma origem comum no princípio inteligente não é a consagração da doutrina da metempsicose?
@@ -5855,7 +5855,7 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 
 <a name="LDE-3-01-01"><code>LDE-3-01-01</code></a>
 
-<h4>:page_with_curl: Caracteres da lei natural</h4>
+<p>:page_with_curl: Caracteres da lei natural</p>
 
 <a name="LDE-q614"><code>LDE-q614</code></a>
 :hash: 614. Que se deve entender por lei natural?
@@ -5899,7 +5899,7 @@ As outras dizem respeito especialmente ao homem considerado em si mesmo e nas su
 
 <a name="LDE-3-01-02"><code>LDE-3-01-02</code></a>
 
-<h4>:page_with_curl: Conhecimento da lei natural</h4>
+<p>:page_with_curl: Conhecimento da lei natural</p>
 
 <a name="LDE-q619"><code>LDE-q619</code></a>
 :hash: 619. A todos os homens facultou Deus os meios de conhecerem sua Lei?
@@ -5969,7 +5969,7 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 
 <a name="LDE-3-01-03"><code>LDE-3-01-03</code></a>
 
-<h4>:page_with_curl: O bem e o mal</h4>
+<p>:page_with_curl: O bem e o mal</p>
 
 <a name="LDE-q629"><code>LDE-q629</code></a>
 :hash: 629. Que definição se pode dar da moral?
@@ -6079,7 +6079,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 <a name="LDE-3-01-04"><code>LDE-3-01-04</code></a>
 
-<h4>:page_with_curl: Divisão da lei natural</h4>
+<p>:page_with_curl: Divisão da lei natural</p>
 
 <a href="#LDE">:arrow_up_small:</a>
 
@@ -6116,7 +6116,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 <a name="LDE-3-02-01"><code>LDE-3-02-01</code></a>
 
-<h4>:page_with_curl: Objetivo da adoração</h4>
+<p>:page_with_curl: Objetivo da adoração</p>
 
 <a name="LDE-q649"><code>LDE-q649</code></a>
 :hash: 649. Em que consiste a adoração?
@@ -6144,7 +6144,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 <a name="LDE-3-02-02"><code>LDE-3-02-02</code></a>
 
-<h4>:page_with_curl: Adoração exterior</h4>
+<p>:page_with_curl: Adoração exterior</p>
 
 <a name="LDE-q653"><code>LDE-q653</code></a>
 :hash: 653. Precisa de manifestações exteriores a adoração?
@@ -6182,7 +6182,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 <a name="LDE-3-02-03"><code>LDE-3-02-03</code></a>
 
-<h4>:page_with_curl: Vida contemplativa</h4>
+<p>:page_with_curl: Vida contemplativa</p>
 
 <a name="LDE-q657"><code>LDE-q657</code></a>
 :hash: 657. Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma vez que nenhum mal fazem e só em Deus pensam?
@@ -6195,7 +6195,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 <a name="LDE-3-02-04"><code>LDE-3-02-04</code></a>
 
-<h4>:page_with_curl: A prece</h4>
+<p>:page_with_curl: A prece</p>
 
 <a name="LDE-q658"><code>LDE-q658</code></a>
 :hash: 658. Agrada a Deus a prece?
@@ -6259,7 +6259,7 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 
 <a name="LDE-3-02-05"><code>LDE-3-02-05</code></a>
 
-<h4>:page_with_curl: Politeísmo</h4>
+<p>:page_with_curl: Politeísmo</p>
 
 <a name="LDE-q667"><code>LDE-q667</code></a>
 :hash: 667. Por que razão, não obstante ser falsa, a crença politeísta é uma das mais antigas e espalhadas?
@@ -6281,7 +6281,7 @@ Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs dest
 
 <a name="LDE-3-02-06"><code>LDE-3-02-06</code></a>
 
-<h4>:page_with_curl: Sacrifícios</h4>
+<p>:page_with_curl: Sacrifícios</p>
 
 <a name="LDE-q669"><code>LDE-q669</code></a>
 :hash: 
@@ -6335,7 +6335,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 <a name="LDE-3-03-01"><code>LDE-3-03-01</code></a>
 
-<h4>:page_with_curl: Necessidade do trabalho</h4>
+<p>:page_with_curl: Necessidade do trabalho</p>
 
 <a name="LDE-q674"><code>LDE-q674</code></a>
 :hash: 674. A necessidade do trabalho é Lei da Natureza?
@@ -6383,7 +6383,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 <a name="LDE-3-03-02"><code>LDE-3-03-02</code></a>
 
-<h4>:page_with_curl: Limite do trabalho. Repouso</h4>
+<p>:page_with_curl: Limite do trabalho. Repouso</p>
 
 <a name="LDE-q682"><code>LDE-q682</code></a>
 :hash: 682. Sendo uma necessidade para todo aquele que trabalha, o repouso não é também uma Lei da Natureza?
@@ -6432,7 +6432,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 <a name="LDE-3-04-01"><code>LDE-3-04-01</code></a>
 
-<h4>:page_with_curl: População do globo</h4>
+<p>:page_with_curl: População do globo</p>
 
 <a name="LDE-q686"><code>LDE-q686</code></a>
 :hash: 686. É Lei da Natureza a reprodução dos seres vivos?
@@ -6450,7 +6450,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 <a name="LDE-3-04-02"><code>LDE-3-04-02</code></a>
 
-<h4>:page_with_curl: Sucessão e aperfeiçoamento das raças</h4>
+<p>:page_with_curl: Sucessão e aperfeiçoamento das raças</p>
 
 <a name="LDE-q688"><code>LDE-q688</code></a>
 :hash: 688. Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em que terão desaparecido da Terra? [^17]
@@ -6483,7 +6483,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 <a name="LDE-3-04-03"><code>LDE-3-04-03</code></a>
 
-<h4>:page_with_curl: Obstáculos à reprodução</h4>
+<p>:page_with_curl: Obstáculos à reprodução</p>
 
 <a name="LDE-q693"><code>LDE-q693</code></a>
 :hash: 693. São contrários à Lei da Natureza as leis e os costumes humanos que têm por fim ou por efeito criar obstáculos à reprodução?
@@ -6506,7 +6506,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 <a name="LDE-3-04-04"><code>LDE-3-04-04</code></a>
 
-<h4>:page_with_curl: Casamento e celibato</h4>
+<p>:page_with_curl: Casamento e celibato</p>
 
 <a name="LDE-q695"><code>LDE-q695</code></a>
 :hash: 695. Será contrário à Lei da Natureza o casamento, isto é, a união permanente de dois seres?
@@ -6543,7 +6543,7 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 
 <a name="LDE-3-04-05"><code>LDE-3-04-05</code></a>
 
-<h4>:page_with_curl: Poligamia</h4>
+<p>:page_with_curl: Poligamia</p>
 
 <a name="LDE-q700"><code>LDE-q700</code></a>
 :hash: 700. A igualdade numérica, que mais ou menos existe entre os sexos, constitui indício da proporção em que devam unir-se?
@@ -6579,7 +6579,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 <a name="LDE-3-05-01"><code>LDE-3-05-01</code></a>
 
-<h4>:page_with_curl: Instinto de conservação</h4>
+<p>:page_with_curl: Instinto de conservação</p>
 
 <a name="LDE-q702"><code>LDE-q702</code></a>
 :hash: 702. É Lei da Natureza o instinto de conservação?
@@ -6597,7 +6597,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 <a name="LDE-3-05-02"><code>LDE-3-05-02</code></a>
 
-<h4>:page_with_curl: Meios de conservação</h4>
+<p>:page_with_curl: Meios de conservação</p>
 
 <a name="LDE-q704"><code>LDE-q704</code></a>
 :hash: 704. Tendo dado ao homem a necessidade de viver, Deus lhe facultou, em todos os tempos, os meios de o conseguir?
@@ -6644,7 +6644,7 @@ Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, 
 
 <a name="LDE-3-05-03"><code>LDE-3-05-03</code></a>
 
-<h4>:page_with_curl: Gozo dos bens terrenos</h4>
+<p>:page_with_curl: Gozo dos bens terrenos</p>
 
 <a name="LDE-q711"><code>LDE-q711</code></a>
 :hash: 711. O uso dos bens da Terra é um direito de todos os homens?
@@ -6686,7 +6686,7 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 
 <a name="LDE-3-05-04"><code>LDE-3-05-04</code></a>
 
-<h4>:page_with_curl: Necessário e supérfluo</h4>
+<p>:page_with_curl: Necessário e supérfluo</p>
 
 <a name="LDE-q715"><code>LDE-q715</code></a>
 :hash: 715. Como pode o homem conhecer o limite do necessário?
@@ -6711,7 +6711,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 <a name="LDE-3-05-05"><code>LDE-3-05-05</code></a>
 
-<h4>:page_with_curl: Privações voluntárias. Mortificações</h4>
+<p>:page_with_curl: Privações voluntárias. Mortificações</p>
 
 <a name="LDE-q718"><code>LDE-q718</code></a>
 :hash: 718. A lei de conservação obriga o homem a prover às necessidades do corpo?
@@ -6790,7 +6790,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 <a name="LDE-3-06-01"><code>LDE-3-06-01</code></a>
 
-<h4>:page_with_curl: Destruição necessária e destruição abusiva</h4>
+<p>:page_with_curl: Destruição necessária e destruição abusiva</p>
 
 <a name="LDE-q728"><code>LDE-q728</code></a>
 :hash: 728. É Lei da Natureza a destruição?
@@ -6848,7 +6848,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 <a name="LDE-3-06-02"><code>LDE-3-06-02</code></a>
 
-<h4>:page_with_curl: Flagelos destruidores</h4>
+<p>:page_with_curl: Flagelos destruidores</p>
 
 <a name="LDE-q737"><code>LDE-q737</code></a>
 :hash: 737. Com que fim fere Deus a Humanidade por meio de flagelos destruidores?
@@ -6895,7 +6895,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 <a name="LDE-3-06-03"><code>LDE-3-06-03</code></a>
 
-<h4>:page_with_curl: Guerras</h4>
+<p>:page_with_curl: Guerras</p>
 
 <a name="LDE-q742"><code>LDE-q742</code></a>
 :hash: 742. Que é o que impele o homem à guerra?
@@ -6928,7 +6928,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 <a name="LDE-3-06-04"><code>LDE-3-06-04</code></a>
 
-<h4>:page_with_curl: Assassínio</h4>
+<p>:page_with_curl: Assassínio</p>
 
 <a name="LDE-q746"><code>LDE-q746</code></a>
 :hash: 746. É crime aos olhos de Deus o assassínio?
@@ -6966,7 +6966,7 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 
 <a name="LDE-3-06-05"><code>LDE-3-06-05</code></a>
 
-<h4>:page_with_curl: Crueldade</h4>
+<p>:page_with_curl: Crueldade</p>
 
 <a name="LDE-q752"><code>LDE-q752</code></a>
 :hash: 752. Poder-se-á ligar o sentimento de crueldade ao instinto de destruição?
@@ -7001,7 +7001,7 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 
 <a name="LDE-3-06-06"><code>LDE-3-06-06</code></a>
 
-<h4>:page_with_curl: Duelo</h4>
+<p>:page_with_curl: Duelo</p>
 
 <a name="LDE-q757"><code>LDE-q757</code></a>
 :hash: 757. Pode-se considerar o duelo como um caso de legítima defesa?
@@ -7038,7 +7038,7 @@ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu
 
 <a name="LDE-3-06-07"><code>LDE-3-06-07</code></a>
 
-<h4>:page_with_curl: Pena de morte</h4>
+<p>:page_with_curl: Pena de morte</p>
 
 <a name="LDE-q760"><code>LDE-q760</code></a>
 :hash: 760. Desaparecerá algum dia, da legislação humana, a pena de morte?
@@ -7096,7 +7096,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 
 <a name="LDE-3-07-01"><code>LDE-3-07-01</code></a>
 
-<h4>:page_with_curl: Necessidade da vida social</h4>
+<p>:page_with_curl: Necessidade da vida social</p>
 
 <a name="LDE-q766"><code>LDE-q766</code></a>
 :hash: 766. A vida social está na Natureza?
@@ -7121,7 +7121,7 @@ Homem nenhum possui faculdades completas. Mediante a união social é que elas u
 
 <a name="LDE-3-07-02"><code>LDE-3-07-02</code></a>
 
-<h4>:page_with_curl: Vida de insulamento. Voto de silêncio</h4>
+<p>:page_with_curl: Vida de insulamento. Voto de silêncio</p>
 
 <a name="LDE-q769"><code>LDE-q769</code></a>
 :hash: 769. Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, uma vez que também todos os gostos estão na Natureza, por que será condenável o do insulamento absoluto, desde que cause satisfação ao homem?
@@ -7161,7 +7161,7 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 
 <a name="LDE-3-07-03"><code>LDE-3-07-03</code></a>
 
-<h4>:page_with_curl: Laços de família</h4>
+<p>:page_with_curl: Laços de família</p>
 
 <a name="LDE-q773"><code>LDE-q773</code></a>
 :hash: 773. Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde que estes não mais precisam de cuidados?
@@ -7199,7 +7199,7 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 
 <a name="LDE-3-08-01"><code>LDE-3-08-01</code></a>
 
-<h4>:page_with_curl: Estado de natureza</h4>
+<p>:page_with_curl: Estado de natureza</p>
 
 <a name="LDE-q776"><code>LDE-q776</code></a>
 :hash: 776. Serão coisas idênticas o estado de natureza e a lei natural?
@@ -7224,7 +7224,7 @@ O estado de natureza é a infância da Humanidade e o ponto de partida do seu de
 
 <a name="LDE-3-08-02"><code>LDE-3-08-02</code></a>
 
-<h4>:page_with_curl: Marcha do progresso</h4>
+<p>:page_with_curl: Marcha do progresso</p>
 
 <a name="LDE-q779"><code>LDE-q779</code></a>
 :hash: 779. A força para progredir, haure-a o homem em si mesmo, ou o progresso é apenas fruto de um ensinamento?
@@ -7289,7 +7289,7 @@ Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas qu
 
 <a name="LDE-3-08-03"><code>LDE-3-08-03</code></a>
 
-<h4>:page_with_curl: Povos degenerados</h4>
+<p>:page_with_curl: Povos degenerados</p>
 
 <a name="LDE-q786"><code>LDE-q786</code></a>
 :hash: 786. Mostra-nos a História que muitos povos, depois de abalos que os revolveram profundamente, recaíram na barbaria. Onde, neste caso, o progresso?
@@ -7337,7 +7337,7 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 <a name="LDE-3-08-04"><code>LDE-3-08-04</code></a>
 
-<h4>:page_with_curl: Civilização</h4>
+<p>:page_with_curl: Civilização</p>
 
 <a name="LDE-q790"><code>LDE-q790</code></a>
 :hash: 790. É um progresso a civilização ou, como o entendem alguns filósofos, uma decadência da Humanidade?
@@ -7379,7 +7379,7 @@ De duas nações que tenham chegado ao ápice da escala social, somente pode con
 
 <a name="LDE-3-08-05"><code>LDE-3-08-05</code></a>
 
-<h4>:page_with_curl: Progresso da legislação humana</h4>
+<p>:page_with_curl: Progresso da legislação humana</p>
 
 <a name="LDE-q794"><code>LDE-q794</code></a>
 :hash: 794. Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das leis humanas?
@@ -7409,7 +7409,7 @@ A civilização criou necessidades novas para o homem, necessidades relativas à
 
 <a name="LDE-3-08-06"><code>LDE-3-08-06</code></a>
 
-<h4>:page_with_curl: Influência do Espiritismo no progresso</h4>
+<p>:page_with_curl: Influência do Espiritismo no progresso</p>
 
 <a name="LDE-q798"><code>LDE-q798</code></a>
 :hash: 798. O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como crença, apenas por algumas pessoas? [^21]
@@ -7459,7 +7459,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 <a name="LDE-3-09-01"><code>LDE-3-09-01</code></a>
 
-<h4>:page_with_curl: Igualdade natural</h4>
+<p>:page_with_curl: Igualdade natural</p>
 
 <a name="LDE-q803"><code>LDE-q803</code></a>
 :hash: 803. Perante Deus, são iguais todos os homens?
@@ -7473,7 +7473,7 @@ Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igua
 
 <a name="LDE-3-09-02"><code>LDE-3-09-02</code></a>
 
-<h4>:page_with_curl: Desigualdade das aptidões</h4>
+<p>:page_with_curl: Desigualdade das aptidões</p>
 
 <a name="LDE-q804"><code>LDE-q804</code></a>
 :hash: 804. Por que não outorgou Deus as mesmas aptidões a todos os homens?
@@ -7493,7 +7493,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 <a name="LDE-3-09-03"><code>LDE-3-09-03</code></a>
 
-<h4>:page_with_curl: Desigualdades sociais</h4>
+<p>:page_with_curl: Desigualdades sociais</p>
 
 <a name="LDE-q806"><code>LDE-q806</code></a>
 :hash: 806. É Lei da Natureza a desigualdade das condições sociais?
@@ -7516,7 +7516,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 <a name="LDE-3-09-04"><code>LDE-3-09-04</code></a>
 
-<h4>:page_with_curl: Desigualdade das riquezas</h4>
+<p>:page_with_curl: Desigualdade das riquezas</p>
 
 <a name="LDE-q808"><code>LDE-q808</code></a>
 :hash: 808. A desigualdade das riquezas não se originará da das faculdades, em virtude da qual uns dispõem de mais meios de adquirir bens do que outros?
@@ -7568,7 +7568,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 <a name="LDE-3-09-05"><code>LDE-3-09-05</code></a>
 
-<h4>:page_with_curl: As provas de riqueza e de miséria</h4>
+<p>:page_with_curl: As provas de riqueza e de miséria</p>
 
 <a name="LDE-q814"><code>LDE-q814</code></a>
 :hash: 814. Por que Deus a uns concedeu as riquezas e o poder, e a outros, a miséria?
@@ -7601,7 +7601,7 @@ Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha d
 
 <a name="LDE-3-09-06"><code>LDE-3-09-06</code></a>
 
-<h4>:page_with_curl: Igualdade dos direitos do homem e da mulher</h4>
+<p>:page_with_curl: Igualdade dos direitos do homem e da mulher</p>
 
 <a name="LDE-q817"><code>LDE-q817</code></a>
 :hash: 817. São iguais perante Deus o homem e a mulher e têm os mesmos direitos?
@@ -7646,7 +7646,7 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 
 <a name="LDE-3-09-07"><code>LDE-3-09-07</code></a>
 
-<h4>:page_with_curl: Igualdade perante o túmulo</h4>
+<p>:page_with_curl: Igualdade perante o túmulo</p>
 
 <a name="LDE-q823"><code>LDE-q823</code></a>
 :hash: 823. Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de monumentos fúnebres?
@@ -7688,7 +7688,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 <a name="LDE-3-10-01"><code>LDE-3-10-01</code></a>
 
-<h4>:page_with_curl: Liberdade natural</h4>
+<p>:page_with_curl: Liberdade natural</p>
 
 <a name="LDE-q825"><code>LDE-q825</code></a>
 :hash: 825. Haverá no mundo posições em que o homem possa jactar-se de gozar de absoluta liberdade?
@@ -7721,7 +7721,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 <a name="LDE-3-10-02"><code>LDE-3-10-02</code></a>
 
-<h4>:page_with_curl: Escravidão</h4>
+<p>:page_with_curl: Escravidão</p>
 
 <a name="LDE-q829"><code>LDE-q829</code></a>
 :hash: 829. Haverá homens que estejam, por natureza, destinados a ser propriedades de outros homens?
@@ -7750,7 +7750,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 <a name="LDE-3-10-03"><code>LDE-3-10-03</code></a>
 
-<h4>:page_with_curl: Liberdade de pensar</h4>
+<p>:page_with_curl: Liberdade de pensar</p>
 
 <a name="LDE-q833"><code>LDE-q833</code></a>
 :hash: 833. Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze ele de absoluta liberdade?
@@ -7768,7 +7768,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 <a name="LDE-3-10-04"><code>LDE-3-10-04</code></a>
 
-<h4>:page_with_curl: Liberdade de consciência</h4>
+<p>:page_with_curl: Liberdade de consciência</p>
 
 <a name="LDE-q835"><code>LDE-q835</code></a>
 :hash: 835. Será a liberdade de consciência uma consequência da de pensar?
@@ -7818,7 +7818,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 <a name="LDE-3-10-05"><code>LDE-3-10-05</code></a>
 
-<h4>:page_with_curl: Livre-arbítrio</h4>
+<p>:page_with_curl: Livre-arbítrio</p>
 
 <a name="LDE-q843"><code>LDE-q843</code></a>
 :hash: 843. Tem o homem o livre-arbítrio de seus atos?
@@ -7868,7 +7868,7 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 
 <a name="LDE-3-10-06"><code>LDE-3-10-06</code></a>
 
-<h4>:page_with_curl: Fatalidade</h4>
+<p>:page_with_curl: Fatalidade</p>
 
 <a name="LDE-q851"><code>LDE-q851</code></a>
 :hash: 851. Haverá fatalidade nos acontecimentos da vida, conforme o sentido que se dá a este vocábulo? Quer dizer: todos os acontecimentos são predeterminados? E, neste caso, que vem a ser do livre-arbítrio?
@@ -7975,7 +7975,7 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 
 <a name="LDE-3-10-07"><code>LDE-3-10-07</code></a>
 
-<h4>:page_with_curl: Conhecimento do futuro</h4>
+<p>:page_with_curl: Conhecimento do futuro</p>
 
 <a name="LDE-q868"><code>LDE-q868</code></a>
 :hash: 868. Pode o futuro ser revelado ao homem?
@@ -8007,7 +8007,7 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 
 <a name="LDE-3-10-08"><code>LDE-3-10-08</code></a>
 
-<h4>:page_with_curl: Resumo teórico do móvel das ações humanas</h4>
+<p>:page_with_curl: Resumo teórico do móvel das ações humanas</p>
 
 <a name="LDE-q872"><code>LDE-q872</code></a>
 :hash: 872. A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
@@ -8051,7 +8051,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 <a name="LDE-3-11-01"><code>LDE-3-11-01</code></a>
 
-<h4>:page_with_curl: Justiça e direitos naturais</h4>
+<p>:page_with_curl: Justiça e direitos naturais</p>
 
 <a name="LDE-q873"><code>LDE-q873</code></a>
 :hash: 873. O sentimento da justiça está na natureza, ou é resultado de ideias adquiridas?
@@ -8106,7 +8106,7 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 
 <a name="LDE-3-11-02"><code>LDE-3-11-02</code></a>
 
-<h4>:page_with_curl: Direito de propriedade. Roubo</h4>
+<p>:page_with_curl: Direito de propriedade. Roubo</p>
 
 <a name="LDE-q880"><code>LDE-q880</code></a>
 :hash: 880. Qual o primeiro de todos os direitos naturais do homem?
@@ -8165,7 +8165,7 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 
 <a name="LDE-3-11-03"><code>LDE-3-11-03</code></a>
 
-<h4>:page_with_curl: Caridade e amor do próximo</h4>
+<p>:page_with_curl: Caridade e amor do próximo</p>
 
 <a name="LDE-q886"><code>LDE-q886</code></a>
 :hash: 886. Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus?
@@ -8217,7 +8217,7 @@ Não esqueçais nunca que o Espírito, qualquer que seja o grau de seu adiantame
 
 <a name="LDE-3-11-04"><code>LDE-3-11-04</code></a>
 
-<h4>:page_with_curl: Amor materno e filial</h4>
+<p>:page_with_curl: Amor materno e filial</p>
 
 <a name="LDE-q890"><code>LDE-q890</code></a>
 :hash: 890. Será uma virtude o amor materno, ou um sentimento instintivo, comum aos homens e aos animais?
@@ -8254,7 +8254,7 @@ Não esqueçais nunca que o Espírito, qualquer que seja o grau de seu adiantame
 
 <a name="LDE-3-12-01"><code>LDE-3-12-01</code></a>
 
-<h4>:page_with_curl: As virtudes e os vícios</h4>
+<p>:page_with_curl: As virtudes e os vícios</p>
 
 <a name="LDE-q893"><code>LDE-q893</code></a>
 :hash: 893. Qual a mais meritória de todas as virtudes?
@@ -8355,7 +8355,7 @@ O apego às coisas materiais constitui sinal notório de inferioridade, porque, 
 
 <a name="LDE-3-12-02"><code>LDE-3-12-02</code></a>
 
-<h4>:page_with_curl: Paixões</h4>
+<p>:page_with_curl: Paixões</p>
 
 <a name="LDE-q907"><code>LDE-q907</code></a>
 :hash: 907. Será substancialmente mau o princípio originário das paixões, embora esteja na natureza?
@@ -8401,7 +8401,7 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 
 <a name="LDE-3-12-03"><code>LDE-3-12-03</code></a>
 
-<h4>:page_with_curl: O egoísmo</h4>
+<p>:page_with_curl: O egoísmo</p>
 
 <a name="LDE-q913"><code>LDE-q913</code></a>
 :hash: 913. Dentre os vícios, qual o que se pode considerar radical?
@@ -8443,7 +8443,7 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 
 <a name="LDE-3-12-04"><code>LDE-3-12-04</code></a>
 
-<h4>:page_with_curl: Caracteres do homem de bem</h4>
+<p>:page_with_curl: Caracteres do homem de bem</p>
 
 <a name="LDE-q918"><code>LDE-q918</code></a>
 :hash: 918. Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? [^23]
@@ -8471,7 +8471,7 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 
 <a name="LDE-3-12-05"><code>LDE-3-12-05</code></a>
 
-<h4>:page_with_curl: Conhecimento de si mesmo</h4>
+<p>:page_with_curl: Conhecimento de si mesmo</p>
 
 <a name="LDE-q919"><code>LDE-q919</code></a>
 :hash: 919. Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal?
@@ -8522,7 +8522,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 
 <a name="LDE-4-01-01"><code>LDE-4-01-01</code></a>
 
-<h4>:page_with_curl: Felicidade e infelicidade relativas</h4>
+<p>:page_with_curl: Felicidade e infelicidade relativas</p>
 
 <a name="LDE-q920"><code>LDE-q920</code></a>
 :hash: 920. Pode o homem gozar de completa felicidade na Terra?
@@ -8624,7 +8624,7 @@ Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as
 
 <a name="LDE-4-01-02"><code>LDE-4-01-02</code></a>
 
-<h4>:page_with_curl: Perda dos entes queridos</h4>
+<p>:page_with_curl: Perda dos entes queridos</p>
 
 <a name="LDE-q934"><code>LDE-q934</code></a>
 :hash: 934. A perda dos entes que nos são caros não constitui para nós legítima causa de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
@@ -8655,7 +8655,7 @@ Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos pare
 
 <a name="LDE-4-01-03"><code>LDE-4-01-03</code></a>
 
-<h4>:page_with_curl: Decepções. Ingratidão. Afeições destruídas</h4>
+<p>:page_with_curl: Decepções. Ingratidão. Afeições destruídas</p>
 
 <a name="LDE-q937"><code>LDE-q937</code></a>
 :hash: 937. Para o homem de coração, as decepções oriundas da ingratidão e da fragilidade dos laços da amizade não são também uma fonte de amarguras?
@@ -8679,7 +8679,7 @@ A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores goz
 
 <a name="LDE-4-01-04"><code>LDE-4-01-04</code></a>
 
-<h4>:page_with_curl: Uniões antipáticas</h4>
+<p>:page_with_curl: Uniões antipáticas</p>
 
 <a name="LDE-q939"><code>LDE-q939</code></a>
 :hash: 939. Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, entre os encarnados, frequentemente só de um lado há afeição e que o mais sincero amor se vê acolhido com indiferença e até com repulsão? Como é, além disso, que a mais viva afeição de dois seres pode mudar-se em antipatia e mesmo em ódio?
@@ -8703,7 +8703,7 @@ Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequê
 
 <a name="LDE-4-01-05"><code>LDE-4-01-05</code></a>
 
-<h4>:page_with_curl: Temor da morte</h4>
+<p>:page_with_curl: Temor da morte</p>
 
 <a name="LDE-q941"><code>LDE-q941</code></a>
 :hash: 941. Para muitas pessoas, o temor da morte é uma causa de perplexidade. Donde lhes vêm esse temor, tendo elas diante de si o futuro?
@@ -8725,7 +8725,7 @@ O homem moral, que se colocou acima das necessidades factícias criadas pelas pa
 
 <a name="LDE-4-01-06"><code>LDE-4-01-06</code></a>
 
-<h4>:page_with_curl: Desgosto da vida. Suicídio</h4>
+<p>:page_with_curl: Desgosto da vida. Suicídio</p>
 
 <a name="LDE-q943"><code>LDE-q943</code></a>
 :hash: 943. Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de certos indivíduos?
@@ -8857,7 +8857,7 @@ A religião, a moral, todas as filosofias condenam o suicídio como contrário �
 
 <a name="LDE-4-02-01"><code>LDE-4-02-01</code></a>
 
-<h4>:page_with_curl: O nada. Vida futura</h4>
+<p>:page_with_curl: O nada. Vida futura</p>
 
 <a name="LDE-q958"><code>LDE-q958</code></a>
 :hash: 958. Por que tem o homem, instintivamente, horror ao nada?
@@ -8883,7 +8883,7 @@ A vida futura implica a conservação da nossa individualidade, após a morte. C
 
 <a name="LDE-4-02-02"><code>LDE-4-02-02</code></a>
 
-<h4>:page_with_curl: Intuição das penas e gozos futuros</h4>
+<p>:page_with_curl: Intuição das penas e gozos futuros</p>
 
 <a name="LDE-q960"><code>LDE-q960</code></a>
 :hash: 960. Donde se origina a crença, com que deparamos entre todos os povos, na existência de penas e recompensas porvindouras?
@@ -8909,7 +8909,7 @@ A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e d
 
 <a name="LDE-4-02-03"><code>LDE-4-02-03</code></a>
 
-<h4>:page_with_curl: Intervenção de Deus nas penas e recompensas</h4>
+<p>:page_with_curl: Intervenção de Deus nas penas e recompensas</p>
 
 <a name="LDE-q963"><code>LDE-q963</code></a>
 :hash: 963. Com cada homem, pessoalmente, Deus se ocupa? Não é Ele muito grande e nós muito pequeninos para que cada indivíduo em particular tenha, a seus olhos, alguma importância?
@@ -8936,7 +8936,7 @@ Não é verdade que esse campo produzirá na razão dos cuidados que forem dispe
 
 <a name="LDE-4-02-04"><code>LDE-4-02-04</code></a>
 
-<h4>:page_with_curl: Natureza das penas e gozos futuros</h4>
+<p>:page_with_curl: Natureza das penas e gozos futuros</p>
 
 <a name="LDE-q965"><code>LDE-q965</code></a>
 :hash: 965. Têm alguma coisa de material as penas e gozos da alma depois da morte?
@@ -9073,7 +9073,7 @@ A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sob
 
 <a name="LDE-4-02-05"><code>LDE-4-02-05</code></a>
 
-<h4>:page_with_curl: Penas temporais</h4>
+<p>:page_with_curl: Penas temporais</p>
 
 <a name="LDE-q983"><code>LDE-q983</code></a>
 :hash: 983. Não experimenta sofrimentos materiais o Espírito que expia suas faltas em nova existência? Será então exato dizer-se que, depois da morte, só há para a alma sofrimentos morais?
@@ -9120,7 +9120,7 @@ Nos mundos onde a existência é menos material do que neste, menos grosseiras s
 
 <a name="LDE-4-02-06"><code>LDE-4-02-06</code></a>
 
-<h4>:page_with_curl: Expiação e arrependimento</h4>
+<p>:page_with_curl: Expiação e arrependimento</p>
 
 <a name="LDE-q990"><code>LDE-q990</code></a>
 :hash: 990. O arrependimento se dá no estado corporal ou no estado espiritual?
@@ -9210,7 +9210,7 @@ De que lhe serve, finalmente, humilhar-se diante de Deus se, perante os homens, 
 
 <a name="LDE-4-02-07"><code>LDE-4-02-07</code></a>
 
-<h4>:page_with_curl: Duração das penas futuras</h4>
+<p>:page_with_curl: Duração das penas futuras</p>
 
 <a name="LDE-q1003"><code>LDE-q1003</code></a>
 :hash: 1003. É arbitrária ou sujeita a uma lei qualquer a duração dos sofrimentos do culpado, na vida futura?
@@ -9296,7 +9296,7 @@ Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao T
 
 <a name="LDE-4-02-08"><code>LDE-4-02-08</code></a>
 
-<h4>:page_with_curl: Ressurreição da carne</h4>
+<p>:page_with_curl: Ressurreição da carne</p>
 
 <a name="LDE-q1010"><code>LDE-q1010</code></a>
 :hash: 1010. O dogma da ressurreição da carne será a consagração da reencarnação ensinada pelos Espíritos?
@@ -9319,7 +9319,7 @@ Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo 
 
 <a name="LDE-4-02-09"><code>LDE-4-02-09</code></a>
 
-<h4>:page_with_curl: Paraíso, inferno e purgatório</h4>
+<p>:page_with_curl: Paraíso, inferno e purgatório</p>
 
 <a name="LDE-q1012"><code>LDE-q1012</code></a>
 :hash: 1012. Haverá no Universo lugares circunscritos para as penas e gozos dos Espíritos, segundo seus merecimentos?
