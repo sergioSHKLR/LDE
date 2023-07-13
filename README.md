@@ -100,11 +100,11 @@ Dentro deste livro, usaremos os emojis abaixo para identificar elementos individ
 
 | **Emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
 |---|---|---|---|
-| 📔 | livro | obra completa | `LDE` |
-| 🗂️ | parte | subdivisão da obra | `LDE-X` |
-| 📑 | capítulo | subdivisão de partes | `LDE-X-XX` |
-| 📃 | seção | subdivisão de capítulos | `LDE-X-XX-XX` |
-| #️⃣ | questão | pergunta, reposta e comentário * | `LDE.qX` |
+| :notebook_with_decorative_cover: | livro | obra completa | `LDE` |
+| :card_index_dividers: | parte | subdivisão da obra | `LDE-X` |
+| :bookmark_tabs: | capítulo | subdivisão de partes | `LDE-X-XX` |
+| :page_with_curl: | seção | subdivisão de capítulos | `LDE-X-XX-XX` |
+| :hash: | questão | pergunta, reposta e comentário * | `LDE.qX` |
 
 /* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
@@ -112,10 +112,10 @@ Dentro deste livro, usaremos os emojis abaixo para identificar elementos individ
 
 | **Emoji** | **Descrição** | **Conteúdo** |
 |---|---|---|
-| 👻 | comunicação mediúnica | mensagem de origem espiritual |
-| ✒️ | comentários de Kardec | elucidação de trecho, questão ou capítulo |
-| 👁️ | segmento relacionado | indicação para leitura complementar |
-| ✝️ | trecho bíblico | trecho atribuído com livro, capítulo e versículo |
+| :ghost: | comunicação mediúnica | mensagem de origem espiritual |
+| :black_nib: | comentários de Kardec | elucidação de trecho, questão ou capítulo |
+| :eye: | segmento relacionado | indicação para leitura complementar |
+| :latin_cross: | trecho bíblico | trecho atribuído com livro, capítulo e versículo |
 
 
 <!--
