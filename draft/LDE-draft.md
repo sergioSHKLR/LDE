@@ -577,7 +577,6 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 
 >Deus é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]
 
-
 <a name="LDE-q2"><code>LDE-q2</code></a>
 :hash: 2. Que se deve entender por infinito?
 
