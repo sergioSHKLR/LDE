@@ -30,7 +30,7 @@ Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística
 
 ---
 
-3. *Poder-se-ia dizer que* Deus *é o infinito?*
+3. *Poder-se-ia dizer que *Deus* é o infinito?*
 
 “Definição incompleta. Pobreza da linguagem humana, *insuficiente* para definir o que está acima da linguagem dos homens.”
 
