@@ -6,7 +6,7 @@
 
 👻 **O Livro dos Espíritos**, digitalizado.
 
-- 📔 [LDE-v2023-07-09.md](./releases/LDE-v2023-07-09.md)
+- 📔 [LDE-2023-07-13.md](./releases/LDE-2023-07-13.md)
 
 ## 1. Objetivo
 
