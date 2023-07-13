@@ -2,7 +2,7 @@
 
 <h1>👻 <b>O Livro dos Espíritos</b></h1>
 
-> ⚠️ **AVISO** 
+> ⚠️ **AVISO**
 >A obra original (ISBN 978-85-7328-728-8, Copyright © 1944 by Federação Espírita Brasileira) sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.
 
 **v2023-07-09**
