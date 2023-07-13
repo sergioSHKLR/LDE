@@ -333,8 +333,8 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 
 ---
 
-#### `lde-0-02-10`
 #### 📃 10
+`LDE-0-02-10`
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
