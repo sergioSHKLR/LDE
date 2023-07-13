@@ -1237,11 +1237,11 @@ A inteligência é uma faculdade especial, peculiar a algumas classes de seres o
 
 Podem distinguir-se assim: 
 
-1º — os seres inanimados, constituídos só de matéria, sem vitalidade nem inteligência: são os corpos brutos; 
+1. os seres inanimados, constituídos só de matéria, sem vitalidade nem inteligência: são os corpos brutos; 
 
-2º — os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de inteligência; 
+2. os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de inteligência; 
 
-3º — os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
+3. os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
 
 <a name="LDE-q72"><code>LDE-q72</code></a>
 :hash: 72. Qual a fonte da inteligência?
