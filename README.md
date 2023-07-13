@@ -167,9 +167,9 @@ LDE-qXXXXa
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`).
 
-## 7. Navegação
+## <s>7. Navegação
 
-De modo a evitar um sumário extremamente longo, decidimos por dividi-lo em partes incrementais. Ao começo do livro temos o sumário das partes e ao começo dos capítulos temos o sumário de seções. Ao término de cada segmento, você encontra este emoji 🔼, que ao ser clicado, lhe retorna ao nível imediatamente superior (por exemplo, de seção para capítulo ou de capítulo para parte).
+De modo a evitar um sumário extremamente longo, decidimos por dividi-lo em partes incrementais. Ao começo do livro temos o sumário das partes e ao começo dos capítulos temos o sumário de seções. Ao término de cada segmento, você encontra este emoji 🔼, que ao ser clicado, lhe retorna ao nível imediatamente superior (por exemplo, de seção para capítulo ou de capítulo para parte).</s>
 
 ## 8. Controle de Qualidade
 
