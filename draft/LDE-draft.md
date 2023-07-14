@@ -1,27 +1,29 @@
-<style>
-  blockquote {
-  quotes: "\201C""\201D""\2018""\2019";
+<style> 
+blockquote {
+     quotes: "\201C""\201D""\2018""\2019";
 }
-blockquote:before {
-  color: dimgrey;
-  content: open-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
+ blockquote:before {
+     color: dimgrey;
+     content: open-quote;
+     font-size: 4em;
+     line-height: 0.1em;
+     margin-right: 0.25em;
+     vertical-align: -0.4em;
+     font-family: serif;
 }
-blockquote p {
-  display: inline;
+ blockquote p {
+     display: inline;
 }
-blockquote:after {
-  color: dimgrey;
-  content: close-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.5em;
+ blockquote:after {
+     color: dimgrey;
+     content: close-quote;
+     font-size: 4em;
+     line-height: 0.1em;
+     margin-right: 0.25em;
+     vertical-align: -0.5em;
+     font-family: serif;
 }
-  </style>
+ </style>
 
 <script src="https://hypothes.is/embed.js" async></script>
 
