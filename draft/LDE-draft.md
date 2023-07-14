@@ -10397,7 +10397,8 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 ---
 
 <a name="LDE-q889"><code>LDE-q889</code></a>
-#️⃣ 889. Não há homens que se veem condenados a mendigar por culpa sua? 
+#️⃣ 889. Não há homens que se veem condenados a mendigar por culpa sua?
+
 >“Sem dúvida; mas, se uma boa educação moral lhes houvera ensinado a praticar a Lei de Deus, não teriam caído nos excessos causadores da sua perdição. Disso, sobretudo, é que depende a melhoria do vosso planeta.” 👉 ([`LDE-q707`](#LDE-q707))
 
 <a href="#LDE">🔼</a>
@@ -10464,7 +10465,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 #️⃣ 894. Há pessoas que fazem o bem espontaneamente, sem que precisem vencer quaisquer sentimentos que lhes sejam opostos. Terão tanto mérito, quanto as que se veem na contingência de lutar contra a natureza que lhes é própria e a vencem?
 
 >Só não têm que lutar aqueles em quem já há progresso realizado. Esses lutaram outrora e triunfaram. Por isso é que os bons sentimentos nenhum esforço lhes custam e suas ações lhes parecem simplíssimas. O bem se lhes tornou um hábito. Devidas lhes são as honras que se costuma tributar a velhos guerreiros que conquistaram seus altos postos.
->
+
 Como ainda estais longe da perfeição, tais exemplos vos espantam pelo contraste com o que tendes à vista e tanto mais os admirais, quanto mais raros são. Ficai sabendo, porém, que, nos mundos mais adiantados do que o vosso, constitui a regra o que entre vós representa a exceção. Em todos os pontos desses mundos, o sentimento do bem é espontâneo, porque somente bons Espíritos os habitam. Lá, uma só intenção maligna seria monstruosa exceção. Eis por que neles os homens são ditosos. O mesmo se dará na Terra, quando a Humanidade se houver transformado, quando compreender e praticar a caridade na sua verdadeira acepção.
 
 ---
@@ -10473,7 +10474,7 @@ Como ainda estais longe da perfeição, tais exemplos vos espantam pelo contrast
 #️⃣ 895. Postos de lado os defeitos e os vícios acerca dos quais ninguém se pode equivocar, qual o sinal mais característico da imperfeição?
 
 >O interesse pessoal. Frequentemente, as qualidades morais são como, num objeto de cobre, a douradura, que não resiste à pedra de toque. Pode um homem possuir qualidades reais, que levem o mundo a considerá-lo homem de bem. Mas, essas qualidades, conquanto assinalem um progresso, nem sempre suportam certas provas e às vezes basta que se fira a corda do interesse pessoal para que o fundo fique a descoberto. O verdadeiro desinteresse é coisa ainda tão rara na Terra que, quando se patenteia, todos o admiram como se fora um fenômeno.
->
+
 O apego às coisas materiais constitui sinal notório de inferioridade, porque, quanto mais se aferra aos bens deste mundo, tanto menos compreende o homem o seu destino. Pelo desinteresse, ao contrário, demonstra que encara de um ponto mais elevado o futuro.
 
 ---
@@ -10544,10 +10545,10 @@ O apego às coisas materiais constitui sinal notório de inferioridade, porque, 
 <a name="LDE-q903"><code>LDE-q903</code></a>
 #️⃣ 903. Incorre em culpa o homem, por estudar os defeitos alheios?
 
->Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de Jesus:
->
+>Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de Jesus:<br />
+><br />
 >Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.<br />
-<br />
+><br />
 >✝️ Mateus, cap. 7, vers. 3
 
 ---
@@ -10678,9 +10679,9 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 #️⃣ 917. Qual o meio de destruir-se o egoísmo?
 
 >De todas as imperfeições humanas, o egoísmo é a mais difícil de desenraizar-se porque deriva da influência da matéria, influência de que o homem, ainda muito próximo de sua origem, não pôde libertar-se e para cujo entretenimento tudo concorre: suas leis, sua organização social, sua educação. O egoísmo se enfraquecerá à proporção que a vida moral for predominando sobre a vida material e, sobretudo, com a compreensão, que o Espiritismo vos faculta, do vosso estado futuro, real e não desfigurado por ficções alegóricas. Quando, bem compreendido, se houver identificado com os costumes e as crenças, o Espiritismo transformará os hábitos, os usos, as relações sociais. O egoísmo assenta na importância da personalidade. Ora, o Espiritismo, bem compreendido, repito, mostra as coisas de tão alto que o sentimento da personalidade desaparece, de certo modo, diante da imensidade. Destruindo essa importância, ou, pelo menos, reduzindo-a às suas legítimas proporções, ele necessariamente combate o egoísmo.<br />
-<br />
->O choque, que o homem experimenta, do egoísmo dos outros é o que muitas vezes o faz egoísta, por sentir a necessidade de colocar-se na defensiva. Notando que os outros pensam em si próprios e não nele, ei-lo levado a ocupar-se consigo, mais do que com os outros. Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade e cada um pensará menos na sua pessoa, assim veja que outros nela pensaram. Todos experimentarão a influência moralizadora do exemplo e do contato. Em face do atual extravasamento de egoísmo, grande virtude é verdadeiramente necessária, para que alguém renuncie à sua personalidade em proveito dos outros, que, de ordinário, absolutamente lhe não agradecem. Principalmente para os que possuem essa virtude, é que o Reino dos Céus se acha aberto. A esses, sobretudo, é que está reservada a felicidade dos eleitos, pois em verdade vos digo que, no dia da justiça, será posto de lado e sofrerá pelo abandono, em que se há de ver, todo aquele que em si somente houver pensado. 👉 ([`LDE-q785`](#LDE-q785)) <br />
-<br />
+><br />
+>O choque, que o homem experimenta, do egoísmo dos outros é o que muitas vezes o faz egoísta, por sentir a necessidade de colocar-se na defensiva. Notando que os outros pensam em si próprios e não nele, ei-lo levado a ocupar-se consigo, mais do que com os outros. Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade e cada um pensará menos na sua pessoa, assim veja que outros nela pensaram. Todos experimentarão a influência moralizadora do exemplo e do contato. Em face do atual extravasamento de egoísmo, grande virtude é verdadeiramente necessária, para que alguém renuncie à sua personalidade em proveito dos outros, que, de ordinário, absolutamente lhe não agradecem. Principalmente para os que possuem essa virtude, é que o Reino dos Céus se acha aberto. A esses, sobretudo, é que está reservada a felicidade dos eleitos, pois em verdade vos digo que, no dia da justiça, será posto de lado e sofrerá pelo abandono, em que se há de ver, todo aquele que em si somente houver pensado. 👉 ([`LDE-q785`](#LDE-q785))<br />
+><br />
 >**Fénelon**
 
 Louváveis esforços indubitavelmente se empregam para fazer que a Humanidade progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência. Quem acompanhar assim o filho do rico, como o do pobre, desde o instante do nascimento, e observar todas as influências perniciosas que sobre eles atuam, em consequência da fraqueza, da incúria e da ignorância dos que os dirigem, observando igualmente com quanta frequência falham os meios empregados para moralizá-los, não poderá espantar-se de encontrar pelo mundo tantas esquisitices. Faça-se com o moral o que se faz com a inteligência e ver-se-á que, se há naturezas refratárias, muito maior do que se julga é o número das que apenas reclamam boa cultura, para produzir bons frutos.👉 ([`LDE-q872`](#LDE-q872))
@@ -10741,13 +10742,13 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 #️⃣ 919a. Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisamente em cada um conhecer-se a si mesmo. Qual o meio de consegui-lo?
 
 >Fazei o que eu fazia, quando vivi na Terra: ao fim do dia, interrogava a minha consciência, passava revista ao que fizera e perguntava a mim mesmo se não faltara a algum dever, se ninguém tivera motivo para de mim se queixar. Foi assim que cheguei a me conhecer e a ver o que em mim precisava de reforma. Aquele que, todas as noites, evocasse todas as ações que praticara durante o dia e inquirisse de si mesmo o bem ou o mal que houvera feito, rogando a Deus e ao seu anjo de guarda que o esclarecessem, grande força adquiriria para se aperfeiçoar, porque, crede-me, Deus o assistiria. Dirigi, pois, a vós mesmos perguntas, interrogai-vos sobre o que tendes feito e com que objetivo procedestes em tal ou tal circunstância, sobre se fizestes alguma coisa que, feita por outrem, censuraríeis, sobre se obrastes alguma ação que não ousaríeis confessar. Perguntai ainda mais: ‘Se aprouvesse a Deus chamar-me neste momento, teria que temer o olhar de alguém, ao entrar de novo no mundo dos Espíritos, onde nada pode ser ocultado?’.<br />
-<br />
+><br />
 >Examinai o que pudestes ter obrado contra Deus, depois contra o vosso próximo e, finalmente, contra vós mesmos. As respostas vos darão, ou o descanso para a vossa consciência, ou a indicação de um mal que precise ser curado.<br />
-<br />
+><br />
 >O conhecimento de si mesmo é, portanto, a chave do progresso individual. Direis, como há de alguém julgar-se a si mesmo? Não está aí a ilusão do amor-próprio para atenuar as faltas e torná-las desculpáveis? O avarento se considera apenas econômico e previdente; o orgulhoso julga que em si só há dignidade. Isto é muito real, mas tendes um meio de verificação que não pode iludir-vos. Quando estiverdes indecisos sobre o valor de uma de vossas ações, inquiri como a qualificaríeis, se praticada por outra pessoa. Se a censurais noutrem, não na podereis ter por legítima quando fordes o seu autor, pois que Deus não usa de duas medidas na aplicação de sua justiça. Procurai também saber o que dela pensam os vossos semelhantes e não desprezeis a opinião dos vossos inimigos, porquanto esses nenhum interesse têm em mascarar a verdade e Deus muitas vezes os coloca ao vosso lado como um espelho, a fim de que sejais advertidos com mais franqueza do que o faria um amigo. Perscrute, conseguintemente, a sua consciência aquele que se sinta possuído do desejo sério de melhorar-se, a fim de extirpar de si os maus pendores, como do seu jardim arranca as ervas daninhas; dê balanço no seu dia moral para, a exemplo do comerciante, avaliar suas perdas e seus lucros e eu vos asseguro que a conta destes será mais avultada que a daquelas. Se puder dizer que foi bom o seu dia, poderá dormir em paz e aguardar sem receio o despertar na outra vida.<br />
-<br />
+><br />
 >Formulai, pois, de vós para convosco, questões nítidas e precisas e não temais multiplicá-las. Justo é que se gastem alguns minutos para conquistar uma felicidade eterna. Não trabalhais todos os dias com o fito de juntar haveres que vos garantam repouso na velhice? Não constitui esse repouso o objeto de todos os vossos desejos, o fim que vos faz suportar fadigas e privações temporárias? Pois bem! que é esse descanso de alguns dias, turbado sempre pelas enfermidades do corpo, em comparação com o que espera o homem de bem? Não valerá este outro a pena de alguns esforços? Sei haver muitos que dizem ser positivo o presente e incerto o futuro. Ora, esta exatamente a ideia que estamos encarregados de eliminar do vosso íntimo, visto desejarmos fazer que compreendais esse futuro, de modo a não restar nenhuma dúvida em vossa alma. Por isso foi que primeiro chamamos a vossa atenção por meio de fenômenos capazes de ferir-vos os sentidos e que agora vos damos instruções, que cada um de vós se acha encarregado de espalhar. Com este objetivo é que ditamos 👻 **O Livro dos Espíritos**.<br />
-<br />
+><br />
 >**Santo Agostinho**
 
 Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós. 
@@ -10840,7 +10841,7 @@ Já nesta vida somos punidos pelas infrações que cometemos das leis que regem 
 >Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:
 >
 >Bem-aventurados os que sofrem, pois que serão consolados.<br />
-<br />
+><br />
 >✝️ Mateus, cap. 5, vers. 4
 
 ---
@@ -10902,6 +10903,7 @@ Com uma organização social criteriosa e previdente, ao homem só por culpa sua
 #️⃣ 933. Assim como, quase sempre, é o homem o causador de seus sofrimentos materiais, também o será de seus sofrimentos morais?
 
 >Mais ainda, porque os sofrimentos materiais algumas vezes independem da vontade; mas o orgulho ferido, a ambição frustrada, a ansiedade da avareza, a inveja, o ciúme, todas as paixões, numa palavra, são torturas da alma.
+
 A inveja e o ciúme! Felizes os que desconhecem estes dois vermes roedores! Para aquele que a inveja e o ciúme atacam, não há calma, nem repouso possíveis. À sua frente, como fantasmas que lhe não dão tréguas e o perseguem até durante o sono, se levantam os objetos de sua cobiça, do seu ódio, do seu despeito. O invejoso e o ciumento vivem ardendo em contínua febre. Será essa uma situação desejável e não compreendeis que, com as suas paixões, o homem cria para si mesmo suplícios voluntários, tornando-se-lhe a Terra verdadeiro inferno?
 
 Muitas expressões pintam energicamente o efeito de certas paixões. Diz-se: ímpar de orgulho, morrer de inveja, secar de ciúme ou de despeito, não comer nem beber de ciúmes etc. Este quadro é sumamente real. Acontece até não ter o ciúme objeto determinado. Há pessoas ciumentas, por natureza, de tudo o que se eleva, de tudo o que sai da craveira vulgar, embora nenhum interesse direto tenham, mas unicamente porque não podem conseguir outro tanto. Ofusca-as tudo o que lhes parece estar acima do horizonte e, se constituíssem maioria na sociedade, trabalhariam para reduzir tudo ao nível em que se acham. É o ciúme aliado à mediocridade.
@@ -10996,6 +10998,7 @@ A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores goz
 #️⃣ 939. Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, entre os encarnados, frequentemente só de um lado há afeição e que o mais sincero amor se vê acolhido com indiferença e até com repulsão? Como é, além disso, que a mais viva afeição de dois seres pode mudar-se em antipatia e mesmo em ódio?
 
 >Não compreendes então que isso constitui uma punição, se bem que passageira? Depois, quantos não são os que acreditam amar perdidamente, porque apenas julgam pelas aparências, e que, obrigados a viver com as pessoas amadas, não tardam a reconhecer que só experimentaram um encantamento material! Não basta uma pessoa estar enamorada de outra que lhe agrada e em quem supõe belas qualidades. Vivendo realmente com ela é que poderá apreciá-la. Tanto assim que, em muitas uniões, que a princípio parecem destinadas a nunca ser simpáticas, acabam os que as constituíram, depois de se haverem estudado bem e de bem se conhecerem, por votar-se, reciprocamente, duradouro e terno amor, porque assente na estima! Cumpre não se esqueça de que é o Espírito quem ama e não o corpo, de sorte que, dissipada a ilusão material, o Espírito vê a realidade.
+
 Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequência tomar-se uma pela outra. Quando pura e simpática, a afeição da alma é duradoura; efêmera a do corpo. Daí vem que, muitas vezes, os que julgavam amar-se com eterno amor passam a odiar-se, desde que a ilusão se desfaça.
 
 ---
@@ -11029,6 +11032,7 @@ Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequê
 Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza do futuro. A **esperança** fá-lo contar com uma vida melhor; e a **caridade**, a cuja lei obedece, lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer. 👉 ([`LDE-q730`](#LDE-q730))
 
 O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na Terra, penas e gozos materiais. Sua felicidade consiste na satisfação fugaz de todos os seus desejos. Sua alma, constantemente preocupada e angustiada pelas vicissitudes da vida, se conserva numa ansiedade e numa tortura perpétuas. A morte o assusta, porque ele duvida do futuro e porque tem de deixar no mundo todas as suas afeições e esperanças.
+
 O homem moral, que se colocou acima das necessidades factícias criadas pelas paixões, já neste mundo experimenta gozos que o homem material desconhece. A moderação de seus desejos lhe dá ao Espírito calma e serenidade. Ditoso pelo bem que faz, não há para ele decepções e as contrariedades lhe deslizam por sobre a alma, sem nenhuma impressão dolorosa deixarem.
 
 ---
@@ -11124,6 +11128,7 @@ Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, pro
 #️⃣ 951. Não é, às vezes, meritório o sacrifício da vida, quando aquele que o faz visa salvar a de outrem, ou ser útil aos seus semelhantes?
 
 >Isso é sublime, conforme a intenção, e, em tal caso, o sacrifício da vida não constitui suicídio. Deus, porém, se opõe a todo sacrifício inútil e não o pode ver de bom grado, se tem o orgulho a manchá-lo. Só o desinteresse torna meritório o sacrifício e, não raro, quem o faz guarda oculto um pensamento, que lhe diminui o valor aos olhos de Deus.
+
 Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato soberanamente meritório aos olhos de Deus, porque resulta da prática da lei de caridade. Ora, sendo a vida o bem terreno a que maior apreço dá o homem, não comete atentado o que a ela renuncia pelo bem de seus semelhantes: cumpre um sacrifício; mas, antes de o cumprir, deve refletir sobre se sua vida não será mais útil do que sua morte.
 
 ---
@@ -11151,6 +11156,7 @@ Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato
 
 <a name="LDE-q953a"><code>LDE-q953a</code></a>
 #️⃣ 953a. Concebe-se que, nas circunstâncias ordinárias, o suicídio seja condenável; mas estamos figurando o caso em que a morte é inevitável e em que a vida só é encurtada de alguns instantes.
+
 >É sempre uma falta de resignação e de submissão à vontade do Criador.
 
 ---
@@ -11296,9 +11302,9 @@ A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e d
 #️⃣ 964. Mas será necessário que Deus atente em cada um dos nossos atos, para nos recompensar ou punir? Esses atos não são, na sua maioria, insignificantes para Ele?
 
 >Deus tem suas leis a regerem todas as vossas ações. Se as violais, vossa é a culpa. Indubitavelmente, quando um homem comete um excesso qualquer, Deus não profere contra ele um julgamento, dizendo-lhe, por exemplo:<br />
-<br />
+><br />
 >Foste guloso, vou punir-te.<br />
-<br />
+><br />
 >Ele traçou um limite; as enfermidades e muitas vezes a morte são a consequência dos excessos. Eis aí a punição: é o resultado da infração da lei. Assim em tudo.
 
 Todas as nossas ações estão submetidas às Leis de Deus. Nenhuma há, **por mais insignificante que nos pareça**, que não possa ser uma violação daquelas leis. Se sofremos as consequências dessa violação, só nos devemos queixar de nós mesmos, que desse modo nos fazemos os causadores da nossa felicidade, ou da nossa infelicidade futuras.
@@ -11420,7 +11426,7 @@ Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o hom
 #️⃣ 975. Os Espíritos inferiores compreendem a felicidade do justo?
 
 >Sim, e isso lhes é um suplício, porque compreendem que estão dela privados por sua culpa. Daí resulta que o Espírito, liberto da matéria, aspira à nova vida corporal, pois que cada existência, se for bem empregada, abrevia um tanto a duração desse suplício. É então que procede à escolha das provas por meio das quais possa expiar suas faltas. Porque, ficai sabendo, o Espírito sofre por todo o mal que praticou, ou de que foi causa voluntária, por todo o bem que houvera podido fazer e não fez **e por todo o mal que decorra de não haver feito o bem**.<br />
-<br />
+><br />
 >Para o Espírito errante, já não há véus. **Ele se acha como tendo saído de um nevoeiro** e vê o que o distancia da felicidade. Mais sofre então, porque compreende quanto foi culpado. **Não tem mais ilusões**: vê as coisas na sua realidade.
 
 Na erraticidade, o Espírito descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada.
@@ -11660,13 +11666,13 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 #️⃣ 1000. Já desde esta vida poderemos ir resgatando as nossas faltas?
 
 >Sim, reparando-as; mas não creiais que as resgateis mediante algumas privações pueris, ou distribuindo em esmolas o que possuirdes, depois que morrerdes, quando de nada mais precisais. Deus não dá valor a um arrependimento estéril, sempre fácil e que apenas custa o esforço de bater no peito. A perda de um dedo mínimo, quando se esteja prestando um serviço, apaga mais faltas do que o suplício da carne suportado durante anos, com objetivo exclusivamente **pessoal**. 👉 ([`LDE-q726`](#LDE-q726))<br />
-<br />
+><br />
 >Só por meio do bem se repara o mal e a reparação nenhum mérito apresenta, se não atinge o homem **nem no seu orgulho, nem nos seus interesses materiais.**<br />
-<br />
+><br />
 >De que serve, para sua justificação, que restitua, depois de morrer, os bens mal adquiridos, quando se lhe tornaram inúteis e deles tirou todo o proveito?<br />
-<br />
+><br />
 >De que lhe serve privar-se de alguns gozos fúteis, de algumas superfluidades, se permanece integral o dano que causou a outrem?<br />
-<br />
+><br />
 >De que lhe serve, finalmente, humilhar-se diante de Deus se, perante os homens, conserva o seu orgulho? 👉 ([`LDE-q720`](#LDE-q720) e [`LDE-q721`](#LDE-q721))
 
 ---
@@ -11704,7 +11710,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 #️⃣ 1004. Em que se baseia a duração dos sofrimentos do culpado?
 
 >No tempo necessário a que se melhore. Sendo o estado de sofrimento ou de felicidade proporcionado ao grau de purificação do Espírito, a duração e a natureza de seus sofrimentos dependem do tempo que ele gaste em melhorar-se. À medida que progride e que os sentimentos se lhe depuram, seus sofrimentos diminuem e mudam de natureza.<br />
-<br />
+><br />
 >**São Luís**
 
 ---
@@ -11720,7 +11726,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 #️⃣ 1006. Poderão durar eternamente os sofrimentos do Espírito?
 
 >Poderiam, se ele pudesse ser eternamente mau, isto é, se jamais se arrependesse e melhorasse, sofreria eternamente. Deus, porém, não criou seres tendo por destino permanecerem votados perpetuamente ao mal. Apenas os criou a todos simples e ignorantes, tendo todos, no entanto, que progredir em tempo mais ou menos longo, conforme decorrer da vontade de cada um. Mais ou menos tardia pode ser a vontade, do mesmo modo que há crianças mais ou menos precoces, porém, cedo ou tarde, ela aparece, por efeito da irresistível necessidade que o Espírito sente de sair da inferioridade e de se tornar feliz. Eminentemente sábia e magnânima é, pois, a lei que rege a duração das penas, porquanto subordina essa duração aos esforços do Espírito. Jamais o priva do seu livre-arbítrio: se deste faz ele mau uso, sofre as consequências.<br />
-<br />
+><br />
 >**São Luís**
 
 ---
@@ -11729,7 +11735,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 #️⃣ 1007. Haverá Espíritos que nunca se arrependem?
 
 >Há os de arrependimento muito tardio; porém, pretender-se que nunca se melhorarão fora negar a lei do progresso e dizer que a criança não pode tornar-se homem.<br />
-<br />
+><br />
 >**São Luís**
 
 ---
@@ -11738,7 +11744,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 #️⃣ 1008. Depende sempre da vontade do Espírito a duração das penas? Algumas não haverá que lhe sejam impostas por tempo determinado?
 
 >Sim, ao Espírito podem ser impostas penas por determinado tempo; mas Deus, que só quer o bem de suas criaturas, acolhe sempre o arrependimento, e infrutífero jamais fica o desejo que o Espírito manifeste de se melhorar.<br />
-<br />
+><br />
 >**São Luís**
 
 ---
@@ -11895,10 +11901,12 @@ De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das 
 <a name="LDE-q1019"><code>LDE-q1019</code></a>
 #️⃣ 1019. Poderá jamais implantar-se na Terra o reinado do bem?
 
->O bem reinará na Terra quando, entre os Espíritos que a vêm habitar, os bons predominarem, porque, então, farão que aí reinem o amor e a justiça, fonte do bem e da felicidade. Por meio do progresso moral e praticando as Leis de Deus é que o homem atrairá para a Terra os bons Espíritos e dela afastará os maus. Estes, porém, não a deixarão, senão quando daí estejam banidos o orgulho e o egoísmo.
-Predita foi a transformação da Humanidade e vos avizinhais do momento em que se dará, momento cuja chegada apressam todos os homens que auxiliam o progresso. Essa transformação se verificará por meio da encarnação de Espíritos melhores, que constituirão na Terra uma geração nova. Então, os Espíritos dos maus, que a morte vai ceifando dia a dia, e todos os que tentem deter a marcha das coisas serão daí excluídos, pois que viriam a estar deslocados entre os homens de bem, cuja felicidade perturbariam. Irão para mundos novos, menos adiantados, desempenhar missões **penosas**, trabalhando pelo seu próprio adiantamento, ao mesmo tempo que trabalharão pelo de seus irmãos ainda mais atrasados. Neste banimento de Espíritos da Terra transformada, não percebeis a sublime alegoria do **Paraíso perdido** e, na vinda do homem para a Terra em semelhantes condições, trazendo em si o gérmen de suas paixões e os vestígios da sua inferioridade primitiva, não descobris a não menos sublime alegoria do **pecado original**? Considerado deste ponto de vista, o pecado original se prende à natureza ainda imperfeita do homem que, assim, só é responsável por si mesmo, pelas suas próprias faltas e não pelas de seus pais.
-Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias.<br />
-<br />
+>O bem reinará na Terra quando, entre os Espíritos que a vêm habitar, os bons predominarem, porque, então, farão que aí reinem o amor e a justiça, fonte do bem e da felicidade. Por meio do progresso moral e praticando as Leis de Deus é que o homem atrairá para a Terra os bons Espíritos e dela afastará os maus. Estes, porém, não a deixarão, senão quando daí estejam banidos o orgulho e o egoísmo.<br />
+><br />
+>Predita foi a transformação da Humanidade e vos avizinhais do momento em que se dará, momento cuja chegada apressam todos os homens que auxiliam o progresso. Essa transformação se verificará por meio da encarnação de Espíritos melhores, que constituirão na Terra uma geração nova. Então, os Espíritos dos maus, que a morte vai ceifando dia a dia, e todos os que tentem deter a marcha das coisas serão daí excluídos, pois que viriam a estar deslocados entre os homens de bem, cuja felicidade perturbariam. Irão para mundos novos, menos adiantados, desempenhar missões **penosas**, trabalhando pelo seu próprio adiantamento, ao mesmo tempo que trabalharão pelo de seus irmãos ainda mais atrasados. Neste banimento de Espíritos da Terra transformada, não percebeis a sublime alegoria do **Paraíso perdido** e, na vinda do homem para a Terra em semelhantes condições, trazendo em si o gérmen de suas paixões e os vestígios da sua inferioridade primitiva, não descobris a não menos sublime alegoria do **pecado original**? Considerado deste ponto de vista, o pecado original se prende à natureza ainda imperfeita do homem que, assim, só é responsável por si mesmo, pelas suas próprias faltas e não pelas de seus pais.<br />
+><br />
+>Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias.<br />
+><br />
 >**São Luís** 
 
 <a href="#LDE">🔼</a>
