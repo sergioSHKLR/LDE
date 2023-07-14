@@ -23,7 +23,8 @@ blockquote {
      vertical-align: -0.5em;
      font-family: serif;
 }
-markdown-body hr {border-top: 1px solid grey;}
+markdown-body hr {height: 1px;
+background-color: grey;}
  </style>
 
 <script src="https://hypothes.is/embed.js" async></script>
