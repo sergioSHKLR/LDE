@@ -4290,8 +4290,8 @@ Os sonhos são efeito da emancipação da alma, que mais independente se torna p
 #️⃣ 417. Podem Espíritos encarnados reunir-se em certo número e formar assembleias?
 
 >Sem dúvida alguma. Os laços, antigos ou recentes, da amizade costumam reunir desse modo diversos Espíritos, que se sentem felizes de estar juntos.
->
-Pelo termo antigos se devem entender os laços de amizade contraída em existências anteriores. Ao despertar, guardamos intuição das ideias que haurimos nesses colóquios, mas ficamos na ignorância da fonte donde promanaram.
+
+Pelo termo **antigos** se devem entender os laços de amizade contraída em existências anteriores. Ao despertar, guardamos intuição das ideias que haurimos nesses colóquios, mas ficamos na ignorância da fonte donde promanaram.
 
 <a name="LDE-q418"><code>LDE-q418</code></a>
 #️⃣ 418. Uma pessoa que julgasse morto um de seus amigos, sem que tal fosse a realidade, poderia encontrar-se com ele, em Espírito, e verificar que continuava vivo? E, dado o fato, poderia, ao despertar, ter dele a intuição?
@@ -4310,7 +4310,7 @@ Pelo termo antigos se devem entender os laços de amizade contraída em existên
 #️⃣ 419. Que é o que dá causa a que uma ideia, a de uma descoberta, por exemplo, surja em muitos pontos ao mesmo tempo?
 
 >Já dissemos que durante o sono os Espíritos se comunicam entre si. Ora bem! Quando se dá o despertar, o Espírito se lembra do que aprendeu e o homem julga ser isso um invento de sua autoria. Assim é que muitos podem simultaneamente descobrir a mesma coisa. Quando dizeis que uma ideia paira no ar, usais de uma figura de linguagem mais exata do que supondes. Todos, sem o suspeitarem, contribuem para propagá-la.
->
+
 Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos, mau grado nosso, o que constituía objeto de nossas preocupações no estado de vigília.
 
 <a name="LDE-q420"><code>LDE-q420</code></a>
@@ -4322,7 +4322,7 @@ Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos,
 #️⃣ 421. Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamente a mesma ideia?
 
 >São dois Espíritos simpáticos, que se comunicam e veem reciprocamente seus pensamentos respectivos, embora não estejam adormecidos os corpos.
->
+
 Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos Espíritos. 
 
 <a href="#LDE">🔼</a>
@@ -4352,7 +4352,7 @@ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que 
 #️⃣ 424. Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se desfazerem e restituir-se à vida um ser que definitivamente morreria se não fosse socorrido?
 
 >Sem dúvida e todos os dias tendes a prova disso. O magnetismo, em tais casos, constitui, muitas vezes, poderoso meio de ação, porque restitui ao corpo o fluido vital que lhe falta para manter o funcionamento dos órgãos.
->
+
 A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a inteligência se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética. 
 
 <a href="#LDE">🔼</a>
@@ -4367,7 +4367,7 @@ A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporári
 #️⃣ 425. O sonambulismo natural tem alguma relação com os sonhos? Como explicá-lo?
 
 >É um estado de independência do Espírito, mais completo do que no sonho, estado em que maior amplitude adquirem suas faculdades. A alma tem então percepções de que não dispõe no sonho, que é um estado de sonambulismo imperfeito.
->
+
 No sonambulismo, o Espírito está na posse plena de si mesmo. Os órgãos materiais, achando-se de certa forma em estado de catalepsia, deixam de receber as impressões **exteriores**. Esse estado se apresenta principalmente durante o sono, ocasião em que o Espírito pode abandonar provisoriamente o corpo, por se encontrar este gozando do repouso indispensável à matéria. Quando se produzem os fatos do sonambulismo, é que o Espírito, preocupado com uma coisa ou outra, se aplica a uma ação qualquer, para cuja prática necessita de utilizar-se do corpo. Serve-se então deste, como se serve de uma mesa ou de outro objeto material no fenômeno das manifestações físicas, ou mesmo como se utiliza da mão do médium nas comunicações escritas. Nos sonhos de que se tem consciência, os órgãos, inclusive os da memória, começam a despertar. Recebem imperfeitamente as impressões produzidas por objetos ou causas externas e as comunicam ao Espírito, que, então, também em repouso, só experimenta, do que lhe é transmitido, sensações confusas e, amiúde, desordenadas, sem nenhuma aparente razão de ser, mescladas que se apresentam de vagas recordações, quer da existência atual, quer de anteriores. Facilmente, portanto, se compreende por que os sonâmbulos nenhuma lembrança guardam do que se passou quando estiveram no estado sonambúlico e por que os sonhos, de que se conserva memória, as mais das vezes não têm sentido. Digo — as mais das vezes, porque também sucede serem a consequência de lembrança exata de acontecimentos de uma vida anterior e até, não raro, uma espécie de intuição do futuro.
 
 <a name="LDE-q426"><code>LDE-q426</code></a>
@@ -4399,7 +4399,7 @@ No sonambulismo, o Espírito está na posse plena de si mesmo. Os órgãos mater
 #️⃣ 431. Qual a origem das ideias inatas do sonâmbulo e como pode falar com exatidão de coisas que ignora quando desperto, de coisas que estão mesmo acima de sua capacidade intelectual?
 
 >É que o sonâmbulo possui mais conhecimentos do que os que lhe supões. Apenas, tais conhecimentos dormitam, porque, por demasiado imperfeito, seu invólucro corporal não lhe consente rememorá-lo. Que é, afinal, um sonâmbulo? Espírito, como nós, e que se encontra encarnado na matéria para cumprir a sua missão, despertando dessa letargia quando cai em estado sonambúlico. Já te temos dito, repetidamente, que vivemos muitas vezes. Esta mudança é que, ao sonâmbulo, como a qualquer Espírito, ocasiona a perda material do que haja aprendido em precedente existência. Entrando no estado que chamas **crise**, lembra-se do que sabe, mas sempre de modo incompleto. Sabe, mas não poderia dizer donde lhe vem o que sabe, nem como possui os conhecimentos que revela. Passada a crise, toda recordação se apaga e ele volve à obscuridade.
->
+
 Mostra a experiência que os sonâmbulos também recebem comunicações de outros Espíritos, que lhes transmitem o que devam dizer e suprem à incapacidade que denotam. Isto se verifica principalmente nas prescrições médicas. O Espírito do sonâmbulo vê o mal, outro lhe indica o remédio. Essa dupla ação é às vezes patente e se revela, além disso, por estas expressões muito frequentes: **dizem-me** que diga, ou proíbem-me que diga tal coisa. Neste último caso, há sempre perigo em insistir-se por uma revelação negada, porque se dá azo a que intervenham Espíritos levianos, que falam de tudo sem escrúpulo e sem se importarem com a verdade.
 
 <a name="LDE-q432"><code>LDE-q432</code></a>
@@ -4421,7 +4421,7 @@ Mostra a experiência que os sonâmbulos também recebem comunicações de outro
 #️⃣ 435. Pode o sonâmbulo ver os outros Espíritos?
 
 >A maioria deles os vê muito bem, dependendo do grau e da natureza da lucidez de cada um. É muito comum, porém, não perceberem, no primeiro momento, que estão vendo Espíritos e os tomarem por seres corpóreos. Isso acontece principalmente aos que, nada conhecendo do Espiritismo, ainda não compreendem a essência dos Espíritos. O fato os espanta e fá-los supor que têm diante da vista seres terrenos.
->
+
 O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma alteração notando ao seu derredor e parecendo-lhes que os Espíritos têm corpos iguais aos nossos, tomam por corpos reais os corpos aparentes com que os mesmos Espíritos se lhes apresentam.
 
 <a name="LDE-q436"><code>LDE-q436</code></a>
@@ -4529,7 +4529,7 @@ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma altera�
 #️⃣ 452. É exato que certas circunstâncias desenvolvem a segunda vista?
 
 >A moléstia, a proximidade do perigo, uma grande comoção podem desenvolvê-la. O corpo, às vezes, vem a achar-se num estado especial que faculta ao Espírito ver o que não podeis ver com os olhos carnais.
->
+
 Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, enfim, de superexcitação do moral provocam não raro o desenvolvimento da dupla vista. Parece que a Providência, quando um perigo nos ameaça, nos dá o meio de conjurá-lo. Todas as seitas e partidos perseguidos oferecem múltiplos exemplos desse fato.
 
 <a name="LDE-q453"><code>LDE-q453</code></a>
@@ -4679,7 +4679,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 #️⃣ 462. É sempre de dentro de si mesmos que os homens inteligentes e de gênio tiram suas ideias?
 
 >Algumas vezes, elas lhes vêm do seu próprio Espírito, porém, de outras muitas, lhes são sugeridas por Espíritos que os julgam capazes de compreendê-las e dignos de vulgarizá-las. Quando tais homens não as acham em si mesmos, apelam para a inspiração. Fazem assim, sem o suspeitarem, uma verdadeira evocação.
->
+
 Se fora útil que pudéssemos distinguir claramente os nossos pensamentos próprios dos que nos são sugeridos, Deus nos houvera proporcionado os meios de o conseguirmos, como nos concedeu o de diferençarmos o dia da noite. Quando uma coisa se conserva imprecisa, é que convém assim aconteça.
 
 <a name="LDE-q463"><code>LDE-q463</code></a>
@@ -4711,7 +4711,7 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 #️⃣ 466. Por que permite Deus que Espíritos nos excitem ao mal?
 
 >Os Espíritos imperfeitos são instrumentos próprios a pôr em prova a fé e a constância dos homens na prática do bem. Como Espírito que és, tens que progredir na ciência do infinito. Daí o passares pelas provas do mal, para chegares ao bem. A nossa missão consiste em te colocarmos no bom caminho. Desde que sobre ti atuam influências más, é que as atrais, desejando o mal; porquanto os Espíritos inferiores correm a te auxiliar no mal, logo que desejes praticá-lo. Só quando queiras o mal, podem eles ajudar-te para a prática do mal. Se fores propenso ao assassínio, terás em torno de ti uma nuvem de Espíritos a te alimentarem no íntimo esse pendor. Outros também te cercarão, esforçando-se por te influenciarem para o bem, o que restabelece o equilíbrio da balança e te deixa senhor dos teus atos.
->
+
 É assim que Deus confia à nossa consciência a escolha do caminho que devamos seguir e a liberdade de ceder a uma ou outra das influências contrárias que se exercem sobre nós.
 
 <a name="LDE-q467"><code>LDE-q467</code></a>
@@ -4728,10 +4728,10 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 #️⃣ 469. Por que meio podemos neutralizar a influência dos maus Espíritos?
 
 >Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:
-
->Senhor! não nos deixes cair em tentação, mas livra-nos do mal. 
 >
->✝️ Mateus, cap. 6, vers. 13
+>>Senhor! não nos deixes cair em tentação, mas livra-nos do mal. 
+>>
+>>✝️ Mateus, cap. 6, vers. 13
 
 <a name="LDE-q470"><code>LDE-q470</code></a>
 #️⃣ 470. Os Espíritos, que ao mal procuram induzir-nos e que põem assim em prova a nossa firmeza no bem, procedem desse modo cumprindo missão? E, se assim é, cabe-lhes alguma responsabilidade?
