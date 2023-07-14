@@ -102,7 +102,7 @@ E disse Jesus:
 
 >A cada um, de acordo com suas obras.
 >
->:latin_cross: Romanos, cap. 2, vers. 6
+>✝️ Romanos, cap. 2, vers. 6
 
 ---
 
@@ -112,21 +112,21 @@ Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
 | **Emoji** | **Sigla** | **Livro** |
 |---|---|---|
-| :ghost: | `LDE` | O Livro dos Espíritos |
-| :black_nib: | `LDM` | O Livro dos Médiuns |
-| :dove: | `ESE` | O Evangelho segundo o Espiritismo |
-| :fire: | `CEU` | O Céu e o Inferno |
-| :seedling: | `GEN` | A Gênese |
+| 👻 | `LDE` | O Livro dos Espíritos |
+| ✒️ | `LDM` | O Livro dos Médiuns |
+| 🕊️ | `ESE` | O Evangelho segundo o Espiritismo |
+| 🔥 | `CEU` | O Céu e o Inferno |
+| 🌱 | `GEN` | A Gênese |
 
 Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.
 
 | **Emoji** | **Descrição** | **Conteúdo** | **Código chave** |
 |---|---|---|---|
-| :notebook_with_decorative_cover: | livro | obra completa | `LDE` |
-| :card_index_dividers: | parte | subdivisão da obra | `LDE-X` |
-| :bookmark_tabs: | capítulo | subdivisão de partes | `LDE-X-XX` |
-| :page_with_curl: | seção | subdivisão de capítulos | `LDE-X-XX-XX` |
-| :hash: | questão | pergunta, reposta e comentário * | `LDE.qX` |
+| 📔 | livro | obra completa | `LDE` |
+| 🗂️ | parte | subdivisão da obra | `LDE-X` |
+| 📑 | capítulo | subdivisão de partes | `LDE-X-XX` |
+| 📃 | seção | subdivisão de capítulos | `LDE-X-XX-XX` |
+| #️⃣ | questão | pergunta, reposta e comentário * | `LDE.qX` |
 
 /* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
