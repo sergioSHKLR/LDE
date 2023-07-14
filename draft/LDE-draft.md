@@ -15,6 +15,7 @@
 
   blockquote p {
     display: inline;
+    color: black;
   }
 
   blockquote:after {
@@ -31,6 +32,8 @@
     height: 1px;
     background-color: lightgrey;
   }
+
+
 </style>
 
 <script src="https://hypothes.is/embed.js" async></script>
@@ -857,7 +860,7 @@ Por essas comunicações é que o homem adquire, dentro de certos limites, o con
 
 ---
 
-<a name="LDE-q22a"><code>LDE-q22</code></a>
+<a name="LDE-q22a"><code>LDE-q22a</code></a>
 #️⃣ 22a. Que definição podeis dar da matéria?
 
 >A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.
