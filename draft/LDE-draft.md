@@ -2754,7 +2754,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 <br />
 >— É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem.<br />
 <br />
->Compreenderam então seus discípulos que era de João Batista que Ele lhes falava. <br />
+>Compreenderam então seus discípulos que era de João Batista que Ele lhes falava.<br />
 <br />
 >✝️ Mateus, cap. 17, vers. 9 a 13
 
@@ -2779,8 +2779,8 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 >
 >_Respondeu Jesus:_
 >
->_— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**._
->
+>_— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.<br />
+<br />
 >✝️ João, cap. 3, vers. 3 a 7
 
 👉 ([`LDE-q1010`](#LDE-q1010)) 
