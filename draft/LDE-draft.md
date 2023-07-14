@@ -5,10 +5,10 @@ blockquote {
  blockquote:before {
      color: dimgrey;
      content: open-quote;
-     font-size: 3em;
+     font-size: 2em;
      line-height: 0.1em;
      margin-right: 0.25em;
-     vertical-align: -0.4em;
+     vertical-align: -0.3em;
      font-family: serif;
 }
  blockquote p {
@@ -17,9 +17,9 @@ blockquote {
  blockquote:after {
      color: dimgrey;
      content: close-quote;
-     font-size: 3em;
+     font-size: 2em;
      line-height: 0.1em;
-     margin-right: 0.25em;
+     margin-left: 0.25em;
      vertical-align: -0.5em;
      font-family: serif;
 }
