@@ -4729,9 +4729,9 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 
 >Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:<br />
 <br />
->>Senhor! não nos deixes cair em tentação, mas livra-nos do mal. 
->>
->>✝️ Mateus, cap. 6, vers. 13
+>Senhor! não nos deixes cair em tentação, mas livra-nos do mal.<br />
+<br />
+>✝️ Mateus, cap. 6, vers. 13
 
 <a name="LDE-q470"><code>LDE-q470</code></a>
 #️⃣ 470. Os Espíritos, que ao mal procuram induzir-nos e que põem assim em prova a nossa firmeza no bem, procedem desse modo cumprindo missão? E, se assim é, cabe-lhes alguma responsabilidade?
