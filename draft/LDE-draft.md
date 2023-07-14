@@ -966,8 +966,8 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 
 >Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:<br />
 <br />
->Deus disse: Faça-se a luz e a luz foi feita
->
+>Deus disse: Faça-se a luz e a luz foi feita.<br />
+<br />
 >✝️ Gênesis, cap. 1, vers. 3
 
 <a name="LDE-q39"><code>LDE-q39</code></a>
