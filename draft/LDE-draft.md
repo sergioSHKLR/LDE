@@ -2783,7 +2783,7 @@ O homem, que tem consciência da sua inferioridade, haure consoladora esperança
 <a name="LDE-q180"><code>LDE-q180</code></a>
 #️⃣ 180. Passando deste planeta para outro, conserva o Espírito a inteligência que aqui tinha?
 
->Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 👉 ([LDE-2-07-04](#lde-2-07-04))
+>Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 👉 ([`LDE-2-07-04](#LDE-2-07-04))
 
 ---
 
@@ -3312,7 +3312,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 <br />
 >Perguntaram-lhe então seus discípulos:<br />
 <br />
->— Por que dizem os escribas ser preciso que primeiro venha Elias?_
+>— Por que dizem os escribas ser preciso que primeiro venha Elias?
 >
 >Respondeu-lhes Jesus:<br />
 <br />
@@ -3333,17 +3333,18 @@ Ainda quando fosse da autoria de um simples mortal, tê-la-íamos igualmente ado
 Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das existências explica o que, sem ela, se mantém inexplicável; que é altamente consoladora e conforme a mais rigorosa justiça; que constitui para o homem a âncora de salvação que Deus, por misericórdia, lhe concedeu.
 
 As próprias palavras de Jesus não permitem dúvida a tal respeito. 
->_Respondendo a Nicodemos, disse Jesus:_
->
->_— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus._
->
->_Disse-lhe Nicodemos:_
->
->_— Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?_
->
->_Respondeu Jesus:_
->
->_— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.<br />
+
+>_Respondendo a Nicodemos, disse Jesus:<br />
+><br />
+>_— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.<br />
+><br />
+>_Disse-lhe Nicodemos:<br />
+><br />
+>_— Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?<br />
+><br />
+>_Respondeu Jesus:<br />
+><br />
+>— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.<br />
 <br />
 >✝️ João, cap. 3, vers. 3 a 7
 
