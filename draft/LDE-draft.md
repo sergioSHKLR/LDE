@@ -3307,19 +3307,19 @@ Vimos de apreciar a alma com relação ao seu passado e ao seu presente. Se a co
 Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de Deus. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma religião que proclama ser Deus a bondade e a razão por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da ciência, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma religião fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a religião e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da Terra e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
 >Quando desciam da montanha (depois da transfiguração), Jesus lhes fez esta recomendação:<br />
-<br />
+><br />
 >— Não faleis a ninguém do que acabastes de ver, até que o Filho do homem tenha ressuscitado dentre os mortos.<br />
-<br />
+><br />
 >Perguntaram-lhe então seus discípulos:<br />
-<br />
->— Por que dizem os escribas ser preciso que primeiro venha Elias?
->
+><br />
+>— Por que dizem os escribas ser preciso que primeiro venha Elias?<br />
+><br />
 >Respondeu-lhes Jesus:<br />
-<br />
+><br />
 >— É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem.<br />
-<br />
+><br />
 >Compreenderam então seus discípulos que era de João Batista que Ele lhes falava.<br />
-<br />
+><br />
 >✝️ Mateus, cap. 17, vers. 9 a 13
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
@@ -3554,8 +3554,6 @@ Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum h
 
 ---
 
----
-
 <a name="LDE-q237"><code>LDE-q237</code></a>
 #️⃣ 237. Uma vez de volta ao mundo dos Espíritos, conserva a alma as percepções que tinha quando na Terra?
 
@@ -3744,9 +3742,11 @@ O perispírito é o laço que à matéria do corpo prende o Espírito, que o tir
 Nenhuma impressão lhes causa, conseguintemente, a temperatura. A dor que sentem não é, pois, uma dor física propriamente dita: é um vago sentimento íntimo, que o próprio Espírito nem sempre compreende bem, precisamente porque a dor não se acha localizada e porque não a produzem agentes exteriores; é mais uma reminiscência do que uma realidade, reminiscência, porém, igualmente penosa. Algumas vezes, entretanto, há mais do que isso, como vamos ver.
 
 Ensina-nos a experiência que, por ocasião da morte, o perispírito se desprende mais ou menos lentamente do corpo; que, durante os primeiros minutos depois da desencarnação, o Espírito não encontra explicação para a situação em que se acha. Crê não estar morto, por isso que se sente vivo; vê a um lado o corpo, sabe que lhe pertence, mas não compreende que esteja separado dele. Essa situação dura enquanto haja qualquer ligação entre o corpo e o perispírito. Disse-nos, certa vez, um suicida:
+
 >Não, não estou morto.
 
 E acrescentava:
+
 >**No entanto, sinto os vermes a me roerem**.
 
 Ora, indubitavelmente, os vermes não lhe roíam o perispírito e ainda menos o Espírito; roíam-lhe apenas o corpo. Como, porém, não era completa a separação do corpo e do perispírito, uma espécie de repercussão moral se produzia, transmitindo ao Espírito o que estava ocorrendo no corpo. Repercussão talvez não seja o termo próprio, porque pode induzir à suposição de um efeito muito material. Era antes a visão do que se passava com o corpo, ao qual ainda o conservava ligado o perispírito, o que lhe causava a ilusão, que ele tomava por realidade. Assim, pois, não haveria no caso uma reminiscência, porquanto ele não fora, em vida, roído pelos vermes: havia o sentimento de um fato da atualidade. Isto mostra que deduções se podem tirar dos fatos, quando atentamente observados.
@@ -3941,7 +3941,8 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 >Muito grande. Os Espíritos têm uns sobre os outros a autoridade correspondente ao grau de superioridade que hajam alcançado, autoridade que eles exercem por um ascendente moral irresistível.
 
-#️⃣ a. Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são superiores?
+<a name="LDE-q274a"><code>LDE-q274a</code></a>
+#️⃣ 274a. Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são superiores?
 
 >Eu disse: irresistível.
 
@@ -3957,10 +3958,10 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 <a name="LDE-q275a"><code>LDE-q275a</code></a>
 #️⃣ 275a. Como devemos entender essa elevação e esse rebaixamento?
 
->Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:
->
+>Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:<br />
+><br />
 >Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?<br />
-<br />
+><br />
 >✝️ Mateus, cap. 23, vers. 12
 
 ---
@@ -4519,8 +4520,7 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 <a name="LDE-q335a"><code>LDE-q335a</code></a>
 #️⃣ 335a. Poderia o Espírito recusar, à última hora, tomar o corpo por ele escolhido?
 
->Se recusasse, sofreria muito mais do que aquele que não tentasse
-prova alguma.
+>Se recusasse, sofreria muito mais do que aquele que não tentasse prova alguma.
 
 ---
 
@@ -4783,8 +4783,8 @@ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará
 <a name="LDE-q366"><code>LDE-q366</code></a>
 #️⃣ 366. Que se deve pensar da opinião dos que pretendem que as diferentes faculdades intelectuais e morais do homem resultam da encarnação, nele, de outros tantos Espíritos, diferentes entre si, cada um com uma aptidão especial?
 
->Refletindo, reconhecereis que é absurda. O Espírito tem que ter todas as aptidões. Para progredir, precisa de uma vontade única. Se o homem fosse um amálgama de Espíritos, essa vontade não existiria e ele careceria de individualidade, pois que, por sua morte, todos aqueles Espíritos formariam um bando de pássaros escapados da gaiola. Queixa-se, amiúde, o homem de não compreender certas coisas e, no entanto, curioso é ver-se como multiplica as dificuldades, quando tem ao seu alcance explicações muito simples e naturais. Ainda neste caso tomam o efeito pela causa. Fazem, com relação à criatura humana, o que, com relação a Deus, faziam os pagãos, que acreditavam em tantos deuses quantos eram os fenômenos no Universo, se bem que as pessoas sensatas, com eles coexistentes, apenas viam em tais fenômenos efeitos provindos de uma causa única — Deus.
->
+>Refletindo, reconhecereis que é absurda. O Espírito tem que ter todas as aptidões. Para progredir, precisa de uma vontade única. Se o homem fosse um amálgama de Espíritos, essa vontade não existiria e ele careceria de individualidade, pois que, por sua morte, todos aqueles Espíritos formariam um bando de pássaros escapados da gaiola. Queixa-se, amiúde, o homem de não compreender certas coisas e, no entanto, curioso é ver-se como multiplica as dificuldades, quando tem ao seu alcance explicações muito simples e naturais. Ainda neste caso tomam o efeito pela causa. Fazem, com relação à criatura humana, o que, com relação a Deus, faziam os pagãos, que acreditavam em tantos deuses quantos eram os fenômenos no Universo, se bem que as pessoas sensatas, com eles coexistentes, apenas viam em tais fenômenos efeitos provindos de uma causa única — Deus.<br />
+><br />
 O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos fenômenos, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados fenômenos consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do Espírito encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos Espíritos teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de Espíritos, em que estes provam suas personalidades e identidade. 
 
 <a href="#LDE">🔼</a>
@@ -10360,7 +10360,8 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 ---
 
 <a name="LDE-q887"><code>LDE-q887</code></a>
-#️⃣ 887. Jesus também disse: Amai mesmo os vossos inimigos. Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos? (✝️ Mateus, cap. 5, vers. 44)
+#️⃣ 887. Jesus também disse: Amai mesmo os vossos inimigos. (✝️ Mateus, cap. 5, vers. 44) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+
 >Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
 ---
