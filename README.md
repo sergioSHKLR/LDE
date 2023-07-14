@@ -1,6 +1,6 @@
 # 👻 O Livro dos Espíritos
 
-1️⃣ Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org)
+1️⃣ Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
 
 ## 1. Direto ao ponto                       
 
@@ -17,6 +17,8 @@ Intencionamos criar versões mais dinâmicas das cinco obras básicas
 5. A Gênese
 
 utilizando de emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
+
+Em uma fase posterior, iremos adicionar links externos para artigos, mapas, ilustrações, e definições de termos pouco usados.
 
 ## 3. Análise
 
