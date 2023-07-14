@@ -60,7 +60,7 @@ Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, cap�
 
 --- 
 
-Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
+Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir dificuldades na padronização programática. Adicionalmente, as mesmas não são apropriadas para a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar parte de nosso processo.
 
 ## 6. Método
 
@@ -82,19 +82,27 @@ Exemplificado abaixo estão exemplos da formatação que escolhemos.
 
 #### 7.1.1 Questões (arquivo MD)
 
-`LDE.q3`#️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
+---
+
+`LDE.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
 
 >Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.
 
 Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
 
+---
+
 #### 7.1.2 Trechos bíblicos (arquivo MD)
+
+---
 
 E disse Jesus:
 
 >A cada um, de acordo com suas obras.
 >
 >:latin_cross: Romanos, cap. 2, vers. 6
+
+---
 
 ### 7.2. Legenda
 
