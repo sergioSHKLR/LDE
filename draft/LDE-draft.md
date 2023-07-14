@@ -10838,8 +10838,8 @@ Já nesta vida somos punidos pelas infrações que cometemos das leis que regem 
 <a name="LDE-q926"><code>LDE-q926</code></a>
 #️⃣ 926. Criando novas necessidades, a civilização não constitui uma fonte de novas aflições?
 
->Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:
->
+>Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:<br />
+><br />
 >Bem-aventurados os que sofrem, pois que serão consolados.<br />
 ><br />
 >✝️ Mateus, cap. 5, vers. 4
@@ -11543,7 +11543,7 @@ Nos mundos onde a existência é menos material do que neste, menos grosseiras s
 <a name="LDE-q986"><code>LDE-q986</code></a>
 #️⃣ 986. Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma vez no mesmo mundo?
 
->Sim; desde que não tenha logrado concluir a sua missão, pode ele próprio pedir lhe seja dado completá-la em nova existência, mas, então, já não está sujeito a uma expiação. 👉 ([`LDE-q173]([`LDE-q173](#LDE-q393)))
+>Sim; desde que não tenha logrado concluir a sua missão, pode ele próprio pedir lhe seja dado completá-la em nova existência, mas, então, já não está sujeito a uma expiação. 👉 ([`LDE-q173`](#LDE-q173))
 
 ---
 
