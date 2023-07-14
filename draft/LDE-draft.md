@@ -75,6 +75,8 @@
 
 <h3>📃 Folha de rosto</h3>
 
+---
+
 Filosofia Espiritualista
 
 👻 **O Livro dos Espíritos**
@@ -98,6 +100,8 @@ Le Livre des esprits<br />
 <a name="LDE-0-02"><code>LDE-0-02</code></a>
 
 <h3>📑 Introdução</h3>
+
+---
 
 - [`LDE-0-02-01` 📃 01](#LDE-0-02-01)
 - [`LDE-0-02-02` 📃 02](#LDE-0-02-02)
@@ -545,6 +549,8 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 <h3>📃 Prolegômenos</h3>
 
+---
+
 ![Cepa Espírita](../images/vine.png)
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
@@ -600,6 +606,8 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 <a name="LDE-1-01"><code>LDE-1-01</code></a>
 
 <h3>📑 1. De Deus</h3>
+
+---
 
 - [`LDE-1-01-01` 📃 Deus e o infinito](#LDE-1-01-01)
 - [`LDE-1-01-02` 📃 Provas da existência de Deus](#LDE-1-01-02)
@@ -790,6 +798,8 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 <a name="LDE-1-02"><code>LDE-1-02</code></a>
 
 <h3>📑 2. Dos elementos gerais do Universo</h3>
+
+---
 
 - [`LDE-1-02-01` 📃 Conhecimento do princípio das coisas](#LDE-1-02-01)
 - [`LDE-1-02-02` 📃 Espírito e matéria](#LDE-1-02-02)
@@ -1030,6 +1040,8 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 <a name="LDE-1-03"><code>LDE-1-03</code></a>
 
 <h3>📑 3. Da Criação</h3>
+
+---
 
 - [`LDE-1-03-01` 📃 Formação dos mundos](#LDE-1-03-01)
 - [`LDE-1-03-02` 📃 Formação dos seres vivos](#LDE-1-03-02)
@@ -1289,6 +1301,8 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 <a name="LDE-1-04"><code>LDE-1-04</code></a>
 
 <h3>📑 4. Do princípio vital</h3>
+
+---
 
 - [`LDE-1-04-01` 📃 Seres orgânicos e inorgânicos](#LDE-1-04-01)
 - [`LDE-1-04-02` 📃 A vida e a morte](#LDE-1-04-02)
@@ -2127,6 +2141,8 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 <h3>📑 02. Da encarnação dos espíritos</h3>
 
+---
+
 - [`LDE-2-02-01` 📃 Objetivo da encarnação](#LDE-2-02-01)
 - [`LDE-2-02-02` 📃 A alma](#LDE-2-02-02)
 - [`LDE-2-02-03` 📃 Materialismo](#LDE-2-02-03)
@@ -2360,6 +2376,8 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 <h3>📑 03. Da volta do Espírito à vida espiritual</h3>
 
+---
+
 - [`LDE-2-03-01` 📃 A alma após a morte- Vida eterna-](#LDE-2-03-01)
 - [`LDE-2-03-02` 📃 Separação da alma e do corpo](#LDE-2-03-02)
 
@@ -2560,6 +2578,8 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 <a name="LDE-2-04"><code>LDE-2-04</code></a>
 
 <h3>📑 04. Da pluralidade das existências</h3>
+
+---
 
 - [`LDE-2-04-01` 📃 A reencarnação](#LDE-2-04-01)
 - [`LDE-2-04-02` 📃 Justiça da reencarnação](#LDE-2-04-02)
@@ -3243,6 +3263,8 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 
 ---
 
+---
+
 <a name="LDE-q222"><code>LDE-q222</code></a>
 #️⃣ 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
@@ -3357,6 +3379,8 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 <a name="LDE-2-06"><code>LDE-2-06</code></a>
 
 <h3>📑 06. Da vida espírita</h3>
+
+---
 
 - [`LDE-2-06-01` 📃 Espíritos errantes](#LDE-2-06-01)
 - [`LDE-2-06-02` 📃 Mundos transitórios](#LDE-2-06-02)
@@ -4449,6 +4473,8 @@ As condições dos Espíritos e as maneiras por que veem as coisas variam ao inf
 
 <h3>📑 07. Da volta do Espírito à vida corporal</h3>
 
+---
+
 - [`LDE-2-07-01` 📃 Prelúdio da volta](#LDE-2-07-01)
 - [`LDE-2-07-02` 📃 União do espírito e do corpo](#LDE-2-07-02)
 - [`LDE-2-07-03` 📃 Faculdades morais e intelectuais do homem](#LDE-2-07-03)
@@ -5152,6 +5178,8 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 <h3>📑 08. Da emancipação da alma</h3>
 
+---
+
 - [`LDE-2-08-01` 📃 O sono e os sonhos](#LDE-2-08-01)
 - [`LDE-2-08-02` 📃 Visitas espíritas entre pessoas vivas](#LDE-2-08-02)
 - [`LDE-2-08-03` 📃 Transmissão oculta do pensamento](#LDE-2-08-03)
@@ -5726,6 +5754,8 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 <a name="LDE-2-09"><code>LDE-2-09</code></a>
 
 <h3>📑 09. Da intervenção dos Espíritos no mundo corporal</h3>
+
+---
 
 - [`LDE-2-09-01` 📃 Faculdade que têm os Espíritos de penetrar os nossos pensamentos](#LDE-2-09-01)
 - [`LDE-2-09-02` 📃 Influência oculta dos Espíritos em nossos pensamentos e atos](#LDE-2-09-02)
@@ -6789,6 +6819,8 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 ---
 
+---
+
 <a name="LDE-q558"><code>LDE-q558</code></a>
 #️⃣ 558. Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
 
@@ -7060,6 +7092,8 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 <a name="LDE-2-11"><code>LDE-2-11</code></a>
 
 <h3>📑 11. Dos três reinos</h3>
+
+---
 
 - [`LDE-2-11-01` 📃 Os minerais e as plantas](#LDE-2-11-01)
 - [`LDE-2-11-02` 📃 Os animais e o homem](#LDE-2-11-02)
@@ -7395,6 +7429,8 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 
 <h3>📑 01. Da lei divina ou natural</h3>
 
+---
+
 - [`LDE-3-01-01` 📃 Caracteres da lei natural](#LDE-3-01-01)
 - [`LDE-3-01-02` 📃 Conhecimento da lei natural](#LDE-3-01-02)
 - [`LDE-3-01-03` 📃 O bem e o mal](#LDE-3-01-03)
@@ -7728,6 +7764,8 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 <h3>📑 02. Da lei de adoração</h3>
 
+---
+
 - [`LDE-3-02-01` 📃 Objetivo da adoração](#LDE-3-02-01)
 - [`LDE-3-02-02` 📃 Adoração exterior](#LDE-3-02-02)
 - [`LDE-3-02-03` 📃 Vida contemplativa](#LDE-3-02-03)
@@ -8007,6 +8045,8 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 
 <h3>📑 03. Da lei do trabalho</h3>
 
+---
+
 - [`LDE-3-03-01` 📃 Necessidade do trabalho](#LDE-3-03-01)
 - [`LDE-3-03-02` 📃 Limite do trabalho- Repouso](#LDE-3-03-02)
 
@@ -8126,6 +8166,8 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 <a name="LDE-3-04"><code>LDE-3-04</code></a>
 
 <h3>📑 04. Da lei de reprodução</h3>
+
+---
 
 - [`LDE-3-04-01` 📃 População do globo](#LDE-3-04-01)
 - [`LDE-3-04-02` 📃 Sucessão e aperfeiçoamento das raças](#LDE-3-04-02)
@@ -8309,6 +8351,8 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 <a name="LDE-3-05"><code>LDE-3-05</code></a>
 
 <h3>📑 05. Da lei de conservação</h3>
+
+---
 
 - [`LDE-3-05-01` 📃 Instinto de conservação](#LDE-3-05-01)
 - [`LDE-3-05-02` 📃 Meios de conservação](#LDE-3-05-02)
@@ -8576,6 +8620,8 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 <a name="LDE-3-06"><code>LDE-3-06</code></a>
 
 <h3>📑 06. Da lei de destruição</h3>
+
+---
 
 - [`LDE-3-06-01` 📃 Destruição necessária e destruição abusiva](#LDE-3-06-01)
 - [`LDE-3-06-02` 📃 Flagelos destruidores](#LDE-3-06-02)
@@ -8976,6 +9022,8 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 
 <h3>📑 07. Da lei de sociedade</h3>
 
+---
+
 - [`LDE-3-07-01` 📃 Necessidade da vida social](#LDE-3-07-01)
 - [`LDE-3-07-02` 📃 Vida de insulamento- Voto de silêncio](#LDE-3-07-02)
 - [`LDE-3-07-03` 📃 Laços de família](#LDE-3-07-03)
@@ -9099,6 +9147,8 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 <a name="LDE-3-08"><code>LDE-3-08</code></a>
 
 <h3>📑 08. Da lei do progresso</h3>
+
+---
 
 - [`LDE-3-08-01` 📃 Estado de natureza](#LDE-3-08-01)
 - [`LDE-3-08-02` 📃 Marcha do progresso](#LDE-3-08-02)
@@ -9427,6 +9477,8 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 <h3>📑 09. Da lei de igualdade</h3>
 
+---
+
 - [`LDE-3-09-01` 📃 Igualdade natural](#LDE-3-09-01)
 - [`LDE-3-09-02` 📃 Desigualdade das aptidões](#LDE-3-09-02)
 - [`LDE-3-09-03` 📃 Desigualdades sociais](#LDE-3-09-03)
@@ -9711,6 +9763,8 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 <a name="LDE-3-10"><code>LDE-3-10</code></a>
 
 <h3>📑 10. Da lei de liberdade</h3>
+
+---
 
 - [`LDE-3-10-01` 📃 Liberdade natural](#LDE-3-10-0-1)
 - [`LDE-3-10-02` 📃 Escravidão](#LDE-3-10-0-2)
@@ -10179,6 +10233,8 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 <h3>📑 11. Da lei de justiça, de amor, e de caridade</h3>
 
+---
+
 - [`LDE-3-11-01` 📃 Justiça e direitos naturais](#LDE-3-11-01)
 - [`LDE-3-11-02` 📃 Direito de propriedade- Roubo](#LDE-3-11-02)
 - [`LDE-3-11-03` 📃 Caridade e amor do próximo](#LDE-3-11-03)
@@ -10437,6 +10493,8 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 <a name="LDE-3-12"><code>LDE-3-12</code></a>
 
 <h3>📑 12. Da perfeição moral</h3>
+
+---
 
 - [`LDE-3-12-01` 📃 As virtudes e os vícios](#LDE-3-12-01)
 - [`LDE-3-12-02` 📃 Paixões](#LDE-3-12-02)
@@ -10771,6 +10829,8 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 <a name="LDE-4-01"><code>LDE-4-01</code></a>
 
 <h3>📑 1. Das penas e gozos terrestres</h3>
+
+---
 
 - [`LDE-4-01-01` 📃 Felicidade e infelicidade relativas](#LDE-4-01-01)
 - [`LDE-4-01-02` 📃 Perda dos entes queridos](#LDE-4-01-02)
@@ -11207,6 +11267,8 @@ A religião, a moral, todas as filosofias condenam o suicídio como contrário �
 <a name="LDE-4-02"><code>LDE-4-02</code></a>
 
 <h3>📑 2. Das penas e gozos futuros</h3>
+
+---
 
 - [`LDE-4-02-01` 📃 O nada- Vida futura](#LDE-4-02-01)
 - [`LDE-4-02-02` 📃 Intuição das penas e gozos futuros](#LDE-4-02-02)
@@ -12075,6 +12137,8 @@ Por bem largo tempo, os homens se têm estraçalhado e anatematizado mutuamente 
 <a name="LDE-6-01"><code>LDE-6-01</code></a>
 
 <h3>📃 1. Nota explicativa</h3>
+
+---
 
 >Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
 
