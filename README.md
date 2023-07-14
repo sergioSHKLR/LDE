@@ -35,15 +35,17 @@ Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec
 Como exemplificado abaixo (trecho intencionalmente modificado do original), a editora usou a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, capítulo e versículo.
 
 Como se vê, na pergunta, a palavra **Deus** foi realçada em estilo normal, visto que a sentença se encontra em estilo itálico. Já na resposta, palavra **insuficiente** foi realçada em estilo itálico, visto que a sentença se encontra em estilo normal. De modo a diferenciar os comentários de Kardec das mensagens de Espíritos, usou-se uma fonte ligeiramente menor em tamanho.
+
 ---
+<span style="font-family: serif;">
+<b>3.</b><span style="font-family: serif; font-style: italic; margin-left: 30px;">Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</span><br />
 
-3. *Poder-se-ia dizer que *Deus* é o infinito?*
+<p style="font-family: serif; margin-left: 40px;">“Definição incompleta. Pobreza da linguagem humana, <i>insuficiente</i> para definir o que está acima da linguagem dos homens.”</p>
 
-“Definição incompleta. Pobreza da linguagem humana, *insuficiente* para definir o que está acima da linguagem dos homens.”
+<span style="font-family: serif; margin-left: 70px; font-size: 90%;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 
-Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
-
-E disse Jesus: “A cada um, de acordo com suas obras.”
+<span style="font-family: serif;">E disse Jesus: “A cada um, de acordo com suas obras.”
+</span>
 
 ---
 
