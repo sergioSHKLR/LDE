@@ -40,30 +40,26 @@ Como exemplificado abaixo (trecho intencionalmente modificado do original), a ed
 
 Como se vê, na pergunta, a palavra **Deus** foi realçada em estilo normal, visto que a sentença se encontra em estilo itálico. Já na resposta, palavra **insuficiente** foi realçada em estilo itálico, visto que a sentença se encontra em estilo normal. De modo a diferenciar os comentários de Kardec das mensagens de Espíritos, usou-se uma fonte ligeiramente menor em tamanho.
 
-<table style="width:100%; border: 1px solid grey">
-  <tr>
-    <td><span style="font-family: serif;">
+---
+
+<span style="font-family: serif;">
 <b>3.</b><span style="font-style: italic; margin-left: 30px;">Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</span></span><br />
+
 <p style="font-family: serif; margin-left: 40px;">“Definição incompleta. Pobreza da linguagem humana, <i>insuficiente</i> para definir o que está acima da linguagem dos homens.”</p>
 
 <span style="font-family: serif; margin-left: 70px; font-size: 90%;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.</span></span>
-  </td>
-  </tr>
-</table>
+
+---
 
 #### 5.1.2 Trechos bíblicos
 
 Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, capítulo e versículo.
 
-<table style="width:100%; border: 1px solid grey">
-  <tr>
-    <td>
+---
 
 <p style="font-family: serif; width: 100%;">E disse Jesus: “A cada um, de acordo com suas obras.”</p>
 
-  </td>
-  </tr>
-</table>
+---
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir dificuldades na padronização programática. Adicionalmente, as mesmas não são apropriadas para a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar parte de nosso processo.
 
