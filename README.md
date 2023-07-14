@@ -43,11 +43,11 @@ Como se vê, na pergunta, a palavra **Deus** foi realçada em estilo normal, vis
 ---
 
 <span style="font-family: serif;">
-<b>3.</b><span style="font-style: italic; margin-left: 30px;">Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</span></span></span><br />
+<b>3.</b><span style="font-style: italic; margin-left: 30px;">Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</span></span><br />
 
 <p style="font-family: serif; margin-left: 40px;">“Definição incompleta. Pobreza da linguagem humana, <i>insuficiente</i> para definir o que está acima da linguagem dos homens.”</p>
 
-<span style="font-family: serif; margin-left: 70px; font-size: 90%;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.</span>
+<span style="font-family: serif; margin-left: 70px; font-size: 90%;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.</span></span>
 
 ---
 
