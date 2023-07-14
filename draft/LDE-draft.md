@@ -23,7 +23,7 @@ blockquote {
      vertical-align: -0.5em;
      font-family: serif;
 }
-markdown-body hr {height: 1px;
+.markdown-body hr {height: 1px;
 background-color: grey;}
  </style>
 
