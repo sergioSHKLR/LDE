@@ -8,7 +8,7 @@
 
 ## 2. Objetivo
 
-Intencionamos criar versões mais dinâmicas das cinco obras básicas 
+Intencionamos criar versões mais dinâmicas das cinco obras básicas, listadas abaixo.
 
 1. O Livro dos Espíritos
 2. O Livro dos Médiuns
@@ -16,7 +16,7 @@ Intencionamos criar versões mais dinâmicas das cinco obras básicas
 4. O Céu e o Inferno
 5. A Gênese
 
-utilizando de emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
+Utilizaremos de emojis, cores, tipografia, padrões de formato, e um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras. Adicionaremos *links* internos quando a indicação para uma leitura adicional é feita (por exemplo, Veja-se questão X de O Livro Y).
 
 Em uma fase posterior, iremos adicionar links externos para artigos, mapas, ilustrações, e definições de termos pouco usados.
 
