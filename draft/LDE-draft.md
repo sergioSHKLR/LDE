@@ -1,3 +1,5 @@
+<script src="https://hypothes.is/embed.js" async></script>
+
 <a name="LDE"><code>LDE</code></a>
 
 <h1>👻 <b>O Livro dos Espíritos</b></h1>

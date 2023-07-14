@@ -1,3 +1,5 @@
+<script src="https://hypothes.is/embed.js" async></script>
+
 # 👻 O Livro dos Espíritos
 
 1️⃣ Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org), *hosted* no Github.
