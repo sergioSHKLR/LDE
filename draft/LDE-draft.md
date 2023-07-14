@@ -1,31 +1,37 @@
-<style> 
-blockquote {
-     quotes: "\201C""\201D""\2018""\2019";
-}
- blockquote:before {
-     color: dimgrey;
-     content: open-quote;
-     font-size: 2.5em;
-     line-height: 0.1em;
-     margin-right: 0.25em;
-     vertical-align: -0.3em;
-     font-family: serif;
-}
- blockquote p {
-     display: inline;
-}
- blockquote:after {
-     color: dimgrey;
-     content: close-quote;
-     font-size: 2.5em;
-     line-height: 0.1em;
-     margin-left: 0.25em;
-     vertical-align: -0.5em;
-     font-family: serif;
-}
-.markdown-body hr {height: 1px;
-background-color: grey;}
- </style>
+<style>
+  blockquote {
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+
+  blockquote:before {
+    color: dimgrey;
+    content: open-quote;
+    font-size: 2.5em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.3em;
+    font-family: serif;
+  }
+
+  blockquote p {
+    display: inline;
+  }
+
+  blockquote:after {
+    color: dimgrey;
+    content: close-quote;
+    font-size: 2.5em;
+    line-height: 0.1em;
+    margin-left: 0.25em;
+    vertical-align: -0.5em;
+    font-family: serif;
+  }
+
+  .markdown-body hr {
+    height: 1px;
+    background-color: lightgrey;
+  }
+</style>
 
 <script src="https://hypothes.is/embed.js" async></script>
 
