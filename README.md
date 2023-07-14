@@ -64,7 +64,6 @@ Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, cap�
   </td>
   </tr>
 </table>
---- 
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir dificuldades na padronização programática. Adicionalmente, as mesmas não são apropriadas para a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar parte de nosso processo.
 
