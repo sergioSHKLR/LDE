@@ -3253,8 +3253,8 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 #️⃣ 275a. Como devemos entender essa elevação e esse rebaixamento?
 
 >Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:
-
->Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado? <br />
+>
+>Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?<br />
 <br />
 >✝️ Mateus, cap. 23, vers. 12
 
