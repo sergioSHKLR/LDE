@@ -41,11 +41,11 @@ Como se vê, na pergunta, a palavra **Deus** foi realçada em estilo normal, vis
 ---
 
 <span style="font-family: serif;">
-<b>3.</b><span style="font-family: serif; font-style: italic; margin-left: 30px;">Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</span><br />
+<b>3.</b><span style="font-style: italic; margin-left: 30px;">Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</span></span></span><br />
 
 <p style="font-family: serif; margin-left: 40px;">“Definição incompleta. Pobreza da linguagem humana, <i>insuficiente</i> para definir o que está acima da linguagem dos homens.”</p>
 
-<span style="font-family: serif; margin-left: 70px; font-size: 90%;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
+<span style="font-family: serif; margin-left: 70px; font-size: 90%;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.</span>
 
 ---
 
@@ -62,23 +62,11 @@ Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, cap�
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
-#### 5.1.1 Questões (livro impresso)
-
-<p style="font-family: serif;"><b>3</b>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</i>
-
-<p style="font-family: serif; font-style: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Definição incompleta. Pobreza da linguagem humana, <i>insuficiente</i> para definir o que está acima da linguagem dos homens.”
-
-<p style="font-family: serif; font-size: 80%; margin-left: 60px;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.</p>
-
-#### 5.1.2 Trechos bíblicos (livro impresso)
-
-<p style="font-family: serif;">E disse Jesus: “A cada um, de acordo com suas obras.”</p>
-
 ## 6. Método
 
-Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
+Em primeiro lugar, teríamos que estabelecer padrões de divisão, hierarquia, e formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDE-1` 🗂️ Parte 1 como `LDE-0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDE-5` 🗂️ Parte 5, decidimos por dar-lhes o nome de `LDE-6` 🗂️ Parte 6 e o título de Pós-textual.
+Analisando a divisão do livro em partes, decidimos criar uma seção anterior à `LDE-1` 🗂️ Parte 1 como `LDE-0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Similarmente, criamos uma seção posterior à `LDE-5` 🗂️ Parte 5, e por dar-lhes o nome de `LDE-6` 🗂️ Parte 6 e o título de Pós-textual.
 
 ## 7. Padronização
 
@@ -104,7 +92,9 @@ Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer 
 
 E disse Jesus:
 
-A cada um, de acordo com suas obras. ✝️ **Romanos, cap. 2, vers. 6**
+>A cada um, de acordo com suas obras.
+>
+>:latin_cross: Romanos, cap. 2, vers. 6
 
 ### 7.2. Legenda
 
