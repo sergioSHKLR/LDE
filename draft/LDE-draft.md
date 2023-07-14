@@ -10379,17 +10379,19 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 >Não; o que merece reprovação não é a esmola, mas a maneira por que habitualmente é dada. O homem de bem, que compreende a caridade de acordo com Jesus, vai ao encontro do desgraçado, sem esperar que este lhe estenda a mão.
 >
 >A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
-Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:
+Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:<br />
+><br />
 >Ignore a vossa mão esquerda o que a direita der.<br />
-<br />
->✝️ Mateus, cap. 6, vers. 3
->
-Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
-Deve-se distinguir a esmola, propriamente dita, da beneficência. Nem sempre o mais necessitado é o que pede. O temor de uma humilhação detém o verdadeiro pobre, que muita vez sofre sem se queixar. A esse é que o homem verdadeiramente humano sabe ir procurar, sem ostentação.
-Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa Deus os mundos. O amor é a lei de atração para os seres vivos e organizados. A atração é a lei de amor para a matéria inorgânica.
->
+><br />
+>✝️ Mateus, cap. 6, vers. 3<br />
+><br />
+>Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.<br />
+><br />
+>Deve-se distinguir a esmola, propriamente dita, da beneficência. Nem sempre o mais necessitado é o que pede. O temor de uma humilhação detém o verdadeiro pobre, que muita vez sofre sem se queixar. A esse é que o homem verdadeiramente humano sabe ir procurar, sem ostentação.
+Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa Deus os mundos. O amor é a lei de atração para os seres vivos e organizados. A atração é a lei de amor para a matéria inorgânica.<br />
+><br />
 >Não esqueçais nunca que o Espírito, qualquer que seja o grau de seu adiantamento, sua situação como reencarnado, ou na erraticidade, está **sempre** colocado entre um superior, que o guia e aperfeiçoa, e um inferior, para com o qual tem que cumprir esses mesmos deveres. Sede, pois, caridosos, praticando, não só a caridade que vos faz dar friamente o óbolo que tirais do bolso ao que vo-lo ousa pedir, mas a que vos leve ao encontro das misérias ocultas. Sede indulgentes com os defeitos dos vossos semelhantes. Em vez de votardes desprezo à ignorância e ao vício, instruí os ignorantes e moralizai os viciados. Sede brandos e benevolentes para com tudo o que vos seja inferior. Sede-o para com os seres mais ínfimos da criação e tereis obedecido à Lei de Deus.<br />
-<br />
+><br />
 >**São Vicente de Paulo**
 
 ---
