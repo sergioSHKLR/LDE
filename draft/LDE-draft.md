@@ -1693,18 +1693,15 @@ Pois que, na vida social, todos os homens podem chegar às mais altas funções,
 
 >O livre-arbítrio se desenvolve à medida que o Espírito adquire a consciência de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma causa independente da vontade do Espírito. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
 
-#️⃣ 122a
+<a name="LDE-q122a"><code>LDE-q122a</code></a>
+#️⃣ 122a. Donde vêm as influências que sobre ele se exercem?
 
-  122a. Donde vêm as influências que sobre ele se exercem?
+>Dos Espíritos imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás.
 
-  >Dos Espíritos imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás.
+<a name="LDE-q122b"><code>LDE-q122b</code></a>
+#️⃣ 122b. Tal influência só se exerce sobre o Espírito em sua origem?
 
-   LDE-q122b"><code>LDE-q124</code></a>
-#️⃣ 122b
-
-  122b. Tal influência só se exerce sobre o Espírito em sua origem?
-
-  >Acompanha-o na sua vida de Espírito, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo.
+>Acompanha-o na sua vida de Espírito, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo.
 
 <a name="LDE-q123"><code>LDE-q123</code></a>
 #️⃣ 123. Por que há Deus permitido que os Espíritos possam tomar o caminho do mal?
@@ -2302,9 +2299,7 @@ O homem, que tem consciência da sua inferioridade, haure consoladora esperança
 <a name="LDE-q180"><code>LDE-q180</code></a>
 #️⃣ 180. Passando deste planeta para outro, conserva o Espírito a inteligência que aqui tinha?
 
->Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 
-
-([LDE-2-07-04](#lde-2-07-04))
+>Sem dúvida; a inteligência não se perde. Pode, porém, acontecer que ele não disponha dos mesmos meios para manifestá-la, dependendo isto da sua superioridade e das condições do corpo que tomar. 👉 ([LDE-2-07-04](#lde-2-07-04))
 
 <a name="LDE-q181"><code>LDE-q181</code></a>
 #️⃣ 181. Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
