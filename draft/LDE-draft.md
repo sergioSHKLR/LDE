@@ -30,7 +30,7 @@
 
   .markdown-body hr {
     height: 1px;
-    background-color: lightgrey;
+    background-color: gainsboro;
   }
 
 
