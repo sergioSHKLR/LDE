@@ -1,57 +1,43 @@
-# 👻 O LIVRO DOS ESPÍRITOS
-Uma das cinco obras básicas da Ciência e Filosofia Espírita.
+# 👻 O Livro dos Espíritos
 
-**Sumário**
+1️⃣ Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org)
 
-  - [0. Direto ao ponto](#0-direto-ao-ponto)
-  - [1. Objetivo](#1-objetivo)
-  - [2. Análise](#2-análise)
-  - [3. Formato de arquivo](#3-formato-de-arquivo)
-  - [4. Obra original](#4-obra-original)
-  - [5. Método](#5-método)
-  - [6. Padronização](#6-padronização)
-  - [7. Controle de Qualidade](#7-controle-de-qualidade)
-  - [8. Autor](#8-autor)
-  - [9. Agradecimentos](#9-agradecimentos)
-  - [10. Notas](#10-notas)
+## 1. Direto ao ponto                       
 
-## 0. Direto ao ponto                       
+- 📔 [LDE-2023-06-28.md](./releases/LDE-2023-06-28.md)
 
-O Livro dos Espíritos (ISBN 978-85-7328-728-8), digitalizado.
+## 2. Objetivo
 
-📔 [**LDE**-2023-06-28.md](./releases/LDE-2023-06-28.md)
+Intencionamos criar versões mais dinâmicas das cinco obras básicas 
 
-[topo 🔝](#-o-livro-dos-espíritos)
+1. O Livro dos Espíritos
+2. O Livro dos Médiuns
+3. O Evangelho segundo o Espiritismo
+4. O Céu e o Inferno
+5. A Gênese
 
-## 1. Objetivo
+utilizando de emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
-Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
-
-[topo 🔝](#-o-livro-dos-espíritos)
-
-## 2. Análise
+## 3. Análise
 
 Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso que um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
-[topo 🔝](#-o-livro-dos-espíritos)
+## 4. Formato de arquivo
 
-## 3. Formato de arquivo
+Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Entretanto, por necessidade, tivemos que utilizar várias *tags* HTML, tornando o arquivo em um híbrido MD&HTML. Para satisfazer a necessidade de programadores que visam utilizar nossos arquivos para criar outros, mantivemos uma versão MD pura no branch `coding`.
 
-Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
+## 5. Obra original
 
-[topo 🔝](#-o-livro-dos-espíritos)
+Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira (Copyright 1944). Agradecemos a Federação Espírita Brasileira (FEB), por disponibilizar gratuitamente o PDF das obras básicas, todas [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-## 4. Obra original
+### 5.1. Formatação de texto (livro impresso)
 
-Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+Como exemplificado abaixo (trecho intencionalmente modificado do original), a editora usou a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, capítulo e versículo.
 
-### 4.1. Formatação de texto (livro impresso)
-
-Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, capítulo e versículo.
-
+Como se vê, na pergunta, a palavra **Deus** foi realçada em estilo normal, visto que a sentença se encontra em estilo itálico. Já na resposta, palavra **insuficiente** foi realçada em estilo itálico, visto que a sentença se encontra em estilo normal. De modo a diferenciar os comentários de Kardec das mensagens de Espíritos, usou-se uma fonte ligeiramente menor em tamanho.
 ---
 
-3. *Poder-se-ia dizer que* Deus *é o infinito?*
+3. *Poder-se-ia dizer que *Deus* é o infinito?*
 
 “Definição incompleta. Pobreza da linguagem humana, *insuficiente* para definir o que está acima da linguagem dos homens.”
 
@@ -65,86 +51,90 @@ Como se vê, na pergunta, a palavra 'Deus' foi realçada em estilo normal, visto
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
-[topo 🔝](#-o-livro-dos-espíritos)
+#### 5.1.1 Questões (livro impresso)
 
-## 5. Método
+<p style="font-family: serif;"><b>3</b>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Poder-se-ia dizer que <span style="font-style: normal">Deus</span> é o infinito?</i>
+
+<p style="font-family: serif; font-style: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Definição incompleta. Pobreza da linguagem humana, <i>insuficiente</i> para definir o que está acima da linguagem dos homens.”
+
+<p style="font-family: serif; font-size: 80%; margin-left: 60px;">Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o <i>infinito</i> é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.</p>
+
+#### 5.1.2 Trechos bíblicos (livro impresso)
+
+<p style="font-family: serif;">E disse Jesus: “A cada um, de acordo com suas obras.”</p>
+
+## 6. Método
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDE.1` 🗂️ Parte 1 como `LDE.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDE.5` 🗂️ Parte 5, decidimos por dar-lhes o nome de `LDE.6` 🗂️ Parte 6 e o título de Pós-textual.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDE-1` 🗂️ Parte 1 como `LDE-0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDE-5` 🗂️ Parte 5, decidimos por dar-lhes o nome de `LDE-6` 🗂️ Parte 6 e o título de Pós-textual.
 
-[topo 🔝](#-o-livro-dos-espíritos)
+## 7. Padronização
 
-## 6. Padronização
+Decidimos utilizar um tipo *sans-serif*, mais apropriada para o consumo digital e formatar todo o texto em estilo normal com a seguinte exceção: trechos originalmente realçados em _itálico_ serão mudados para **negrito**.
 
-Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
+Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.
 
-- respostas dos Espíritos (entre aspas) serão em itálico, destacadas em _blockquote_ (linha cinza vertical, simples).
-- comentários de Kardec serão _nested blockquotes_ (linha cinza vertical, dupla).
-- trechos bíblicos serão em itálico identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo.
-- trechos originalmente realçados em _itálico_ foram mudados para **negrito**.
+Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
-Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
+### 7.1. Formatação de texto (arquivo MD)
 
-### 6.1. Formatação de texto (LDE.md)
+Exemplificado abaixo estão exemplos da formatação que escolhemos.
 
-#### 6.1.1 Questões
+#### 7.1.1 Questões (arquivo MD)
 
-LDE.q3 #️⃣ 3
+`LDE.q3`#️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
 
-3. Poder-se-ia dizer que **Deus** é o infinito?
+>Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.
 
-> “_Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens._”
->> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
+Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
 
----
-
-#### 6.1.2 Trechos bíblicos
+#### 7.1.2 Trechos bíblicos (arquivo MD)
 
 E disse Jesus:
 
-“_A cada um, de acordo com suas obras._”
+A cada um, de acordo com suas obras. ✝️ **Romanos, cap. 2, vers. 6**
 
-✝️ Romanos, cap. 2, vers. 6
+### 7.2. Legenda
 
----
+Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.
 
-### 6.2. Legenda
-Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
-
-**emoji** | **Abreviação** | **Livro** |
+| **Emoji** | **Sigla** | **Livro** |
 |---|---|---|
-|  👻 | LDE | O Livro dos Espíritos |
-|  ✒️ | LDM | O Livro dos Médiuns |
-|  🕊️ | ESE | O Evangelho segundo o Espiritismo |
-|  🔥 | CEU | O Céu e o Inferno |
-|  🌱 | GEN | A Gênese |
+| :ghost: | `LDE` | O Livro dos Espíritos |
+| :black_nib: | `LDM` | O Livro dos Médiuns |
+| :dove: | `ESE` | O Evangelho segundo o Espiritismo |
+| :fire: | `CEU` | O Céu e o Inferno |
+| :seedling: | `GEN` | A Gênese |
 
-Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
+Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos. Note também o correspondente código mestre.
 
-| **emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
+| **Emoji** | **Descrição** | **Conteúdo** | **Código chave** |
 |---|---|---|---|
-| 📔 | livro | obra completa | `LDE` |
-| 🗂️ | parte | subdivisão da obra | `LDE.X` |
-| 📑 | capítulo | subdivisão de partes | `LDE.X.X` |
-| 📃 | seção | subdivisão de capítulos | `LDE.X.X.X` |
-| #️⃣ | questão | pergunta, reposta e comentário * | `LDE.qX` |
+| :notebook_with_decorative_cover: | livro | obra completa | `LDE` |
+| :card_index_dividers: | parte | subdivisão da obra | `LDE-X` |
+| :bookmark_tabs: | capítulo | subdivisão de partes | `LDE-X-XX` |
+| :page_with_curl: | seção | subdivisão de capítulos | `LDE-X-XX-XX` |
+| :hash: | questão | pergunta, reposta e comentário * | `LDE.qX` |
 
 /* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
-##### 6.2.1. Adicionais
+##### 7.2.1. Adicionais
 
-| **Icone** | **Descrição** | **Conteúdo** |
+| **Emoji** | **Descrição** | **Conteúdo** |
 |---|---|---|
-| ✝️ | trecho bíblico | trecho, livro, capítulo, versículo |
+| :latin_cross: | trecho bíblico | trecho atribuído com livro, capítulo e versículo |
+| :point_right: | segmento relacionado | indicação para leitura complementar |
+
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
 | 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
-| ⚜️ | fim | término de um elemento | -->
+| ⚜️ | fim | término de um elemento | 
+-->
 
 ### 6.3. Hierarquia 
 
-```
+<pre>
 📔 livro
  |
  └── 🗂️ parte
@@ -154,73 +144,67 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
            └── 📃 seção
                 |     
                 └── #️⃣ questão
+</pre>
 
-✝️ ─ trecho bíblico
-```
+### 6.4. Código chave
 
-### 6.4. Código mestre
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
-
-```
-LDE.X.X.X
- |  | | |
- |  | | └── 📃 seção
- |  | | 
- |  | └── 📑 capítulo
+<pre>
+LDE-X-XX-XX
+ |  |  |  |
+ |  |  |  └── 📃 seção
+ |  |  | 
+ |  |  └── 📑 capítulo
  |  |
  |  └── 🗂️ parte
  |
  └── 📔 livro
-```
+</pre>
 
-E em especial no LDE, o código para questões é modificado de `LDE.X.X.X.X` para:
+E em especial no LDE, o código para questões é modificado da sequência lógica de `LDE-X-XX-XX-XXXX` para:
 
-```
-LDE.qXa
- |   ||
- |   |└── sub-questão
+<pre>
+LDE-qXXXXa
+ |   |   |
+ |   |   └── sub-questão
  |   |
  |   └── #️⃣ questão
  |
  └── 📔 livro
-```
+</pre>
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE.q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `LDE-q909a`).
 
-[topo 🔝](#-o-livro-dos-espíritos)
+## 8. Navegação
 
-## 7. Controle de Qualidade
+De modo a evitar um sumário extremamente longo, decidimos por dividi-lo em partes incrementais. Ao começo do livro temos o sumário das partes e ao começo dos capítulos temos o sumário de seções. Ao término de cada segmento, você encontra este emoji 🔼, que ao ser clicado, lhe retorna ao nível imediatamente superior (por exemplo, de seção para capítulo ou de capítulo para parte).
+
+## 9. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (*tablets* e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-[topo 🔝](#-o-livro-dos-espíritos)
-
-## 8. Autor
+## 10. Autor
 
 Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
 
-[topo 🔝](#-o-livro-dos-espíritos)
-
-## 9. Agradecimentos
+## 11. Agradecimentos
 
 À Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, e Palm Beach, na Flórida, e o de Washington D.C, todos nos EUA. Também à Brian Foster (*in memoriam*) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom, de Largo, Flórida, EUA. Em especial, à João Neto, de Uberlândia, Minas Gerais, Brasil, programador e quem nos economizou meses de fastidiosa digitação e revisão. Adicionalmente, ele criou *scripts* que possibilitam a conversão (duplex) do formato MD para vários outros.
 
 Deus abençoa, sempre!
 
-![Sergio SHKLR](./images/sign.png)
+![Sergio SHKLR](/images/sign.png)
 
 | cargo | organização | website | email |
 | --- | --- | --- | --- |
 | 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=LDE.md) |
 
-[topo 🔝](#-o-livro-dos-espíritos)
+## 12. Notas
 
-## 10. Notas
-
-- **LDE.md** e seus variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+- **LDE-vYYYY-MM-DD.md** e seus variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
@@ -238,4 +222,3 @@ Deus abençoa, sempre!
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
-[topo 🔝](#-o-livro-dos-espíritos)
