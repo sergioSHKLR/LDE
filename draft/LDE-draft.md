@@ -1520,11 +1520,11 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 - [`LDE-2-01` 📑 01. Dos Espíritos](#LDE-2-01)
 - [`LDE-2-02` 📑 02. Da encarnação dos espíritos](#LDE-2-02)
-- [`LDE-2-03` 📑 03. Da volta do Espírito à vida espiritual](#LDE-2-03-)
+- [`LDE-2-03` 📑 03. Da volta do Espírito à vida espiritual](#LDE-2-03)
 - [`LDE-2-04` 📑 04. Da pluralidade das existências](#LDE-2-04)
 - [`LDE-2-05` 📑 05. Considerações sobre a pluralidade das existências](#LDE-2-05)
 - [`LDE-2-06` 📑 06. Da vida espírita](#LDE-2-06)
-- [`LDE-2-07` 📑 07. Da volta do Espírito à vida corporal](#LDE-2-07-)
+- [`LDE-2-07` 📑 07. Da volta do Espírito à vida corporal](#LDE-2-07)
 - [`LDE-2-08` 📑 08. Da emancipação da alma](#LDE-2-08)
 - [`LDE-2-09` 📑 09. Da intervenção dos Espíritos no mundo corporal](#LDE-2-09)
 - [`LDE-2-10` 📑 10. Das ocupações e missões dos Espíritos](#LDE-2-10)
@@ -1553,6 +1553,8 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 <a href="#LDE-2">🔼</a>
 
 ---
+
+<a name="LDE-2-01-01"><code>LDE-2-01-01</code></a>
 
 <p><b>📃 Origem e natureza dos Espíritos</b></p>
 
@@ -2155,8 +2157,6 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 <p><b>📃 Objetivo da encarnação</b></p>
 
-<a href="#LDE-2-02">🔼</a>
-
 ---
 
 <a name="LDE-q132"><code>LDE-q132</code></a>
@@ -2338,7 +2338,7 @@ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chama
 
 >Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-02">🔼</a>
 
 ---
 
@@ -2368,7 +2368,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-02">🔼</a>
 
 ---
 
@@ -2535,8 +2535,6 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o perispírito esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais **tenazes** os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo.
 
 <a href="#LDE">🔼</a>
-
----
 
 ---
 
@@ -3263,8 +3261,6 @@ Nenhuma relação **essencial** guardando o corpo que a alma toma numa encarnaç
 
 ---
 
----
-
 <a name="LDE-q222"><code>LDE-q222</code></a>
 #️⃣ 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
@@ -3356,15 +3352,15 @@ Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das exist�
 
 As próprias palavras de Jesus não permitem dúvida a tal respeito. 
 
->_Respondendo a Nicodemos, disse Jesus:<br />
+>Respondendo a Nicodemos, disse Jesus:<br />
 ><br />
->_— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.<br />
+>— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.<br />
 ><br />
->_Disse-lhe Nicodemos:<br />
+>Disse-lhe Nicodemos:<br />
 ><br />
->_— Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?<br />
+>— Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez?<br />
 ><br />
->_Respondeu Jesus:<br />
+>Respondeu Jesus:<br />
 ><br />
 >— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.<br />
 <br />
@@ -6819,8 +6815,6 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 
 ---
 
----
-
 <a name="LDE-q558"><code>LDE-q558</code></a>
 #️⃣ 558. Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
 
@@ -7739,8 +7733,6 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 <p><b>📃 Divisão da lei natural</b></p>
 
 <a href="#LDE">🔼</a>
-
----
 
 ---
 
