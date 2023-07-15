@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title></title>
+</head>
+<body><p><strong>Livros</strong></p>
+<p>Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.</p>
+<figure class='table-figure'><table>
+<thead>
+<tr><th>Emoji</th><th>Sigla</th><th>Livro</th></tr></thead>
+<tbody><tr><td>👻</td><td><code>LDE</code></td><td>O Livro dos Espíritos</td></tr><tr><td>✒️</td><td><code>LDM</code></td><td>O Livro dos Médiuns</td></tr><tr><td>🕊️</td><td><code>ESE</code></td><td>O Evangelho segundo o Espiritismo</td></tr><tr><td>🔥</td><td><code>CEU</code></td><td>O Céu e o Inferno</td></tr><tr><td>🌱</td><td><code>GEN</code></td><td>A Gênese</td></tr></tbody>
+</table></figure>
+<p><strong>Hierarquia</strong></p>
+<p>Dentro deste livro, usaremos os emojis abaixo para identificar elementos individuais ou grupamentos dos mesmos.</p>
+<pre>
+📔 livro
+ |
+ └── 🗂️ parte
+      |
+      └── 📑 capítulo
+           |
+           └── 📃 seção
+                |     
+                └── #️⃣ questão
+</pre>
+<p><strong>Código chave</strong></p>
+<p>Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.</p>
+<pre>
+LDE-X-XX-XX
+ |  |  |  |
+ |  |  |  └── 📃 seção
+ |  |  | 
+ |  |  └── 📑 capítulo
+ |  |
+ |  └── 🗂️ parte
+ |
+ └── 📔 livro
+</pre>
+<p>Em especial no LDE, o código para questões é modificado da sequência lógica de <code>LDE-X-XX-XX-XXXX</code> para:</p>
+<pre>
+LDE-qXXXXa
+ |   |   |
+ |   |   └── sub-questão
+ |   |
+ |   └── #️⃣ questão
+ |
+ └── 📔 livro
+</pre>
+<p>Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra <code>q</code>, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. <code>LDE-q909a</code>).</p>
+<p>Em suma, temos esta tabela descritiva abaixo:</p>
+<figure class='table-figure'><table>
+<thead>
+<tr><th>Emoji</th><th>Descrição</th><th>Conteúdo</th><th>Código chave</th></tr></thead>
+<tbody><tr><td>📔</td><td>livro</td><td>obra completa</td><td><code>LDE</code></td></tr><tr><td>🗂️</td><td>parte</td><td>subdivisão da obra</td><td><code>LDE-X</code></td></tr><tr><td>📑</td><td>capítulo</td><td>subdivisão de partes</td><td><code>LDE-X-XX</code></td></tr><tr><td>📃</td><td>seção</td><td>subdivisão de capítulos</td><td><code>LDE-X-XX-XX</code></td></tr><tr><td>#️⃣</td><td>questão</td><td>pergunta, reposta e comentário *</td><td><code>LDE.qX</code></td></tr></tbody>
+</table></figure>
+<p>/* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.</p>
+<p><strong>Adicionais</strong></p>
+<figure class='table-figure'><table>
+<thead>
+<tr><th>Emoji</th><th>Descrição</th><th>Conteúdo</th></tr></thead>
+<tbody><tr><td>✝️</td><td>trecho bíblico</td><td>trecho atribuído com livro, capítulo e versículo</td></tr><tr><td>👉</td><td>segmento relacionado</td><td>indicação para leitura complementar</td></tr></tbody>
+</table></figure>
+<!--
+| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
+| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
+| ⚜️ | fim | término de um elemento | 
+-->
+<p><strong>Tipografia</strong></p>
+<p>Decidimos utilizar um tipo <em>sans-serif</em>, mais apropriada para o consumo digital e formatar todo o texto em estilo normal com a seguinte exceção: comunicações mediúnicas e trechos bíblicos serão em <em>itálico</em> e trechos originalmente realçados em <em>itálico</em> serão mudados para <strong>negrito</strong>.</p>
+<p>Usaremos o <em>blockquote</em> para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.</p>
+<p><strong>Outros</strong></p>
+<p>Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).</p>
+</body>
+</html>
