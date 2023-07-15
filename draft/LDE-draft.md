@@ -710,7 +710,7 @@ Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conheci
 
 Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho:
 
->Os grandes serão rebaixados e os pequenos serão elevados. <br />
+><i>Os grandes serão rebaixados e os pequenos serão elevados.</i><br />
 <br />
 >✝️ **Mateus, cap. 18, vers. 4**
 
@@ -1367,7 +1367,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 
 >Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:<br />
 <br />
->Deus disse: Faça-se a luz e a luz foi feita.<br />
+><i>Deus disse: Faça-se a luz e a luz foi feita.</i><br />
 <br />
 >✝️ **Gênesis, cap. 1, vers. 3**
 
@@ -2416,7 +2416,7 @@ Por demônios, segundo a acepção vulgar da palavra, se entendem seres essencia
 
 A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de Deus, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de Deus suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do Cristo. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 
->Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido <br />
+><i>Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido.</i><br />
 <br />
 >✝️ **Mateus, cap. 24, vers. 29 e 34**
 
@@ -3632,7 +3632,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 ><br />
 >— É certo que Elias há de vir e que restabelecerá todas as coisas, mas eu vos declaro que Elias já veio, e eles não o conheceram e o fizeram sofrer como entenderam. Do mesmo modo darão a morte ao Filho do homem.<br />
 ><br />
->Compreenderam então seus discípulos que era de João Batista que Ele lhes falava.<br />
+><i>Compreenderam então seus discípulos que era de João Batista que Ele lhes falava.</i><br />
 ><br />
 >✝️ **Mateus, cap. 17, vers. 9 a 13**
 
@@ -3648,7 +3648,7 @@ Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das exist�
 
 As próprias palavras de Jesus não permitem dúvida a tal respeito. 
 
->Respondendo a Nicodemos, disse Jesus:<br />
+><i>Respondendo a Nicodemos, disse Jesus:<br />
 ><br />
 >— Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.<br />
 ><br />
@@ -3658,7 +3658,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 ><br />
 >Respondeu Jesus:<br />
 ><br />
->— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.<br />
+>— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.</i><br />
 <br />
 >✝️ **João, cap. 3, vers. 3 a 7**
 
@@ -4274,7 +4274,7 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 >Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:<br />
 ><br />
->Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?<br />
+><i>Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?</i><br />
 ><br />
 >✝️ **Mateus, cap. 23, vers. 12**
 
@@ -6200,7 +6200,7 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 
 >Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:<br />
 <br />
->Senhor! não nos deixes cair em tentação, mas livra-nos do mal.<br />
+><i>Senhor! não nos deixes cair em tentação, mas livra-nos do mal.</i><br />
 <br />
 >✝️ **Mateus, cap. 6, vers. 13**
 
@@ -7906,7 +7906,7 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 <a name="LDE-q632"><code>LDE-q632</code></a>
 #️⃣ 632. Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e do mal e crer que pratica o bem quando em realidade pratica o mal? Jesus disse:
 
->Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.<br />
+><i>Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.</i><br />
 <br />
 >✝️ **Mateus, cap. 7, vers. 12**
 
@@ -8012,7 +8012,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 >O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe.<br />
 <br />
->Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra.<br />
+><i>Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra.</i><br />
 <br />
 >✝️ **Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4**<br />
 <br />
@@ -8227,7 +8227,7 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 <a name="LDE-q665"><code>LDE-q665</code></a>
 #️⃣ 665. Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho? Aos homens disse o Cristo:
 
->Amai-vos uns aos outros.<br />
+><i>Amai-vos uns aos outros.</i><br />
 <br />
 >✝️ **Mateus, cap. 22, vers. 39**<br />
 <br />
@@ -9281,11 +9281,11 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 ---
 
 <a name="LDE-q764"><code>LDE-q764</code></a>
-#️⃣ 764. Disse Jesus: Quem matou com a espada, pela espada perecerá (✝️ Mateus, cap. 21, vers. 51-52). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+#️⃣ 764. Disse Jesus: <i>Quem matou com a espada, pela espada perecerá</i> (✝️ Mateus, cap. 21, vers. 51-52). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 >Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:<br />
 <br />
->Perdoai aos vossos inimigos.?<br />
+><i>Perdoai aos vossos inimigos.?</i><br />
 <br />
 >✝️ **Mateus, cap. 6, vers. 14-15**<br />
 <br />
@@ -9944,7 +9944,7 @@ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhant
 
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse:
 
-Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus. 
+<i>Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus.</i>
 
 ✝️ **Mateus, cap. 19, vers. 16-30**
 
@@ -10501,7 +10501,7 @@ No que concerne à morte é que o homem se acha submetido, em absoluto, à inexo
 
 Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que Jesus nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos: 
 
->Não nos deixes sucumbir à tentação, mas livra-nos do mal.<br />
+><i>Não nos deixes sucumbir à tentação, mas livra-nos do mal.</i><br />
 <br />
 >**✝️ Mateus, cap. 6, vers. 9-13**
 
@@ -10567,9 +10567,9 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 >Disse o Cristo:<br />
 <br />
->Queira cada um para os outros o que quereria para si mesmo.<br />
+><i>Queira cada um para os outros o que quereria para si mesmo.</i><br />
 <br />
->**✝️ Livro, cap. X, vers. Y**<br />
+>✝️ **Livro, cap. X, vers. Y**<br />
 <br />
 >No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
 
@@ -10632,13 +10632,13 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 
 >Não disse Deus:<br />
 <br />
->Não roubarás?<br />
+><i>Não roubarás?</i><br />
 <br />
 >✝️ **Êxodo, cap. 20, vers. 15**<br />
 <br /><br/>
 >E Jesus não disse:<br />
 <br />
->Dai a César o que é de César.?<br />
+><i>Dai a César o que é de César.?</i><br />
 <br />
 >✝️ **Mateus, cap. 22, vers. 21**
 
@@ -10691,7 +10691,7 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 
 O amor e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de Jesus:
 
-Amai-vos uns aos outros como irmãos.
+<i>Amai-vos uns aos outros como irmãos.</i>
 
 ✝️ **Mateus, cap. 22, vers. 39**
 
@@ -10700,7 +10700,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 ---
 
 <a name="LDE-q887"><code>LDE-q887</code></a>
-#️⃣ 887. Jesus também disse: Amai mesmo os vossos inimigos. (✝️ **Mateus, cap. 5, vers. 44**) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+#️⃣ 887. Jesus também disse: <i>Amai mesmo os vossos inimigos.</i> (✝️ **Mateus, cap. 5, vers. 44**) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
 >Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
@@ -10721,7 +10721,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 >A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
 Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:<br />
 ><br />
->Ignore a vossa mão esquerda o que a direita der.<br />
+><i>Ignore a vossa mão esquerda o que a direita der.</i><br />
 ><br />
 >✝️ **Mateus, cap. 6, vers. 3**<br />
 ><br />
@@ -10889,7 +10889,7 @@ O apego às coisas materiais constitui sinal notório de inferioridade, porque, 
 
 >Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de Jesus:<br />
 ><br />
->Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.<br />
+><i>Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.</i><br />
 ><br />
 >✝️ **Mateus, cap. 7, vers. 3**
 
@@ -11184,7 +11184,7 @@ Já nesta vida somos punidos pelas infrações que cometemos das leis que regem 
 
 >Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:<br />
 ><br />
->Bem-aventurados os que sofrem, pois que serão consolados.<br />
+><i>Bem-aventurados os que sofrem, pois que serão consolados.</i><br />
 ><br />
 >✝️ **Mateus, cap. 5, vers. 4**
 
@@ -12100,7 +12100,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 
 >Interrogai o vosso bom senso, a vossa razão e perguntai-lhes se uma condenação perpétua, motivada por alguns momentos de erro, não seria a negação da bondade de Deus. Que é, com efeito, a duração da vida, ainda quando de cem anos, em face da eternidade? Eternidade! Compreendeis bem esta palavra? Sofrimentos, torturas sem-fim, sem esperanças, por causa de algumas faltas! O vosso juízo não repele semelhante ideia? Que os antigos tenham considerado o Senhor do Universo um Deus terrível, cioso e vingativo, concebe-se. Na ignorância em que se achavam, atribuíam à divindade as paixões dos homens. Esse, todavia, não é o Deus dos cristãos, que classifica como virtudes primordiais o amor, a caridade, a misericórdia, o esquecimento das ofensas. Poderia Ele carecer das qualidades, cuja posse prescreve, como um dever, às suas criaturas? Não haverá contradição em se lhe atribuir a bondade infinita e a vingança também infinita? Dizeis que, acima de tudo, Ele é justo e que o homem não lhe compreende a justiça, mas a justiça não exclui a bondade e Ele não seria bom se condenasse a eternas e horríveis penas a maioria das suas criaturas. Teria o direito de fazer da justiça uma obrigação para seus filhos, se lhes não desse meio de compreendê-la? Aliás, no fazer que a duração das penas dependa dos esforços do culpado não está toda a sublimidade da justiça unida à bondade? Aí é que se encontra a verdade desta sentença:<br />
 ><br />
->A cada um segundo as suas obras.<br />
+><i>A cada um segundo as suas obras.</i><br />
 ><br />
 >✝️ **Romanos, cap. 2, vers. 6**<br />
 ><br />
