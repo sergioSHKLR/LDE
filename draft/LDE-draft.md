@@ -35,7 +35,7 @@
   i {
     font-family: serif;
     font-size: 110%;
-    font-style: normal;
+    font-style: italic;
     }
 </style>
 <script src="https://hypothes.is/embed.js" async></script>
@@ -4274,7 +4274,7 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 
 >Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:<br />
 ><br />
-><i>Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?</i><br />
+><i>Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado.?</i><br />
 ><br />
 >✝️ **Mateus, cap. 23, vers. 12**
 
