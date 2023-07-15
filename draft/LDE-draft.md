@@ -8,7 +8,7 @@
     content: open-quote;
     font-size: 2.5em;
     line-height: 0.1em;
-    margin-right: 0.25em;
+    margin-right: 0.1em;
     vertical-align: -0.3em;
     font-family: serif;
   }
@@ -23,8 +23,8 @@
     content: close-quote;
     font-size: 2.5em;
     line-height: 0.1em;
-    margin-left: 0.25em;
-    vertical-align: -0.5em;
+    margin-left: 0.1em;
+    vertical-align: -0.3em;
     font-family: serif;
   }
 
@@ -687,7 +687,7 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 
 >Têm olhos e não veem; têm ouvidos e não ouvem.<br />
 <br />
->✝️ Mateus, cap. 13, vers. 14
+>✝️ **Mateus, cap. 13, vers. 14**
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
@@ -707,7 +707,7 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 
 >Os grandes serão rebaixados e os pequenos serão elevados. <br />
 <br />
->✝️ Mateus, cap. 18, vers. 4
+>✝️ **Mateus, cap. 18, vers. 4**
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados. 
 
@@ -1364,7 +1364,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 <br />
 >Deus disse: Faça-se a luz e a luz foi feita.<br />
 <br />
->✝️ Gênesis, cap. 1, vers. 3
+>✝️ **Gênesis, cap. 1, vers. 3**
 
 ---
 
@@ -2413,7 +2413,7 @@ A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no
 
 >Logo após esses dias de aflição, o Sol escurecerá e a Lua não mais dará sua luz, as estrelas cairão do céu e as potências do céu se abalarão. Em verdade vos digo que esta geração não passará, sem que todas estas coisas se tenham cumprido <br />
 <br />
->✝️ Mateus, cap. 24, vers. 29 e 34
+>✝️ **Mateus, cap. 24, vers. 29 e 34**
 
 Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 
@@ -3629,7 +3629,7 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 ><br />
 >Compreenderam então seus discípulos que era de João Batista que Ele lhes falava.<br />
 ><br />
->✝️ Mateus, cap. 17, vers. 9 a 13
+>✝️ **Mateus, cap. 17, vers. 9 a 13**
 
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
 
@@ -3655,7 +3655,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito.
 ><br />
 >— Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.<br />
 <br />
->✝️ João, cap. 3, vers. 3 a 7
+>✝️ **João, cap. 3, vers. 3 a 7**
 
 👉 ([`LDE-q1010`](#LDE-q1010)) 
 
@@ -4271,7 +4271,7 @@ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilizaç�
 ><br />
 >Aquele que se humilhar será exalçado e aquele que se exalçar será humilhado?<br />
 ><br />
->✝️ Mateus, cap. 23, vers. 12
+>✝️ **Mateus, cap. 23, vers. 12**
 
 ---
 
@@ -6197,7 +6197,7 @@ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos própr
 <br />
 >Senhor! não nos deixes cair em tentação, mas livra-nos do mal.<br />
 <br />
->✝️ Mateus, cap. 6, vers. 13
+>✝️ **Mateus, cap. 6, vers. 13**
 
 ---
 
@@ -7903,7 +7903,7 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 
 >Vede o que queríeis que vos fizessem ou não vos fizessem. Tudo se resume nisso. Não vos enganareis.<br />
 <br />
->✝️ Mateus, cap. 7, vers. 12
+>✝️ **Mateus, cap. 7, vers. 12**
 
 ---
 
@@ -8009,7 +8009,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 <br />
 >Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra.<br />
 <br />
->✝️ Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4<br />
+>✝️ **Marcos, cap. 12, vers. 41-44 e Lucas, cap. 21, vers. 1-4**<br />
 <br />
 >, disse-o Jesus, a propósito do óbolo da viúva.
 
@@ -8224,7 +8224,7 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 
 >Amai-vos uns aos outros.<br />
 <br />
->✝️ Mateus, cap. 22, vers. 39<br />
+>✝️ **Mateus, cap. 22, vers. 39**<br />
 <br />
 >Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
 
@@ -9282,7 +9282,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 <br />
 >Perdoai aos vossos inimigos.?<br />
 <br />
->✝️ Mateus, cap. 6, vers. 14-15<br />
+>✝️ **Mateus, cap. 6, vers. 14-15**<br />
 <br />
 >E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem? 
 
@@ -9941,7 +9941,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 
 Em verdade vos digo que mais fácil é passar um camelo por um fundo de agulha do que entrar um rico no reino dos céus. 
 
-✝️ Mateus, cap. 19, vers. 16-30
+✝️ **Mateus, cap. 19, vers. 16-30**
 
 👉 ([`LDE-q266`](#LDE-q266))
 
@@ -10498,7 +10498,7 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 
 >Não nos deixes sucumbir à tentação, mas livra-nos do mal.<br />
 <br />
->✝️ Mateus, cap. 6, vers. 9-13
+>**✝️ Mateus, cap. 6, vers. 9-13**
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
 
@@ -10564,7 +10564,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 <br />
 >Queira cada um para os outros o que quereria para si mesmo.<br />
 <br />
->✝️ Livro, cap. X, vers. Y<br />
+>**✝️ Livro, cap. X, vers. Y**<br />
 <br />
 >No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
 
@@ -10629,13 +10629,13 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 <br />
 >Não roubarás?<br />
 <br />
->✝️ Êxodo, cap. 20, vers. 15<br />
+>✝️ **Êxodo, cap. 20, vers. 15**<br />
 <br /><br/>
 >E Jesus não disse:<br />
 <br />
 >Dai a César o que é de César.?<br />
 <br />
->✝️ Mateus, cap. 22, vers. 21
+>✝️ **Mateus, cap. 22, vers. 21**
 
 O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
@@ -10688,14 +10688,14 @@ O amor e a caridade são o complemento da lei de justiça, pois amar o próximo 
 
 Amai-vos uns aos outros como irmãos.
 
-✝️ Mateus, cap. 22, vers. 39
+✝️ **Mateus, cap. 22, vers. 39**
 
 A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 
 ---
 
 <a name="LDE-q887"><code>LDE-q887</code></a>
-#️⃣ 887. Jesus também disse: Amai mesmo os vossos inimigos. (✝️ Mateus, cap. 5, vers. 44) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+#️⃣ 887. Jesus também disse: Amai mesmo os vossos inimigos. (✝️ **Mateus, cap. 5, vers. 44**) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
 >Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
@@ -10718,7 +10718,7 @@ Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao 
 ><br />
 >Ignore a vossa mão esquerda o que a direita der.<br />
 ><br />
->✝️ Mateus, cap. 6, vers. 3<br />
+>✝️ **Mateus, cap. 6, vers. 3**<br />
 ><br />
 >Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.<br />
 ><br />
@@ -10886,7 +10886,7 @@ O apego às coisas materiais constitui sinal notório de inferioridade, porque, 
 ><br />
 >Vê o argueiro no olho do seu vizinho e não vê a trave no seu próprio.<br />
 ><br />
->✝️ Mateus, cap. 7, vers. 3
+>✝️ **Mateus, cap. 7, vers. 3**
 
 ---
 
@@ -11181,7 +11181,7 @@ Já nesta vida somos punidos pelas infrações que cometemos das leis que regem 
 ><br />
 >Bem-aventurados os que sofrem, pois que serão consolados.<br />
 ><br />
->✝️ Mateus, cap. 5, vers. 4
+>✝️ **Mateus, cap. 5, vers. 4**
 
 ---
 
@@ -12097,7 +12097,7 @@ Não se deve perder de vista que o Espírito não se transforma subitamente, ap�
 ><br />
 >A cada um segundo as suas obras.<br />
 ><br />
->✝️ Romanos, cap. 2, vers. 6<br />
+>✝️ **Romanos, cap. 2, vers. 6**<br />
 ><br />
 >**Santo Agostinho**
 
