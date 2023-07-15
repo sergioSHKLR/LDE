@@ -2378,8 +2378,9 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ---
 
-- [`LDE-2-03-01` 📃 A alma após a morte- Vida eterna-](#LDE-2-03-01)
+- [`LDE-2-03-01` 📃 A alma após a morte. Vida eterna](#LDE-2-03-01)
 - [`LDE-2-03-02` 📃 Separação da alma e do corpo](#LDE-2-03-02)
+- [`LDE-2-03-03` 📃 Perturbação espiritual](#LDE-2-03-03)
 
 <a href="#LDE-2">🔼</a>
 
@@ -2450,7 +2451,7 @@ A diversidade infinita que apresentam, sob todos os aspectos, é a consequência
 
 >Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-03">🔼</a>
 
 ---
 
@@ -2534,15 +2535,19 @@ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-mat
 
 Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o perispírito esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais **tenazes** os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo.
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-03">🔼</a>
 
 ---
+
+<a name="LDE-2-03-03"><code>LDE-2-03-03</code></a>
+
+<p><b>📃 Perturbação espiritual</b></p>
 
 <a name="LDE-q163"><code>LDE-q183</code></a>
 #️⃣ 163. A alma tem consciência de si mesma imediatamente depois de deixar o corpo?
 
 >Imediatamente não é bem o termo. A alma passa algum tempo em estado de perturbação.
->
+
 Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 
 ---
