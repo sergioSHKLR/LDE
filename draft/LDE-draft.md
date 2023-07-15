@@ -66,6 +66,8 @@
            └── 📃 seção
                 |   
                 └── #️⃣ questão
+<br />
+🔼 subir um nível (exemplo: de seção para capítulo)
 </pre>
 <p><strong>Código chave</strong></p>
 <p>Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.</p>
@@ -102,7 +104,9 @@ LDE-qXXXXa
 <figure class='table-figure'><table>
 <thead>
 <tr><th>Emoji</th><th>Descrição</th><th>Conteúdo</th></tr></thead>
-<tbody><tr><td>✝️</td><td>trecho bíblico</td><td>trecho atribuído com livro, capítulo e versículo</td></tr><tr><td>👉</td><td>segmento relacionado</td><td>indicação para leitura complementar</td></tr></tbody>
+<tbody><tr><td>✝️</td><td>trecho bíblico</td><td>trecho atribuído com livro, capítulo e versículo</td></tr><tr><td>👉</td><td>segmento relacionado</td><td>indicação para leitura complementar</td></tr>
+<tr><td>🔼</td><td>subir um nível</td><td>elemento de navegação</td></tr>
+</tbody>
 </table></figure>
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
