@@ -95,9 +95,9 @@ LDE-qXXXXa
 <figure class='table-figure'><table>
 <thead>
 <tr><th>Emoji</th><th>Descrição</th><th>Conteúdo</th><th>Código chave</th></tr></thead>
-<tbody><tr><td>📔</td><td>livro</td><td>obra completa</td><td><code>LDE</code></td></tr><tr><td>🗂️</td><td>parte</td><td>subdivisão da obra</td><td><code>LDE-X</code></td></tr><tr><td>📑</td><td>capítulo</td><td>subdivisão de partes</td><td><code>LDE-X-XX</code></td></tr><tr><td>📃</td><td>seção</td><td>subdivisão de capítulos</td><td><code>LDE-X-XX-XX</code></td></tr><tr><td>#️⃣</td><td>questão</td><td>pergunta, reposta e comentário *</td><td><code>LDE.qX</code></td></tr></tbody>
+<tbody><tr><td>📔</td><td>livro</td><td>obra completa</td><td><code>LDE</code></td></tr><tr><td>🗂️</td><td>parte</td><td>subdivisão da obra</td><td><code>LDE-X</code></td></tr><tr><td>📑</td><td>capítulo</td><td>subdivisão de partes</td><td><code>LDE-X-XX</code></td></tr><tr><td>📃</td><td>seção</td><td>subdivisão de capítulos</td><td><code>LDE-X-XX-XX</code></td></tr><tr><td>#️⃣</td><td>questão</td><td>pergunta, reposta e comentário <b>*</b></td><td><code>LDE.qX</code></td></tr></tbody>
 </table></figure>
-<p>/* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.</p>
+<p><b>*</b> Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.</p>
 <p><strong>Adicionais</strong></p>
 <figure class='table-figure'><table>
 <thead>
