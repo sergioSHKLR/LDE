@@ -688,7 +688,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:
 
->_Têm olhos e não veem; têm ouvidos e não ouvem._<br />
+><i>Têm olhos e não veem; têm ouvidos e não ouvem.</i><br />
 <br />
 >✝️ **Mateus, cap. 13, vers. 14**
 
