@@ -34,7 +34,7 @@
   }
   i {
     font-family: serif;
-    font-size: 115%;
+    font-size: 110%;
     font-style: italic;
     }
 </style>
