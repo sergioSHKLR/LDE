@@ -48,7 +48,7 @@
 | ⚠️ **AVISO** | A obra original (ISBN 978-85-7328-728-8) *Copyright* © 1944 by Federação Espírita Brasileira) sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto. |
 
 
-<details><summary><b>Legenda</b></summary>
+<details><summary><b>❓ Legenda</b></summary>
 <br />
 <p><strong>Livros</strong></p>
 <p>Individualmente, iremos identificar os livros pelos emojis e/ou siglas abaixo.</p>
@@ -118,6 +118,7 @@ LDE-qXXXXa
 <p><strong>Outros</strong></p>
 <p>Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).</p>
 </details>
+<br />
 
 **Sumário**
 
