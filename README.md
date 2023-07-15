@@ -121,8 +121,8 @@ Em suma, temos esta tabela descritiva abaixo:
 
 | **Emoji** | **Descrição** | **Conteúdo** |
 |---|---|---|
-| :latin_cross: | trecho bíblico | trecho atribuído com livro, capítulo e versículo |
-| :point_right: | segmento relacionado | indicação para leitura complementar |
+| ✝️ | trecho bíblico | trecho atribuído com livro, capítulo e versículo |
+| 👉 | segmento relacionado | indicação para leitura complementar |
 
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
