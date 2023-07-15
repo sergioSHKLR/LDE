@@ -34,7 +34,7 @@
   }
   i {
     font-family: serif;
-    font-size: 110%;
+    font-size: 115%;
     font-style: italic;
     }
 </style>
@@ -9281,7 +9281,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 ---
 
 <a name="LDE-q764"><code>LDE-q764</code></a>
-#️⃣ 764. Disse Jesus: <i>Quem matou com a espada, pela espada perecerá</i> (✝️ Mateus, cap. 21, vers. 51-52). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
+#️⃣ 764. Disse Jesus: <i>Quem matou com a espada, pela espada perecerá</i> (✝️ **Mateus, cap. 21, vers. 51-52**). Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 >Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:<br />
 <br />
@@ -10635,7 +10635,7 @@ Efetivamente, o critério da verdadeira justiça está em querer cada um para os
 ><i>Não roubarás?</i><br />
 <br />
 >✝️ **Êxodo, cap. 20, vers. 15**<br />
-<br /><br/>
+<br />
 >E Jesus não disse:<br />
 <br />
 ><i>Dai a César o que é de César.?</i><br />
