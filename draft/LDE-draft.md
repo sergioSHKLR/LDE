@@ -32,30 +32,78 @@
     height: 1px;
     background-color: gainsboro;
   }
-
-
 </style>
-
 <script src="https://hypothes.is/embed.js" async></script>
-
-<a name="LDE"><code>LDE</code></a>
-
-<h1>👻 <b>O Livro dos Espíritos</b></h1>
-
-**2023-07-14**
-
-<details><summary>❓ <strong>Manual do usuário</strong>
-<hr />
-</summary>
-<p>Visto que nosso projeto é significamente diferente das opções atualmente disponíveis , tais como: livro impresso, PDF, eBook, versões online (como as de Kardecpedia ou Portal Luz Espírita); consideramos que uma breve explicação se faz necessária.</p>
-<p><strong>Livros</strong></p>
-<figure class='table-figure'><table>
-<thead>
-<tr><th style='text-align:left;' ><strong>Emoji</strong></th><th><strong>Sigla</strong></th><th><strong>Livro</strong></th></tr></thead>
-<tbody><tr><td style='text-align:left;' >👻</td><td><code>LDE</code></td><td>O Livro dos Espíritos</td></tr><tr><td style='text-align:left;' >✒️</td><td><code>LDM</code></td><td>O Livro dos Médiuns</td></tr><tr><td style='text-align:left;' >🕊️</td><td><code>ESE</code></td><td>O Evangelho segundo o Espiritismo</td></tr><tr><td style='text-align:left;' >🔥</td><td><code>CEU</code></td><td>O Céu e o Inferno</td></tr><tr><td style='text-align:left;' >🌱</td><td><code>GEN</code></td><td>A Gênese</td></tr></tbody>
-</table></figure>
-<p><strong>Hierarquia</strong></p>
-<pre>
+<a name="LDE">
+  <code>LDE</code>
+</a>
+<h1>👻 <b>O Livro dos Espíritos</b>
+</h1> **2023-07-14** <details>
+  <summary>❓ <strong>Manual do usuário</strong>
+    <hr />
+  </summary>
+  <p>Visto que nosso projeto é significamente diferente das opções atualmente disponíveis, tais como: livro impresso, PDF, eBook, versões online (como as de Kardecpedia ou Portal Luz Espírita); consideramos que uma breve explicação se faz necessária.</p>
+  <p>
+    <strong>Livros</strong>
+  </p>
+  <figure class='table-figure'>
+    <table>
+      <thead>
+        <tr>
+          <th style='text-align:left;'>
+            <strong>Emoji</strong>
+          </th>
+          <th>
+            <strong>Sigla</strong>
+          </th>
+          <th>
+            <strong>Livro</strong>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style='text-align:left;'>👻</td>
+          <td>
+            <code>LDE</code>
+          </td>
+          <td>O Livro dos Espíritos</td>
+        </tr>
+        <tr>
+          <td style='text-align:left;'>✒️</td>
+          <td>
+            <code>LDM</code>
+          </td>
+          <td>O Livro dos Médiuns</td>
+        </tr>
+        <tr>
+          <td style='text-align:left;'>🕊️</td>
+          <td>
+            <code>ESE</code>
+          </td>
+          <td>O Evangelho segundo o Espiritismo</td>
+        </tr>
+        <tr>
+          <td style='text-align:left;'>🔥</td>
+          <td>
+            <code>CEU</code>
+          </td>
+          <td>O Céu e o Inferno</td>
+        </tr>
+        <tr>
+          <td style='text-align:left;'>🌱</td>
+          <td>
+            <code>GEN</code>
+          </td>
+          <td>A Gênese</td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+  <p>
+    <strong>Hierarquia</strong>
+  </p>
+  <pre>
 📔 livro
  |
  └── 🗂️ parte
@@ -65,12 +113,16 @@
            └── 📃 seção
                 |   
                 └── #️⃣ questão
-<br />
+
+		<br />
 🔼 subir um nível (exemplo: de seção para capítulo)
-</pre>
-<p><strong>Código chave</strong></p>
-<p>Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.</p>
-<pre>
+
+	</pre>
+  <p>
+    <strong>Código chave</strong>
+  </p>
+  <p>Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código chave foi criado. Este código alfanúmerico é demonstrado abaixo.</p>
+  <pre>
 LDE-X-XX-XX
  |  |  |  |
  |  |  |  └── 📃 seção
@@ -81,8 +133,8 @@ LDE-X-XX-XX
  |
  └── 📔 livro
 </pre>
-<p>Em especial no LDE, o código para questões é modificado da esperada sequência lógica de <code>LDE-X-XX-XX-XXXX</code> para:</p>
-<pre>
+  <p>Em especial no LDE, o código para questões é modificado da esperada sequência lógica de <code>LDE-X-XX-XX-XXXX</code> para: </p>
+  <pre>
 LDE-qXXXXa
  |     | |
  |     | └── sub-questão
@@ -91,80 +143,193 @@ LDE-qXXXXa
  |
  └── 📔 livro
 </pre>
-<p>Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. No LDE, usamos a letra <code>q</code>, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. <code>LDE-q909a</code>).</p>
-<p>Em suma, temos esta tabela descritiva abaixo:</p>
-<figure class='table-figure'><table>
-<thead>
-<tr><th>Emoji</th><th>Descrição</th><th>Conteúdo</th><th>Código chave</th></tr></thead>
-<tbody><tr><td>📔</td><td>livro</td><td>obra completa</td><td><code>LDE</code></td></tr><tr><td>🗂️</td><td>parte</td><td>subdivisão da obra</td><td><code>LDE-X</code></td></tr><tr><td>📑</td><td>capítulo</td><td>subdivisão de partes</td><td><code>LDE-X-XX</code></td></tr><tr><td>📃</td><td>seção</td><td>subdivisão de capítulos</td><td><code>LDE-X-XX-XX</code></td></tr><tr><td>#️⃣</td><td>questão</td><td>pergunta, reposta e comentário <b>*</b></td><td><code>LDE.qX</code></td></tr></tbody>
-</table></figure>
-<p><b>*</b> Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.</p>
-<p><strong>Adicionais</strong></p>
-<figure class='table-figure'><table>
-<thead>
-<tr><th>Emoji</th><th>Descrição</th><th>Conteúdo</th></tr></thead>
-<tbody><tr><td>✝️</td><td>trecho bíblico</td><td>trecho atribuído com livro, capítulo e versículo</td></tr><tr><td>👉</td><td>segmento relacionado</td><td>indicação para leitura complementar</td></tr>
-<tr><td>🔼</td><td>subir um nível</td><td>elemento de navegação</td></tr>
-</tbody>
-</table></figure>
-<!--
+  <p>Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. No LDE, usamos a letra <code>q</code>, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. <code>LDE-q909a</code>). </p>
+  <p>Em suma, temos esta tabela descritiva abaixo:</p>
+  <figure class='table-figure'>
+    <table>
+      <thead>
+        <tr>
+          <th>Emoji</th>
+          <th>Descrição</th>
+          <th>Conteúdo</th>
+          <th>Código chave</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>📔</td>
+          <td>livro</td>
+          <td>obra completa</td>
+          <td>
+            <code>LDE</code>
+          </td>
+        </tr>
+        <tr>
+          <td>🗂️</td>
+          <td>parte</td>
+          <td>subdivisão da obra</td>
+          <td>
+            <code>LDE-X</code>
+          </td>
+        </tr>
+        <tr>
+          <td>📑</td>
+          <td>capítulo</td>
+          <td>subdivisão de partes</td>
+          <td>
+            <code>LDE-X-XX</code>
+          </td>
+        </tr>
+        <tr>
+          <td>📃</td>
+          <td>seção</td>
+          <td>subdivisão de capítulos</td>
+          <td>
+            <code>LDE-X-XX-XX</code>
+          </td>
+        </tr>
+        <tr>
+          <td>#️⃣</td>
+          <td>questão</td>
+          <td>pergunta, reposta e comentário <b>*</b>
+          </td>
+          <td>
+            <code>LDE.qX</code>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+  <p>
+    <b>*</b> Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
+  </p>
+  <p>
+    <strong>Adicionais</strong>
+  </p>
+  <figure class='table-figure'>
+    <table>
+      <thead>
+        <tr>
+          <th>Emoji</th>
+          <th>Descrição</th>
+          <th>Conteúdo</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>✝️</td>
+          <td>trecho bíblico</td>
+          <td>trecho atribuído com livro, capítulo e versículo</td>
+        </tr>
+        <tr>
+          <td>👉</td>
+          <td>segmento relacionado</td>
+          <td>indicação para leitura complementar</td>
+        </tr>
+        <tr>
+          <td>🔼</td>
+          <td>subir um nível</td>
+          <td>elemento de navegação</td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+  <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
 | 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
 | ⚜️ | fim | término de um elemento | 
 -->
-<p><strong>Tipografia</strong></p>
-<p>Decidimos utilizar um tipo <em>sans-serif</em>, mais apropriada para o consumo digital e formatar todo o texto em estilo normal com a seguinte exceção: comunicações mediúnicas e trechos bíblicos serão em <em>itálico</em> e trechos originalmente realçados em <em>itálico</em> serão mudados para <strong>negrito</strong>.</p>
-<p>Usaremos o <em>blockquote</em> para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras.</p>
-<p><strong>Outros</strong></p>
-<p>Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).</p>
-<p><strong>Notas</strong></p>
-<p>Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.</p>
-<p><strong>Controle de Qualidade</strong></p>
-<p>Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (<em>tablets</em> e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.</p>
-<p>Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.</p>
-<p><strong>Autor</strong></p>
-<p>Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação <em>front-end</em> (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em <a href='https://shklr.org'>SHKLR.org</a> almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.</p>
-<p><strong>Agradecimentos</strong></p>
-<p>À Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, e Palm Beach, na Flórida, e o de Washington D.C, todos nos EUA. Também à Brian Foster (<em>in memoriam</em>) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom, de Largo, Flórida, EUA. Em especial, à João Neto, de Uberlândia, Minas Gerais, Brasil, programador e quem nos economizou meses de fastidiosa digitação e revisão. Adicionalmente, ele criou <em>scripts</em> que possibilitam a conversão (duplex) do formato MD para vários outros.</p>
-<p>Deus abençoa, sempre!</p>
-<p><img src="../images/sign.png" referrerpolicy="no-referrer" alt="Sergio SHKLR"></p>
-<figure class='table-figure'><table>
-<thead>
-<tr><th>cargo</th><th>organização</th><th>website</th><th>email</th></tr></thead>
-<tbody><tr><td>🎩 Fundador</td><td>⭕ SHKLR</td><td>🌐 <a href='https://shklr.org'>shklr.org</a></td><td>💌 <a href='mailto:doutrina@shklr.org?subject=LDE.md'>doutrina@shklr.org</a></td></tr></tbody>
-</table></figure>
-<p><strong>Legal</strong></p>
-<p>Este projeto é baseado na obra original <em>O Livro dos Espíritos</em>, ISBN 978-85-7328-728-8, impresso e <em>copyright</em> (1944) pela Federação Espírita Brasileira.</p>
-<ul>
-<li><p>Não exercemos direitos sobre as obras originais, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários e/ou herdeiros.</p>
-</li>
-<li><p>O nome e/ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços e/ou produtos.</p>
-</li>
-<li><p>Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o <a href='http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A'>Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998</a>. Reproduzimos abaixo alguns trechos pertinentes.</p>
-<ul>
-<li><p>Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.</p>
-</li>
-<li><p>Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:</p>
-<ul>
-<li>I – a reprodução</li>
-<li>III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.</li>
-
-</ul>
-</li>
-
-</ul>
-</li>
-
-</ul>
-<ul>
-<li><p>Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.</p>
-</li>
-<li><p><strong>LDE.md</strong> e seus variantes são licenciados sob <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>. A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em <a href='https://github.com/sergioSHKLR' target='_blank' class='url'>https://github.com/sergioSHKLR</a>.</p>
-<hr />
-<p>&nbsp;</p>
-</li>
-
-</ul>
+  <p>
+    <strong>Tipografia</strong>
+  </p>
+  <p>Decidimos utilizar um tipo <em>sans-serif</em>, mais apropriada para o consumo digital e formatar todo o texto em estilo normal com a seguinte exceção: comunicações mediúnicas e trechos bíblicos serão em <em>itálico</em> e trechos originalmente realçados em <em>itálico</em> serão mudados para <strong>negrito</strong>. </p>
+  <p>Usaremos o <em>blockquote</em> para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras. </p>
+  <p>
+    <strong>Outros</strong>
+  </p>
+  <p>Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).</p>
+  <p>
+    <strong>Notas</strong>
+  </p>
+  <p>Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.</p>
+  <p>
+    <strong>Controle de Qualidade</strong>
+  </p>
+  <p>Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel ( <em>tablets</em> e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo. </p>
+  <p>Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.</p>
+  <p>
+    <strong>Autor</strong>
+  </p>
+  <p>Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação <em>front-end</em> (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em <a href='https://shklr.org'>SHKLR.org</a> almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec. </p>
+  <p>
+    <strong>Agradecimentos</strong>
+  </p>
+  <p>À Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, e Palm Beach, na Flórida, e o de Washington D.C, todos nos EUA. Também à Brian Foster ( <em>in memoriam</em>) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom, de Largo, Flórida, EUA. Em especial, à João Neto, de Uberlândia, Minas Gerais, Brasil, programador e quem nos economizou meses de fastidiosa digitação e revisão. Adicionalmente, ele criou <em>scripts</em> que possibilitam a conversão (duplex) do formato MD para vários outros. </p>
+  <p>Deus abençoa, sempre!</p>
+  <p>
+    <img src="../images/sign.png" referrerpolicy="no-referrer" alt="Sergio SHKLR">
+  </p>
+  <figure class='table-figure'>
+    <table>
+      <thead>
+        <tr>
+          <th>cargo</th>
+          <th>organização</th>
+          <th>website</th>
+          <th>email</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>🎩 Fundador</td>
+          <td>⭕ SHKLR</td>
+          <td>🌐 <a href='https://shklr.org'>shklr.org</a>
+          </td>
+          <td>💌 <a href='mailto:doutrina@shklr.org?subject=LDE.md'>doutrina@shklr.org</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+  <p>
+    <strong>Legal</strong>
+  </p>
+  <p>Este projeto é baseado na obra original <em>O Livro dos Espíritos</em>, ISBN 978-85-7328-728-8, impresso e <em>copyright</em> (1944) pela Federação Espírita Brasileira. </p>
+  <ul>
+    <li>
+      <p>Não exercemos direitos sobre as obras originais, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários e/ou herdeiros.</p>
+    </li>
+    <li>
+      <p>O nome e/ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços e/ou produtos.</p>
+    </li>
+    <li>
+      <p>Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o <a href='http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A'>Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998</a>. Reproduzimos abaixo alguns trechos pertinentes. </p>
+      <ul>
+        <li>
+          <p>Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.</p>
+        </li>
+        <li>
+          <p>Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:</p>
+          <ul>
+            <li>I – a reprodução</li>
+            <li>III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <p>Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.</p>
+    </li>
+    <li>
+      <p>
+        <strong>LDE.md</strong> e seus variantes são licenciados sob <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR'>CC BY-NC-SA 4.0</a>. A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é livremente disponível em <a href='https://github.com/sergioSHKLR' target='_blank' class='url'>https://github.com/sergioSHKLR</a>.
+      </p>
+      <hr />
+      <p>&nbsp;</p>
+    </li>
+  </ul>
 </details>
 
 **Sumário**
