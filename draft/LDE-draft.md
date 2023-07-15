@@ -16,7 +16,6 @@
   blockquote p {
     display: inline;
     color: black;
-    font-family: serif;
   }
 
   blockquote:after {
