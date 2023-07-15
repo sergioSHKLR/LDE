@@ -34,15 +34,16 @@
   }
 </style>
 <script src="https://hypothes.is/embed.js" async></script>
-<a name="LDE">
-  <code>LDE</code>
-</a>
-<h1>👻 <b>O Livro dos Espíritos</b>
-</h1> **2023-07-14** <details>
-  <summary>❓ <strong>Manual do usuário</strong>
+<a name="LDE"><code>LDE</code></a>
+
+# 👻 O Livro dos Espíritos
+
+**2023-07-14** 
+
+<details><summary>❓ <strong>Manual do usuário</strong>
     <hr />
   </summary>
-  <p>Visto que nosso projeto é significamente diferente das opções atualmente disponíveis, tais como: livro impresso, PDF, eBook, versões online (como as de Kardecpedia ou Portal Luz Espírita); consideramos que uma breve explicação se faz necessária.</p>
+  <p>Visto que nosso projeto difere significamente das opções atualmente disponíveis, tais como: livro impresso, PDF, eBook, versões online (como as de Kardecpedia ou Portal Luz Espírita); acreditamos que uma breve explicação se faz necessária.</p>
   <p>
     <strong>Livros</strong>
   </p>
