@@ -2574,7 +2574,7 @@ A perturbação que se segue à morte nada tem de penosa para o homem de bem, qu
 
 Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam. 
 
-<a href="#LDE">🔼</a>
+<a href="#LDE-2-03">🔼</a>
 
 ---
 
