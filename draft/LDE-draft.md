@@ -34,6 +34,8 @@
   }
   i {
     font-family: serif;
+    font-size: 115%;
+    font-style: normal;
     }
 </style>
 <script src="https://hypothes.is/embed.js" async></script>
