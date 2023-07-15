@@ -144,6 +144,7 @@ Usaremos o _blockquote_ para identificar visualmente as comunicações mediúnic
 Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
 </details>
+<br /><br />
 
 **Sumário**
 
