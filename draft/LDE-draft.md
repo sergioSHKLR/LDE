@@ -32,6 +32,9 @@
     height: 1px;
     background-color: gainsboro;
   }
+  i {
+    font-family: serif;
+    }
 </style>
 <script src="https://hypothes.is/embed.js" async></script>
 <a name="LDE"><code>LDE</code></a>
@@ -685,7 +688,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:
 
->Têm olhos e não veem; têm ouvidos e não ouvem.<br />
+>_Têm olhos e não veem; têm ouvidos e não ouvem._<br />
 <br />
 >✝️ **Mateus, cap. 13, vers. 14**
 
