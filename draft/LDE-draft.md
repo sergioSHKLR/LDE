@@ -43,7 +43,7 @@
 
 # 👻 O Livro dos Espíritos
 
-**2023-07-14** 
+**2023-07-15** 
 
 <details><summary>❓ <strong>Manual do usuário</strong>
     <hr />
