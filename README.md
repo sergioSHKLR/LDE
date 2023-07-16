@@ -6,7 +6,7 @@
 
 ## Direto ao ponto                       
 
-- 📔 [LDE-2023-07-14.md](./releases/LDE-2023-07-14.md)
+- 📔 [LDE-2023-07-15.md](./releases/LDE-2023-07-15.md)
 
 ### Formatação de texto (livro impresso)
 
