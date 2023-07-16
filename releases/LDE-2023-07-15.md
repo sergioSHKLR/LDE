@@ -246,9 +246,9 @@ LDE-qXXXXa
 | ⚜️ | fim | término de um elemento | 
 -->
   <p>
-    <strong>Tipografia</strong>
+      <strong>Tipografia</strong>
   </p>
-  <p>Decidimos utilizar um tipo <em>sans-serif</em>, mais apropriada para o consumo digital e formatar todo o texto em estilo normal com a seguinte exceção: comunicações mediúnicas e trechos bíblicos serão em <em>itálico</em> e trechos originalmente realçados em <em>itálico</em> serão mudados para <strong>negrito</strong>. </p>
+  <p>Para a absoluta maioria do texto, decidimos utilizar o tipo <em>sans-serif</em> em estilo normal por mais apropriada para o consumo digital. Reservamos as seguintes duas exceções: trechos bíblicos serão em <em>serif</em> itálico e trechos originalmente realçados em <em>itálico</em> serão mudados para <strong>negrito</strong>. </p>
   <p>Usaremos o <em>blockquote</em> para identificar visualmente as comunicações mediúnicas. Destacaremos trechos bíblicos usando o mesmo método e atribuindo o livro, capítulo, e versículo, assim realçando a concordância entre as duas obras. </p>
   <p>
     <strong>Outros</strong>
